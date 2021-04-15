@@ -1,0 +1,273 @@
+m_ShowControllers:1
+m_ShowAircraft:0
+m_ShowTextMessages:1
+m_ShowTitle:1
+m_ShowTitleFileName:0
+m_ShowTitleController:1
+m_ShowTitlePrimaryFreq:1
+m_ShowTitleAtisFreq:1
+m_ShowTitleClock:1
+m_ShowTitleLeader:1
+m_ShowTitleFilter:1
+m_ShowTitleTrans:1
+m_PlaySounds:1
+m_AssumeSlowAcAsStandby:0
+m_ShowAirspaceLines:0
+m_ShowRouteFixName:1
+m_ShowRouteETA:1
+m_ShowCalculatedHeading:1
+m_ShowVoiceRoomUsers:1
+m_ShowSimulatedData:1
+m_TransitionAltitude:9000
+m_AllowConcernedACTagDown:1
+m_CenterlineDme:0.0
+m_CenterlineLength:20.0
+m_CenterlineTickDme:5.0
+m_CenterlineTickInterval:1.0
+m_CenterlineTickLength:0.5
+m_CenterlineMarkerLength:1.0
+m_CenterlineMarkerInterval:5.0
+m_CenterlineVectorDme:5.0
+m_CenterlineVectorLength:3.0
+m_CenterlineVectorAngle:30.0
+m_CenterlineVectorBase:5.0
+m_STCA_LowShow:1
+m_STCA_LowVertical:1000
+m_STCA_LowHorizontal:4
+m_STCA_LowBottom:2500
+m_STCA_HighShow:1
+m_STCA_HighVertical:1000
+m_STCA_HighHorizontal:12
+m_STCA_HighBottom:18000
+m_ShowFSSControllers:1
+m_ShowCTRControllers:1
+m_ShowAPPControllers:1
+m_ShowTWRControllers:1
+m_ShowGNDControllers:1
+m_ShowATISControllers:1
+m_ShowOBSControllers:1
+m_ShowUnidentifiedControllers:1
+m_ShowFreqUsers:1
+m_ShowAtisUsers:1
+m_ShowArrivalPlanes:1
+m_ShowDeparturePlanes:1
+m_ShowOverflightPlanes:1
+m_ShowOverflightPlanes:1
+m_METARList:1
+m_ExtendedCenterlinActiveArr:0
+m_UseHoveringTagForKeys:1
+m_AutoMessageForTextAircraft:1
+m_ShowRouteWhenAccepting:1
+m_ShowTitleMetar:1
+m_AllowAssumedACTagDown:0
+m_InhibitAutoPushOnHandoff:0
+m_RandomSquawks:1
+m_VFRSquawk:7000
+m_WhoIsOnlineURL:http://vatsim.metacraft.com/satnet-data.txt
+m_ConnectSELtoSIL:1
+m_ConnectDEPtoSEL:1
+m_ConnectSILtoTOP:1
+m_ScreenNumber:0
+m_ScreenPosition:0
+m_ScreenMaximized:1
+m_AutoLoadMetarForActiveAirports:0
+m_LockShowRouteWhenAccepting:0
+m_ShowTitleSelectedAc:0
+m_VoiceAtisBuilderUrl:http://vacchun.hu/td/esmetar.php?tlcond=100,1013,110&metar=$metar($atisairport)&arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&app=ILS&par=1&info=$atiscode&lvp=2
+m_DoNotUseAcceptedColor:0
+m_DoNotUseRefusedColor:0
+SET_TransparentAcListBackground:0
+m_PutIncomingCoordinationToFirst:0
+m_AutoProxyMode:0
+m_TransparentAcListSelectedBackground:0
+m_TransparentDetailedTagBackground:0
+m_TransparentDetailedTagSelectedItemBackground:0
+m_AllowDirectBeyondCOPX:0
+m_ShowAtisLetterInMETAR:1
+m_ShowCLAMWarnings:1
+m_ShowRAMWarning:1
+m_MagneticNorthUp:1
+m_PlanesListX:-1000
+m_PlanesListY:-1000
+m_MetarListX:-1000
+m_MetarListY:-1000
+m_VoiceListX:-1000
+m_VoiceListY:-1000
+m_ControllerListX:-1000
+m_ControllerListY:-1000
+m_ShowAForAltitudes:1
+m_Show500ForNonVisual:1
+SET_SetActiveAptBySectors:0
+SET_CapitalizeFPAndScratch:0
+m_SET_WTC_Light:L
+SET_WTC_Medium:M
+SET_WTC_Heavy:H
+SET_WTC_A380:J
+m_RotateRouteTexts:1
+m_NeverCloseFreqChat:1
+m_KeepScratchPadAfterDirect:1
+m_HiliteASELAircraft:0
+SYMBOLOGY
+SYMBOLSIZE
+Airports:symbol:6579300:1.0:0:0
+Airports:name:6579300:4.5:0:0
+Low airways:line:6579300:3.5:0:0
+Low airways:name:6579300:3.5:0:0
+High airways:line:4276545:3.5:0:0
+High airways:name:5987163:3.5:0:0
+Fixes:symbol:6579300:1.0:0:0
+Fixes:name:6579300:3.5:0:0
+Sids:line:6118749:3.0:2:0
+Stars:line:6579300:3.0:2:0
+ARTCC high boundary:line:6579300:3.0:0:1
+ARTCC boundary:line:6316128:3.0:0:1
+ARTCC low boundary:line:5592405:3.0:0:1
+Geo:line:10132122:3.0:0:0
+VORs:symbol:6579300:1.0:0:0
+VORs:name:6579300:3.5:0:0
+VORs:frequency:6579300:3.5:0:0
+NDBs:symbol:6579300:1.0:0:0
+NDBs:name:8421504:3.5:0:0
+NDBs:frequency:8421504:3.5:0:0
+Runways:centerline:5789784:3.5:0:0
+Runways:extended centerline:8750469:3.5:0:0
+Runways:name:8421504:3.5:0:0
+Datablock:non concerned:9671571:3.5:0:0
+Datablock:notified:14540253:3.5:0:0
+Datablock:assumed:16777017:3.5:0:0
+Datablock:transfer to me initiated:16777017:3.5:0:0
+Datablock:redundant:5938156:3.5:0:0
+Datablock:information:65535:3.5:0:0
+Datablock:emergency:7091709:3.5:0:0
+Datablock:ongoing requested by me:12615935:3.5:0:0
+Datablock:ongoing requested by other:8454016:3.5:0:0
+Datablock:ongoing accepted:65535:3.5:0:0
+Datablock:ongoing refused:65535:3.5:0:0
+Datablock:detailed background:1973790:3.5:0:0
+Datablock:active item background:3223857:3.5:0:0
+Datablock:AC list background:5201680:3.5:0:0
+Datablock:AC list selected background:4411406:3.5:0:0
+Controller:normal:65535:3.5:0:0
+Controller:breaking:13408767:3.5:0:0
+Controller:timeout:16777215:3.5:0:0
+Metar:normal:16776960:3.5:0:0
+Metar:modified:13408767:3.5:0:0
+Metar:timeout:16777215:3.5:0:0
+Other:wait:16777215:3.5:0:0
+Other:distance line:8421504:3.5:0:0
+Other:distance values:65535:4.0:0:0
+Other:distance annotation:65535:3.5:0:0
+Other:separation leader:16777215:3.5:0:3
+Other:find:16777215:3.5:0:5
+Other:valid airway:43008:3.5:0:0
+Other:bad direction airway:255:3.5:0:0
+Other:unconnected airway:43008:3.5:0:0
+Other:direct no airway:43008:3.5:0:0
+Other:route annotation:16777215:3.5:0:2
+Other:freetext:10724259:3.0:0:0
+Other:range rings:65535:5.0:0:0
+Other:list header:16777215:3.5:0:0
+Other:normal menu item:16777215:3.5:0:0
+Other:disabled menu item:8421504:3.5:0:0
+Chat:text:16777215:3.5:0:0
+Chat:background:3289650:3.5:0:0
+Chat:name normal:16777215:3.5:0:0
+Chat:name unread:16776960:3.5:0:0
+Sector:line:128:4.0:0:2
+Sector:active sector background:0:3.5:0:0
+Sector:inactive sector background:1315860:3.5:0:0
+m_ActFillVOR:0
+m_ActFillNDB:0
+m_ActFillFIX:0
+m_ActFillAIRPORT:0
+m_ActFillPLANE:0
+END
+VOICE
+AG:LHCC_CTR:133.200:aaa:aaa
+AG:LHBP_APP:129.700:aaa:aaa
+END
+PROFILE
+END
+TAGS
+END
+SIL
+m_Visible:1
+m_X:0
+m_Y:25
+m_LineNumber:4
+m_Resizable:1
+m_OrderingColumn:7
+m_Column:RUNW:4:1:47:19:19:1
+m_Column:C/S:7:0:9:8:0:1
+m_Column:PSSR:5:1:2:0:0:1
+m_Column:ATYP:4:1:16:0:0:1
+m_Column:WTC:3:1:10:0:0:1
+m_Column:COPN:5:0:48:21:21:1
+m_Column:ETN:5:1:50:0:0:1
+m_Column:PEL:4:1:49:23:23:1
+m_Column:ETA:5:1:54:0:0:1
+m_Column:ADEP:4:1:61:0:0:1
+m_Column:™:1:1:62:0:0:1
+m_Column:FR:2:1:63:0:0:1
+m_Column:ADES:4:1:17:7:0:1
+m_Column:COPX:5:0:51:22:22:1
+m_Column:ETX:5:1:53:0:0:1
+m_Column:XFL:4:1:52:24:24:1
+m_Column:STAR:7:0:55:18:18:1
+m_Column:SI:3:1:64:20:0:1
+m_Column:ASSR:5:1:60:31:31:1
+END
+SEL
+m_Visible:1
+m_X:0
+m_Y:57
+m_LineNumber:10
+m_Resizable:1
+m_OrderingColumn:16
+m_Column:RUNW:4:1:47:19:19:1
+m_Column:C/S:7:0:9:8:0:1
+m_Column:ATYP:4:1:16:0:0:1
+m_Column:WTC:3:1:10:0:0:1
+m_Column:PSSR:5:1:2:0:0:1
+m_Column:AFL:4:1:4:16:1:1
+m_Column:CFL:4:1:20:11:0:1
+m_Column:ADEP:4:1:61:0:0:1
+m_Column:SID:7:0:56:17:17:1
+m_Column:ADES:4:1:17:7:0:1
+m_Column:ETA:5:1:54:0:0:1
+m_Column:RFL:4:1:22:30:30:1
+m_Column:FR:2:1:63:0:0:1
+m_Column:™:1:1:62:0:0:1
+m_Column:COPX:5:0:51:22:22:1
+m_Column:ETX:5:1:53:0:0:1
+m_Column:XFL:4:1:52:24:24:1
+m_Column:ASSR:5:1:60:31:31:1
+m_Column:STAR:7:0:55:18:18:1
+m_Column:SI:3:1:64:20:0:1
+END
+DEP
+m_Visible:1
+m_X:0
+m_Y:89
+m_LineNumber:4
+m_Resizable:1
+m_OrderingColumn:1
+m_Column:DSQ:3:1:57:0:0:1
+m_Column:C/S:7:0:9:0:0:1
+m_Column:ADEP:4:1:61:0:0:1
+m_Column:ATYP:4:1:16:0:0:1
+m_Column:WTC:3:1:10:0:0:1
+m_Column:RUNW:4:1:47:19:19:1
+m_Column:SID:7:0:56:17:17:1
+m_Column:COPN:5:0:48:21:21:1
+m_Column:CFL:4:1:20:11:0:1
+m_Column:ASSR:5:1:60:31:31:1
+m_Column:E:1:1:58:27:0:1
+m_Column:COPX:5:0:51:22:22:1
+m_Column:XFL:4:1:52:24:24:1
+m_Column:ADES:4:1:17:7:0:1
+m_Column:RFL:4:1:22:30:30:1
+m_Column:FR:2:1:63:0:0:1
+m_Column:™:1:1:62:0:0:1
+m_Column:STS:4:1:59:28:28:1
+END
