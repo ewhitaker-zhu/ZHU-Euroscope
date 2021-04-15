@@ -1,0 +1,43 @@
+Settings	sector	ZHU\Data\Sectors\ZHU.sct
+Settings	alias	ZHU\Data\DataFiles\ZHU_Alias.txt
+Settings	airlines	ZHU\Data\DataFiles\ICAO_Airlines.txt
+Settings	airports	ZHU\Data\DataFiles\ICAO_Airports.txt
+Settings	aircraft	ZHU\Data\DataFiles\ICAO_Aircraft.txt
+Settings	airportcoords	ZHU\Data\DataFiles\ICAO.txt
+Settings	airways	ZHU\Data\DataFiles\airway.txt
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Settings	Settingsfile	ZHU\Data\Settings\GLOBAL_SETTINGS.txt
+Settings	SettingsfileSYMBOLOGY	ZHU\Data\Settings\I90\I90_SYMBOLOGY.txt
+Settings	SettingsfileVOICE	ZHU\Data\Settings\GLOBAL_VOICE.txt
+Settings	SettingsfilePROFILE	ZHU\Data\Settings\I90\I90_PROFILE.txt
+Settings	SettingsfileTAGS	ZHU\Data\Settings\GLOBAL_TAGS.txt
+Settings	SettingsfileSIL	ZHU\Data\Settings\I90\I90_SIL.txt
+Settings	SettingsfileSEL	ZHU\Data\Settings\I90\I90_SEL.txt
+Settings	SettingsfileDEP	ZHU\Data\Settings\I90\I90_DL.txt
+Settings	SettingsfileARR	ZHU\Data\Settings\I90\I90_AL.txt
+Settings	SettingsfileFP	ZHU\Data\Settings\I90\I90_FPL.txt
+Settings	SettingsfilePLUGINS	ZHU\Data\Settings\I90\I90_PLUGINS.txt
+Settings	SettingsfileSCREEN	ZHU\Data\Settings\I90\I90_SCREEN.txt
+Settings	SettingsfileCONFLICT	ZHU\Data\Settings\I90\I90_CA.txt
+Settings	SettingsfileVCCS	ZHU\Data\Settings\GLOBAL_VCCS.txt
+Settings	SettingsfilePILOTING	ZHU\Data\Settings\I90\I90_PL.txt
+RecentFiles	Recent2	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\SAT\31 Flow.asr
+RecentFiles	Recent3	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\SAT\22 Flow.asr
+RecentFiles	Recent4	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\SAT\4 Flow.asr
+RecentFiles	Recent5	E:\ZHU-ES-FIles\ZHU\Data\ASR\AUS\North Flow.asr
+RecentFiles	Recent6	E:\ZHU-ES-FIles\ZHU\Data\ASR\AUS\South Flow.asr
+Plugins	Plugin0	ZHU\Data\Plugins\DiscordEuroscope\DiscordEuroscope.dll
+Plugins	Plugin1	ZHU\Data\Plugins\vSMR\vSMR.dll
+Plugins	Plugin1Display0	SMR radar display
+Plugins	Plugin2	ZHU\Data\Plugins\OpenURLPlugIn.dll
+RecentFiles	Recent7	E:\ZHU-ES-FIles\ZHU\I90\MSY Terminal.asr
+RecentFiles	Recent8	E:\ZHU-ES-FIles\ZHU\Data\ASR\I90\IAH W HOU 13s.asr
+RecentFiles	Recent9	E:\ZHU-ES-FIles\ZHU\Data\ASR\I90\IAH W HOU 4.asr
+RecentFiles	Recent10	E:\ZHU-ES-FIles\ZHU\Data\ASR\I90\IAH E HOU 31s.asr
+RecentFiles	Recent11	E:\ZHU-ES-FIles\ZHU\Data\ASR\I90\IAH E HOU 22.asr
+RecentFiles	Recent1	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\SAT\13 Flow.asr
+ASRFastKeys	1	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\SAT\4 Flow.asr
+ASRFastKeys	2	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\SAT\13 Flow.asr
+ASRFastKeys	3	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\SAT\22 Flow.asr
+ASRFastKeys	4	E:\ZHU-ES-FIles\ZHU\Data\ASR\Terminal\SAT\31 Flow.asr
