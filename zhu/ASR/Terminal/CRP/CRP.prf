@@ -1,0 +1,33 @@
+Settings	sector	D:\Users\Admin\Documents\EuroScope\ZHU.sct2
+Settings	alias	ZHU\Data\DataFiles\ZHU_Alias.txt
+Settings	airlines	ZHU\Data\DataFiles\ICAO_Airlines.txt
+Settings	airports	ZHU\Data\DataFiles\ICAO_Airports.txt
+Settings	aircraft	ZHU\Data\DataFiles\ICAO_Aircraft.txt
+Settings	airportcoords	ZHU\Data\DataFiles\ICAO.txt
+Settings	airways	ZHU\Data\DataFiles\airway.txt
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Settings	Settingsfile	ZHU\Data\Settings\GLOBAL_SETTINGS.txt
+Settings	SettingsfileSYMBOLOGY	ZHU\Data\Settings\I90\I90_SYMBOLOGY.txt
+Settings	SettingsfileVOICE	ZHU\Data\Settings\GLOBAL_VOICE.txt
+Settings	SettingsfilePROFILE	ZHU\Data\Settings\I90\I90_PROFILE.txt
+Settings	SettingsfileTAGS	ZHU\Data\Settings\GLOBAL_TAGS.txt
+Settings	SettingsfileSIL	ZHU\Data\Settings\I90\I90_SIL.txt
+Settings	SettingsfileSEL	ZHU\Data\Settings\I90\I90_SEL.txt
+Settings	SettingsfileDEP	ZHU\Data\Settings\I90\I90_DL.txt
+Settings	SettingsfileARR	ZHU\Data\Settings\I90\I90_AL.txt
+Settings	SettingsfileFP	ZHU\Data\Settings\I90\I90_FPL.txt
+Settings	SettingsfilePLUGINS	ZHU\Data\Settings\I90\I90_PLUGINS.txt
+Settings	SettingsfileSCREEN	ZHU\Data\Settings\I90\I90_SCREEN.txt
+Settings	SettingsfileCONFLICT	ZHU\Data\Settings\I90\I90_CA.txt
+Settings	SettingsfileVCCS	ZHU\Data\Settings\GLOBAL_VCCS.txt
+Settings	SettingsfilePILOTING	ZHU\Data\Settings\I90\I90_PL.txt
+RecentFiles	Recent2	ZHU\Data\ASR\Terminal\CRP\North Flow.asr
+Plugins	Plugin0	ZHU\Data\Plugins\DiscordEuroscope\DiscordEuroscope.dll
+Plugins	Plugin1	ZHU\Data\Plugins\vSMR\vSMR.dll
+Plugins	Plugin1Display0	SMR radar display
+Plugins	Plugin2	ZHU\Data\Plugins\OpenURLPlugIn.dll
+RecentFiles	Recent1	\North Flow.asr
+ASRFastKeys	1	ZHU\Data\ASR\Terminal\CRP\North Flow.asr
+ASRFastKeys	2	ZHU\Data\ASR\Terminal\CRP\South Flow.asr
+RecentFiles	Recent3	ZHU\Data\ASR\Terminal\CRP\South Flow.asr

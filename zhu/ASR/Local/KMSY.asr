@@ -1,0 +1,3008 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Users\Admin\Documents\EuroScope\ZHU.sct2
+SECTORTITLE:ZHU.sct2
+Free Text:SCT2\02:freetext
+Free Text:SCT2\04:freetext
+Free Text:SCT2\04:freetext
+Free Text:SCT2\08:freetext
+Free Text:SCT2\09:freetext
+Free Text:SCT2\09:freetext
+Free Text:SCT2\1:freetext
+Free Text:SCT2\1:freetext
+Free Text:SCT2\10:freetext
+Free Text:SCT2\11:freetext
+Free Text:SCT2\11:freetext
+Free Text:SCT2\11:freetext
+Free Text:SCT2\11:freetext
+Free Text:SCT2\12:freetext
+Free Text:SCT2\12:freetext
+Free Text:SCT2\13:freetext
+Free Text:SCT2\13:freetext
+Free Text:SCT2\13:freetext
+Free Text:SCT2\13:freetext
+Free Text:SCT2\13:freetext
+Free Text:SCT2\13:freetext
+Free Text:SCT2\13:freetext
+Free Text:SCT2\13L:freetext
+Free Text:SCT2\13L:freetext
+Free Text:SCT2\13R:freetext
+Free Text:SCT2\13R:freetext
+Free Text:SCT2\14:freetext
+Free Text:SCT2\14:freetext
+Free Text:SCT2\14:freetext
+Free Text:SCT2\14:freetext
+Free Text:SCT2\14:freetext
+Free Text:SCT2\14:freetext
+Free Text:SCT2\14:freetext
+Free Text:SCT2\15:freetext
+Free Text:SCT2\15:freetext
+Free Text:SCT2\15:freetext
+Free Text:SCT2\15L:freetext
+Free Text:SCT2\15L:freetext
+Free Text:SCT2\15R:freetext
+Free Text:SCT2\15R:freetext
+Free Text:SCT2\16:freetext
+Free Text:SCT2\16:freetext
+Free Text:SCT2\16:freetext
+Free Text:SCT2\16:freetext
+Free Text:SCT2\16:freetext
+Free Text:SCT2\17:freetext
+Free Text:SCT2\17:freetext
+Free Text:SCT2\17:freetext
+Free Text:SCT2\17:freetext
+Free Text:SCT2\17:freetext
+Free Text:SCT2\17:freetext
+Free Text:SCT2\17L:freetext
+Free Text:SCT2\17L:freetext
+Free Text:SCT2\17L:freetext
+Free Text:SCT2\17R:freetext
+Free Text:SCT2\17R:freetext
+Free Text:SCT2\17R:freetext
+Free Text:SCT2\17W:freetext
+Free Text:SCT2\18:freetext
+Free Text:SCT2\18:freetext
+Free Text:SCT2\18:freetext
+Free Text:SCT2\18:freetext
+Free Text:SCT2\18:freetext
+Free Text:SCT2\18:freetext
+Free Text:SCT2\18:freetext
+Free Text:SCT2\18:freetext
+Free Text:SCT2\18:freetext
+Free Text:SCT2\18:freetext
+Free Text:SCT2\18A:freetext
+Free Text:SCT2\18L:freetext
+Free Text:SCT2\18R:freetext
+Free Text:SCT2\19:freetext
+Free Text:SCT2\19:freetext
+Free Text:SCT2\2:freetext
+Free Text:SCT2\20:freetext
+Free Text:SCT2\20:freetext
+Free Text:SCT2\21:freetext
+Free Text:SCT2\22:freetext
+Free Text:SCT2\22:freetext
+Free Text:SCT2\22:freetext
+Free Text:SCT2\22:freetext
+Free Text:SCT2\22:freetext
+Free Text:SCT2\22L:freetext
+Free Text:SCT2\22R:freetext
+Free Text:SCT2\23:freetext
+Free Text:SCT2\26:freetext
+Free Text:SCT2\26L:freetext
+Free Text:SCT2\26R:freetext
+Free Text:SCT2\27:freetext
+Free Text:SCT2\27:freetext
+Free Text:SCT2\27:freetext
+Free Text:SCT2\29:freetext
+Free Text:SCT2\29:freetext
+Free Text:SCT2\29:freetext
+Free Text:SCT2\3:freetext
+Free Text:SCT2\30:freetext
+Free Text:SCT2\31:freetext
+Free Text:SCT2\31:freetext
+Free Text:SCT2\31:freetext
+Free Text:SCT2\31:freetext
+Free Text:SCT2\31:freetext
+Free Text:SCT2\31:freetext
+Free Text:SCT2\31:freetext
+Free Text:SCT2\31L:freetext
+Free Text:SCT2\31L:freetext
+Free Text:SCT2\31R:freetext
+Free Text:SCT2\31R:freetext
+Free Text:SCT2\32:freetext
+Free Text:SCT2\32:freetext
+Free Text:SCT2\32:freetext
+Free Text:SCT2\32:freetext
+Free Text:SCT2\32:freetext
+Free Text:SCT2\32:freetext
+Free Text:SCT2\33:freetext
+Free Text:SCT2\33:freetext
+Free Text:SCT2\33L:freetext
+Free Text:SCT2\33L:freetext
+Free Text:SCT2\33R:freetext
+Free Text:SCT2\33R:freetext
+Free Text:SCT2\34:freetext
+Free Text:SCT2\34:freetext
+Free Text:SCT2\34:freetext
+Free Text:SCT2\34:freetext
+Free Text:SCT2\35:freetext
+Free Text:SCT2\35:freetext
+Free Text:SCT2\35:freetext
+Free Text:SCT2\35:freetext
+Free Text:SCT2\35:freetext
+Free Text:SCT2\35L:freetext
+Free Text:SCT2\35L:freetext
+Free Text:SCT2\35L:freetext
+Free Text:SCT2\35R:freetext
+Free Text:SCT2\35R:freetext
+Free Text:SCT2\35R:freetext
+Free Text:SCT2\35W:freetext
+Free Text:SCT2\36:freetext
+Free Text:SCT2\36:freetext
+Free Text:SCT2\36:freetext
+Free Text:SCT2\36:freetext
+Free Text:SCT2\36:freetext
+Free Text:SCT2\36:freetext
+Free Text:SCT2\36:freetext
+Free Text:SCT2\36:freetext
+Free Text:SCT2\36:freetext
+Free Text:SCT2\36L:freetext
+Free Text:SCT2\36R:freetext
+Free Text:SCT2\4:freetext
+Free Text:SCT2\4:freetext
+Free Text:SCT2\4:freetext
+Free Text:SCT2\4L:freetext
+Free Text:SCT2\4R:freetext
+Free Text:SCT2\5:freetext
+Free Text:SCT2\5:freetext
+Free Text:SCT2\6:freetext
+Free Text:SCT2\7:freetext
+Free Text:SCT2\8:freetext
+Free Text:SCT2\8L:freetext
+Free Text:SCT2\8R:freetext
+Free Text:SCT2\9:freetext
+Free Text:SCT2\9:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A1:freetext
+Free Text:SCT2\A1:freetext
+Free Text:SCT2\A1:freetext
+Free Text:SCT2\A1:freetext
+Free Text:SCT2\A1:freetext
+Free Text:SCT2\A1:freetext
+Free Text:SCT2\A1:freetext
+Free Text:SCT2\A1-A2:freetext
+Free Text:SCT2\A10:freetext
+Free Text:SCT2\A11:freetext
+Free Text:SCT2\A12:freetext
+Free Text:SCT2\A14:freetext
+Free Text:SCT2\A15:freetext
+Free Text:SCT2\A17-A20:freetext
+Free Text:SCT2\A2:freetext
+Free Text:SCT2\A2:freetext
+Free Text:SCT2\A2:freetext
+Free Text:SCT2\A2:freetext
+Free Text:SCT2\A2:freetext
+Free Text:SCT2\A24-A27:freetext
+Free Text:SCT2\A29-A30:freetext
+Free Text:SCT2\A3:freetext
+Free Text:SCT2\A3:freetext
+Free Text:SCT2\A3:freetext
+Free Text:SCT2\A3:freetext
+Free Text:SCT2\A3:freetext
+Free Text:SCT2\A3:freetext
+Free Text:SCT2\A4:freetext
+Free Text:SCT2\A4:freetext
+Free Text:SCT2\A4:freetext
+Free Text:SCT2\A5:freetext
+Free Text:SCT2\A5:freetext
+Free Text:SCT2\A6:freetext
+Free Text:SCT2\A6:freetext
+Free Text:SCT2\A7-A9:freetext
+Free Text:SCT2\ANG RAMP:freetext
+Free Text:SCT2\ANG RAMP:freetext
+Free Text:SCT2\ANG RAMP:freetext
+Free Text:SCT2\ANG RAMP:freetext
+Free Text:SCT2\ANG RAMP:freetext
+Free Text:SCT2\ATLANTIC:freetext
+Free Text:SCT2\Austin Zoo:freetext
+Free Text:SCT2\AVIATION:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B1:freetext
+Free Text:SCT2\B1-B11:freetext
+Free Text:SCT2\B12-B20:freetext
+Free Text:SCT2\B2:freetext
+Free Text:SCT2\B21-B31:freetext
+Free Text:SCT2\B3:freetext
+Free Text:SCT2\B4:freetext
+Free Text:SCT2\B5:freetext
+Free Text:SCT2\B76-B83:freetext
+Free Text:SCT2\B84-B88:freetext
+Free Text:SCT2\Boerne:freetext
+Free Text:SCT2\BW8/Buffalo Bayou Bridge:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C1:freetext
+Free Text:SCT2\C1:freetext
+Free Text:SCT2\C1:freetext
+Free Text:SCT2\C1-C7:freetext
+Free Text:SCT2\C16:freetext
+Free Text:SCT2\C17:freetext
+Free Text:SCT2\C18:freetext
+Free Text:SCT2\C19-C23:freetext
+Free Text:SCT2\C2:freetext
+Free Text:SCT2\C2:freetext
+Free Text:SCT2\C24:freetext
+Free Text:SCT2\C25:freetext
+Free Text:SCT2\C29-C37:freetext
+Free Text:SCT2\C3:freetext
+Free Text:SCT2\C39:freetext
+Free Text:SCT2\C40-C45:freetext
+Free Text:SCT2\C8-C15:freetext
+Free Text:SCT2\Canyon Lake:freetext
+Free Text:SCT2\Canyon Lake Dam:freetext
+Free Text:SCT2\CARGO:freetext
+Free Text:SCT2\CARGO:freetext
+Free Text:SCT2\CARGO:freetext
+Free Text:SCT2\CARGO:freetext
+Free Text:SCT2\CARGO:freetext
+Free Text:SCT2\CARGO:freetext
+Free Text:SCT2\CARGO:freetext
+Free Text:SCT2\CARGO:freetext
+Free Text:SCT2\CARGO:freetext
+Free Text:SCT2\Castroville:freetext
+Free Text:SCT2\CC:freetext
+Free Text:SCT2\CC:freetext
+Free Text:SCT2\CENTRAL:freetext
+Free Text:SCT2\Chef Menteur Pass:freetext
+Free Text:SCT2\Colorado River:freetext
+Free Text:SCT2\Crecent City Bridge:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D1:freetext
+Free Text:SCT2\D1:freetext
+Free Text:SCT2\D1-D6:freetext
+Free Text:SCT2\D2:freetext
+Free Text:SCT2\D2:freetext
+Free Text:SCT2\D2:freetext
+Free Text:SCT2\D6A-D12:freetext
+Free Text:SCT2\Delta Farms:freetext
+Free Text:SCT2\Downtown:freetext
+Free Text:SCT2\Downtown:freetext
+Free Text:SCT2\Downtown:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E1:freetext
+Free Text:SCT2\E1-E5:freetext
+Free Text:SCT2\E19:freetext
+Free Text:SCT2\E2:freetext
+Free Text:SCT2\E20-E24:freetext
+Free Text:SCT2\E7-E18:freetext
+Free Text:SCT2\EA:freetext
+Free Text:SCT2\EAST:freetext
+Free Text:SCT2\EAST:freetext
+Free Text:SCT2\EAST PARKING:freetext
+Free Text:SCT2\EAST RAMP:freetext
+Free Text:SCT2\EB:freetext
+Free Text:SCT2\EC:freetext
+Free Text:SCT2\ED:freetext
+Free Text:SCT2\EE:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F1:freetext
+Free Text:SCT2\F1:freetext
+Free Text:SCT2\F2:freetext
+Free Text:SCT2\F2:freetext
+Free Text:SCT2\F20:freetext
+Free Text:SCT2\F3:freetext
+Free Text:SCT2\F3:freetext
+Free Text:SCT2\F4:freetext
+Free Text:SCT2\FA:freetext
+Free Text:SCT2\FA:freetext
+Free Text:SCT2\FB:freetext
+Free Text:SCT2\FBO:freetext
+Free Text:SCT2\FBO:freetext
+Free Text:SCT2\FBO:freetext
+Free Text:SCT2\FBO:freetext
+Free Text:SCT2\FBO:freetext
+Free Text:SCT2\FBO:freetext
+Free Text:SCT2\FBO:freetext
+Free Text:SCT2\FBO:freetext
+Free Text:SCT2\FBO:freetext
+Free Text:SCT2\FC:freetext
+Free Text:SCT2\FD:freetext
+Free Text:SCT2\FD:freetext
+Free Text:SCT2\FE:freetext
+Free Text:SCT2\FG:freetext
+Free Text:SCT2\FH:freetext
+Free Text:SCT2\FH:freetext
+Free Text:SCT2\FH:freetext
+Free Text:SCT2\FIRE:freetext
+Free Text:SCT2\FIRE:freetext
+Free Text:SCT2\First Colony Mall:freetext
+Free Text:SCT2\FJ:freetext
+Free Text:SCT2\FK:freetext
+Free Text:SCT2\FLIGHT:freetext
+Free Text:SCT2\Floresville:freetext
+Free Text:SCT2\FM1960 Bridge:freetext
+Free Text:SCT2\Fred Hartman Bridge:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G1:freetext
+Free Text:SCT2\G1:freetext
+Free Text:SCT2\G1:freetext
+Free Text:SCT2\G2:freetext
+Free Text:SCT2\G2:freetext
+Free Text:SCT2\G2:freetext
+Free Text:SCT2\G2:freetext
+Free Text:SCT2\G2:freetext
+Free Text:SCT2\G3:freetext
+Free Text:SCT2\G3:freetext
+Free Text:SCT2\G3:freetext
+Free Text:SCT2\G3:freetext
+Free Text:SCT2\G3:freetext
+Free Text:SCT2\G4:freetext
+Free Text:SCT2\G5:freetext
+Free Text:SCT2\G6:freetext
+Free Text:SCT2\GATES:freetext
+Free Text:SCT2\GATES:freetext
+Free Text:SCT2\GATES:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H1:freetext
+Free Text:SCT2\H1:freetext
+Free Text:SCT2\H2:freetext
+Free Text:SCT2\HANGAR:freetext
+Free Text:SCT2\Hangars:freetext
+Free Text:SCT2\Huey P. Long Bridge:freetext
+Free Text:SCT2\HWYS 46 & 281:freetext
+Free Text:SCT2\I-610 Bridge:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J1:freetext
+Free Text:SCT2\J2:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K1:freetext
+Free Text:SCT2\K2:freetext
+Free Text:SCT2\Kemah Boardwalk:freetext
+Free Text:SCT2\L:freetext
+Free Text:SCT2\L:freetext
+Free Text:SCT2\L:freetext
+Free Text:SCT2\L:freetext
+Free Text:SCT2\L:freetext
+Free Text:SCT2\L:freetext
+Free Text:SCT2\L:freetext
+Free Text:SCT2\L:freetext
+Free Text:SCT2\L:freetext
+Free Text:SCT2\L:freetext
+Free Text:SCT2\L:freetext
+Free Text:SCT2\L:freetext
+Free Text:SCT2\L:freetext
+Free Text:SCT2\L:freetext
+Free Text:SCT2\L:freetext
+Free Text:SCT2\L:freetext
+Free Text:SCT2\L:freetext
+Free Text:SCT2\L:freetext
+Free Text:SCT2\L:freetext
+Free Text:SCT2\L:freetext
+Free Text:SCT2\L:freetext
+Free Text:SCT2\L:freetext
+Free Text:SCT2\L:freetext
+Free Text:SCT2\L1:freetext
+Free Text:SCT2\L1:freetext
+Free Text:SCT2\L2:freetext
+Free Text:SCT2\L2:freetext
+Free Text:SCT2\Lake Borgne:freetext
+Free Text:SCT2\Lake Cataouatche:freetext
+Free Text:SCT2\Lake Conroe:freetext
+Free Text:SCT2\Lake Georgetown:freetext
+Free Text:SCT2\Lake Houston:freetext
+Free Text:SCT2\Lake Pontchartrain:freetext
+Free Text:SCT2\Lake Pontchartrain Causeway:freetext
+Free Text:SCT2\Lake Salvador:freetext
+Free Text:SCT2\Lake Travis:freetext
+Free Text:SCT2\LSC Conroe:freetext
+Free Text:SCT2\LSC Kingwood:freetext
+Free Text:SCT2\Lutcher:freetext
+Free Text:SCT2\M:freetext
+Free Text:SCT2\M:freetext
+Free Text:SCT2\M:freetext
+Free Text:SCT2\M:freetext
+Free Text:SCT2\M:freetext
+Free Text:SCT2\M:freetext
+Free Text:SCT2\M:freetext
+Free Text:SCT2\M:freetext
+Free Text:SCT2\M:freetext
+Free Text:SCT2\M:freetext
+Free Text:SCT2\M:freetext
+Free Text:SCT2\M1:freetext
+Free Text:SCT2\M3:freetext
+Free Text:SCT2\Mandeville:freetext
+Free Text:SCT2\Medina Lake:freetext
+Free Text:SCT2\Medina Lake Dam:freetext
+Free Text:SCT2\MILITARY:freetext
+Free Text:SCT2\MILITARY:freetext
+Free Text:SCT2\Moody Gardens:freetext
+Free Text:SCT2\N:freetext
+Free Text:SCT2\N:freetext
+Free Text:SCT2\N:freetext
+Free Text:SCT2\N:freetext
+Free Text:SCT2\N:freetext
+Free Text:SCT2\N:freetext
+Free Text:SCT2\N:freetext
+Free Text:SCT2\N:freetext
+Free Text:SCT2\N:freetext
+Free Text:SCT2\N:freetext
+Free Text:SCT2\N:freetext
+Free Text:SCT2\N1:freetext
+Free Text:SCT2\N1:freetext
+Free Text:SCT2\N10:freetext
+Free Text:SCT2\N11:freetext
+Free Text:SCT2\N12:freetext
+Free Text:SCT2\N13:freetext
+Free Text:SCT2\N2:freetext
+Free Text:SCT2\N2:freetext
+Free Text:SCT2\N3:freetext
+Free Text:SCT2\N3:freetext
+Free Text:SCT2\N6:freetext
+Free Text:SCT2\N7:freetext
+Free Text:SCT2\N8:freetext
+Free Text:SCT2\N9:freetext
+Free Text:SCT2\NA:freetext
+Free Text:SCT2\NA:freetext
+Free Text:SCT2\NA:freetext
+Free Text:SCT2\NASA:freetext
+Free Text:SCT2\NASA Facility:freetext
+Free Text:SCT2\National Cemetery:freetext
+Free Text:SCT2\NB:freetext
+Free Text:SCT2\NB:freetext
+Free Text:SCT2\NB:freetext
+Free Text:SCT2\NB:freetext
+Free Text:SCT2\NB:freetext
+Free Text:SCT2\NC:freetext
+Free Text:SCT2\NC:freetext
+Free Text:SCT2\ND:freetext
+Free Text:SCT2\NE:freetext
+Free Text:SCT2\NE:freetext
+Free Text:SCT2\NE:freetext
+Free Text:SCT2\New Braunfels:freetext
+Free Text:SCT2\NEW TERMINAL:freetext
+Free Text:SCT2\NF:freetext
+Free Text:SCT2\NF:freetext
+Free Text:SCT2\NG:freetext
+Free Text:SCT2\NG:freetext
+Free Text:SCT2\NH:freetext
+Free Text:SCT2\NJ:freetext
+Free Text:SCT2\NK:freetext
+Free Text:SCT2\NK:freetext
+Free Text:SCT2\NK:freetext
+Free Text:SCT2\NL:freetext
+Free Text:SCT2\NN:freetext
+Free Text:SCT2\Norco:freetext
+Free Text:SCT2\NP:freetext
+Free Text:SCT2\NR:freetext
+Free Text:SCT2\NR:freetext
+Free Text:SCT2\NR:freetext
+Free Text:SCT2\NRG Stadium/Park:freetext
+Free Text:SCT2\NS:freetext
+Free Text:SCT2\O:freetext
+Free Text:SCT2\OLD TERMINAL:freetext
+Free Text:SCT2\P:freetext
+Free Text:SCT2\P:freetext
+Free Text:SCT2\P:freetext
+Free Text:SCT2\P:freetext
+Free Text:SCT2\P:freetext
+Free Text:SCT2\P:freetext
+Free Text:SCT2\PARKING:freetext
+Free Text:SCT2\PARKING/CARGO:freetext
+Free Text:SCT2\Pass Manchac Bridge:freetext
+Free Text:SCT2\Pelican Island/A&M:freetext
+Free Text:SCT2\Ponchatoula:freetext
+Free Text:SCT2\Q:freetext
+Free Text:SCT2\Q:freetext
+Free Text:SCT2\Q:freetext
+Free Text:SCT2\Q:freetext
+Free Text:SCT2\Q:freetext
+Free Text:SCT2\Q:freetext
+Free Text:SCT2\Q:freetext
+Free Text:SCT2\Q1:freetext
+Free Text:SCT2\R:freetext
+Free Text:SCT2\R:freetext
+Free Text:SCT2\R:freetext
+Free Text:SCT2\R:freetext
+Free Text:SCT2\R:freetext
+Free Text:SCT2\R:freetext
+Free Text:SCT2\R:freetext
+Free Text:SCT2\R1:freetext
+Free Text:SCT2\R2:freetext
+Free Text:SCT2\R2:freetext
+Free Text:SCT2\R3:freetext
+Free Text:SCT2\RA:freetext
+Free Text:SCT2\RA:freetext
+Free Text:SCT2\RA:freetext
+Free Text:SCT2\RAMP:freetext
+Free Text:SCT2\RAMP:freetext
+Free Text:SCT2\RAMP:freetext
+Free Text:SCT2\RAMP:freetext
+Free Text:SCT2\RAMP:freetext
+Free Text:SCT2\RAMP:freetext
+Free Text:SCT2\RAMP:freetext
+Free Text:SCT2\RAMP:freetext
+Free Text:SCT2\RB:freetext
+Free Text:SCT2\RB:freetext
+Free Text:SCT2\RB:freetext
+Free Text:SCT2\RC:freetext
+Free Text:SCT2\RC:freetext
+Free Text:SCT2\Rice/Zoo/Museums:freetext
+Free Text:SCT2\S:freetext
+Free Text:SCT2\S:freetext
+Free Text:SCT2\S:freetext
+Free Text:SCT2\S:freetext
+Free Text:SCT2\S:freetext
+Free Text:SCT2\S:freetext
+Free Text:SCT2\S:freetext
+Free Text:SCT2\SA:freetext
+Free Text:SCT2\SA:freetext
+Free Text:SCT2\SA:freetext
+Free Text:SCT2\SB:freetext
+Free Text:SCT2\SB:freetext
+Free Text:SCT2\SB:freetext
+Free Text:SCT2\SC:freetext
+Free Text:SCT2\SeaWorld:freetext
+Free Text:SCT2\Seguin:freetext
+Free Text:SCT2\SERVICE/RAMP:freetext
+Free Text:SCT2\SF:freetext
+Free Text:SCT2\SF:freetext
+Free Text:SCT2\SF:freetext
+Free Text:SCT2\SG:freetext
+Free Text:SCT2\SH:freetext
+Free Text:SCT2\SIGNATURE:freetext
+Free Text:SCT2\Six Flags:freetext
+Free Text:SCT2\SJ:freetext
+Free Text:SCT2\SK:freetext
+Free Text:SCT2\Slidell:freetext
+Free Text:SCT2\South Edge of Lake:freetext
+Free Text:SCT2\South End Causeway:freetext
+Free Text:SCT2\SOUTH PARKING:freetext
+Free Text:SCT2\SOUTH RAMP:freetext
+Free Text:SCT2\Southwestern University:freetext
+Free Text:SCT2\Spring Town Center Mall:freetext
+Free Text:SCT2\STATION:freetext
+Free Text:SCT2\STATION:freetext
+Free Text:SCT2\Superdome:freetext
+Free Text:SCT2\SUPPORT:freetext
+Free Text:SCT2\T:freetext
+Free Text:SCT2\T:freetext
+Free Text:SCT2\T:freetext
+Free Text:SCT2\T:freetext
+Free Text:SCT2\T:freetext
+Free Text:SCT2\TERM A:freetext
+Free Text:SCT2\TERM B:freetext
+Free Text:SCT2\TERM C:freetext
+Free Text:SCT2\TERM D:freetext
+Free Text:SCT2\TERM E:freetext
+Free Text:SCT2\TERMINAL:freetext
+Free Text:SCT2\TERMINAL:freetext
+Free Text:SCT2\TERMINAL:freetext
+Free Text:SCT2\TERMINAL:freetext
+Free Text:SCT2\TERMINAL:freetext
+Free Text:SCT2\TERMINAL:freetext
+Free Text:SCT2\TERMINAL:freetext
+Free Text:SCT2\Texas 8421504 U.:freetext
+Free Text:SCT2\Texas 8421504 University:freetext
+Free Text:SCT2\Texas Capitol:freetext
+Free Text:SCT2\Tower of the Americas:freetext
+Free Text:SCT2\Trinity Bay:freetext
+Free Text:SCT2\Trinity University:freetext
+Free Text:SCT2\Triple Bridges:freetext
+Free Text:SCT2\Tulane:freetext
+Free Text:SCT2\U:freetext
+Free Text:SCT2\UAS:freetext
+Free Text:SCT2\UAS:freetext
+Free Text:SCT2\UofHouston:freetext
+Free Text:SCT2\UTexas Austin:freetext
+Free Text:SCT2\V:freetext
+Free Text:SCT2\V:freetext
+Free Text:SCT2\W:freetext
+Free Text:SCT2\W:freetext
+Free Text:SCT2\W:freetext
+Free Text:SCT2\WA:freetext
+Free Text:SCT2\WA:freetext
+Free Text:SCT2\WA:freetext
+Free Text:SCT2\WB:freetext
+Free Text:SCT2\WB:freetext
+Free Text:SCT2\WB:freetext
+Free Text:SCT2\WB:freetext
+Free Text:SCT2\WC:freetext
+Free Text:SCT2\WC:freetext
+Free Text:SCT2\WC:freetext
+Free Text:SCT2\WC:freetext
+Free Text:SCT2\WD:freetext
+Free Text:SCT2\WD:freetext
+Free Text:SCT2\WD:freetext
+Free Text:SCT2\WE:freetext
+Free Text:SCT2\WEST PARKING:freetext
+Free Text:SCT2\WEST RAMP:freetext
+Free Text:SCT2\WF:freetext
+Free Text:SCT2\WG:freetext
+Free Text:SCT2\WG:freetext
+Free Text:SCT2\WH:freetext
+Free Text:SCT2\WH:freetext
+Free Text:SCT2\WJ:freetext
+Free Text:SCT2\WJ:freetext
+Free Text:SCT2\WK:freetext
+Free Text:SCT2\WL:freetext
+Free Text:SCT2\WL:freetext
+Free Text:SCT2\WL:freetext
+Free Text:SCT2\WM:freetext
+Free Text:SCT2\WN:freetext
+Free Text:SCT2\WP:freetext
+Free Text:SCT2\WP:freetext
+Free Text:SCT2\WP:freetext
+Free Text:SCT2\WQ:freetext
+Free Text:SCT2\WQ:freetext
+Free Text:SCT2\WR:freetext
+Free Text:SCT2\WR:freetext
+Free Text:SCT2\WS:freetext
+Free Text:SCT2\WT:freetext
+Free Text:SCT2\WU:freetext
+Free Text:SCT2\WV:freetext
+Free Text:SCT2\WW:freetext
+Free Text:SCT2\WW:freetext
+Free Text:SCT2\WW:freetext
+Free Text:SCT2\WW:freetext
+Free Text:SCT2\WZ:freetext
+Free Text:SCT2\X:freetext
+Free Text:SCT2\X:freetext
+Free Text:SCT2\X:freetext
+Free Text:SCT2\X:freetext
+Free Text:SCT2\X:freetext
+Free Text:SCT2\X:freetext
+Free Text:SCT2\X:freetext
+Free Text:SCT2\X:freetext
+Free Text:SCT2\X:freetext
+Free Text:SCT2\X:freetext
+Free Text:SCT2\X:freetext
+Free Text:SCT2\X:freetext
+Free Text:SCT2\X:freetext
+Free Text:SCT2\X:freetext
+Free Text:SCT2\X:freetext
+Free Text:SCT2\X:freetext
+Free Text:SCT2\X:freetext
+Free Text:SCT2\X:freetext
+Free Text:SCT2\X:freetext
+Free Text:SCT2\X:freetext
+Free Text:SCT2\X:freetext
+Free Text:SCT2\X:freetext
+Free Text:SCT2\Y:freetext
+Free Text:SCT2\Y:freetext
+Free Text:SCT2\Y:freetext
+Free Text:SCT2\Z:freetext
+Free Text:SCT2\Z:freetext
+Free Text:SCT2\Z:freetext
+Free Text:SCT2\Z:freetext
+Geo:10447616 Labels:
+Geo:Color-207-207-207:
+Geo:GEO:
+Geo:N026.56.51.912:
+Geo:N029.35.22.536:
+Geo:N030.44.32.371:
+Geo:N039.50.16.033:
+Geo:N047.52.16.574:
+Geo:N053.39.33.482:
+Geo:N054.49.40.379:
+Geo:N055.18.18.231:
+Geo:N055.46.35.663:
+Geo:N058.03.01.173:
+Geo:N059.00.26.575:
+Geo:N060.16.14.951:
+Geo:N060.45.46.712:
+Geo:N062.16.21.970:
+Geo:N062.21.00.769:
+Geo:N063.02.17.831:
+Geo:N064.00.15.211:
+Geo:N064.22.01.559:
+Geo:N064.47.46.728:
+Geo:N064.56.16.390:
+Geo:N065.00.30.216:
+Geo:N065.08.55.864:
+Geo:N065.25.39.183:
+Geo:N065.42.11.942:
+Geo:N065.58.34.229:
+Geo:N066.10.44.124:
+Geo:N066.22.48.216:
+Geo:N066.26.48.296:
+Geo:N066.38.44.708:
+Geo:N066.50.35.402:
+Geo:N066.54.31.037:
+Geo:N067.06.14.167:
+Geo:N067.29.23.575:
+Geo:N067.40.49.928:
+Geo:N067.59.41.603:
+Geo:N068.03.26.114:
+Geo:N068.07.10.019:
+Geo:N068.10.53.321:
+Geo:N069.01.56.938:
+Geo:N069.12.38.429:
+Geo:N069.16.11.100:
+Geo:N069.23.14.708:
+Geo:N069.44.11.775:
+Geo:N069.54.32.634:
+Geo:N069.57.58.460:
+Geo:N070.01.23.723:
+Geo:N070.08.12.571:
+Geo:N070.11.36.157:
+Geo:N070.14.59.187:
+Geo:N070.25.04.952:
+Geo:N070.28.25.770:
+Geo:N070.31.46.038:
+Geo:N070.41.43.555:
+Geo:N070.45.01.637:
+Geo:N070.48.19.175:
+Geo:N071.07.53.072:
+Geo:N071.39.46.975:
+Geo:N071.42.55.477:
+Geo:N071.52.17.870:
+Geo:N072.04.40.507:
+Geo:N072.29.01.335:
+Geo:N072.38.00.845:
+Geo:N072.52.50.101:
+Geo:N072.55.46.474:
+Geo:N072.58.42.357:
+Geo:N073.01.37.752:
+Geo:N073.04.32.660:
+Geo:N073.07.27.081:
+Geo:N073.10.21.018:
+Geo:N073.13.14.471:
+Geo:N073.18.59.931:
+Geo:N073.21.51.941:
+Geo:N073.24.43.472:
+Geo:N073.27.34.525:
+Geo:N073.30.25.102:
+Geo:N073.38.53.987:
+Geo:N073.41.42.671:
+Geo:N073.44.30.884:
+Geo:N073.52.52.715:
+Geo:N074.01.10.356:
+Geo:N074.06.39.805:
+Geo:N074.09.23.840:
+Geo:N074.17.33.198:
+Geo:N074.20.15.406:
+Geo:N074.25.38.462:
+Geo:N074.30.59.713:
+Geo:N074.52.06.848:
+Geo:N075.25.26.168:
+Geo:N075.32.57.257:
+Geo:N075.55.07.869:
+Geo:N076.16.45.117:
+Geo:N076.19.07.231:
+Geo:N076.21.28.943:
+Geo:N076.28.31.685:
+Geo:N076.33.11.527:
+Geo:N076.49.18.594:
+Geo:N076.53.51.396:
+Geo:N076.56.07.219:
+Geo:N077.00.37.712:
+Geo:N077.02.52.385:
+Geo:N077.07.20.588:
+Geo:N077.09.34.120:
+Geo:N077.14.00.050:
+Geo:N077.16.12.451:
+Geo:N077.18.24.477:
+Geo:N077.20.36.128:
+Geo:N077.24.58.312:
+Geo:N077.27.08.847:
+Geo:N077.29.19.012:
+Geo:N077.31.28.808:
+Geo:N077.35.47.296:
+Geo:N077.37.55.991:
+Geo:N077.40.04.320:
+Geo:N077.42.12.285:
+Geo:N077.44.19.887:
+Geo:N077.46.27.126:
+Geo:N077.48.34.005:
+Geo:N077.50.40.523:
+Geo:N077.52.46.682:
+Geo:N077.54.52.483:
+Geo:N077.56.57.926:
+Geo:N078.01.07.745:
+Geo:N078.03.12.122:
+Geo:N078.07.19.817:
+Geo:N078.09.23.137:
+Geo:N078.11.26.106:
+Geo:N078.13.28.725:
+Geo:N078.17.32.919:
+Geo:N078.19.34.495:
+Geo:N078.21.35.726:
+Geo:N078.23.36.611:
+Geo:N078.27.37.352:
+Geo:N078.29.37.208:
+Geo:N078.33.35.898:
+Geo:N078.39.31.392:
+Geo:N079.10.16.805:
+Geo:N079.14.01.609:
+Geo:N079.17.45.132:
+Geo:N079.21.27.381:
+Geo:N079.50.20.338:
+Geo:N079.55.36.525:
+Geo:N079.59.05.813:
+Geo:N080.04.17.504:
+Geo:N080.17.55.697:
+Geo:N080.21.17.331:
+Geo:N080.34.32.396:
+Geo:N080.39.25.872:
+Geo:N080.41.03.137:
+Geo:N080.42.40.123:
+Geo:N080.49.05.295:
+Geo:N081.03.15.924:
+Geo:N081.04.49.088:
+Geo:N081.10.59.078:
+Geo:N081.14.02.483:
+Geo:N081.21.36.409:
+Geo:N081.27.34.880:
+Geo:N081.33.29.250:
+Geo:N081.40.46.514:
+Geo:N081.42.13.215:
+Geo:N081.47.57.531:
+Geo:N081.49.22.993:
+Geo:N081.52.13.179:
+Geo:N081.56.26.628:
+Geo:N082.04.47.002:
+Geo:N082.07.31.881:
+Geo:N082.12.58.801:
+Geo:N082.18.21.974:
+Geo:N082.21.02.168:
+Geo:N082.23.41.442:
+Geo:N082.25.00.735:
+Geo:N082.26.19.799:
+Geo:N082.27.38.636:
+Geo:N082.30.15.630:
+Geo:N082.31.33.788:
+Geo:N082.32.51.721:
+Geo:N082.34.09.429:
+Geo:N082.38.01.214:
+Geo:N082.39.18.030:
+Geo:N082.40.34.626:
+Geo:N082.43.07.156:
+Geo:N082.44.23.091:
+Geo:N082.45.38.808:
+Geo:N082.46.54.306:
+Geo:N082.49.24.651:
+Geo:N083.00.30.564:
+Geo:N083.02.56.210:
+Geo:N083.04.08.718:
+Geo:N083.05.21.017:
+Geo:N083.06.33.108:
+Geo:N083.08.56.666:
+Geo:N083.10.08.134:
+Geo:N083.11.19.397:
+Geo:N083.12.30.454:
+Geo:N083.14.51.954:
+Geo:N083.16.02.397:
+Geo:N083.17.12.638:
+Geo:N083.18.22.676:
+Geo:N083.23.00.814:
+Geo:N083.24.09.847:
+Geo:N083.26.27.317:
+Geo:N083.27.35.755:
+Geo:N083.33.14.992:
+Geo:N083.34.22.253:
+Geo:N083.35.29.320:
+Geo:N083.37.42.874:
+Geo:N083.38.49.361:
+Geo:N083.39.55.657:
+Geo:N083.41.01.762:
+Geo:N083.42.07.675:
+Geo:N083.44.18.932:
+Geo:N083.45.24.277:
+Geo:N083.46.29.432:
+Geo:N083.47.34.400:
+Geo:N083.49.43.773:
+Geo:N083.50.48.179:
+Geo:N083.51.52.399:
+Geo:N083.52.56.434:
+Geo:N083.55.03.950:
+Geo:N083.56.07.431:
+Geo:N083.57.10.729:
+Geo:N083.58.13.845:
+Geo:N084.00.19.529:
+Geo:N084.02.24.489:
+Geo:N084.03.26.698:
+Geo:N084.05.30.577:
+Geo:N084.06.32.248:
+Geo:N084.08.35.057:
+Geo:N084.10.37.157:
+Geo:N084.11.37.943:
+Geo:N084.12.38.553:
+Geo:N084.13.38.987:
+Geo:N084.15.39.333:
+Geo:N084.16.39.245:
+Geo:N084.17.38.985:
+Geo:N084.18.38.551:
+Geo:N084.20.37.168:
+Geo:N084.21.36.219:
+Geo:N084.22.35.100:
+Geo:N084.23.33.810:
+Geo:N084.26.28.926:
+Geo:N084.27.26.960:
+Geo:N084.28.24.827:
+Geo:N084.31.17.425:
+Geo:N084.42.33.018:
+Geo:N084.47.07.658:
+Geo:N085.30.12.994:
+Geo:N085.39.27.738:
+Geo:N085.42.28.404:
+Geo:N085.52.01.296:
+Geo:N085.52.44.476:
+Geo:N085.57.00.943:
+Geo:N085.57.43.255:
+Geo:N085.59.49.457:
+Geo:N086.00.31.281:
+Geo:N086.01.12.984:
+Geo:N086.01.54.565:
+Geo:N086.03.17.368:
+Geo:N086.03.58.589:
+Geo:N086.04.39.691:
+Geo:N086.05.20.673:
+Geo:N086.06.42.283:
+Geo:N086.07.22.911:
+Geo:N086.08.03.420:
+Geo:N086.08.43.813:
+Geo:N086.10.04.246:
+Geo:N086.10.44.289:
+Geo:N086.11.24.215:
+Geo:N086.12.04.025:
+Geo:N086.13.23.300:
+Geo:N086.14.02.765:
+Geo:N086.15.21.353:
+Geo:N086.18.35.838:
+Geo:N086.19.52.845:
+Geo:N086.20.31.181:
+Geo:N086.21.09.406:
+Geo:N086.21.47.520:
+Geo:N086.23.03.417:
+Geo:N086.23.41.201:
+Geo:N086.24.18.875:
+Geo:N086.24.56.440:
+Geo:N086.26.11.244:
+Geo:N086.26.48.483:
+Geo:N086.27.25.614:
+Geo:N086.28.02.638:
+Geo:N086.28.39.554:
+Geo:N086.29.53.066:
+Geo:N086.30.29.662:
+Geo:N086.31.06.152:
+Geo:N086.31.42.536:
+Geo:N086.32.54.988:
+Geo:N086.33.31.057:
+Geo:N086.34.07.021:
+Geo:N086.34.42.881:
+Geo:N086.35.54.289:
+Geo:N086.36.29.838:
+Geo:N086.37.05.283:
+Geo:N086.37.40.626:
+Geo:N086.38.51.005:
+Geo:N086.39.26.041:
+Geo:N086.40.00.976:
+Geo:N086.40.35.809:
+Geo:N086.44.36.832:
+Geo:N086.45.44.800:
+Geo:N086.46.18.636:
+Geo:N086.47.26.015:
+Geo:N086.47.59.558:
+Geo:N086.49.06.352:
+Geo:N086.53.29.683:
+Geo:N086.55.06.865:
+Geo:N086.56.11.184:
+Geo:N086.58.50.356:
+Geo:N087.04.32.503:
+Geo:N087.14.27.256:
+Geo:N087.18.15.647:
+Geo:N087.21.58.791:
+Geo:N087.27.23.929:
+Geo:N087.33.29.201:
+Geo:N087.35.36.095:
+Geo:N087.38.05.954:
+Geo:N087.51.49.909:
+Geo:N087.56.13.655:
+Geo:N088.01.09.952:
+Geo:N088.02.32.417:
+Geo:N088.02.52.884:
+Geo:N088.03.33.640:
+Geo:N088.04.14.159:
+Geo:N088.04.54.444:
+Geo:N088.05.54.433:
+Geo:N088.06.34.136:
+Geo:N088.06.53.901:
+Geo:N088.07.13.609:
+Geo:N088.07.33.259:
+Geo:N088.07.52.853:
+Geo:N088.08.31.869:
+Geo:N088.09.10.659:
+Geo:N088.09.29.970:
+Geo:N088.09.49.225:
+Geo:N088.10.27.566:
+Geo:N088.11.24.663:
+Geo:N088.12.02.451:
+Geo:N088.12.58.723:
+Geo:N088.13.54.507:
+Geo:N088.14.12.993:
+Geo:N088.14.49.806:
+Geo:N088.15.44.625:
+Geo:N088.16.38.967:
+Geo:N088.17.32.838:
+Geo:N088.21.03.683:
+Geo:N088.21.55.255:
+Geo:N088.24.43.947:
+Geo:N088.27.27.806:
+Geo:N088.28.00.009:
+Geo:N088.29.03.858:
+Geo:N088.31.24.830:
+Geo:N088.31.40.267:
+Geo:N088.32.11.006:
+Geo:N088.32.41.568:
+Geo:N088.33.11.952:
+Geo:N088.33.27.078:
+Geo:N088.33.57.198:
+Geo:N088.34.12.193:
+Geo:N088.34.42.052:
+Geo:N088.34.56.916:
+Geo:N088.35.11.737:
+Geo:N088.35.41.251:
+Geo:N088.36.25.200:
+Geo:N088.36.54.288:
+Geo:N088.37.23.206:
+Geo:N088.37.37.603:
+Geo:N088.37.51.957:
+Geo:N088.38.06.270:
+Geo:N088.38.34.771:
+Geo:N088.38.48.960:
+Geo:N088.39.03.107:
+Geo:N088.39.17.214:
+Geo:N088.39.31.279:
+Geo:N088.39.45.304:
+Geo:N088.39.59.287:
+Geo:N088.40.13.230:
+Geo:N088.40.40.995:
+Geo:N088.43.10.850:
+Geo:N088.43.50.894:
+Geo:N088.44.17.396:
+Geo:N088.44.43.745:
+Geo:N088.44.56.862:
+Geo:N088.45.09.941:
+Geo:N088.45.22.982:
+Geo:N088.45.48.951:
+Geo:N088.46.01.879:
+Geo:N088.46.14.769:
+Geo:N088.46.27.622:
+Geo:N088.47.18.661:
+Geo:N088.47.31.328:
+Geo:N088.47.43.959:
+Geo:N088.48.21.630:
+Geo:N088.48.34.115:
+Geo:N088.48.46.563:
+Geo:N088.49.11.351:
+Geo:N088.49.23.691:
+Geo:N088.50.12.693:
+Geo:N088.50.24.855:
+Geo:N088.51.13.150:
+Geo:N088.51.25.137:
+Geo:N088.51.37.088:
+Geo:N088.51.49.005:
+Geo:N088.52.12.735:
+Geo:N088.52.36.327:
+Geo:N088.53.23.102:
+Geo:N088.53.34.710:
+Geo:N088.54.20.810:
+Geo:N088.54.32.251:
+Geo:N088.54.43.659:
+Geo:N088.55.28.961:
+Geo:N088.55.40.205:
+Geo:N088.55.51.415:
+Geo:N088.56.13.739:
+Geo:N088.56.35.934:
+Geo:N088.56.46.982:
+Geo:N088.57.08.984:
+Geo:N088.58.14.226:
+Geo:N088.58.24.990:
+Geo:N088.58.35.722:
+Geo:N088.58.57.093:
+Geo:N088.59.07.732:
+Geo:N088.59.18.340:
+Geo:N088.59.28.917:
+Geo:N088.59.49.979:
+Geo:N089.00.00.464:
+Geo:N089.00.10.919:
+Geo:N089.00.21.344:
+Geo:N089.00.42.102:
+Geo:N089.00.52.436:
+Geo:N089.01.02.740:
+Geo:N089.01.33.473:
+Geo:N089.01.43.657:
+Geo:N089.01.53.813:
+Geo:N089.02.03.938:
+Geo:N089.02.34.139:
+Geo:N089.02.44.148:
+Geo:N089.02.54.127:
+Geo:N089.03.04.078:
+Geo:N089.03.23.892:
+Geo:N089.03.33.756:
+Geo:N089.03.43.592:
+Geo:N089.03.53.399:
+Geo:N089.04.12.927:
+Geo:N089.04.22.649:
+Geo:N089.04.32.342:
+Geo:N089.04.42.007:
+Geo:N089.05.01.254:
+Geo:N089.05.10.835:
+Geo:N089.05.20.389:
+Geo:N089.05.29.914:
+Geo:N089.05.48.883:
+Geo:N089.05.58.326:
+Geo:N089.06.07.742:
+Geo:N089.06.17.130:
+Geo:N089.06.35.824:
+Geo:N089.06.45.131:
+Geo:N089.06.54.411:
+Geo:N089.07.03.663:
+Geo:N089.07.22.088:
+Geo:N089.07.31.261:
+Geo:N089.07.40.406:
+Geo:N089.07.49.525:
+Geo:N089.08.07.684:
+Geo:N089.08.16.724:
+Geo:N089.08.25.738:
+Geo:N089.08.34.725:
+Geo:N089.08.43.686:
+Geo:N089.09.01.531:
+Geo:N089.09.10.414:
+Geo:N089.09.19.272:
+Geo:N089.09.28.104:
+Geo:N089.09.45.691:
+Geo:N089.09.54.446:
+Geo:N089.10.03.176:
+Geo:N089.10.11.881:
+Geo:N089.10.29.214:
+Geo:N089.10.37.842:
+Geo:N089.10.46.446:
+Geo:N089.10.55.025:
+Geo:N089.11.03.579:
+Geo:N089.11.12.108:
+Geo:N089.11.20.612:
+Geo:N089.11.29.092:
+Geo:N089.11.37.546:
+Geo:N089.11.45.977:
+Geo:N089.11.54.383:
+Geo:N089.12.02.764:
+Geo:N089.12.11.121:
+Geo:N089.12.19.454:
+Geo:N089.12.27.763:
+Geo:N089.12.36.047:
+Geo:N089.12.44.308:
+Geo:N089.12.52.544:
+Geo:N089.13.00.757:
+Geo:N089.13.17.110:
+Geo:N089.13.25.251:
+Geo:N089.13.33.369:
+Geo:N089.13.41.463:
+Geo:N089.13.57.580:
+Geo:N089.14.05.604:
+Geo:N089.14.13.604:
+Geo:N089.14.21.581:
+Geo:N089.14.29.535:
+Geo:N089.14.45.374:
+Geo:N089.14.53.259:
+Geo:N089.15.01.121:
+Geo:N089.15.08.960:
+Geo:N089.15.24.570:
+Geo:N089.15.32.341:
+Geo:N089.15.40.089:
+Geo:N089.15.47.815:
+Geo:N089.16.03.200:
+Geo:N089.16.10.858:
+Geo:N089.16.18.495:
+Geo:N089.16.26.109:
+Geo:N089.16.41.272:
+Geo:N089.16.48.820:
+Geo:N089.16.56.346:
+Geo:N089.17.03.851:
+Geo:N089.17.18.794:
+Geo:N089.17.26.233:
+Geo:N089.17.33.651:
+Geo:N089.17.41.047:
+Geo:N089.17.55.775:
+Geo:N089.18.03.107:
+Geo:N089.18.10.417:
+Geo:N089.18.17.707:
+Geo:N089.18.32.222:
+Geo:N089.18.39.448:
+Geo:N089.18.46.653:
+Geo:N089.18.53.837:
+Geo:N089.19.15.264:
+Geo:N089.19.22.365:
+Geo:N089.19.29.445:
+Geo:N089.19.36.505:
+Geo:N089.19.50.563:
+Geo:N089.19.57.561:
+Geo:N089.20.04.540:
+Geo:N089.20.11.497:
+Geo:N089.20.25.352:
+Geo:N089.20.32.250:
+Geo:N089.20.39.127:
+Geo:N089.20.45.985:
+Geo:N089.20.59.640:
+Geo:N089.21.06.437:
+Geo:N089.21.13.215:
+Geo:N089.21.19.974:
+Geo:N089.21.33.432:
+Geo:N089.21.40.131:
+Geo:N089.21.46.812:
+Geo:N089.21.53.472:
+Geo:N089.22.00.114:
+Geo:N089.22.06.736:
+Geo:N089.22.13.339:
+Geo:N089.22.19.923:
+Geo:N089.22.26.487:
+Geo:N089.22.33.033:
+Geo:N089.22.39.559:
+Geo:N089.22.46.067:
+Geo:N089.22.52.556:
+Geo:N089.22.59.025:
+Geo:N089.23.11.909:
+Geo:N089.23.18.322:
+Geo:N089.23.24.717:
+Geo:N089.23.31.094:
+Geo:N089.23.43.791:
+Geo:N089.23.50.112:
+Geo:N089.24.02.699:
+Geo:N089.24.08.965:
+Geo:N089.24.15.213:
+Geo:N089.24.27.655:
+Geo:N089.24.33.848:
+Geo:N089.24.40.024:
+Geo:N089.24.46.181:
+Geo:N089.24.52.321:
+Geo:N089.24.58.443:
+Geo:N089.25.04.547:
+Geo:N089.25.10.634:
+Geo:N089.25.22.754:
+Geo:N089.25.28.787:
+Geo:N089.25.34.804:
+Geo:N089.25.40.802:
+Geo:N089.25.52.747:
+Geo:N089.26.04.623:
+Geo:N089.26.10.535:
+Geo:N089.26.22.307:
+Geo:N089.26.28.168:
+Geo:N089.26.34.011:
+Geo:N089.26.39.838:
+Geo:N089.26.51.440:
+Geo:N089.27.08.718:
+Geo:N089.27.20.153:
+Geo:N089.27.25.846:
+Geo:N089.27.31.522:
+Geo:N089.27.37.181:
+Geo:N089.27.48.451:
+Geo:N089.27.54.062:
+Geo:N089.27.59.656:
+Geo:N089.28.05.234:
+Geo:N089.28.10.795:
+Geo:N089.28.21.870:
+Geo:N089.28.27.384:
+Geo:N089.28.32.881:
+Geo:N089.28.38.362:
+Geo:N089.28.49.277:
+Geo:N089.28.54.711:
+Geo:N089.29.00.129:
+Geo:N089.29.05.531:
+Geo:N089.29.16.288:
+Geo:N089.29.21.644:
+Geo:N089.29.26.983:
+Geo:N089.29.32.308:
+Geo:N089.29.42.910:
+Geo:N089.29.48.188:
+Geo:N089.29.53.450:
+Geo:N089.29.58.698:
+Geo:N089.30.09.147:
+Geo:N089.30.14.348:
+Geo:N089.30.19.535:
+Geo:N089.30.24.707:
+Geo:N089.30.35.005:
+Geo:N089.30.40.131:
+Geo:N089.30.45.243:
+Geo:N089.30.50.340:
+Geo:N089.31.00.489:
+Geo:N089.31.05.542:
+Geo:N089.31.10.580:
+Geo:N089.31.15.603:
+Geo:N089.31.25.606:
+Geo:N089.31.30.586:
+Geo:N089.31.35.551:
+Geo:N089.31.40.502:
+Geo:N089.31.45.438:
+Geo:N089.31.55.268:
+Geo:N089.32.00.162:
+Geo:N089.32.05.041:
+Geo:N089.32.09.906:
+Geo:N089.32.19.594:
+Geo:N089.32.24.417:
+Geo:N089.32.29.226:
+Geo:N089.32.34.021:
+Geo:N089.32.43.569:
+Geo:N089.32.48.322:
+Geo:N089.32.53.061:
+Geo:N089.32.57.787:
+Geo:N089.33.07.197:
+Geo:N089.33.11.882:
+Geo:N089.33.16.553:
+Geo:N089.33.21.210:
+Geo:N089.33.30.484:
+Geo:N089.33.35.101:
+Geo:N089.33.39.705:
+Geo:N089.33.44.295:
+Geo:N089.33.53.435:
+Geo:N089.33.57.986:
+Geo:N089.34.02.523:
+Geo:N089.34.07.047:
+Geo:N089.34.16.055:
+Geo:N089.34.20.540:
+Geo:N089.34.25.011:
+Geo:N089.34.29.470:
+Geo:N089.34.38.348:
+Geo:N089.34.42.768:
+Geo:N089.34.47.175:
+Geo:N089.34.51.569:
+Geo:N089.34.55.950:
+Geo:N089.35.04.675:
+Geo:N089.35.09.019:
+Geo:N089.35.13.349:
+Geo:N089.35.17.667:
+Geo:N089.35.26.266:
+Geo:N089.35.30.547:
+Geo:N089.35.34.815:
+Geo:N089.35.39.071:
+Geo:N089.35.47.546:
+Geo:N089.35.51.764:
+Geo:N089.36.00.165:
+Geo:N089.36.08.518:
+Geo:N089.36.12.675:
+Geo:N089.36.16.821:
+Geo:N089.36.20.955:
+Geo:N089.36.29.187:
+Geo:N089.36.33.285:
+Geo:N089.36.37.371:
+Geo:N089.36.41.445:
+Geo:N089.36.49.558:
+Geo:N089.36.53.596:
+Geo:N089.36.57.623:
+Geo:N089.37.09.634:
+Geo:N089.37.13.615:
+Geo:N089.37.17.583:
+Geo:N089.37.21.541:
+Geo:N089.37.29.421:
+Geo:N089.37.33.344:
+Geo:N089.37.37.255:
+Geo:N089.37.41.156:
+Geo:N089.37.45.045:
+Geo:N089.37.52.788:
+Geo:N089.37.56.643:
+Geo:N089.38.00.487:
+Geo:N089.38.04.320:
+Geo:N089.38.11.952:
+Geo:N089.38.15.751:
+Geo:N089.38.19.540:
+Geo:N089.38.23.317:
+Geo:N089.38.30.839:
+Geo:N089.38.38.317:
+Geo:N089.38.42.040:
+Geo:N089.38.49.453:
+Geo:N089.38.53.144:
+Geo:N089.38.56.824:
+Geo:N089.39.00.493:
+Geo:N089.39.07.799:
+Geo:N089.39.11.436:
+Geo:N089.39.15.063:
+Geo:N089.39.18.679:
+Geo:N089.39.25.879:
+Geo:N089.39.29.464:
+Geo:N089.39.33.038:
+Geo:N089.39.36.602:
+Geo:N089.39.43.699:
+Geo:N089.39.47.232:
+Geo:N089.39.50.755:
+Geo:N089.39.54.267:
+Geo:N089.40.01.261:
+Geo:N089.40.04.743:
+Geo:N089.40.08.215:
+Geo:N089.40.11.677:
+Geo:N089.40.15.128:
+Geo:N089.40.22.002:
+Geo:N089.40.25.423:
+Geo:N089.40.28.835:
+Geo:N089.40.32.237:
+Geo:N089.40.39.011:
+Geo:N089.40.42.383:
+Geo:N089.40.45.745:
+Geo:N089.40.49.098:
+Geo:N089.40.52.441:
+Geo:N089.40.55.774:
+Geo:N089.40.59.098:
+Geo:N089.41.02.412:
+Geo:N089.41.05.716:
+Geo:N089.41.09.011:
+Geo:N089.41.12.296:
+Geo:N089.41.15.571:
+Geo:N089.41.18.838:
+Geo:N089.41.22.094:
+Geo:N089.41.28.579:
+Geo:N089.41.31.807:
+Geo:N089.41.35.026:
+Geo:N089.41.38.236:
+Geo:N089.41.44.627:
+Geo:N089.41.47.808:
+Geo:N089.41.50.981:
+Geo:N089.41.54.144:
+Geo:N089.42.00.443:
+Geo:N089.42.03.579:
+Geo:N089.42.06.705:
+Geo:N089.42.09.823:
+Geo:N089.42.12.931:
+Geo:N089.42.16.031:
+Geo:N089.42.19.121:
+Geo:N089.42.22.203:
+Geo:N089.42.25.275:
+Geo:N089.42.28.339:
+Geo:N089.42.34.439:
+Geo:N089.42.37.476:
+Geo:N089.42.40.505:
+Geo:N089.42.43.524:
+Geo:N089.42.49.536:
+Geo:N089.42.52.529:
+Geo:N089.42.55.514:
+Geo:N089.42.58.490:
+Geo:N089.43.04.415:
+Geo:N089.43.07.365:
+Geo:N089.43.10.307:
+Geo:N089.43.13.239:
+Geo:N089.43.19.079:
+Geo:N089.43.21.987:
+Geo:N089.43.24.886:
+Geo:N089.43.27.776:
+Geo:N089.43.33.532:
+Geo:N089.43.36.397:
+Geo:N089.43.39.254:
+Geo:N089.43.42.103:
+Geo:N089.43.47.776:
+Geo:N089.43.50.599:
+Geo:N089.43.53.415:
+Geo:N089.43.56.223:
+Geo:N089.44.01.814:
+Geo:N089.44.04.597:
+Geo:N089.44.07.372:
+Geo:N089.44.15.649:
+Geo:N089.44.18.392:
+Geo:N089.44.21.127:
+Geo:N089.44.23.854:
+Geo:N089.44.26.573:
+Geo:N089.44.31.988:
+Geo:N089.44.34.683:
+Geo:N089.44.37.371:
+Geo:N089.44.40.051:
+Geo:N089.44.45.388:
+Geo:N089.44.48.044:
+Geo:N089.44.50.693:
+Geo:N089.44.53.334:
+Geo:N089.44.58.594:
+Geo:N089.45.01.212:
+Geo:N089.45.03.823:
+Geo:N089.45.06.426:
+Geo:N089.45.11.609:
+Geo:N089.45.14.190:
+Geo:N089.45.16.763:
+Geo:N089.45.19.328:
+Geo:N089.45.21.886:
+Geo:N089.45.24.437:
+Geo:N089.45.26.980:
+Geo:N089.45.29.516:
+Geo:N089.45.32.044:
+Geo:N089.45.37.079:
+Geo:N089.45.39.586:
+Geo:N089.45.42.085:
+Geo:N089.45.44.577:
+Geo:N089.45.49.539:
+Geo:N089.45.52.009:
+Geo:N089.45.54.472:
+Geo:N089.45.56.928:
+Geo:N089.46.01.819:
+Geo:N089.46.04.254:
+Geo:N089.46.06.681:
+Geo:N089.46.09.102:
+Geo:N089.46.11.515:
+Geo:N089.46.13.921:
+Geo:N089.46.16.321:
+Geo:N089.46.18.713:
+Geo:N089.46.21.099:
+Geo:N089.46.23.478:
+Geo:N089.46.25.849:
+Geo:N089.46.28.214:
+Geo:N089.46.30.572:
+Geo:N089.46.32.923:
+Geo:N089.46.35.267:
+Geo:N089.46.39.936:
+Geo:N089.46.42.260:
+Geo:N089.46.44.577:
+Geo:N089.46.46.887:
+Geo:N089.46.51.488:
+Geo:N089.46.53.778:
+Geo:N089.46.56.062:
+Geo:N089.46.58.339:
+Geo:N089.47.02.873:
+Geo:N089.47.05.131:
+Geo:N089.47.07.381:
+Geo:N089.47.09.625:
+Geo:N089.47.14.094:
+Geo:N089.47.16.319:
+Geo:N089.47.18.537:
+Geo:N089.47.20.749:
+Geo:N089.47.25.153:
+Geo:N089.47.27.346:
+Geo:N089.47.29.532:
+Geo:N089.47.31.712:
+Geo:N089.47.36.053:
+Geo:N089.47.38.214:
+Geo:N089.47.40.368:
+Geo:N089.47.42.517:
+Geo:N089.47.44.659:
+Geo:N089.47.48.924:
+Geo:N089.47.51.048:
+Geo:N089.47.53.165:
+Geo:N089.47.59.480:
+Geo:N089.48.01.573:
+Geo:N089.48.03.660:
+Geo:N089.48.05.741:
+Geo:N089.48.09.884:
+Geo:N089.48.11.947:
+Geo:N089.48.14.003:
+Geo:N089.48.16.054:
+Geo:N089.48.20.137:
+Geo:N089.48.22.170:
+Geo:N089.48.24.197:
+Geo:N089.48.26.218:
+Geo:N089.48.30.243:
+Geo:N089.48.32.246:
+Geo:N089.48.34.244:
+Geo:N089.48.36.236:
+Geo:N089.48.40.202:
+Geo:N089.48.42.177:
+Geo:N089.48.44.146:
+Geo:N089.48.46.109:
+Geo:N089.48.50.018:
+Geo:N089.48.51.964:
+Geo:N089.48.53.905:
+Geo:N089.48.55.839:
+Geo:N089.48.59.692:
+Geo:N089.49.01.610:
+Geo:N089.49.03.522:
+Geo:N089.49.05.429:
+Geo:N089.49.07.330:
+Geo:N089.49.11.117:
+Geo:N089.49.13.001:
+Geo:N089.49.14.881:
+Geo:N089.49.16.754:
+Geo:N089.49.20.486:
+Geo:N089.49.22.343:
+Geo:N089.49.24.196:
+Geo:N089.49.26.042:
+Geo:N089.49.29.720:
+Geo:N089.49.31.551:
+Geo:N089.49.33.376:
+Geo:N089.49.35.196:
+Geo:N089.49.38.821:
+Geo:N089.49.40.625:
+Geo:N089.49.42.424:
+Geo:N089.49.44.218:
+Geo:N089.49.47.790:
+Geo:N089.49.49.568:
+Geo:N089.49.51.341:
+Geo:N089.49.53.109:
+Geo:N089.49.56.630:
+Geo:N089.49.58.382:
+Geo:N089.50.00.130:
+Geo:N089.50.01.872:
+Geo:N089.50.05.342:
+Geo:N089.50.07.069:
+Geo:N089.50.08.791:
+Geo:N089.50.10.509:
+Geo:N089.50.12.221:
+Geo:N089.50.13.928:
+Geo:N089.50.15.630:
+Geo:N089.50.17.328:
+Geo:N089.50.19.020:
+Geo:N089.50.20.708:
+Geo:N089.50.24.068:
+Geo:N089.50.25.741:
+Geo:N089.50.27.409:
+Geo:N089.50.29.072:
+Geo:N089.50.30.731:
+Geo:N089.50.32.384:
+Geo:N089.50.34.033:
+Geo:N089.50.35.677:
+Geo:N089.50.37.316:
+Geo:N089.50.38.950:
+Geo:N089.50.40.580:
+Geo:N089.50.42.205:
+Geo:N089.50.43.825:
+Geo:N089.50.45.441:
+Geo:N089.50.48.658:
+Geo:N089.50.50.259:
+Geo:N089.50.51.856:
+Geo:N089.50.53.448:
+Geo:N089.50.56.619:
+Geo:N089.50.58.197:
+Geo:N089.50.59.771:
+Geo:N089.51.01.340:
+Geo:N089.51.04.464:
+Geo:N089.51.06.020:
+Geo:N089.51.07.571:
+Geo:N089.51.09.118:
+Geo:N089.51.10.660:
+Geo:N089.51.12.197:
+Geo:N089.51.13.730:
+Geo:N089.51.15.259:
+Geo:N089.51.16.783:
+Geo:N089.51.18.303:
+Geo:N089.51.21.329:
+Geo:N089.51.22.836:
+Geo:N089.51.24.338:
+Geo:N089.51.25.836:
+Geo:N089.51.28.818:
+Geo:N089.51.30.303:
+Geo:N089.51.31.784:
+Geo:N089.51.33.260:
+Geo:N089.51.34.732:
+Geo:N089.51.36.199:
+Geo:N089.51.37.663:
+Geo:N089.51.39.122:
+Geo:N089.51.40.577:
+Geo:N089.51.42.027:
+Geo:N089.51.43.474:
+Geo:N089.51.44.916:
+Geo:N089.51.46.354:
+Geo:N089.51.47.788:
+Geo:N089.51.49.218:
+Geo:N089.51.50.643:
+Geo:N089.51.52.065:
+Geo:N089.51.53.482:
+Geo:N089.51.54.895:
+Geo:N089.51.57.709:
+Geo:N089.51.59.110:
+Geo:N089.52.00.507:
+Geo:N089.52.01.900:
+Geo:N089.52.03.288:
+Geo:N089.52.04.673:
+Geo:N089.52.06.054:
+Geo:N089.52.07.430:
+Geo:N089.52.08.803:
+Geo:N089.52.10.172:
+Geo:N089.52.11.536:
+Geo:N089.52.12.897:
+Geo:N089.52.14.254:
+Geo:N089.52.15.607:
+Geo:N089.52.16.955:
+Geo:N089.52.18.300:
+Geo:N089.52.19.642:
+Geo:N089.52.20.979:
+Geo:N089.52.22.312:
+Geo:N089.52.23.641:
+Geo:N089.52.24.967:
+Geo:N089.52.26.289:
+Geo:N089.52.27.607:
+Geo:N089.52.28.921:
+Geo:N089.52.30.231:
+Geo:N089.52.32.840:
+Geo:N089.52.34.139:
+Geo:N089.52.35.434:
+Geo:N089.52.36.725:
+Geo:N089.52.39.297:
+Geo:N089.52.40.577:
+Geo:N089.52.41.853:
+Geo:N089.52.43.126:
+Geo:N089.52.45.660:
+Geo:N089.52.46.921:
+Geo:N089.52.48.179:
+Geo:N089.52.49.434:
+Geo:N089.52.50.684:
+Geo:N089.52.51.931:
+Geo:N089.52.53.175:
+Geo:N089.52.54.415:
+Geo:N089.52.55.651:
+Geo:N089.52.56.883:
+Geo:N089.52.58.112:
+Geo:N089.52.59.338:
+Geo:N089.53.00.560:
+Geo:N089.53.01.778:
+Geo:N089.53.02.993:
+Geo:N089.53.04.204:
+Geo:N089.53.05.412:
+Geo:N089.53.06.616:
+Geo:N089.53.07.817:
+Geo:N089.53.09.014:
+Geo:N089.53.11.398:
+Geo:N089.53.12.585:
+Geo:N089.53.13.768:
+Geo:N089.53.14.948:
+Geo:N089.53.17.298:
+Geo:N089.53.18.468:
+Geo:N089.53.19.634:
+Geo:N089.53.20.797:
+Geo:N089.53.23.113:
+Geo:N089.53.24.265:
+Geo:N089.53.25.415:
+Geo:N089.53.26.561:
+Geo:N089.53.28.843:
+Geo:N089.53.29.979:
+Geo:N089.53.31.112:
+Geo:N089.53.32.242:
+Geo:N089.53.34.491:
+Geo:N089.53.35.611:
+Geo:N089.53.36.728:
+Geo:N089.53.37.841:
+Geo:N089.53.38.951:
+Geo:N089.53.40.058:
+Geo:N089.53.41.161:
+Geo:N089.53.42.262:
+Geo:N089.53.43.359:
+Geo:N089.53.45.544:
+Geo:N089.53.46.631:
+Geo:N089.53.47.716:
+Geo:N089.53.48.797:
+Geo:N089.53.50.951:
+Geo:N089.53.52.023:
+Geo:N089.53.53.091:
+Geo:N089.53.54.157:
+Geo:N089.53.55.220:
+Geo:N089.53.56.279:
+Geo:N089.53.57.336:
+Geo:N089.53.58.389:
+Geo:N089.53.59.440:
+Geo:N089.54.00.487:
+Geo:N089.54.01.531:
+Geo:N089.54.02.572:
+Geo:N089.54.03.611:
+Geo:N089.54.04.646:
+Geo:N089.54.05.678:
+Geo:N089.54.07.733:
+Geo:N089.54.08.757:
+Geo:N089.54.09.777:
+Geo:N089.54.10.794:
+Geo:N089.54.11.808:
+Geo:N089.54.12.820:
+Geo:N089.54.13.828:
+Geo:N089.54.14.834:
+Geo:N089.54.15.836:
+Geo:N089.54.16.836:
+Geo:N089.54.17.833:
+Geo:N089.54.18.827:
+Geo:N089.54.19.818:
+Geo:N089.54.20.806:
+Geo:N089.54.21.791:
+Geo:N089.54.22.773:
+Geo:N089.54.23.753:
+Geo:N089.54.24.730:
+Geo:N089.54.25.703:
+Geo:N089.54.26.674:
+Geo:N089.54.27.643:
+Geo:N089.54.28.608:
+Geo:N089.54.29.571:
+Geo:N089.54.30.530:
+Geo:N089.54.32.442:
+Geo:N089.54.33.393:
+Geo:N089.54.34.342:
+Geo:N089.54.35.288:
+Geo:N089.54.36.231:
+Geo:N089.54.38.109:
+Geo:N089.54.39.044:
+Geo:N089.54.39.976:
+Geo:N089.54.40.906:
+Geo:N089.54.41.833:
+Geo:N089.54.42.757:
+Geo:N089.54.43.678:
+Geo:N089.54.44.597:
+Geo:N089.54.45.513:
+Geo:N089.54.47.337:
+Geo:N089.54.48.246:
+Geo:N089.54.49.151:
+Geo:N089.54.50.054:
+Geo:N089.54.51.852:
+Geo:N089.54.52.747:
+Geo:N089.54.53.640:
+Geo:N089.54.54.529:
+Geo:N089.54.55.417:
+Geo:N089.54.56.301:
+Geo:N089.54.57.184:
+Geo:N089.54.58.063:
+Geo:N089.54.58.940:
+Geo:N089.55.00.687:
+Geo:N089.55.01.556:
+Geo:N089.55.02.423:
+Geo:N089.55.03.287:
+Geo:N089.55.04.149:
+Geo:N089.55.05.008:
+Geo:N089.55.05.865:
+Geo:N089.55.06.720:
+Geo:N089.55.07.572:
+Geo:N089.55.09.268:
+Geo:N089.55.10.112:
+Geo:N089.55.11.794:
+Geo:N089.55.12.631:
+Geo:N089.55.13.466:
+Geo:N089.55.14.298:
+Geo:N089.55.15.128:
+Geo:N089.55.15.955:
+Geo:N089.55.16.780:
+Geo:N089.55.18.423:
+Geo:N089.55.19.241:
+Geo:N089.55.20.057:
+Geo:N089.55.20.870:
+Geo:N089.55.22.489:
+Geo:N089.55.24.099:
+Geo:N089.55.24.900:
+Geo:N089.55.26.496:
+Geo:N089.55.27.291:
+Geo:N089.55.28.083:
+Geo:N089.55.28.872:
+Geo:N089.55.30.445:
+Geo:N089.55.31.228:
+Geo:N089.55.32.009:
+Geo:N089.55.32.787:
+Geo:N089.55.33.563:
+Geo:N089.55.34.337:
+Geo:N089.55.35.109:
+Geo:N089.55.35.878:
+Geo:N089.55.36.646:
+Geo:N089.55.37.411:
+Geo:N089.55.38.173:
+Geo:N089.55.39.692:
+Geo:N089.55.40.448:
+Geo:N089.55.41.954:
+Geo:N089.55.42.703:
+Geo:N089.55.43.451:
+Geo:N089.55.44.196:
+Geo:N089.55.44.939:
+Geo:N089.55.45.680:
+Geo:N089.55.46.419:
+Geo:N089.55.47.155:
+Geo:N089.55.47.890:
+Geo:N089.55.48.622:
+Geo:N089.55.50.080:
+Geo:N089.55.50.806:
+Geo:N089.55.51.530:
+Geo:N089.55.52.252:
+Geo:N089.55.53.689:
+Geo:N089.55.54.404:
+Geo:N089.55.55.118:
+Geo:N089.55.55.829:
+Geo:N089.55.57.245:
+Geo:N089.55.57.950:
+Geo:N089.55.58.653:
+Geo:N089.55.59.354:
+Geo:N089.56.00.750:
+Geo:N089.56.01.445:
+Geo:N089.56.02.138:
+Geo:N089.56.02.829:
+Geo:N089.56.04.205:
+Geo:N089.56.04.890:
+Geo:N089.56.05.573:
+Geo:N089.56.06.254:
+Geo:N089.56.08.285:
+Geo:N089.56.08.958:
+Geo:N089.56.09.629:
+Geo:N089.56.10.965:
+Geo:N089.56.12.294:
+Geo:N089.56.12.955:
+Geo:N089.56.13.615:
+Geo:N089.56.14.928:
+Geo:N089.56.15.582:
+Geo:N089.56.16.233:
+Geo:N089.56.16.883:
+Geo:N089.56.18.178:
+Geo:N089.56.18.822:
+Geo:N089.56.19.464:
+Geo:N089.56.20.105:
+Geo:N089.56.21.381:
+Geo:N089.56.22.649:
+Geo:N089.56.23.280:
+Geo:N089.56.24.537:
+Geo:N089.56.25.163:
+Geo:N089.56.25.787:
+Geo:N089.56.26.409:
+Geo:N089.56.27.648:
+Geo:N089.56.28.265:
+Geo:N089.56.28.880:
+Geo:N089.56.29.493:
+Geo:N089.56.30.715:
+Geo:N089.56.31.323:
+Geo:N089.56.31.929:
+Geo:N089.56.32.533:
+Geo:N089.56.33.737:
+Geo:N089.56.34.336:
+Geo:N089.56.34.933:
+Geo:N089.56.35.529:
+Geo:N089.56.36.715:
+Geo:N089.56.37.305:
+Geo:N089.56.37.894:
+Geo:N089.56.38.481:
+Geo:N089.56.40.232:
+Geo:N089.56.40.812:
+Geo:N089.56.41.391:
+Geo:N089.56.41.968:
+Geo:N089.56.42.543:
+Geo:N089.56.43.116:
+Geo:N089.56.43.688:
+Geo:N089.56.44.259:
+Geo:N089.56.44.827:
+Geo:N089.56.46.523:
+Geo:N089.56.47.085:
+Geo:N089.56.47.645:
+Geo:N089.56.48.761:
+Geo:N089.56.49.317:
+Geo:N089.56.49.870:
+Geo:N089.56.50.423:
+Geo:N089.56.51.522:
+Geo:N089.56.52.616:
+Geo:N089.56.53.160:
+Geo:N089.56.54.244:
+Geo:N089.56.54.783:
+Geo:N089.56.55.321:
+Geo:N089.56.55.858:
+Geo:N089.56.56.926:
+Geo:N089.56.57.458:
+Geo:N089.56.57.988:
+Geo:N089.56.58.517:
+Geo:N089.56.59.569:
+Geo:N089.57.00.094:
+Geo:N089.57.00.616:
+Geo:N089.57.01.137:
+Geo:N089.57.01.657:
+Geo:N089.57.02.691:
+Geo:N089.57.03.206:
+Geo:N089.57.03.720:
+Geo:N089.57.04.232:
+Geo:N089.57.05.251:
+Geo:N089.57.05.759:
+Geo:N089.57.06.265:
+Geo:N089.57.06.770:
+Geo:N089.57.07.775:
+Geo:N089.57.08.275:
+Geo:N089.57.08.774:
+Geo:N089.57.09.271:
+Geo:N089.57.10.261:
+Geo:N089.57.10.754:
+Geo:N089.57.11.246:
+Geo:N089.57.12.712:
+Geo:N089.57.13.198:
+Geo:N089.57.13.683:
+Geo:N089.57.14.166:
+Geo:N089.57.15.128:
+Geo:N089.57.15.607:
+Geo:N089.57.16.084:
+Geo:N089.57.16.560:
+Geo:N089.57.17.508:
+Geo:N089.57.17.980:
+Geo:N089.57.18.451:
+Geo:N089.57.18.920:
+Geo:N089.57.19.855:
+Geo:N089.57.20.320:
+Geo:N089.57.20.784:
+Geo:N089.57.21.246:
+Geo:N089.57.21.707:
+Geo:N089.57.22.625:
+Geo:N089.57.23.083:
+Geo:N089.57.23.538:
+Geo:N089.57.23.993:
+Geo:N089.57.24.898:
+Geo:N089.57.25.348:
+Geo:N089.57.26.245:
+Geo:N089.57.27.137:
+Geo:N089.57.27.581:
+Geo:N089.57.28.024:
+Geo:N089.57.28.466:
+Geo:N089.57.29.345:
+Geo:N089.57.29.782:
+Geo:N089.57.30.219:
+Geo:N089.57.30.654:
+Geo:N089.57.31.520:
+Geo:N089.57.31.951:
+Geo:N089.57.32.381:
+Geo:N089.57.32.810:
+Geo:N089.57.33.664:
+Geo:N089.57.34.089:
+Geo:N089.57.34.513:
+Geo:N089.57.34.935:
+Geo:N089.57.35.777:
+Geo:N089.57.36.196:
+Geo:N089.57.36.613:
+Geo:N089.57.37.030:
+Geo:N089.57.37.859:
+Geo:N089.57.38.272:
+Geo:N089.57.38.684:
+Geo:N089.57.39.094:
+Geo:N089.57.39.504:
+Geo:N089.57.40.319:
+Geo:N089.57.40.724:
+Geo:N089.57.41.129:
+Geo:N089.57.41.532:
+Geo:N089.57.42.335:
+Geo:N089.57.42.735:
+Geo:N089.57.43.134:
+Geo:N089.57.43.532:
+Geo:N089.57.44.323:
+Geo:N089.57.44.717:
+Geo:N089.57.45.110:
+Geo:N089.57.45.502:
+Geo:N089.57.46.282:
+Geo:N089.57.46.671:
+Geo:N089.57.47.058:
+Geo:N089.57.47.444:
+Geo:N089.57.48.213:
+Geo:N089.57.48.596:
+Geo:N089.57.48.978:
+Geo:N089.57.49.358:
+Geo:N089.57.50.116:
+Geo:N089.57.50.493:
+Geo:N089.57.50.869:
+Geo:N089.57.51.244:
+Geo:N089.57.51.991:
+Geo:N089.57.52.363:
+Geo:N089.57.52.734:
+Geo:N089.57.53.104:
+Geo:N089.57.53.840:
+Geo:N089.57.54.206:
+Geo:N089.57.54.572:
+Geo:N089.57.54.936:
+Geo:N089.57.55.299:
+Geo:N089.57.56.022:
+Geo:N089.57.56.383:
+Geo:N089.57.56.742:
+Geo:N089.57.57.100:
+Geo:N089.57.57.813:
+Geo:N089.57.58.168:
+Geo:N089.57.58.521:
+Geo:N089.57.58.874:
+Geo:N089.57.59.577:
+Geo:N089.57.59.927:
+Geo:N089.58.00.275:
+Geo:N089.58.00.623:
+Geo:N089.58.01.316:
+Geo:N089.58.01.660:
+Geo:N089.58.02.004:
+Geo:N089.58.02.347:
+Geo:N089.58.03.029:
+Geo:N089.58.03.708:
+Geo:N089.58.04.046:
+Geo:N089.58.04.718:
+Geo:N089.58.05.053:
+Geo:N089.58.05.387:
+Geo:N089.58.05.720:
+Geo:N089.58.06.383:
+Geo:N089.58.06.713:
+Geo:N089.58.07.042:
+Geo:N089.58.07.697:
+Geo:N089.58.08.349:
+Geo:N089.58.08.673:
+Geo:N089.58.09.319:
+Geo:N089.58.09.961:
+Geo:N089.58.10.280:
+Geo:N089.58.10.599:
+Geo:N089.58.10.917:
+Geo:N089.58.11.550:
+Geo:N089.58.11.865:
+Geo:N089.58.12.179:
+Geo:N089.58.12.492:
+Geo:N089.58.13.116:
+Geo:N089.58.13.426:
+Geo:N089.58.13.736:
+Geo:N089.58.14.044:
+Geo:N089.58.14.659:
+Geo:N089.58.14.965:
+Geo:N089.58.15.270:
+Geo:N089.58.15.574:
+Geo:N089.58.16.180:
+Geo:N089.58.16.482:
+Geo:N089.58.16.782:
+Geo:N089.58.17.082:
+Geo:N089.58.17.679:
+Geo:N089.58.17.976:
+Geo:N089.58.18.273:
+Geo:N089.58.18.568:
+Geo:N089.58.19.157:
+Geo:N089.58.19.449:
+Geo:N089.58.19.741:
+Geo:N089.58.20.033:
+Geo:N089.58.20.323:
+Geo:N089.58.20.901:
+Geo:N089.58.21.189:
+Geo:N089.58.21.476:
+Geo:N089.58.21.762:
+Geo:N089.58.22.332:
+Geo:N089.58.22.616:
+Geo:N089.58.22.899:
+Geo:N089.58.23.181:
+Geo:N089.58.23.742:
+Geo:N089.58.24.022:
+Geo:N089.58.24.301:
+Geo:N089.58.24.579:
+Geo:N089.58.25.132:
+Geo:N089.58.25.408:
+Geo:N089.58.25.683:
+Geo:N089.58.25.957:
+Geo:N089.58.26.502:
+Geo:N089.58.26.774:
+Geo:N089.58.27.044:
+Geo:N089.58.27.314:
+Geo:N089.58.27.852:
+Geo:N089.58.28.120:
+Geo:N089.58.28.387:
+Geo:N089.58.28.653:
+Geo:N089.58.29.183:
+Geo:N089.58.29.446:
+Geo:N089.58.29.710:
+Geo:N089.58.29.972:
+Geo:N089.58.30.494:
+Geo:N089.58.30.754:
+Geo:N089.58.31.013:
+Geo:N089.58.31.272:
+Geo:N089.58.31.529:
+Geo:N089.58.32.043:
+Geo:N089.58.32.298:
+Geo:N089.58.32.553:
+Geo:N089.58.32.807:
+Geo:N089.58.33.313:
+Geo:N089.58.33.564:
+Geo:N089.58.33.816:
+Geo:N089.58.34.066:
+Geo:N089.58.34.564:
+Geo:N089.58.34.813:
+Geo:N089.58.35.060:
+Geo:N089.58.35.307:
+Geo:N089.58.35.798:
+Geo:N089.58.36.043:
+Geo:N089.58.36.286:
+Geo:N089.58.36.530:
+Geo:N089.58.37.014:
+Geo:N089.58.37.255:
+Geo:N089.58.37.495:
+Geo:N089.58.37.735:
+Geo:N089.58.38.212:
+Geo:N089.58.38.450:
+Geo:N089.58.38.686:
+Geo:N089.58.38.923:
+Geo:N089.58.39.158:
+Geo:N089.58.39.393:
+Geo:N089.58.39.627:
+Geo:N089.58.39.861:
+Geo:N089.58.40.093:
+Geo:N089.58.40.557:
+Geo:N089.58.40.788:
+Geo:N089.58.41.018:
+Geo:N089.58.41.247:
+Geo:N089.58.41.476:
+Geo:N089.58.41.931:
+Geo:N089.58.42.158:
+Geo:N089.58.42.384:
+Geo:N089.58.42.610:
+Geo:N089.58.43.059:
+Geo:N089.58.43.505:
+Geo:N089.58.43.727:
+Geo:N089.58.43.949:
+Geo:N089.58.44.170:
+Geo:N089.58.44.390:
+Geo:N089.58.44.609:
+Geo:N089.58.44.828:
+Geo:N089.58.45.265:
+Geo:N089.58.45.482:
+Geo:N089.58.45.698:
+Geo:N089.58.46.344:
+Geo:N089.58.46.771:
+Geo:N089.58.46.984:
+Geo:N089.58.47.407:
+Geo:N089.58.47.618:
+Geo:N089.58.47.828:
+Geo:N089.58.48.038:
+Geo:N089.58.48.455:
+Geo:N089.58.48.663:
+Geo:N089.58.48.870:
+Geo:N089.58.49.077:
+Geo:N089.58.49.488:
+Geo:N089.58.49.693:
+Geo:N089.58.49.897:
+Geo:N089.58.50.101:
+Geo:N089.58.50.304:
+Geo:N089.58.50.708:
+Geo:N089.58.50.910:
+Geo:N089.58.51.110:
+Geo:N089.58.51.310:
+Geo:N089.58.51.510:
+Geo:N089.58.51.709:
+Geo:N089.58.51.907:
+Geo:N089.58.52.105:
+Geo:N089.58.52.302:
+Geo:N089.58.52.499:
+Geo:N089.58.52.695:
+Geo:N089.58.52.890:
+Geo:N089.58.53.085:
+Geo:N089.58.53.280:
+Geo:N089.58.53.667:
+Geo:N089.58.53.859:
+Geo:N089.58.54.052:
+Geo:N089.58.54.243:
+Geo:N089.58.54.434:
+Geo:N089.58.54.625:
+Geo:N089.58.54.814:
+Geo:N089.58.55.004:
+Geo:N089.58.55.193:
+Geo:N089.58.55.569:
+Geo:N089.58.55.756:
+Geo:N089.58.55.942:
+Geo:N089.58.56.128:
+Geo:N089.58.56.314:
+Geo:N089.58.56.499:
+Geo:N089.58.56.683:
+Geo:N089.58.56.867:
+Geo:N089.58.57.051:
+Geo:N089.58.57.416:
+Geo:N089.58.57.598:
+Geo:N089.58.57.779:
+Geo:N089.58.57.960:
+Geo:N089.58.58.140:
+Geo:N089.58.58.319:
+Geo:N089.58.58.499:
+Geo:N089.58.58.677:
+Geo:N089.58.59.033:
+Geo:N089.58.59.387:
+Geo:N089.58.59.563:
+Geo:N089.58.59.738:
+Geo:N089.58.59.913:
+Geo:N089.59.00.088:
+Geo:N089.59.00.262:
+Geo:N089.59.00.435:
+Geo:N089.59.00.608:
+Geo:N089.59.00.781:
+Geo:N089.59.01.124:
+Geo:N089.59.01.295:
+Geo:N089.59.01.466:
+Geo:N089.59.01.636:
+Geo:N089.59.01.805:
+Geo:N089.59.01.975:
+Geo:N089.59.02.311:
+Geo:N089.59.02.479:
+Geo:N089.59.02.812:
+Geo:N089.59.02.978:
+Geo:N089.59.03.144:
+Geo:N089.59.03.309:
+Geo:N089.59.03.474:
+Geo:N089.59.03.638:
+Geo:N089.59.03.802:
+Geo:N089.59.03.965:
+Geo:N089.59.04.128:
+Geo:N089.59.04.290:
+Geo:N089.59.04.452:
+Geo:N089.59.04.613:
+Geo:N089.59.04.774:
+Geo:N089.59.04.935:
+Geo:N089.59.05.094:
+Geo:N089.59.05.413:
+Geo:N089.59.05.572:
+Geo:N089.59.05.730:
+Geo:N089.59.05.887:
+Geo:N089.59.06.201:
+Geo:N089.59.06.357:
+Geo:N089.59.06.513:
+Geo:N089.59.06.669:
+Geo:N089.59.06.978:
+Geo:N089.59.07.132:
+Geo:N089.59.07.286:
+Geo:N089.59.07.439:
+Geo:N089.59.07.744:
+Geo:N089.59.08.047:
+Geo:N089.59.08.198:
+Geo:N089.59.08.498:
+Geo:N089.59.08.648:
+Geo:N089.59.08.797:
+Geo:N089.59.08.946:
+Geo:N089.59.09.094:
+Geo:N089.59.09.242:
+Geo:N089.59.09.389:
+Geo:N089.59.09.536:
+Geo:N089.59.09.683:
+Geo:N089.59.09.975:
+Geo:N089.59.10.120:
+Geo:N089.59.10.265:
+Geo:N089.59.10.409:
+Geo:N089.59.10.553:
+Geo:N089.59.10.697:
+Geo:N089.59.10.840:
+Geo:N089.59.10.983:
+Geo:N089.59.11.125:
+Geo:N089.59.11.267:
+Geo:N089.59.11.409:
+Geo:N089.59.11.550:
+Geo:N089.59.11.691:
+Geo:N089.59.11.831:
+Geo:N089.59.11.971:
+Geo:N089.59.12.110:
+Geo:N089.59.12.250:
+Geo:N089.59.12.388:
+Geo:N089.59.12.527:
+Geo:N089.59.12.939:
+Geo:N089.59.13.076:
+Geo:N089.59.13.212:
+Geo:N089.59.13.348:
+Geo:N089.59.13.483:
+Geo:N089.59.13.619:
+Geo:N089.59.13.753:
+Geo:N089.59.13.888:
+Geo:N089.59.14.022:
+Geo:N089.59.14.155:
+Geo:N089.59.14.288:
+Geo:N089.59.14.421:
+Geo:N089.59.14.553:
+Geo:N089.59.14.685:
+Geo:N089.59.14.817:
+Geo:N089.59.14.948:
+Geo:N089.59.15.079:
+Geo:N089.59.15.210:
+Geo:N089.59.15.340:
+Geo:N089.59.15.599:
+Geo:N089.59.15.728:
+Geo:N089.59.15.856:
+Geo:N089.59.15.985:
+Geo:N089.59.16.240:
+Geo:N089.59.16.367:
+Geo:N089.59.16.494:
+Geo:N089.59.16.620:
+Geo:N089.59.16.746:
+Geo:N089.59.16.997:
+Geo:N089.59.17.122:
+Geo:N089.59.17.247:
+Geo:N089.59.17.371:
+Geo:N089.59.17.741:
+Geo:N089.59.17.864:
+Geo:N089.59.18.230:
+Geo:N089.59.18.351:
+Geo:N089.59.18.472:
+Geo:N089.59.18.593:
+Geo:N089.59.18.833:
+Geo:N089.59.18.953:
+Geo:N089.59.19.072:
+Geo:N089.59.19.191:
+Geo:N089.59.19.428:
+Geo:N089.59.19.545:
+Geo:N089.59.19.663:
+Geo:N089.59.19.780:
+Geo:N089.59.20.013:
+Geo:N089.59.20.129:
+Geo:N089.59.20.245:
+Geo:N089.59.20.361:
+Geo:N089.59.20.591:
+Geo:N089.59.20.705:
+Geo:N089.59.20.819:
+Geo:N089.59.20.933:
+Geo:N089.59.21.047:
+Geo:N089.59.21.160:
+Geo:N089.59.21.273:
+Geo:N089.59.21.385:
+Geo:N089.59.21.497:
+Geo:N089.59.21.609:
+Geo:N089.59.21.832:
+Geo:N089.59.21.943:
+Geo:N089.59.22.053:
+Geo:N089.59.22.163:
+Geo:N089.59.22.273:
+Geo:N089.59.22.383:
+Geo:N089.59.22.492:
+Geo:N089.59.22.601:
+Geo:N089.59.22.710:
+Geo:N089.59.22.818:
+Geo:N089.59.22.926:
+Geo:N089.59.23.141:
+Geo:N089.59.23.248:
+Geo:N089.59.23.461:
+Geo:N089.59.23.567:
+Geo:N089.59.23.673:
+Geo:N089.59.23.779:
+Geo:N089.59.24.094:
+Geo:N089.59.24.302:
+Geo:N089.59.24.509:
+Geo:N089.59.24.612:
+Geo:N089.59.24.715:
+Geo:N089.59.24.817:
+Geo:N089.59.25.021:
+Geo:N089.59.25.123:
+Geo:N089.59.25.224:
+Geo:N089.59.25.325:
+Geo:N089.59.25.526:
+Geo:N089.59.25.627:
+Geo:N089.59.25.726:
+Geo:N089.59.25.925:
+Geo:N089.59.26.123:
+Geo:N089.59.26.221:
+Geo:N089.59.26.319:
+Geo:N089.59.26.417:
+Geo:N089.59.26.612:
+Geo:N089.59.26.709:
+Geo:N089.59.26.806:
+Geo:N089.59.26.902:
+Geo:N089.59.27.094:
+Geo:N089.59.27.190:
+Geo:N089.59.27.380:
+Geo:N089.59.27.569:
+Geo:N089.59.27.663:
+Geo:N089.59.27.757:
+Geo:N089.59.28.038:
+Geo:N089.59.28.130:
+Geo:N089.59.28.223:
+Geo:N089.59.28.499:
+Geo:N089.59.28.682:
+Geo:N089.59.28.773:
+Geo:N089.59.29.134:
+Geo:N089.59.29.402:
+Geo:N089.59.29.491:
+Geo:N089.59.29.580:
+Geo:N089.59.29.668:
+Geo:N089.59.29.756:
+Geo:N089.59.29.932:
+Geo:N089.59.30.019:
+Geo:N089.59.30.106:
+Geo:N089.59.30.193:
+Geo:N089.59.30.452:
+Geo:N089.59.30.538:
+Geo:N089.59.30.623:
+Geo:N089.59.30.794:
+Geo:N089.59.30.878:
+Geo:N089.59.31.047:
+Geo:N089.59.31.131:
+Geo:N089.59.31.215:
+Geo:N089.59.31.299:
+Geo:N089.59.31.382:
+Geo:N089.59.31.465:
+Geo:N089.59.31.631:
+Geo:N089.59.31.713:
+Geo:N089.59.31.796:
+Geo:N089.59.31.877:
+Geo:N089.59.32.041:
+Geo:N089.59.32.122:
+Geo:N089.59.32.203:
+Geo:N089.59.32.284:
+Geo:N089.59.32.444:
+Geo:N089.59.32.604:
+Geo:N089.59.32.684:
+Geo:N089.59.32.842:
+Geo:N089.59.32.921:
+Geo:N089.59.33.078:
+Geo:N089.59.33.312:
+Geo:N089.59.33.544:
+Geo:N089.59.33.697:
+Geo:N089.59.33.774:
+Geo:N089.59.33.926:
+Geo:N089.59.34.002:
+Geo:N089.59.34.077:
+Geo:N089.59.34.152:
+Geo:N089.59.34.228:
+Geo:N089.59.34.452:
+Geo:N089.59.34.820:
+Geo:N089.59.34.894:
+Geo:N089.59.35.328:
+Geo:N089.59.35.613:
+Geo:N089.59.35.895:
+Geo:N089.59.36.450:
+Geo:N089.59.36.857:
+Geo:N089.59.36.992:
+Geo:N089.59.37.058:
+Geo:N089.59.37.192:
+Geo:N089.59.37.324:
+Geo:N089.59.37.455:
+Geo:N089.59.37.521:
+Geo:N089.59.37.651:
+Geo:N089.59.37.845:
+Geo:N089.59.37.974:
+Geo:N089.59.38.292:
+Geo:N089.59.38.481:
+Geo:N089.59.38.791:
+Geo:N089.59.38.853:
+Geo:N089.59.39.339:
+Geo:N089.59.39.459:
+Geo:N089.59.39.697:
+Geo:N089.59.39.756:
+Geo:N089.59.39.873:
+Geo:N089.59.40.048:
+Geo:N089.59.40.221:
+Geo:N089.59.40.279:
+Geo:N089.59.40.336:
+Geo:N089.59.40.507:
+Geo:N089.59.40.620:
+Geo:N089.59.40.676:
+Geo:N089.59.40.844:
+Geo:N089.59.41.011:
+Geo:N089.59.41.066:
+Geo:N089.59.41.230:
+Geo:N089.59.41.394:
+Geo:N089.59.41.501:
+Geo:N089.59.41.609:
+Geo:N089.59.41.662:
+Geo:N089.59.41.715:
+Geo:N089.59.41.769:
+Geo:N089.59.41.821:
+Geo:N089.59.41.874:
+Geo:N089.59.41.927:
+Geo:N089.59.42.188:
+Geo:N089.59.42.240:
+Geo:N089.59.42.547:
+Geo:N089.59.42.699:
+Geo:N089.59.42.899:
+Geo:N089.59.42.998:
+Geo:N089.59.43.243:
+Geo:N089.59.43.292:
+Geo:N089.59.43.437:
+Geo:N089.59.43.676:
+Geo:N089.59.43.724:
+Geo:N089.59.43.771:
+Geo:N089.59.43.818:
+Geo:N089.59.44.005:
+Geo:N089.59.44.733:
+Geo:N089.59.44.953:
+Geo:N089.59.45.127:
+Geo:N089.59.45.427:
+Geo:N089.59.45.637:
+Geo:N089.59.45.845:
+Geo:N089.59.45.927:
+Geo:N089.59.46.211:
+Geo:N089.59.46.410:
+Geo:N089.59.46.449:
+Geo:N089.59.46.567:
+Geo:N089.59.46.684:
+Geo:N089.59.46.761:
+Geo:N089.59.46.952:
+Geo:N089.59.46.990:
+Geo:N089.59.47.065:
+Geo:N089.59.47.140:
+Geo:N089.59.47.178:
+Geo:N089.59.47.215:
+Geo:N089.59.47.436:
+Geo:N089.59.47.509:
+Geo:N089.59.47.618:
+Geo:N089.59.47.690:
+Geo:N089.59.47.725:
+Geo:N089.59.48.112:
+Geo:N089.59.48.181:
+Geo:N089.59.48.419:
+Geo:N089.59.48.586:
+Geo:N089.59.48.652:
+Geo:N089.59.48.751:
+Geo:N089.59.49.074:
+Geo:N089.59.49.137:
+Geo:N089.59.50.302:
+Geo:N089.59.51.973:
+Geo:N089.59.53.413:
+Geo:N089.59.54.548:
+Geo:N089.59.55.513:
+Geo:N089.59.55.924:
+Geo:N089.59.56.297:
+Geo:N089.59.56.329:
+Geo:N089.59.56.704:
+Geo:New Terminal:
+Geo:Runways:
+Regions:N027.46.18.999:polygon
+Regions:noname:polygon
+Regions:noname:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:29.967029:-90.313228:30.019749:-90.202828
+PLUGIN:vSMR:Airport:KMSY
