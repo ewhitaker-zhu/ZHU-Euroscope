@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:ZHU\Data\Sectors\ZHU.sct
+SECTORFILE:zhu/Sectors\ZHU.sct
 SECTORTITLE:ZHU.sct
 Geo:GEO:
 Stars:* CRP SSC:
