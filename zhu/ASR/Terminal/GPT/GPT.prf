@@ -1,30 +1,30 @@
-Settings	sector	zhu/Sectors\ZHU.sct
-Settings	alias	zhu/DataFiles\ZHU_Alias.txt
-Settings	airlines	zhu/DataFiles\ICAO_Airlines.txt
-Settings	airports	zhu/DataFiles\ICAO_Airports.txt
-Settings	aircraft	zhu/DataFiles\ICAO_Aircraft.txt
-Settings	airportcoords	zhu/DataFiles\ICAO.txt
-Settings	airways	zhu/DataFiles\airway.txt
+Settings	sector	zhu/Sectors/ZHU.sct
+Settings	alias	zhu/DataFiles/ZHU_Alias.txt
+Settings	airlines	zhu/DataFiles/ICAO_Airlines.txt
+Settings	airports	zhu/DataFiles/ICAO_Airports.txt
+Settings	aircraft	zhu/DataFiles/ICAO_Aircraft.txt
+Settings	airportcoords	zhu/DataFiles/ICAO.txt
+Settings	airways	zhu/DataFiles/airway.txt
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
-Settings	Settingsfile	zhu/Settings\GLOBAL_SETTINGS.txt
-Settings	SettingsfileSYMBOLOGY	zhu/Settings\I90\I90_SYMBOLOGY.txt
-Settings	SettingsfileVOICE	zhu/Settings\GLOBAL_VOICE.txt
-Settings	SettingsfilePROFILE	zhu\Settings\Mics Profiles\GPT_PROFILE.txt
-Settings	SettingsfileTAGS	zhu/Settings\GLOBAL_TAGS.txt
-Settings	SettingsfileSIL	zhu/Settings\I90\I90_SIL.txt
-Settings	SettingsfileSEL	zhu/Settings\I90\I90_SEL.txt
-Settings	SettingsfileDEP	zhu/Settings\I90\I90_DL.txt
-Settings	SettingsfileARR	zhu/Settings\I90\I90_AL.txt
-Settings	SettingsfileFP	zhu/Settings\I90\I90_FPL.txt
-Settings	SettingsfilePLUGINS	zhu/Settings\I90\I90_PLUGINS.txt
-Settings	SettingsfileSCREEN	zhu/Settings\I90\I90_SCREEN.txt
-Settings	SettingsfileCONFLICT	zhu/Settings\I90\I90_CA.txt
-Settings	SettingsfileVCCS	zhu/Settings\GLOBAL_VCCS.txt
-Settings	SettingsfilePILOTING	zhu/Settings\I90\I90_PL.txt
-Plugins	Plugin0	zhu/Plugins\DiscordEuroscope\DiscordEuroscope.dll
-Plugins	Plugin1	zhu/Plugins\vSMR\vSMR.dll
+Settings	Settingsfile	zhu/Settings/GLOBAL_SETTINGS.txt
+Settings	SettingsfileSYMBOLOGY	zhu/Settings/I90/I90_SYMBOLOGY.txt
+Settings	SettingsfileVOICE	zhu/Settings/GLOBAL_VOICE.txt
+Settings	SettingsfilePROFILE	zhu/Settings/Mics Profiles/GPT_PROFILE.txt
+Settings	SettingsfileTAGS	zhu/Settings/GLOBAL_TAGS.txt
+Settings	SettingsfileSIL	zhu/Settings/I90/I90_SIL.txt
+Settings	SettingsfileSEL	zhu/Settings/I90/I90_SEL.txt
+Settings	SettingsfileDEP	zhu/Settings/I90/I90_DL.txt
+Settings	SettingsfileARR	zhu/Settings/I90/I90_AL.txt
+Settings	SettingsfileFP	zhu/Settings/I90/I90_FPL.txt
+Settings	SettingsfilePLUGINS	zhu/Settings/I90/I90_PLUGINS.txt
+Settings	SettingsfileSCREEN	zhu/Settings/I90/I90_SCREEN.txt
+Settings	SettingsfileCONFLICT	zhu/Settings/I90/I90_CA.txt
+Settings	SettingsfileVCCS	zhu/Settings/GLOBAL_VCCS.txt
+Settings	SettingsfilePILOTING	zhu/Settings/I90/I90_PL.txt
+Plugins	Plugin0	zhu/Plugins/DiscordEuroscope/DiscordEuroscope.dll
+Plugins	Plugin1	zhu/Plugins/vSMR/vSMR.dll
 Plugins	Plugin1Display0	SMR radar display
-Plugins	Plugin2	zhu/Plugins\OpenURLPlugIn.dll
-RecentFiles	Recent1	zhu/ASR\Terminal\GPT\GPT Terminal.asr
-ASRFastKeys	1	zhu/ASR\Terminal\GPT\GPT Terminal.asr
+Plugins	Plugin2	zhu/Plugins/OpenURLPlugIn.dll
+RecentFiles	Recent1	zhu/ASR/Terminal/GPT/GPT Terminal.asr
+ASRFastKeys	1	zhu/ASR/Terminal/GPT/GPT Terminal.asr
