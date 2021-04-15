@@ -1,4 +1,4 @@
-Settings	sector	D:\Users\Admin\Documents\EuroScope\ZHU.sct2
+Settings	sector	ZHU\Data\Sectors\ZHU.sct
 Settings	alias	ZHU\Data\DataFiles\ZHU_Alias.txt
 Settings	airlines	ZHU\Data\DataFiles\ICAO_Airlines.txt
 Settings	airports	ZHU\Data\DataFiles\ICAO_Airports.txt
@@ -22,12 +22,11 @@ Settings	SettingsfileSCREEN	ZHU\Data\Settings\I90\I90_SCREEN.txt
 Settings	SettingsfileCONFLICT	ZHU\Data\Settings\I90\I90_CA.txt
 Settings	SettingsfileVCCS	ZHU\Data\Settings\GLOBAL_VCCS.txt
 Settings	SettingsfilePILOTING	ZHU\Data\Settings\I90\I90_PL.txt
-RecentFiles	Recent2	ZHU\Data\ASR\Terminal\CRP\North Flow.asr
+RecentFiles	Recent2	ZHU\Data\ASR\Terminal\CRP\South Flow.asr
 Plugins	Plugin0	ZHU\Data\Plugins\DiscordEuroscope\DiscordEuroscope.dll
 Plugins	Plugin1	ZHU\Data\Plugins\vSMR\vSMR.dll
 Plugins	Plugin1Display0	SMR radar display
 Plugins	Plugin2	ZHU\Data\Plugins\OpenURLPlugIn.dll
-RecentFiles	Recent1	\North Flow.asr
+RecentFiles	Recent1	ZHU\Data\ASR\Terminal\CRP\North Flow.asr
 ASRFastKeys	1	ZHU\Data\ASR\Terminal\CRP\North Flow.asr
 ASRFastKeys	2	ZHU\Data\ASR\Terminal\CRP\South Flow.asr
-RecentFiles	Recent3	ZHU\Data\ASR\Terminal\CRP\South Flow.asr

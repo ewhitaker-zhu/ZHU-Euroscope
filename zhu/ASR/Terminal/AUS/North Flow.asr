@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\Users\Admin\Documents\EuroScope\ZHU.sct2
-SECTORTITLE:ZHU.sct2
+SECTORFILE:ZHU\Data\Sectors\ZHU.sct
+SECTORTITLE:ZHU.sct
 Stars:* North Flow (Rwy:
 SHOWC:1
 SHOWSB:0
