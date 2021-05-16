@@ -1,0 +1,125 @@
+HOU_CTR Houston Center
+HOU_81_CTR Houston Center
+HOU_88_CTR Houston Center (West)
+HOU_84_CTR Houston Center (South)
+HOU_68_CTR Houston Center (Southcentral)
+HOU_46_CTR Houston Center (North)
+HOU_24_CTR Houston Center (East)
+HOU_76_CTR Houston Center (Slimm)
+HOU_78_CTR Houston Center (Austin Ultra High)
+HOU_82_CTR Houston Center (Bilee)
+HOU_26_CTR Houston Center (Woodville)
+HOU_23_CTR Houston Center (White Lake)
+HOU_37_CTR Houston Center (Hattiesburg)
+HOU_97_CTR Houston Center (Junction)
+HOU_74_CTR Houston Center (Alamo)
+HOU_59_CTR Houston Center (Corpus Christi High)
+HOU_95_CTR Houston Center (Palacios)
+HOU_43_CTR Houston Center (Trinity)
+HOU_70_CTR Houston Center (Tibby)
+HOU_42_CTR Houston Center (Alexandria High)
+HOU_65_CTR Houston Center (McComb)
+HOU_63_CTR Houston Center (Mobile High)
+HOU_98_CTR Houston Center (Rocksprings)
+HOU_50_CTR Houston Center (Stonewall)
+HOU_85_CTR Houston Center (Kelly)
+HOU_56_CTR Houston Center (Shiner)
+HOU_93_CTR Houston Center (Laredo)
+HOU_58_CTR Houston Center (Brownsville Low)
+HOU_96_CTR Houston Center (Bergstrom Low)
+HOU_83_CTR Houston Center (Cugar)
+HOU_80_CTR Houston Center (Industry)
+HOU_87_CTR Houston Center (Eagle Lake Low)
+HOU_86_CTR Houston Center (Humble)
+HOU_49_CTR Houston Center (Lufkin)
+HOU_38_CTR Houston Center (Daisetta)
+HOU_36_CTR Houston Center (Liberty)
+HOU_34_CTR Houston Center (Baton Rouge Low)
+HOU_40_CTR Houston Center (Polk Low)
+HOU_25_CTR Houston Center (Brookley)
+HOU_27_CTR Houston Center (Picayune
+HOU_28_CTR Houston Center (Offshore West)
+HOU_53_CTR Houston Center (Offshore Central)
+HOU_30_CTR Houston Center (Offshore East)
+HOU_79_CTR Houston Center (Ocean West)
+HOU_72_CTR Houston Center (Ocean East)
+HOU_79_FSS Houston Center (Ocean West)
+HOU_72_FSS Houston Center (Ocean East)
+HOU_M_DEP Houston Departure (North)
+HOU_E_DEP Houston Departure (East)
+HOU_L_DEP Houston Departure (South)
+HOU_W_DEP Houston Departure (West)
+HOU_DEP Houston Departure
+HOU_R_APP Houston Approach (Tomball)
+HOU_P_APP Houston Approach (Lakeside)
+HOU_N_APP Houston Approach (West Arrival)
+HOU_X_APP Houston Approach (Eagle Lake)
+HOU_U_APP Houston Approach (College Station)
+HOU_T_APP Houston Approach (College Station Final)
+HOU_Z_APP Houston Approach (Industry)
+HOU_B_APP Houston Approach (Sanjac)
+HOU_J_APP Houston Approach (Beaumont)
+HOU_D_APP Houston Approach
+HOU_G_APP Houston Approach (Gulf Arrival)
+HOU_H_APP Houston Approach (Hobby Final)
+HOU_FN_APP Houston Approach (Final North)
+HOU_FC_APP Houston Approach (Final Center)
+HOU_FS_APP Houston Approach (Final South)
+HOU_MN_APP Final Monitor North
+HOU_MC_APP Final Monitor Center
+HOU_MS_APP Final Monitor South
+IAH_RN_GND Houston Ramp
+IAH_RW_GND Houston Ramp (West)
+IAH_RE_GND Houston Ramp (East)
+IAH_GM_GND Houston Metering
+IAH_DEL Houston Clearance
+IAH_E_GND Houston Ground (East)
+IAH_W_GND Houston Ground (West)
+IAH_GND Houston Ground
+IAH_N_TWR Houston Tower (North)
+IAH_C_TWR Houston Tower (Center)
+IAH_S_TWR Houston Tower (South)
+IAH_W_TWR Houston Tower (West)
+HOU_DEL Hobby Clearance
+HOU_GND Hobby Ground
+HOU_TWR Hobby Tower
+MSY_APP New Orleans Approach
+MSY_W_APP New Orleans Approach
+MSY_E_APP New Orleans Approach
+MSY_N_APP New Orleans Approach (North)
+MSY_H_APP New Orleans Approach (Houma)
+MSY_DEL New Orleans Clearance
+MSY_GND New Orleans Ground
+MSY_TWR New Orleans Tower
+AUS_APP Austin Approach
+AUS_W_APP Austin Approach
+AUS_E_APP Austin Approach (East)
+AUS_S_APP Austin Approach (South)
+AUS_P_APP Austin Approach (Satellite Radar)
+AUS_F_APP Austin Approach (Final)
+AUS_DEL Austin Clearance
+AUS_E_GND Austin Ground (East)
+AUS_W_GND Austin Ground (West)
+AUS_GND Austin Ground
+AUS_W_TWR Austin Tower (17R/35L)
+AUS_E_TWR Austin Tower (17L/35R)
+AUS_TWR Austin Tower
+SAT_APP San Antonio Approach
+SAT_N_APP San Antonio Approach
+SAT_E_APP San Antonio Approach (East)
+SAT_W_APP San Antonio Approach (West)
+SAT_S_APP San Antonio Approach (South)
+SAT_DEL San Antonio Clearance
+SAT_GND San Antonio Ground
+SAT_TWR San Antonio Tower
+CRP_APP Corpus & Valley Approach
+CRP_N_APP Corpus Approach
+CRP_W_APP Corpus Approach (West)
+CRP_E_APP Corpus Approach (East)
+VLY_APP Valley Approach
+VLY_W_APP Valley Approach (West)
+VLY_N_APP Valley Approach (North)
+VLY_E_APP Valley Approach (East)
+CRP_DEL Corpus Clearance
+CRP_GND Corpus Ground
+CRP_TWR Corpus Tower

@@ -1,0 +1,72 @@
+Settings	sector	\Sectors\ZHU.sct2
+Settings	SettingsfileSYMBOLOGY	\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\Settings\Tags.txt
+Settings	SettingsfileSIL	\Settings\SectorInboundList.txt
+Settings	SettingsfileSEL	\Settings\SectorExitList.txt
+Settings	SettingsfileDEP	\Settings\DepartureList.txt
+Settings	SettingsfileARR	\Settings\ArrivalList.txt
+Settings	SettingsfileFP	\Settings\FlightPlanList.txt
+Settings	SettingsfilePLUGINS	\Settings\Plugins.txt
+Settings	Settingsfile	\Settings\General.txt
+Settings	SettingsfileSCREEN	\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\Settings\ConflictList.txt
+Settings	SettingsfileVCCS	\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\Settings\PilotList.txt
+Settings	airlines	\ICAO\ICAO_Airlines.txt
+Settings	airports	\ICAO\ICAO_Airports.txt
+Settings	aircraft	\ICAO\ICAO_Aircraft.txt
+Settings	airportcoords	\NavData\icao.txt
+Settings	airways	\NavData\airway.txt
+Settings	alias	\Alias\alias.txt
+ASRFastKeys	1	\ASR\ZHU.asr
+Plugins	Plugin0	\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1Display0	Standard ES radar screen
+Sounds	Sound0	\Sounds\handoff_request.wav
+Sounds	Sound1	\Sounds\handoff_accept.wav
+Sounds	Sound2	\Sounds\conflict_alert.wav
+Sounds	Sound3	\Sounds\radio_message.wav
+Sounds	Sound4	\Sounds\private_message.wav
+Sounds	Sound5	\Sounds\atc_message.wav
+Sounds	Sound6	\Sounds\broadcast_message.wav
+Sounds	Sound7	\Sounds\landline_request.wav
+Sounds	Sound8	\Sounds\supervisor_message.wav
+Sounds	Sound9	\Sounds\connected.wav
+Sounds	Sound10	\Sounds\disconnected.wav
+Sounds	Sound11	\Sounds\ongoing_request.wav
+Sounds	Sound12	\Sounds\handoff_accept.wav
+Sounds	Sound13	\Sounds\handoff_refused.wav
+Sounds	Sound14	\Sounds\ongoing_manual.wav
+Sounds	Sound15	\Sounds\new_atis.wav
+Sounds	Sound16	\Sounds\handoff_refused.wav
+Sounds	Sound17	\Sounds\pointout.wav
+Sounds	Sound18	\Sounds\startup.wav
+RecentFiles	Recent2	\ASR\I90\IAH W HOU 13's.asr
+Plugins	Plugin1	\Plugins\RDFPlugin.dll
+LastSession	connecttype	0
+LastSession	facility	5
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	range	150
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Plugins	Plugin2	\Plugins\vSMR_1.4.0\vSMR.dll
+Plugins	Plugin2Display0	SMR radar display
+Plugins	Plugin3	\Plugins\DiscordEuroscope.dll
+LastSession	callsign	HOU_D_APP
+LastSession	atis2	"Houston Approach"
+LastSession	atis3	Feedback always appreciated at vats.im/zhufb
+LastSession	atis4	Covering BPT. CLL, CXO, DWH, EFD, GLS, HOU, IAH, SGR, TME
+RecentFiles	Recent3	\ZHU.asr
+RecentFiles	Recent1	\ASR\Generic\Standard.asr
+RecentFiles	Recent4	\ASR\Local\KAUS.asr
+RecentFiles	Recent5	\ASR\Local\KCRP.asr
+RecentFiles	Recent6	\ASR\Local\KHOU.asr
+RecentFiles	Recent7	\ASR\Local\KIAH.asr
+RecentFiles	Recent8	\ASR\Local\KMSY.asr
+RecentFiles	Recent9	\ASR\Local\KSAT.asr
+RecentFiles	Recent10	\ASR\ZHU.asr
+RecentFiles	Recent11	\Local\KSAT.asr
+LastSession	server	USA-EAST
