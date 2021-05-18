@@ -45,6 +45,36 @@ HOU_79_CTR Houston Center (Ocean West)
 HOU_72_CTR Houston Center (Ocean East)
 HOU_79_FSS Houston Center (Ocean West)
 HOU_72_FSS Houston Center (Ocean East)
+ZHU_28_CTR Houston Center (Offshore West)
+ZHU_53_CTR Houston Center (Offshore Central)
+ZHU_30_CTR Houston Center (Offshore East)
+ZHU_79_CTR Houston Center (Ocean West)
+ZHU_72_CTR Houston Center (Ocean East)
+ZHU_79_FSS Houston Center (Ocean West)
+ZHU_72_FSS Houston Center (Ocean East)
+I90_M_DEP Houston Departure (North)
+I90_E_DEP Houston Departure (East)
+I90_L_DEP Houston Departure (South)
+I90_W_DEP Houston Departure (West)
+I90_DEP Houston Departure
+I90_R_APP Houston Approach (Tomball)
+I90_P_APP Houston Approach (Lakeside)
+I90_N_APP Houston Approach (West Arrival)
+I90_X_APP Houston Approach (Eagle Lake)
+I90_U_APP Houston Approach (College Station)
+I90_T_APP Houston Approach (College Station Final)
+I90_Z_APP Houston Approach (Industry)
+I90_B_APP Houston Approach (Sanjac)
+I90_J_APP Houston Approach (Beaumont)
+I90_D_APP Houston Approach
+I90_G_APP Houston Approach (Gulf Arrival)
+I90_H_APP Houston Approach (Hobby Final)
+I90_FN_APP Houston Approach (Final North)
+I90_FC_APP Houston Approach (Final Center)
+I90_FS_APP Houston Approach (Final South)
+I90_MN_APP Final Monitor North
+I90_MC_APP Final Monitor Center
+I90_MS_APP Final Monitor South
 HOU_M_DEP Houston Departure (North)
 HOU_E_DEP Houston Departure (East)
 HOU_L_DEP Houston Departure (South)
@@ -84,10 +114,11 @@ HOU_DEL Hobby Clearance
 HOU_GND Hobby Ground
 HOU_TWR Hobby Tower
 MSY_APP New Orleans Approach
-MSY_W_APP New Orleans Approach
-MSY_E_APP New Orleans Approach
+MSY_W_APP New Orleans Approach (West)
+MSY_E_APP New Orleans Approach (East)
 MSY_N_APP New Orleans Approach (North)
 MSY_H_APP New Orleans Approach (Houma)
+MSY_F_APP New Orleans Approach (Final/Spare)
 MSY_DEL New Orleans Clearance
 MSY_GND New Orleans Ground
 MSY_TWR New Orleans Tower
@@ -123,3 +154,13 @@ VLY_E_APP Valley Approach (East)
 CRP_DEL Corpus Clearance
 CRP_GND Corpus Ground
 CRP_TWR Corpus Tower
+HRL_TWR Harlingen Tower
+HRL_GND Harlingen Ground
+HRL_DEL Harlingen Clearance
+BRO_TWR Brownsville Tower
+BRO_GND Brownsville Clearance
+MFE_TWR McAllen Tower
+MFE_GND McAllen Ground
+MFE_DEL McAllen Clearance
+LRD_TWR Laredo Tower
+LRD_GND Laredo Ground
