@@ -24,6 +24,6 @@ Radio Direction Finder (RDF): Used for quickly identifying an aircraft that is o
 vSMR: Used currently for ASDE-X Replacement (And addition to certain fields) and optionally for Hoppie:
   https://github.com/pierr3/vSMR
   
-#Contributors:
+# Contributors:
 Euroscope Files: Elijah Whitaker, Joshua Seagrave, Michael Larosh
 Sector, Posistions, Alias and additional material: Crockett Tucker, Tom Johnson.
