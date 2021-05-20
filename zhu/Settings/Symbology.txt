@@ -23,16 +23,16 @@ NDBs:frequency:4877089:3.5:0:0:0
 Runways:centerline:8421504:3.5:0:0:7
 Runways:extended centerline:65280:3.5:0:0:7
 Runways:name:8421504:3.5:0:0:7
-Datablock:non concerned:16777215:3.5:0:0:7
+Datablock:non concerned:65408:3.5:0:0:7
 Datablock:notified:33023:3.5:0:0:7
-Datablock:assumed:33023:3.5:0:0:7
+Datablock:assumed:16777215:3.5:0:0:7
 Datablock:transfer to me initiated:16777017:3.5:0:0:7
-Datablock:redundant:5938156:3.5:0:0:7
-Datablock:information:65535:3.5:0:0:7
-Datablock:even flight level:16777215:3.5:0:0:7
-Datablock:odd flight level:16777215:3.5:0:0:7
-Datablock:arrivals:16777215:3.5:0:0:7
-Datablock:departures:16777215:3.5:0:0:7
+Datablock:redundant:65408:3.5:0:0:7
+Datablock:information:33023:3.5:0:0:7
+Datablock:even flight level:650231:3.5:0:0:7
+Datablock:odd flight level:8454143:3.5:0:0:7
+Datablock:arrivals:16711680:3.5:0:0:7
+Datablock:departures:8388736:3.5:0:0:7
 Datablock:user 1:33023:3.5:0:0:7
 Datablock:user 2:16777215:3.5:0:0:7
 Datablock:user 3:16777215:3.5:0:0:7
@@ -46,6 +46,8 @@ Datablock:ongoing accepted:65535:3.5:0:0:7
 Datablock:ongoing refused:65535:3.5:0:0:7
 Datablock:detailed background:1315860:3.5:0:0:7
 Datablock:active item background:3223857:3.5:0:0:7
+Datablock:arrival background:1395241:3.5:0:0:7
+Datablock:departure background:4264977:3.5:0:0:7
 Datablock:AC list background:1710618:3.5:0:0:7
 Datablock:AC list selected background:4411406:3.5:0:0:7
 Datablock:dimmed at conflict detection:5263440:3.5:0:0:7
@@ -90,6 +92,9 @@ Chat:text:12632256:3.5:0:0:7
 Chat:background:1315860:3.5:0:0:7
 Chat:name normal:12632256:3.5:0:0:7
 Chat:name unread:8421440:3.5:0:0:7
+Ground Network:exit:16711680:3.5:0:3:7
+Ground Network:taxiway:65280:3.5:0:3:7
+Ground Network:terminal taxiway:255:3.5:0:3:7
 Sector:line:128:4.0:0:1:7
 Sector:msaw:32768:2.0:0:2:7
 Sector:active sector background:1315860:3.5:0:0:7
@@ -460,5 +465,26 @@ SYMBOLITEM:LINETO 3 7
 SYMBOLITEM:LINETO 3 -7
 SYMBOLITEM:LINETO -3 -7
 SYMBOLITEM:LINETO -3 7
+SYMBOL:23
+SYMBOLITEM:MOVETO 0 -12
+SYMBOLITEM:LINETO -2 -11
+SYMBOLITEM:LINETO -2 -3
+SYMBOLITEM:LINETO -8 -9
+SYMBOLITEM:LINETO -10 -7
+SYMBOLITEM:LINETO -3 0
+SYMBOLITEM:LINETO -10 7
+SYMBOLITEM:LINETO -8 9
+SYMBOLITEM:LINETO -2 3
+SYMBOLITEM:LINETO -2 12
+SYMBOLITEM:LINETO 2 12
+SYMBOLITEM:LINETO 2 3
+SYMBOLITEM:LINETO 8 9
+SYMBOLITEM:LINETO 10 7
+SYMBOLITEM:LINETO 3 0
+SYMBOLITEM:LINETO 10 -7
+SYMBOLITEM:LINETO 8 -9
+SYMBOLITEM:LINETO 2 -3
+SYMBOLITEM:LINETO 2 -11
+SYMBOLITEM:LINETO 0 -12
 m_ClipArea:0
 END

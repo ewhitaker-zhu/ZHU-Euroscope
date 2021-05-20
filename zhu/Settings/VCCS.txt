@@ -1,4 +1,9 @@
 VCCS
-Ts3Server:localhost
-Ts3Port:9988
+Ts3Server:ts.zhuartcc.org
+Ts3Port:1337
+Ts3G2GChannel:81:Esler:16693442:0:81
+Ts3G2GChannel:88:Frio:16693442:1:88
+Ts3G2GChannel:84:Sotex:16693442:2:84
+Ts3G2GChannel:AID:I90 East:9276157:3:AID
+Ts3G2GChannel:AIN:I90 West:9276157:4:AIN
 END
