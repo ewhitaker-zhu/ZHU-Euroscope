@@ -159,8 +159,8 @@ AUS_DEL Austin Clearance
 AUS_E_GND Austin Ground (East)
 AUS_W_GND Austin Ground (West)
 AUS_GND Austin Ground
-AUS_W_TWR Austin Tower (17R/35L)
-AUS_E_TWR Austin Tower (17L/35R)
+AUS_W_TWR Austin Tower (18R/36L)
+AUS_E_TWR Austin Tower (18L/36R)
 AUS_TWR Austin Tower
 EDC_TWR Executive Tower (Austin)
 EDC_GND Executive Tower (Austin)
