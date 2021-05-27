@@ -1,309 +1,351 @@
 ;======================================================== ~~  ~~ =========================================================;
 ;================================================ ~~ Positions-Section ~~ ================================================;
 [POSITIONS]
-HOU_CTR:Houston Center:134.420:81:81:HOU:CTR:-:-:2401:2577
-23 - White Lake Ultra High:Houston Center:132.950:23:C:HOU:CTR:HOU:23:2401:2577
-24 - Leeville:Houston Center:132.170:24:C:HOU:CTR:HOU:24:2401:2577
-25 - Brookley Low:Houston Center:127.650:25:C:HOU:CTR:HOU:25:2401:2577
-26 - Woodeville High:Houston Center:128.170:26:C:HOU:CTR:HOU:26:2401:2577
-27 - Picayune Low:Houston Center:126.800:27:C:HOU:CTR:HOU:27:2401:2577
-28 - Offshore West:Houston Center:127.850:28:C:HOU:CTR:HOU:28:2401:2577
-30 - Offshore East:Houston Center:134.900:30:C:HOU:CTR:HOU:30:2401:2577
-34 - Baton Rouge Low:Houston Center:126.350:34:C:HOU:CTR:HOU:34:2401:2577
-36 - Liberty Low:Houston Center:124.700:36:C:HOU:CTR:HOU:36:2401:2577
-37 - Hattiesburg Ultra High:Houston Center:126.870:37:C:HOU:CTR:HOU:37:2401:2577
-38 - Daisetta Low:Houston Center:126.950:38:C:HOU:CTR:HOU:38:2401:2577 
-40 - Polk Low:Houston Center:120.970:40:C:HOU:CTR:HOU:40:2401:2577 
-42 - Alexandria High:Houston Center:132.700:42:C:HOU:CTR:HOU:42:2401:2577 
-43 - Trinity:Houston Center:133.800:43:C:HOU:CTR:HOU:43:2401:2577 
-46 - Houston High:Houston Center:132.770:46:C:HOU:CTR:HOU:46:2401:2577 
-49 - Lufkin Low:Houston Center:125.170:49:C:HOU:CTR:HOU:49:2401:2577 
-50 - Stonewall Low:Houston Center:134.200:50:C:HOU:CTR:HOU:50:2401:2577
-53 - Offshore Central:Houston Center:120.350:53:C:HOU:CTR:HOU:53:2401:2577
-56 - Shiner Low:Houston Center:134.600:56:C:HOU:CTR:HOU:56:2401:2577 
-58 - Brownsville Low:Houston Center:128.150:58:C:HOU:CTR:HOU:58:2401:2577 
-59 - Corpus High:Houston Center:133.750:59:C:HOU:CTR:HOU:59:2401:2577
-63 - Mobile High:Houston Center:125.770:63:C:HOU:CTR:HOU:63:2401:2577
-65 - McComb High:Houston Center:119.720:65:C:HOU:CTR:HOU:65:2401:2577
-68 - Galveston High:Houston Center:123.820:68:C:HOU:CTR:HOU:68:2401:2577
-70 - Tibby High:Houston Center:134.920:70:C:HOU:CTR:HOU:70:2401:2577
-74 - Alamo High:Houston Center:128.650:74:C:HOU:CTR:HOU:74:2401:2577
-76 - Slimm Ultra High:Houston Center:125.620:76:C:HOU:CTR:HOU:76:2401:2577
-78 - Austin High:Houston Center:126.420:78:C:HOU:CTR:HOU:78:2401:2577
-80 - Industry Low:Houston Center:132.150:80:C:HOU:CTR:HOU:80:2401:2577
-81 - Esler Ultra High:Houston Center:134.420:81:C:HOU:CTR:HOU:81:2401:2577
-82 - Bilee High:Houston Center:123.720:82:C:HOU:CTR:HOU:82:2401:2577
-83 - Cougar Low:Houston Center:128.070:83:C:HOU:CTR:HOU:83:2401:2577
-84 - SOTEX Ultra High:Houston Center:124.720:84:C:HOU:CTR:HOU:84:2401:2577
-85 - Kelly Low:Houston Center:134.950:85:C:HOU:CTR:HOU:85:2401:2577
-86 - Humble Low:Houston Center:134.800:86:C:HOU:CTR:HOU:86:2401:2577
-87 - Eagle Lake Low:Houston Center:128.600:87:C:HOU:CTR:HOU:87:2401:2577
-88 - Frio Ultra High:Houston Center:127.020:88:C:HOU:CTR:HOU:88:2401:2577
-93 - Laredo Low:Houston Center:127.800:93:C:HOU:CTR:HOU:93:2401:2577
-95 - Palacios High:Houston Center:132.370:95:C:HOU:CTR:HOU:95:2401:2577
-96 - Bergstrom Low:Houston Center:125.650:96:C:HOU:CTR:HOU:96:2401:2577
-97 - Junction High:Houston Center:132.400:97:C:HOU:CTR:HOU:97:2401:2577
-98 - Rocksprings Low:Houston Center:125.750:98:C:HOU:CTR:HOU:98:2401:2577
+HOU_CTR:Houston Center:134.420:81:81:HOU:CTR:-:-:7300:7477
+23 - White Lake Ultra High:Houston Center:132.950:23:C:HOU:CTR:HOU:23:7300:7477
+24 - Leeville:Houston Center:132.170:24:C:HOU:CTR:HOU:24:7300:7477
+25 - Brookley Low:Houston Center:127.650:25:C:HOU:CTR:HOU:25:7300:7477
+26 - Woodeville High:Houston Center:128.170:26:C:HOU:CTR:HOU:26:7300:7477
+27 - Picayune Low:Houston Center:126.800:27:C:HOU:CTR:HOU:27:7300:7477
+28 - Offshore West:Houston Center:127.850:28:C:HOU:CTR:HOU:28:7300:7477
+30 - Offshore East:Houston Center:134.900:30:C:HOU:CTR:HOU:30:7300:7477
+34 - Baton Rouge Low:Houston Center:126.350:34:C:HOU:CTR:HOU:34:7300:7477
+36 - Liberty Low:Houston Center:124.700:36:C:HOU:CTR:HOU:36:7300:7477
+37 - Hattiesburg Ultra High:Houston Center:126.870:37:C:HOU:CTR:HOU:37:7300:7477
+38 - Daisetta Low:Houston Center:126.950:38:C:HOU:CTR:HOU:38:7300:7477 
+40 - Polk Low:Houston Center:120.970:40:C:HOU:CTR:HOU:40:7300:7477 
+42 - Alexandria High:Houston Center:132.700:42:C:HOU:CTR:HOU:42:7300:7477 
+43 - Trinity:Houston Center:133.800:43:C:HOU:CTR:HOU:43:7300:7477 
+46 - Houston High:Houston Center:132.770:46:C:HOU:CTR:HOU:46:7300:7477 
+49 - Lufkin Low:Houston Center:125.170:49:C:HOU:CTR:HOU:49:7300:7477 
+50 - Stonewall Low:Houston Center:134.200:50:C:HOU:CTR:HOU:50:7300:7477
+53 - Offshore Central:Houston Center:120.350:53:C:HOU:CTR:HOU:53:7300:7477
+56 - Shiner Low:Houston Center:134.600:56:C:HOU:CTR:HOU:56:7300:7477 
+58 - Brownsville Low:Houston Center:128.150:58:C:HOU:CTR:HOU:58:7300:7477 
+59 - Corpus High:Houston Center:133.750:59:C:HOU:CTR:HOU:59:7300:7477
+63 - Mobile High:Houston Center:125.770:63:C:HOU:CTR:HOU:63:7300:7477
+65 - McComb High:Houston Center:119.720:65:C:HOU:CTR:HOU:65:7300:7477
+68 - Galveston High:Houston Center:123.820:68:C:HOU:CTR:HOU:68:7300:7477
+70 - Tibby High:Houston Center:134.920:70:C:HOU:CTR:HOU:70:7300:7477
+74 - Alamo High:Houston Center:128.650:74:C:HOU:CTR:HOU:74:7300:7477
+76 - Slimm Ultra High:Houston Center:125.620:76:C:HOU:CTR:HOU:76:7300:7477
+78 - Austin High:Houston Center:126.420:78:C:HOU:CTR:HOU:78:7300:7477
+80 - Industry Low:Houston Center:132.150:80:C:HOU:CTR:HOU:80:7300:7477
+81 - Esler Ultra High:Houston Center:134.420:81:C:HOU:CTR:HOU:81:7300:7477
+82 - Bilee High:Houston Center:123.720:82:C:HOU:CTR:HOU:82:7300:7477
+83 - Cougar Low:Houston Center:128.070:83:C:HOU:CTR:HOU:83:7300:7477
+84 - SOTEX Ultra High:Houston Center:124.720:84:C:HOU:CTR:HOU:84:7300:7477
+85 - Kelly Low:Houston Center:134.950:85:C:HOU:CTR:HOU:85:7300:7477
+86 - Humble Low:Houston Center:134.800:86:C:HOU:CTR:HOU:86:7300:7477
+87 - Eagle Lake Low:Houston Center:128.600:87:C:HOU:CTR:HOU:87:7300:7477
+88 - Frio Ultra High:Houston Center:127.020:88:C:HOU:CTR:HOU:88:7300:7477
+93 - Laredo Low:Houston Center:127.800:93:C:HOU:CTR:HOU:93:7300:7477
+95 - Palacios High:Houston Center:132.370:95:C:HOU:CTR:HOU:95:7300:7477
+96 - Bergstrom Low:Houston Center:125.650:96:C:HOU:CTR:HOU:96:7300:7477
+97 - Junction High:Houston Center:132.400:97:C:HOU:CTR:HOU:97:7300:7477
+98 - Rocksprings Low:Houston Center:125.750:98:C:HOU:CTR:HOU:98:7300:7477
+***************************
+;Houston Oceanic
 72 - Houston Oceanic East Flight Service Station:Houston Radio:135.770:72:C:ZHU:CTR:ZHU:CTR:7300:7477
 79 - Houston Oceanic West Flight Service Station:Houston Radio:132.650:79:C:ZHU:CTR:ZHU:CTR:7300:7477
-Houston East Approach:Houston Approach:120.050:AID:D:HOU:APP:HOU:APP:2701:2740
-Houston West Approach:Houston Approach:124.350:AIN:N:HOU:APP:HOU:APP:2701:2740
-Houston Gulf Approach:Houston Approach:119.620:AIG:G:HOU:APP:HOU:APP:2701:2740
-Houston Eagle Lake Approach:Houston Approach:119.170:AIX:X:HOU:APP:HOU:APP:2701:2740
-Houston Final North Approach:Houston Approach:119.100:AIA:A:HOU:APP:HOU:APP:2701:2740
-Houston Final Center Approach:Houston Approach:120.650:AII:I:HOU:APP:HOU:APP:2701:2740
-Houston Final South Approach:Houston Approach:134.000:AIO:O:HOU:APP:HOU:APP:2701:2740
-Houston Hobby Final Approach:Houston Approach:133.050:AIH:H:HOU:APP:HOU:APP:2701:2740
-Houston Beaumont Satellite Approach:Houston Approach:121.300:AIJ:J:HOU:APP:HOU:APP:2701:2740
-Houston College Satellite Approach:Houston Approach:134.300:AIU:U:HOU:APP:HOU:APP:2701:2740
-Houston Industry Satellite Approach:Houston Approach:124.220:AIZ:Z:HOU:APP:HOU:APP:2701:2740
-Houston Lakeside Satellite Approach:Houston Approach:123.800:AIP:P:HOU:APP:HOU:APP:2701:2740
-Houston Tomball Satellite Approach:Houston Approach:119.700:AIR:R:HOU:APP:HOU:APP:2701:2740
-Houston Sanjac Satellite Approach:Houston Approach:124.450:AIB:B:HOU:APP:HOU:APP:2701:2740
-Houston North Departure:Houston Departure:132.250:AIM:M:HOU:DEP:HOU:DEP:2701:2740
-Houston South Departure:Houston Departure:127.120:AIL:L:HOU:DEP:HOU:DEP:2701:2740
-Houston East Departure:Houston Departure:133.600:AIE:E:HOU:DEP:HOU:DEP:2701:2740
-Houston West Departure:Houston Departure:126.675:AIW:W:HOU:DEP:HOU:DEP:2701:2740
-KIAH George Bush Intercontinental Clearance Delivery:Houston Delivery:128.100:ABD:L:IAH:DEL:IAH:DEL:2741:2777
-KIAH George Bush Intercontinental Ground East:Houston Ground:118.575:ABS:R:IAH:GND:IAH:GND:E:2741:2777
-KIAH George Bush Intercontinental Ground West:Houston Ground:121.700:ABT:R:IAH:GND:IAH:GND:W:2741:2777
-KIAH George Bush Intercontinental Ramp North:Houston Metering:130.825:ABJ:RN:IAH:GND:IAH:GND:RN:2741:2777
-KIAH George Bush Intercontinental Ramp West:Houston Ground:121.625:ABK:RW:IAH:GND:IAH:GND:RW:2741:2777
-KIAH George Bush Intercontinental Ramp East:Houston Ground:131.275:ABL:RE:IAH:GND:IAH:GND:RE:2741:2777
-KIAH George Bush Intercontinental Ground Metering:Houston Ground:119.950:ABM:GM:IAH:GND:IAH:GND:GM:2741:2777
-KIAH George Bush Intercontinental North Tower:Houston Tower:120.725:ABN:T:IAH:TWR:IAH:N:2741:2777
-KIAH George Bush Intercontinental Center Tower:Houston Tower:125.350:ABC:T:IAH:TWR:IAH:C:2741:2777
-KIAH George Bush Intercontinental South Tower:Houston Tower:135.150:ABS:T:IAH:TWR:IAH:S:2741:2777
-KIAH George Bush Intercontinental West Tower:Houston Tower:127.300:ABW:T:IAH:TWR:IAH:W:2741:2777
-KHOU William P. Hobby Clearance Delivery:Hobby Delivery:125.450:AHL:L:HOU:DEL:HOU:DEL:4701:4777
-KHOU William P. Hobby Ground:Hobby Ground:121.900:AHR:R:HOU:GND:HOU:GND:4701:4777
-KHOU William P. Hobby Tower:Hobby Tower:118.700:AHT:T:HOU:TWR:HOU:TWR:4701:4777
+
+***************************
+;I90 Approach
+Houston East Approach:Houston Approach:120.050:AID:D:HOU:APP:HOU:APP:2400:2450
+Houston West Approach:Houston Approach:124.350:AIN:N:HOU:APP:HOU:APP:2400:2450
+Houston Gulf Approach:Houston Approach:119.620:AIG:G:HOU:APP:HOU:APP:2400:2450
+Houston Eagle Lake Approach:Houston Approach:119.170:AIX:X:HOU:APP:HOU:APP:2400:2450
+Houston Final North Approach:Houston Approach:119.100:AIA:A:HOU:APP:HOU:APP:2400:2450
+Houston Final Center Approach:Houston Approach:120.650:AII:I:HOU:APP:HOU:APP:2400:2450
+Houston Final South Approach:Houston Approach:134.000:AIO:O:HOU:APP:HOU:APP:2400:2450
+Houston Hobby Final Approach:Houston Approach:133.050:AIH:H:HOU:APP:HOU:APP:2400:2450
+Houston Beaumont Satellite Approach:Houston Approach:121.300:AIJ:J:HOU:APP:HOU:APP:2400:2450
+Houston College Satellite Approach:Houston Approach:134.300:AIU:U:HOU:APP:HOU:APP:2400:2450
+Houston Industry Satellite Approach:Houston Approach:124.220:AIZ:Z:HOU:APP:HOU:APP:2400:2450
+Houston Lakeside Satellite Approach:Houston Approach:123.800:AIP:P:HOU:APP:HOU:APP:2400:2450
+Houston Tomball Satellite Approach:Houston Approach:119.700:AIR:R:HOU:APP:HOU:APP:2400:2450
+Houston Sanjac Satellite Approach:Houston Approach:124.450:AIB:B:HOU:APP:HOU:APP:2400:2450
+
+***************************
+;I90 Departure
+Houston North Departure:Houston Departure:132.250:AIM:M:HOU:DEP:HOU:DEP:2400:2450
+Houston South Departure:Houston Departure:127.120:AIL:L:HOU:DEP:HOU:DEP:2400:2450
+Houston East Departure:Houston Departure:133.600:AIE:E:HOU:DEP:HOU:DEP:2400:2450
+Houston West Departure:Houston Departure:126.675:AIW:W:HOU:DEP:HOU:DEP:2400:2450
+
+***************************
+;GEORGE BUSH INTERCONTINENTAL
+KIAH George Bush Intercontinental Clearance Delivery:Houston Delivery:128.100:ABD:L:IAH:DEL:IAH:DEL:2451:2500
+KIAH George Bush Intercontinental Ground East:Houston Ground:118.575:ABS:R:IAH:GND:IAH:GND:E:2451:2500
+KIAH George Bush Intercontinental Ground West:Houston Ground:121.700:ABT:R:IAH:GND:IAH:GND:W:2451:2500
+KIAH George Bush Intercontinental Ramp North:Houston Metering:130.825:ABJ:RN:IAH:GND:IAH:GND:RN:2451:2500
+KIAH George Bush Intercontinental Ramp West:Houston Ground:121.625:ABK:RW:IAH:GND:IAH:GND:RW:2451:2500
+KIAH George Bush Intercontinental Ramp East:Houston Ground:131.275:ABL:RE:IAH:GND:IAH:GND:RE:2451:2500
+KIAH George Bush Intercontinental Ground Metering:Houston Ground:119.950:ABM:GM:IAH:GND:IAH:GND:GM:2451:2500
+KIAH George Bush Intercontinental North Tower:Houston Tower:120.725:ABN:T:IAH:TWR:IAH:N:2451:2500
+KIAH George Bush Intercontinental Center Tower:Houston Tower:125.350:ABC:T:IAH:TWR:IAH:C:2451:2500
+KIAH George Bush Intercontinental South Tower:Houston Tower:135.150:ABS:T:IAH:TWR:IAH:S:2451:2500
+KIAH George Bush Intercontinental West Tower:Houston Tower:127.300:ABW:T:IAH:TWR:IAH:W:2451:2500
+
+***************************
+;WILLIAM P. HOBBY
+KHOU William P. Hobby Clearance Delivery:Hobby Delivery:125.450:AHL:L:HOU:DEL:HOU:DEL:2501:2535
+KHOU William P. Hobby Ground:Hobby Ground:121.900:AHR:R:HOU:GND:HOU:GND:2501:2535
+KHOU William P. Hobby Tower:Hobby Tower:118.700:AHT:T:HOU:TWR:HOU:TWR:2501:2535
+
+***************************
+;AUSTIN BERGSTROM INTERNATIONAL
 KAUS Austin Bergstrom International Clearance Delivery:Austin Delivery:125.500:UAC:L:AUS:DEL:AUS:DEL:4604:4657
-KAUS Austin Bergstrom International Ground:Austin Ground:121.900:UAA:R:AUS:GND:AUS:GND:4604:4627
-KAUS Austin Bergstrom International East Ground:Austin Ground:121.900:UAA:R:AUS:GND:AUS:GND:E:4604:4627
-KAUS Austin Bergstrom International West Ground:Austin Ground:121.700:UAB:R:AUS:GND:AUS:GND:W:4604:4627
-KAUS Austin Bergstrom InternationalTower:Austin Tower:121.000:UAE:T:AUS:TWR:AUS:TWR:4604:4627
-KAUS Austin Bergstrom International East Tower:Austin Tower:121.000:UAE:T:AUS:TWR:AUS:TWR:E:4604:4627
-KAUS Austin Bergstrom International West Tower:Austin Tower:118.225:UAW:T:AUS:TWR:AUS:TWR:W:4604:4627
-KAUS Austin West Approach:Austin Approach:119.000:AW:W:AUS:APP:AUS:APP:4604:4627
-KAUS Austin East Approach:Austin Approach:127.225:AE:E:AUS:APP:AUS:APP:4604:4627
-KAUS Austin South Approach:Austin Approach:120.875:AS:S:AUS:APP:AUS:APP:4604:4627
-KAUS Austin Final Approach:Austin Approach:125.325:AF:F:AUS:APP:AUS:APP:4604:4627
-KMSY Louis Armstrong New Orleans International Clearance Delivery:New Orleans Delivery:127.200:NML:L:MSY:DEL:MSY:DEL:7331:7377
-KMSY Louis Armstrong New Orleans International Ground:New Orleans Ground:121.900:NMR:R:MSY:GND:MSY:GND:7331:7377
-KMSY Louis Armstrong New Orleans International Tower:New Orleans Tower:119.500:NMT:T:MSY:TWR:MSY:TWR:7331:7377
-New Orleans West Approach:New Orleans Approach:125.500:NOW:W:MSY:APP:MSY:APP:7331:7377
-New Orleans East Approach:New Orleans Approach:133.150:NOE:E:MSY:APP:MSY:APP:7331:7377
-New Orleans South Approach:New Orleans Approach:123.850:NOS:E:MSY:APP:MSY:APP:7331:7377
-New Orleans Houma Approach:New Orleans Approach:118.900:NOH:E:MSY:APP:MSY:APP:7331:7377
-KSAT San Antonio International Clearance Delivery:San Antonio Delivery:126.700:SSL:L:SAT:DEL:SAT:DEL:7401:7440
-KSAT San Antonio International Ground:San Antonio Ground:121.900:SSR:R:SAT:GND:SAT:GND:7401:7440
-KSAT San Antonio International Tower:San Antonio Tower:119.800:SST:T:SAT:TWR:SAT:TWR:7401:7440
-San Antonio Northeast Approach:San Antonio Approach:127.100:SN:N:SAT:APP:SAT:APP:7401:7440
-San Antonio Southeast Approach:San Antonio Approach:125.700:SE:S:SAT:APP:SAT:APP:7401:7440
-San Antonio Southwest Approach:San Antonio Approach:118.050:SS:S:SAT:APP:SAT:APP:7401:7440
-San Antonio Northwest Approach:San Antonio Approach:125.100:SW:S:SAT:APP:SAT:APP:7401:7440
-KDLF Laughlin AFB Ground:Laughlin Ground:120.500:DLR:R:DLF:GND:DLF:GND:7441:7477
-KDLF Laughlin AFB Tower:Laughlin Tower:125.200:DLT:T:DLF:TWR:DLF:TWR:7441:7477
-KSKF Kelly Ground:Kelly Ground:121.800:SKR:R:SKF:GND:SKF:G:7441:7477
-KSKF Kelly Tower:Kelly Tower:124.300:SKT:T:SKF:TWR:SKF:TWR:7441:7477
-KSSF Stinson Ground:Stinson Ground:121.700:SFR:R:SSF:GND:SSF:GND:7441:7477
-KSSF Stinson Tower:Stinson Tower:118.200:SFT:T:SSF:TWR:SSF:TWR:7441:7477
-KRND Randolph AFB Ground:Hangover Ground:119.650:SRR:R:RND:GND:RND:GND:7441:7477
-KRND Randolph AFB Tower:Hangover Tower:120.500:SRT:T:RND:TWR:RND:TWR:7441:7477
-KBAZ New Braunfels Clearance Delivery:New Braunfels Delivery:134.750:SNL:L:BAZ:DEL:BAZ:DEL:7441:7477
-KBAZ New Braunfels Ground:New Braunfels Ground:120.175:SNR:R:BAZ:GND:BAZ:GND:7441:7477
-KBAZ New Braunfels Tower:New Braunfels Tower:127.050:SNT:T:BAZ:TWR:BAZ:TWR:7441:7477
-KGTU Georgetown Ground:Georgetown Ground:119.120:UGR:R:GTU:GND:GTU:GND:7441:7477
-KGTU Georgetown Tower:Georgetown Tower:120.225:UGT:T:GTU:TWR:GTU:TWR:7441:7477
-KGRK Gray Killeen Ground:Gray Ground:126.200:YYR:R:GRK:GND:GRK:GND:7441:7477
-KGRK Gray Killeen Tower:Gray Tower:120.750:YYT:T:GRK:TWR:GRK:TWR:7441:7477
-KGRK Gray Killeen Approach:Gray Approach:120.075:YYT:T:GRK:TWR:GRK:TWR:7441:7477
-KHLR Fort Hood Ground:Hood Ground:133.850:YOR:R:HLR:GND:HLR:GND:7441:7477
-KHLR Fort Hood Tower:Hood Tower:119.650:YOT:T:HLR:TWR:HLR:TWR:7441:7477
-KVCT Victoria Regional Ground:Victoria Ground:120.525:VR:R:VCT:GND:VCT:GND:7441:7477
-KVCT Victoria Regional Tower:Victoria Tower:126.075:VT:T:VCT:TWR:VCT:TWR:7441:7477
-KCLL Easterwood College Station Ground:Easterwood Ground:128.700:ACG:R:CLL:GND:CLL:GND:7441:7477
-KCLL Easterwood College Station Tower:Easterwood Tower:118.500:ACL:T:CLL:TWR:CLL:TWR:7441:7477
+KAUS Austin Bergstrom International Ground:Austin Ground:121.900:UAA:R:AUS:GND:AUS:GND:4500:4560
+KAUS Austin Bergstrom International East Ground:Austin Ground:121.900:UAA:R:AUS:GND:AUS:GND:E:4500:4560
+KAUS Austin Bergstrom International West Ground:Austin Ground:121.700:UAB:R:AUS:GND:AUS:GND:W:4500:4560
+KAUS Austin Bergstrom InternationalTower:Austin Tower:121.000:UAE:T:AUS:TWR:AUS:TWR:4500:4560
+KAUS Austin Bergstrom International East Tower:Austin Tower:121.000:UAE:T:AUS:TWR:AUS:TWR:E:4500:4560
+KAUS Austin Bergstrom International West Tower:Austin Tower:118.225:UAW:T:AUS:TWR:AUS:TWR:W:4500:4560
+KAUS Austin West Approach:Austin Approach:119.000:AW:W:AUS:APP:AUS:APP:4500:4560
+KAUS Austin East Approach:Austin Approach:127.225:AE:E:AUS:APP:AUS:APP:4500:4560
+KAUS Austin South Approach:Austin Approach:120.875:AS:S:AUS:APP:AUS:APP:4500:4560
+KAUS Austin Final Approach:Austin Approach:125.325:AF:F:AUS:APP:AUS:APP:4500:4560
+
+***************************
+;LOUIS ARMSTRONG INTERNATIONAL
+KMSY Louis Armstrong New Orleans International Clearance Delivery:New Orleans Delivery:127.200:NML:L:MSY:DEL:MSY:DEL:4521:4580
+KMSY Louis Armstrong New Orleans International Ground:New Orleans Ground:121.900:NMR:R:MSY:GND:MSY:GND:4521:4580
+KMSY Louis Armstrong New Orleans International Tower:New Orleans Tower:119.500:NMT:T:MSY:TWR:MSY:TWR:4521:4580
+New Orleans West Approach:New Orleans Approach:125.500:NOW:W:MSY:APP:MSY:APP:4521:4580
+New Orleans East Approach:New Orleans Approach:133.150:NOE:E:MSY:APP:MSY:APP:4521:4580
+New Orleans South Approach:New Orleans Approach:123.850:NOS:E:MSY:APP:MSY:APP:4521:4580
+New Orleans Houma Approach:New Orleans Approach:118.900:NOH:E:MSY:APP:MSY:APP:4521:4580
+
+***************************
+;SAN ANTONIO
+KSAT San Antonio International Clearance Delivery:San Antonio Delivery:126.700:SSL:L:SAT:DEL:SAT:DEL:4581:4639
+KSAT San Antonio International Ground:San Antonio Ground:121.900:SSR:R:SAT:GND:SAT:GND:4581:4639
+KSAT San Antonio International Tower:San Antonio Tower:119.800:SST:T:SAT:TWR:SAT:TWR:4581:4639
+San Antonio Northeast Approach:San Antonio Approach:127.100:SN:N:SAT:APP:SAT:APP:4581:4639
+San Antonio Southeast Approach:San Antonio Approach:125.700:SE:S:SAT:APP:SAT:APP:4581:4639
+San Antonio Southwest Approach:San Antonio Approach:118.050:SS:S:SAT:APP:SAT:APP:4581:4639
+San Antonio Northwest Approach:San Antonio Approach:125.100:SW:S:SAT:APP:SAT:APP:4581:4639
+
+***************************
+;LAUGHLIN AIR FORCE BASE
+KDLF Laughlin AFB Ground:Laughlin Ground:120.500:DLR:R:DLF:GND:DLF:GND:7757:4762
+KDLF Laughlin AFB Tower:Laughlin Tower:125.200:DLT:T:DLF:TWR:DLF:TWR:7757:4762
+
+***************************
+;KELLY
+KSKF Kelly Ground:Kelly Ground:121.800:SKR:R:SKF:GND:SKF:G:4581:4639
+KSKF Kelly Tower:Kelly Tower:124.300:SKT:T:SKF:TWR:SKF:TWR:4581:4639
+
+***************************
+;STINSON
+KSSF Stinson Ground:Stinson Ground:121.700:SFR:R:SSF:GND:SSF:GND:4581:4639
+KSSF Stinson Tower:Stinson Tower:118.200:SFT:T:SSF:TWR:SSF:TWR:4581:4639
+
+***************************
+;RANDOLPH AIR FORCE BASE
+KRND Randolph AFB Ground:Hangover Ground:119.650:SRR:R:RND:GND:RND:GND:4581:4639
+KRND Randolph AFB Tower:Hangover Tower:120.500:SRT:T:RND:TWR:RND:TWR:4581:4639
+
+***************************
+;NEW BRAUNFELS
+KBAZ New Braunfels Clearance Delivery:New Braunfels Delivery:134.750:SNL:L:BAZ:DEL:BAZ:DEL:4581:4639
+KBAZ New Braunfels Ground:New Braunfels Ground:120.175:SNR:R:BAZ:GND:BAZ:GND:4581:4639
+KBAZ New Braunfels Tower:New Braunfels Tower:127.050:SNT:T:BAZ:TWR:BAZ:TWR:4581:4639
+
+***************************
+;GEORGETOWN
+KGTU Georgetown Ground:Georgetown Ground:119.120:UGR:R:GTU:GND:GTU:GND:4604:4657
+KGTU Georgetown Tower:Georgetown Tower:120.225:UGT:T:GTU:TWR:GTU:TWR:4604:4657
+
+***************************
+;VICTORIA REGIONAL
+KVCT Victoria Regional Ground:Victoria Ground:120.525:VR:R:VCT:GND:VCT:GND:4769:4774
+KVCT Victoria Regional Tower:Victoria Tower:126.075:VT:T:VCT:TWR:VCT:TWR:4769:4774
+
+***************************
+;EASTERWOOD COLLEGE STATION
+KCLL Easterwood College Station Ground:Easterwood Ground:128.700:ACG:R:CLL:GND:CLL:GND:2536:2550
+KCLL Easterwood College Station Tower:Easterwood Tower:118.500:ACL:T:CLL:TWR:CLL:TWR:2536:2550
+
 ***************************
 ;DAVID WAYNE HOOKS MEMORIAL
-KDWH David Wayne Hooks Memorial Clearance Delivery:Hooks Delivery:119.450:ADC:L:DWH:DEL:DWH:DEL:7441:7477
-KDWH David Wayne Hooks Memorial Ground:Hooks Ground:121.800:ADG:R:DWH:GND:DWH:GND:7441:7477
-KDWH David Wayne Hooks Memorial Tower:Hooks Tower:118.400:ADL:T:DWH:TWR:DWH:TWR:7441:7477
+KDWH David Wayne Hooks Memorial Clearance Delivery:Hooks Delivery:119.450:ADC:L:DWH:DEL:DWH:DEL:2536:2550
+KDWH David Wayne Hooks Memorial Ground:Hooks Ground:121.800:ADG:R:DWH:GND:DWH:GND:2536:2550
+KDWH David Wayne Hooks Memorial Tower:Hooks Tower:118.400:ADL:T:DWH:TWR:DWH:TWR:2536:2550
 
 ***************************
 ;ELLINGTON
-KEFD Ellington Ground:Ellington Ground:121.600:AEG:R:EFD:GND:EFD:GND:7441:7477
-KEFD Ellington Tower:Ellington Tower:126.050:AEL:T:EFD:TWR:EFD:T:7441:7477
+KEFD Ellington Ground:Ellington Ground:121.600:AEG:R:EFD:GND:EFD:GND:2536:2550
+KEFD Ellington Tower:Ellington Tower:126.050:AEL:T:EFD:TWR:EFD:T:2536:2550
 
 ***************************
 ;SUGAR LAND REGIONAL
-KSGR Sugar Land Regional Ground:Sugarland Ground:121.400:AUG:R:SGR:GND:SGR:GND:7441:7477
-KSGR Sugar Land Regional Tower:Sugarland Tower:118.650:AUL:T:SGR:TWR:SGR:TWR:7441:7477
+KSGR Sugar Land Regional Ground:Sugarland Ground:121.400:AUG:R:SGR:GND:SGR:GND:2536:2550
+KSGR Sugar Land Regional Tower:Sugarland Tower:118.650:AUL:T:SGR:TWR:SGR:TWR:2536:2550
 
 ***************************
 ;CORPUS CHRISTI INTERNATIONAL
-KCRP Corpus Christi International Clearance Delivery:Corpus Delivery:118.550:CPL:L:CRP:DEL:CRP:DEL:7441:7477
-KCRP Corpus Christi International Ground:Corpus Ground:121.900:CPR:R:CRP:GND:CRP:GND:7441:7477
-KCRP Corpus Christi International Tower:Corpus Tower:119.400:CPT:T:CRP:TWR:CRP:TWR:7441:7477
-Corpus North Approach:Corpus Approach:120.900:CN:A:CRP:APP:CRP:APP:N:7441:7477
-Corpus West Approach:Corpus Approach:124.800:CW:A:CRP:APP:CRP:APP:W:7441:7477
-Corpus East Approach:Corpus Approach:125.400:CE:A:CRP:APP:CRP:APP:E:7441:7477
+KCRP Corpus Christi International Clearance Delivery:Corpus Delivery:118.550:CPL:L:CRP:DEL:CRP:DEL:4561:4620
+KCRP Corpus Christi International Ground:Corpus Ground:121.900:CPR:R:CRP:GND:CRP:GND:4561:4620
+KCRP Corpus Christi International Tower:Corpus Tower:119.400:CPT:T:CRP:TWR:CRP:TWR:4561:4620
+Corpus North Approach:Corpus Approach:120.900:CN:A:CRP:APP:CRP:APP:N:4561:4620
+Corpus West Approach:Corpus Approach:124.800:CW:A:CRP:APP:CRP:APP:W:4561:4620
+Corpus East Approach:Corpus Approach:125.400:CE:A:CRP:APP:CRP:APP:E:4561:4620
 
 ***************************
 ;CORPUS CHRISTI NAVAL AIR STATION
-KNGP Corpus Christi NAS Tower:Navy Corpus Tower:125.525:CTT:T:NGP:TWR:NGP:TWR:7441:7477
+KNGP Corpus Christi NAS Tower:Navy Corpus Tower:125.525:CTT:T:NGP:TWR:NGP:TWR:4561:4620
 
 ***************************
 ;ORANGE GROVE NAVAL AUX FIELD
-KNOG Orange Grove NAF Tower:Navy Orange Tower:128.400:CTO:T:NOG:TWR:NOG:TWR:7441:7477
+KNOG Orange Grove NAF Tower:Navy Orange Tower:128.400:CTO:T:NOG:TWR:NOG:TWR:4561:4620
 
 ***************************
 ;KINGSVILLE NAVAL AIR STATION 
-KNQI Kingsville NAS Tower:Kingsville Tower:124.100:KIT:T:NQI:TWR:NQI:TWR:7441:7477
-Kingsville Approach:Kingsville Approach:119.900:KIA:A:NQI:APP:NQI:APP:7441:7477
+KNQI Kingsville NAS Tower:Kingsville Tower:124.100:KIT:T:NQI:TWR:NQI:TWR:4561:4620
+Kingsville Approach:Kingsville Approach:119.900:KIA:A:NQI:APP:NQI:APP:4561:4620
 
 ***************************
 ;LAREDO INTERNATIONAL
-KLRD Laredo International Ground:Laredo Ground:121.800:LR:R:LRD:GND:LRD:R:7441:7477
-KLRD Laredo International Tower:Laredo Tower:120.100:LT:T:LRD:TWR:LRD:TWR:7441:7477
+KLRD Laredo International Ground:Laredo Ground:121.800:LR:R:LRD:GND:LRD:R:4775:4777
+KLRD Laredo International Tower:Laredo Tower:120.100:LT:T:LRD:TWR:LRD:TWR:4775:4777
 
 ***************************
 ;RIO GRANDE VALLEY APPROACH
-McAllen West Valley Approach:Valley Approach:121.000:VW:W:VW:APP:VLY:APP:7441:W:7477
-Brownsville East Valley Approach:Valley Approach:119.500:VE:E:VLY:APP:VLY:APP:E:7441:7477
-Harlingen North Valley Approach:Valley Approach:120.700:VN:N:VLY:APP:VLY:APP:N:7441:7477
-Combined Valley Approach:Valley Approach:120.700:VN:C:VLY:APP:VLY:APP:7441:7477
+McAllen West Valley Approach:Valley Approach:121.000:VW:W:VW:APP:VLY:APP:W:4640:4720
+Brownsville East Valley Approach:Valley Approach:119.500:VE:E:VLY:APP:VLY:APP:E:4640:4720
+Harlingen North Valley Approach:Valley Approach:120.700:VN:N:VLY:APP:VLY:APP:N:4640:4720
+Combined Valley Approach:Valley Approach:120.700:VN:C:VLY:APP:VLY:APP:4640:4720
 
 ***************************
 ;MCALLEN MILLER INTRNATIONAL
-KMFE McAllen Miller International Ground:McAllen Ground:121.800:VFR:R:MFE:GND:MFE:GND:7441:7477
-KMFE McAllen Miller International Tower:McAllen Tower:118.500:VFT:T:MFE:TWR:MFE:TWR:7441:7477
+KMFE McAllen Miller International Ground:McAllen Ground:121.800:VFR:R:MFE:GND:MFE:GND:4640:4720
+KMFE McAllen Miller International Tower:McAllen Tower:118.500:VFT:T:MFE:TWR:MFE:TWR:4640:4720
 
 ***************************
 ;BROWNSVILLE SOUTH PADRE ISLAND INTERNATIONAL
-KBRO Brownsville South Padre Island International Ground:Brownsville Ground:121.900:VBR:R:BRO:GND:BRO:GND:7441:7477
-KBRO Brownsville South Padre Island International Tower:Brownsville Tower:118.900:VBT:T:BRO:TWR:BRO:TWR:7441:7477
+KBRO Brownsville South Padre Island International Ground:Brownsville Ground:121.900:VBR:R:BRO:GND:BRO:GND:4640:4720
+KBRO Brownsville South Padre Island International Tower:Brownsville Tower:118.900:VBT:T:BRO:TWR:BRO:TWR:4640:4720
 
 ***************************
 ;HARLINGEN VALLEY INTERNATIONAL
-KHRL Harlingen Valley International Ground:Harlingen Ground:121.700:VRR:R:HRL:GND:HRL:GND:7441:7477
-KHRL Harlingen Valley International Tower:Harlingen Tower:119.300:VRT:T:HRL:TWR:HRL:TWR:7441:7477
+KHRL Harlingen Valley International Ground:Harlingen Ground:121.700:VRR:R:HRL:GND:HRL:GND:4640:4720
+KHRL Harlingen Valley International Tower:Harlingen Tower:119.300:VRT:T:HRL:TWR:HRL:TWR:4640:4720
 ***************************
 ;CONROE NORTH HOUSTON REGIONAL AIRPORT
-KCXO Conroe North Houston Regional Ground:Lone Star Ground:120.450:ACG:R:CXO:GND:CXO:GND:7441:7477
-KCXO Conroe North Houston Regional Tower:Lone Star Tower:124.125:ACL:T:CXO:TWR:CXO:TWR:7441:7477
+KCXO Conroe North Houston Regional Ground:Lone Star Ground:120.450:ACG:R:CXO:GND:CXO:GND:2536:2550
+KCXO Conroe North Houston Regional Tower:Lone Star Tower:124.125:ACL:T:CXO:TWR:CXO:TWR:2536:2550
 
 ***************************
 ;GALVESTON SCHOLES INTERNATIONAL
-KGLS Galveston Scholes International Ground:Scholes Ground:118.625:AGG:R:GLS:GND:GLS:GND:7441:7477
-KGLS Galveston Scholes International Tower:Scholes Tower:120.575:AGL:T:GLS:TWR:GLS:TWR:7441:7477
+KGLS Galveston Scholes International Ground:Scholes Ground:118.625:AGG:R:GLS:GND:GLS:GND:2536:2550
+KGLS Galveston Scholes International Tower:Scholes Tower:120.575:AGL:T:GLS:TWR:GLS:TWR:2536:2550
 
 ***************************
 ;BEAUMONT JACK BROOKS REGIONAL AIRPORT
-KBPT Beaumont Jack Brooks Regional Clearance Delivery:Beaumont Delivery:118.300:ABC:L:BPT:DEL:BPT:L:7441:7477
-KBPT Beaumont Jack Brooks Regional Ground:Beaumont Ground:121.900:ABG:R:BPT:GND:BPT:GND:7441:7477
-KBPT Beaumont Jack Brooks Regional Tower:Beaumont Tower:119.500:ABL:T:BPT:TWR:BPT:TWR:7441:7477
+KBPT Beaumont Jack Brooks Regional Clearance Delivery:Beaumont Delivery:118.300:ABC:L:BPT:DEL:BPT:L:2536:2550
+KBPT Beaumont Jack Brooks Regional Ground:Beaumont Ground:121.900:ABG:R:BPT:GND:BPT:GND:2536:2550
+KBPT Beaumont Jack Brooks Regional Tower:Beaumont Tower:119.500:ABL:T:BPT:TWR:BPT:TWR:2536:2550
 
 ***************************
 ; Houston Executive
-KTME Houston Executive Ground:Executive Ground:132.075:AXG:G:TME:GND:TME:G:7441:7477
-KTME Houston Executive Tower:Executive Tower:126.975:AXL:L:TME:TWR:TME:L:7441:7477
+KTME Houston Executive Ground:Executive Ground:132.075:AXG:G:TME:GND:TME:G:2536:2550
+KTME Houston Executive Tower:Executive Tower:126.975:AXL:L:TME:TWR:TME:L:2536:2550
 
 ***************************
 ;POLK AIRFORCE AUX FIELD
-KPOE Polk AAF Ground:Polk Ground:121.800:PPR:R:POE:GND:POE:GND:7441:7477
-KPOE Polk AAF Tower:Polk Tower:119.000:PPT:T:POE:TWR:POE:TWR:7441:7477
-Polk Approach:Polk Approach:123.700:PPA:A:POE:APP:POE:APP:7441:7477
+KPOE Polk AAF Ground:Polk Ground:121.800:PPR:R:POE:GND:POE:GND:4751:4756
+KPOE Polk AAF Tower:Polk Tower:119.000:PPT:T:POE:TWR:POE:TWR:4751:4756
+Polk Approach:Polk Approach:123.700:PPA:A:POE:APP:POE:APP:4751:4756
 
 ***************************
 ;LAKE CHARLES REGIONAL
-KLCH Lake Charles Regional Clearance Delivery:Lake Charles Delivery:126.250:HLL:L:LCH:DEL:LCH:DEL:7441:7477
-KLCH Lake Charles Regional Ground:Lake Charles Ground:121.800:HLR:R:LCH:GND:LCH:GND:7441:7477
-KLCH Lake Charles Regional Tower:Lake Charles Tower:120.700:HLT:T:LCH:TWR:LCH:TWR:7441:7477
-Lake Charles West Approach:Lake Charles Approach:119.350:LCW:A:LCH:APP:LCH:APP:7441:7477
-Lake Charles East Approach:Lake Charles Approach:119.800:LCE:A:LCH:APP:LCH:APP:7441:7477
+KLCH Lake Charles Regional Clearance Delivery:Lake Charles Delivery:126.250:HLL:L:LCH:DEL:LCH:DEL:2571:2577
+KLCH Lake Charles Regional Ground:Lake Charles Ground:121.800:HLR:R:LCH:GND:LCH:GND:2571:2577
+KLCH Lake Charles Regional Tower:Lake Charles Tower:120.700:HLT:T:LCH:TWR:LCH:TWR:2571:2577
+Lake Charles West Approach:Lake Charles Approach:119.350:LCW:A:LCH:APP:LCH:APP:2571:2577
+Lake Charles East Approach:Lake Charles Approach:119.800:LCE:A:LCH:APP:LCH:APP:2571:2577
 
 ***************************
 ;CHENNAULT INTERNATIONAL
-KCWF Chennault International Ground:Chennault Ground:121.650:HCR:R:CWF:GND:CWF:GND:7441:7477
-KCWF Chennault International Tower:Chennault Tower:124.200:HCT:T:CWF:TWR:CWF:TWR:7441:7477
+KCWF Chennault International Ground:Chennault Ground:121.650:HCR:R:CWF:GND:CWF:GND:2571:2577
+KCWF Chennault International Tower:Chennault Tower:124.200:HCT:T:CWF:TWR:CWF:TWR:2571:2577
 
 ***************************
 ;ALEXANDRIA INTERNATIONAL 
-KAEX Alexandria International Ground:Alexandria Ground:121.900:PAR:R:AEX:GND:AEX:GND:7441:7477
-KAEX Alexandria International Tower:Alexandria Tower:127.350:PAT:T:AEX:TWR:AEX:TWR:7441:7477
+KAEX Alexandria International Ground:Alexandria Ground:121.900:PAR:R:AEX:GND:AEX:GND:4751:4756
+KAEX Alexandria International Tower:Alexandria Tower:127.350:PAT:T:AEX:TWR:AEX:TWR:4751:4756
 
 ***************************
 ;LAFAYETTE REGIONAL 
-KLFT Lafayette Regional Clearance Delivery:Lafayette Delivery:125.550:LFL:L:LFT:DEL:LFT:DEL:7441:7477
-KLFT Lafayette Regional Ground:Lafayette Ground:121.800:LFR:R:LFT:GND:LFT:GND:7441:7477
-KLFT Lafayette Regional Tower:Lafayette Tower:118.500:LFT:T:LFT:TWR:LFT:TWR:7441:7477
-Lafayette West Approach:Lafayette Approach:128.700:LW:A:LFT:APP:LFT:APP:7441:7477
-Lafayette East Approach:Lafayette Approach:121.100:LE:A:LFT:APP:LFT:APP:7441:7477
+KLFT Lafayette Regional Clearance Delivery:Lafayette Delivery:125.550:LFL:L:LFT:DEL:LFT:DEL:2561:2570
+KLFT Lafayette Regional Ground:Lafayette Ground:121.800:LFR:R:LFT:GND:LFT:GND:2561:2570
+KLFT Lafayette Regional Tower:Lafayette Tower:118.500:LFT:T:LFT:TWR:LFT:TWR:2561:2570
+Lafayette West Approach:Lafayette Approach:128.700:LW:A:LFT:APP:LFT:APP:2561:2570
+Lafayette East Approach:Lafayette Approach:121.100:LE:A:LFT:APP:LFT:APP:2561:2570
 
 ***************************
 ;ACADIANA REGIONAL
-KARA Acadiana Regional Ground:Acadiana Ground:121.700:LNR:R:ARA:GND:ARA:GND:7441:7477
-KARA Acadiana Regional Tower:Acadiana Tower:125.000:LNT:T:ARA:TWR:ARA:TWR:7441:7477
+KARA Acadiana Regional Ground:Acadiana Ground:121.700:LNR:R:ARA:GND:ARA:GND:2561:2570
+KARA Acadiana Regional Tower:Acadiana Tower:125.000:LNT:T:ARA:TWR:ARA:TWR:2561:2570
 
 ***************************
 ;BATON ROUGE METROPOLITAN, RYAN FIELD AIRPORT
-KBTR Ryan Clearance Delivery:Ryan Delivery:119.400:BTL:L:BTR:DEL:BTR:DEL:7441:7477
-KBTR Ryan Ground:Ryan Ground:121.900:BTR:R:BTR:GND:BTR:GND:7441:7477
-KBTR Ryan Tower:Ryan Tower:118.450:BTT:T:BTR:TWR:BTR:TWR:7441:7477
-Baton Rouge East Approach:Baton Rouge Approach:126.500:BRE:T:BTR:APP:BTR:TWR:7441:7477
-Baton Rouge West Approach:Baton Rouge Approach:120.300:BRW:W:BTR:APP:BTR:TWR:7441:7477
+KBTR Ryan Clearance Delivery:Ryan Delivery:119.400:BTL:L:BTR:DEL:BTR:DEL:2551:2560
+KBTR Ryan Ground:Ryan Ground:121.900:BTR:R:BTR:GND:BTR:GND:2551:2560
+KBTR Ryan Tower:Ryan Tower:118.450:BTT:T:BTR:TWR:BTR:TWR:2551:2560
+Baton Rouge East Approach:Baton Rouge Approach:126.500:BRE:T:BTR:APP:BTR:TWR:2551:2560
+Baton Rouge West Approach:Baton Rouge Approach:120.300:BRW:W:BTR:APP:BTR:TWR:2551:2560
 
 ***************************
 ;HOUMA TERREBONNE
-KHUM Houma Terrebonne Ground:Houma Ground:121.800:NOR:R:HUM:GND:HUM:GND:7441:7477
-KHUM Houma Terrebonne Tower:Houma Tower:125.300:NOT:T:HUM:TWR:HUM:TWR:7441:7477
+KHUM Houma Terrebonne Ground:Houma Ground:121.800:NOR:R:HUM:GND:HUM:GND:4521:4580
+KHUM Houma Terrebonne Tower:Houma Tower:125.300:NOT:T:HUM:TWR:HUM:TWR:4521:4580
 
 ***************************
 ;NEW ORLEANS LAKEFRONT
-KNEW New Orleans Lakefront Ground:Lakefront Ground:121.700:NLR:R:NEW:GND:NEW:GND:7441:7477
-KNEW New Orleans Lakefront Tower:Lakefront Tower:119.900:NLT:T:NEW:TWR:NEW:TWR:7441:7477
+KNEW New Orleans Lakefront Ground:Lakefront Ground:121.700:NLR:R:NEW:GND:NEW:GND:4521:4580
+KNEW New Orleans Lakefront Tower:Lakefront Tower:119.900:NLT:T:NEW:TWR:NEW:TWR:4521:4580
 
 ***************************
 ;NEW ORLEANS NAVAL AIR STATION
-KNBG New Orleans NAS Ground:Navy New Orleans Ground:121.600:NGR:R:NBG:GND:NBG:GND:7441:7477
-KNBG New Orleans NAS Tower:Navy New Orleans Tower:123.800:NGT:T:NBG:TWR:NBG:TWR:7441:7477
+KNBG New Orleans NAS Ground:Navy New Orleans Ground:121.600:NGR:R:NBG:GND:NBG:GND:4521:4580
+KNBG New Orleans NAS Tower:Navy New Orleans Tower:123.800:NGT:T:NBG:TWR:NBG:TWR:4521:4580
 
 ***************************
 ;STENNIS INTERNATIONAL 
-KHSA Stennis International Ground:Stennis Ground:121.725:GHR:R:HSA:GND:HSA:GND:7441:7477
-KHSA Stennis International Tower:Stennis Tower:127.150:GHT:T:HSA:TWR:HSA:TWR:7441:7477
+KHSA Stennis International Ground:Stennis Ground:121.725:GHR:R:HSA:GND:HSA:GND:4636:4750
+KHSA Stennis International Tower:Stennis Tower:127.150:GHT:T:HSA:TWR:HSA:TWR:4636:4750
 
 ***************************
 ;GULFPORT BILOXI INTERNATIONAL
-KGPT Gulfport Biloxi International Ground:Gulfport Ground:120.400:GPR:R:GPT:GND:GPT:GND:7441:7477
-KGPT Gulfport Biloxi International Tower:Gulfport Tower:123.700:GPR:T:GPT:TWR:GPT:TWR:7441:7477
-Gulfport Southwest Approach:Gulfport Approach:124.600:GW:A:GPT:APP:GPT:APP:7441:7477
-Gulfport Northeast Approach:Gulfport Approach:127.500:GE:A:GPT:APP:GPT:APP:7441:7477
+KGPT Gulfport Biloxi International Ground:Gulfport Ground:120.400:GPR:R:GPT:GND:GPT:GND:4636:4750
+KGPT Gulfport Biloxi International Tower:Gulfport Tower:123.700:GPR:T:GPT:TWR:GPT:TWR:4636:4750
+Gulfport Southwest Approach:Gulfport Approach:124.600:GW:A:GPT:APP:GPT:APP:4636:4750
+Gulfport Northeast Approach:Gulfport Approach:127.500:GE:A:GPT:APP:GPT:APP:4636:4750
 
 ***************************
 ;KEESLER AIRFORCE BASE
-KBIX Keesler AFB Ground:Keesler Ground:121.800:GBR:R:BIX:GND:BIX:GND:7441:7477
-KBIX Keesler AFB Tower:Keesler Tower:120.750:GBT:T:BIX:TWR:BIX:TWR:7441:7477
+KBIX Keesler AFB Ground:Keesler Ground:121.800:GBR:R:BIX:GND:BIX:GND:4636:4750
+KBIX Keesler AFB Tower:Keesler Tower:120.750:GBT:T:BIX:TWR:BIX:TWR:4636:4750
 
 ***************************
 ;PASCAGPOULA TRENT LOTT INTERNATIONAL
-KPQL Pascagoula Trent Lott International Ground:Trent Lott Ground:121.725:MQR:R:PQL:GND:PQL:GND:7441:7477
-KPQL Pascagoula Trent Lott International Tower:Trent Lott Tower:118.575:MQT:T:PQL:TWR:PQL:T:7441:7477
-
+KPQL Pascagoula Trent Lott International Ground:Trent Lott Ground:121.725:MQR:R:PQL:GND:PQL:GND:4721:4735
+KPQL Pascagoula Trent Lott International Tower:Trent Lott Tower:118.575:MQT:T:PQL:TWR:PQL:T:4721:4735
 ***************************
 ;MOBILE DOWNTOWN
-KBFM Mobile Downtown Ground:Downtown Ground:121.700:MDR:R:BFM:GND:BFM:GND:7441:7477
-KBFM Mobile Downtown Tower:Downtown Tower:118.800:MDT:T:BFM:TWR:BFM:TWR:7441:7477
+KBFM Mobile Downtown Ground:Downtown Ground:121.700:MDR:R:BFM:GND:BFM:GND:4721:4735
+KBFM Mobile Downtown Tower:Downtown Tower:118.800:MDT:T:BFM:TWR:BFM:TWR:4721:4735
 
 ***************************
 ;MOBILE REGIONAL 
-KMOB Mobile Regional Clearance Delivery:Mobile Delivery:119.850:MML:L:MOB:DEL:MOB:DEL:7441:7477
-KMOB Mobile Regional Ground:Mobile Ground:121.900:MMG:R:MOB:GND:MOB:GND:7441:7477
-KMOB Mobile Regional Tower:Mobile Tower:118.300:MMT:T:MOB:TWR:MOB:TWR:7441:7477
-Mobile Northeast Approach:Mobile Approach:118.500:MN:A:MOB:APP:MOB:APP:7441:7477
-Mobile Southwest Approach:Mobile Approach:121.000:MS:A:MOB:APP:MOB:APP:7441:7477
+KMOB Mobile Regional Clearance Delivery:Mobile Delivery:119.850:MML:L:MOB:DEL:MOB:DEL:4721:4735
+KMOB Mobile Regional Ground:Mobile Ground:121.900:MMG:R:MOB:GND:MOB:GND:4721:4735
+KMOB Mobile Regional Tower:Mobile Tower:118.300:MMT:T:MOB:TWR:MOB:TWR:4721:4735
+Mobile Northeast Approach:Mobile Approach:118.500:MN:A:MOB:APP:MOB:APP:4721:4735
+Mobile Southwest Approach:Mobile Approach:121.000:MS:A:MOB:APP:MOB:APP:4721:4735
 
 ***************************
 ;ZFW ARTCC
