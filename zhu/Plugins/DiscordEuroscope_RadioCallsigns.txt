@@ -37,7 +37,7 @@ HOU_36_CTR Houston Center (Liberty)
 HOU_34_CTR Houston Center (Baton Rouge Low)
 HOU_40_CTR Houston Center (Polk Low)
 HOU_25_CTR Houston Center (Brookley)
-HOU_27_CTR Houston Center (Picayune)
+HOU_27_CTR Houston Center (Picayune
 HOU_28_CTR Houston Center (Offshore West)
 HOU_53_CTR Houston Center (Offshore Central)
 HOU_30_CTR Houston Center (Offshore East)
@@ -45,36 +45,6 @@ HOU_79_CTR Houston Center (Ocean West)
 HOU_72_CTR Houston Center (Ocean East)
 HOU_79_FSS Houston Center (Ocean West)
 HOU_72_FSS Houston Center (Ocean East)
-ZHU_28_CTR Houston Center (Offshore West)
-ZHU_53_CTR Houston Center (Offshore Central)
-ZHU_30_CTR Houston Center (Offshore East)
-ZHU_79_CTR Houston Center (Ocean West)
-ZHU_72_CTR Houston Center (Ocean East)
-ZHU_79_FSS Houston Center (Ocean West)
-ZHU_72_FSS Houston Center (Ocean East)
-I90_M_DEP Houston Departure (North)
-I90_E_DEP Houston Departure (East)
-I90_L_DEP Houston Departure (South)
-I90_W_DEP Houston Departure (West)
-I90_DEP Houston Departure
-I90_R_APP Houston Approach (Tomball)
-I90_P_APP Houston Approach (Lakeside)
-I90_N_APP Houston Approach (West Arrival)
-I90_X_APP Houston Approach (Eagle Lake)
-I90_U_APP Houston Approach (College Station)
-I90_T_APP Houston Approach (College Station Final)
-I90_Z_APP Houston Approach (Industry)
-I90_B_APP Houston Approach (Sanjac)
-I90_J_APP Houston Approach (Beaumont)
-I90_D_APP Houston Approach
-I90_G_APP Houston Approach (Gulf Arrival)
-I90_H_APP Houston Approach (Hobby Final)
-I90_FN_APP Houston Approach (Final North)
-I90_FC_APP Houston Approach (Final Center)
-I90_FS_APP Houston Approach (Final South)
-I90_MN_APP Final Monitor North
-I90_MC_APP Final Monitor Center
-I90_MS_APP Final Monitor South
 HOU_M_DEP Houston Departure (North)
 HOU_E_DEP Houston Departure (East)
 HOU_L_DEP Houston Departure (South)
@@ -113,42 +83,14 @@ IAH_W_TWR Houston Tower (West)
 HOU_DEL Hobby Clearance
 HOU_GND Hobby Ground
 HOU_TWR Hobby Tower
-EFD_TWR Ellington Tower
-EFD_GND Ellington Ground
-EFD_DEL Ellington Clearance
-GLS_TWR Galveston Tower
-GLS_GND Galveston Ground
-SGR_TWR Sugarland Tower
-SGR_GND Sugarland Ground
-TME_TWR Executive Tower (Houston)
-TME_GND Executive Ground (Houston)
-DWH_TWR Hooks Tower
-DWH_GND Hooks Ground
-DWH_DEL Hooks Clearance
-CXO_TWR Conroe Tower
-CXO_GND Conroe Ground
-BPT_TWR Beaumont Tower
-BPT_GND Beaumont Ground
-BPT_DEL Beaumont Clearance
-CLL_TWR Easterwood Tower
-CLL_GND Easterwood Ground
 MSY_APP New Orleans Approach
-MSY_W_APP New Orleans Approach (West)
-MSY_E_APP New Orleans Approach (East)
+MSY_W_APP New Orleans Approach
+MSY_E_APP New Orleans Approach
 MSY_N_APP New Orleans Approach (North)
 MSY_H_APP New Orleans Approach (Houma)
-MSY_F_APP New Orleans Approach (Final/Spare)
 MSY_DEL New Orleans Clearance
 MSY_GND New Orleans Ground
 MSY_TWR New Orleans Tower
-NEW_TWR Lakefront Tower
-NEW_GND Lakefront Ground
-NBG_TWR Navy New Orleans Tower
-NBG_GND Navy New Orleans Ground
-HUM_TWR Houma Tower
-HUM_GND Houma Ground
-HDC_TWR Hammond Tower
-HDC_GND Hammond Ground
 AUS_APP Austin Approach
 AUS_W_APP Austin Approach
 AUS_E_APP Austin Approach (East)
@@ -159,15 +101,9 @@ AUS_DEL Austin Clearance
 AUS_E_GND Austin Ground (East)
 AUS_W_GND Austin Ground (West)
 AUS_GND Austin Ground
-AUS_W_TWR Austin Tower (18R/36L)
-AUS_E_TWR Austin Tower (18L/36R)
+AUS_W_TWR Austin Tower (17R/35L)
+AUS_E_TWR Austin Tower (17L/35R)
 AUS_TWR Austin Tower
-EDC_TWR Executive Tower (Austin)
-EDC_GND Executive Tower (Austin)
-GTU_TWR Georgetown Tower
-GTU_GND Georgetown Ground
-HYI_TWR San Marcos Tower
-HYI_GND San Marcos Ground
 SAT_APP San Antonio Approach
 SAT_N_APP San Antonio Approach
 SAT_E_APP San Antonio Approach (East)
@@ -176,16 +112,6 @@ SAT_S_APP San Antonio Approach (South)
 SAT_DEL San Antonio Clearance
 SAT_GND San Antonio Ground
 SAT_TWR San Antonio Tower
-BAZ_TWR New Braunfels Tower
-BAZ_GND New Braunfels Ground
-RND_TWR Hangover Tower
-RND_GND Hangover Ground
-SSF_TWR Stinson Tower
-SSF_GND Stinson Ground
-SKF_TWR Kelly Tower
-SKF_GND Kelly Ground
-VCT_TWR Victoria Tower
-VCT_GND Victoria Ground
 CRP_APP Corpus & Valley Approach
 CRP_N_APP Corpus Approach
 CRP_W_APP Corpus Approach (West)
@@ -197,74 +123,131 @@ VLY_E_APP Valley Approach (East)
 CRP_DEL Corpus Clearance
 CRP_GND Corpus Ground
 CRP_TWR Corpus Tower
-NGP_TWR Navy Corpus Tower
-NGP_S_TWR Navy Corpus Tower (South)
-NGP_N_TWR Navy Corpus Tower (North)
-NGP_GND Navy Corpus Ground
-NWL_TWR Navy Waldron Tower
-NGW_TWR Navy Cabaniss Tower
-HRL_TWR Harlingen Tower
-HRL_GND Harlingen Ground
-HRL_DEL Harlingen Clearance
-BRO_TWR Brownsville Tower
-BRO_GND Brownsville Clearance
-MFE_TWR McAllen Tower
+----------KMFE----------
 MFE_GND McAllen Ground
-MFE_DEL McAllen Clearance
-LRD_TWR Laredo Tower
-LRD_GND Laredo Ground
-LCH_APP Lake Charles Approach
-LCH_E_APP Lake Charles Approach (East)
-LCH_W_APP Lake Charles Approach (West)
-LCH_TWR Lake Charles Tower
+MFE_TWR McAllen Tower
+----------KBRO----------
+BRO_GND Brownsville Ground
+BRO_TWR Brownsville Tower
+----------KHRL----------
+HRL_GND Harlingen Ground
+HRL_TWR Harlingen Tower
+----------KCXO----------
+CXO_GND Lone Star Ground
+CXO_TWR Lone Star Tower
+----------KGLS----------
+GLS_GND Scholes Ground
+GLS_TWR Scholes Tower
+----------KBPT----------
+BPT_DEL Beaumont Delivery
+BPT_GND Beaumont Ground
+BPT_TWR Beaumont Tower
+----------KPOK----------
+POE_GND Polk Ground
+POE_TWR Polk Tower
+POE_APP Polk Approach
+----------KLCH----------
+LCH_DEL Lake Charles Delivery
 LCH_GND Lake Charles Ground
-CWF_TWR Chennault Tower
+LCH_TWR Lake Charles Tower
+LCH_APP Lake Charles Approach
+LCH_W_APP Lake Charles Approach
+LCH_E_APP Lake Charles Approach
+----------KCWF----------
 CWF_GND Chennault Ground
-NQI_APP Kingsville Approach
-NQI_DEP Kingsville Departure
-NQI_N_APP Kingsville Approach (North)
-NQI_S_APP Kingsville Approach (South)
-NQI_TWR Kingsville Tower
-NQI_GND Kingsville Ground
-NOG_TWR Navy Orange Tower
-NOG_GND Navy Orange Ground
-DLF_APP Del Rio Approach
-DLF_DEP Del Rio Departure
-DLH_TWR Laughlin Tower
-DLH_GND Laughlin Ground
-LFT_APP Lafayette Approach
-LFT_E_APP Lafayette Approach (East)
-LFT_W_APP Lafayette Approach (West)
-LFT_TWR Lafayette Tower
+CWF_TWR Chennault Tower
+----------KAEX----------
+AEX_GND Alexandria Ground
+AEX_TWR Alexandria Tower
+----------KLFT----------
+LFT_DEL Lafayette Delivery
 LFT_GND Lafayette Ground
-LFT_DEL Lafayette Clearance
-ARA_TWR Acadiana Tower
+LFT_TWR Lafayette Tower
+LFT_APP Lafayette Approach
+LFT_W_APP Lafayette Approach
+LFT_E_APP Lafayette Approach
+----------KARA----------
 ARA_GND Acadiana Ground
-BTR_APP Baton Rouge Approach
-BTR_E_APP Baton Rouge Approach (East)
-BTR_W_APP Baton Rouge Approach (West)
-BTR_TWR Ryan Tower
+ARA_TWR Acadiana Tower
+----------KBTR----------
+BTR_DEL Ryan Delivery
 BTR_GND Ryan Ground
-BTR_DEL Ryan Clearance
-GPT_APP Gulfport Approach
-GPT_E_APP Gulfport Approach (East)
-GPT_W_APP Gulfport Approach (West)
-GPT_F_APP Gulfport Approach (Final)
-GPT_TWR Gulfport Tower
-GPT_GND Gulfport Ground
-HSA_TWR Stennis Tower
+BTR_TWR Ryan Tower
+BTR_APP Baton Rouge Approach
+BTR_E_APP Baton Rouge Approach
+BTR_W_APP Baton Rouge Approach
+----------KHUM----------
+HUM_GND Houma Ground
+HUM_TWR Houma Tower
+----------KNEW----------
+NEW_GND Lakefront Ground
+NEW_TWR Lakefront Tower
+----------KNBG----------
+NBG_GND Navy New Orleans Ground
+NBG_TWR Navy New Orleans Tower
+----------KHSA----------
 HSA_GND Stennis Ground
-BIX_TWR Keesler Tower
+HSA_TWR Stennis Tower
+----------KGPT----------
+GPT_GND Gulfport Ground
+GPT_TWR Gulfport Tower
+GPT_APP Gulfport Approach
+GPT_W_APP Gulfport Approach
+GPT_E_APP Gulfport Approach
+----------KBIX----------
 BIX_GND Keesler Ground
-BIX_DEL Keesler Clearance
-MOB_APP Mobile Approach
-MOB_E_APP Mobile Approach (East)
-MOB_W_APP Mobile Approach (West)
-MOB_TWR Mobile Tower
-MOB_GND Mobile Ground
-MOB_DEL Mobile Clearance
-PQL_TWR Trent Lott Tower
+BIX_TWR Keesler Tower
+----------KPQL----------
 PQL_GND Trent Lott Ground
-PQL_DEL Trent Lott Clearance
-BFM_TWR Downtown Tower (Mobile)
-BFM_GND Downtown Ground (Mobile)
+PQL_TWR Trent Lott Tower
+----------KBFM----------
+BFM_GND Downtown Ground
+BFM_TWR Downtown Tower
+----------KMOB----------
+MOB_DEL Mobile Delivery
+MOB_GND Mobile Ground
+MOB_TWR Mobile Tower
+MOB_APP Mobile Approach
+MOB_N_APP Mobile Approach
+----------KDLF----------
+DLF_GND Laughlin Ground
+DLF_TWR Laughlin Tower
+----------KSKF----------
+SKF_GND Kelly Ground
+SKF_TWR Kelly Tower
+----------KSSF----------
+SSF_GND Stinson Ground
+SSF_TWR Stinson Tower
+----------KRND----------
+RND_GND Hangover Ground
+RND_TWR Hangover Tower
+----------KBAZ----------
+BAZ_DEL New Braunfels Delivery
+BAZ_GND New Braunfels Ground
+BAZ_TWR New Braunfels Tower
+----------KGTU----------
+GTU_GND Georgetown Ground
+GTU_TWR Georgetown Tower
+----------KGRK----------
+GRK_GND Gray Ground
+GRK_TWR Gray Tower
+GRK_APP Gray Approach
+----------KHLR----------
+HLR_GND Hood Ground
+HLR_TWR Hood Tower
+----------KVCT----------
+VCT_GND Victoria Ground
+VCT_TWR Victoria Tower
+----------KCLL----------
+CLL_GND Easterwood Ground
+CLL_TWR Easterwood Tower
+----------KDWH----------
+DWH_DEL Hooks Delivery
+DWH_GND Hooks Ground
+DWH_TWR Hooks Tower
+----------KEFD----------
+EFD_GND Ellington Ground
+EFD_TWR Ellington Tower
+----------KSGR----------
+SGR_GND Sugarland Ground
+SGR_TWR Sugarland Tower
