@@ -1,29 +1,21 @@
-DisplayTypeName:Standard ES radar screen
-DisplayTypeNeedRadarContent:1
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:D:\Users\Admin\Documents\EuroScope\ZHU\Sectors\ZHU.sct2
 SECTORTITLE:ZHU.sct2
-ARTCC boundary:_CTR:
-ARTCC boundary:ABQ_CTR:
-ARTCC boundary:FTW_CTR:
-ARTCC boundary:MEM_CTR:
-ARTCC boundary:MTY_CTR:
-ARTCC boundary:OCEANIC:
-ARTCC boundary:ZAB_CTR:
-ARTCC boundary:ZFW_CTR:
-ARTCC boundary:ZJX_ARTCC:
-ARTCC boundary:ZJX_CTR:
-ARTCC boundary:ZKC_CTR:
-ARTCC boundary:ZME_CTR:
-ARTCC boundary:ZMY_CTR:
-ARTCC boundary:ZTL_ARTCC:
-ARTCC boundary:ZTL_CTR:
-Geo:GEO:
 Regions:0:polygon
 Regions:0:polygon
 Regions:0:polygon
 Regions:0:polygon
 Regions:0:polygon
+Regions:1:polygon
+Regions:10:polygon
+Regions:11:polygon
+Regions:12rrrrs:polygon
+Regions:13_31:polygon
+Regions:18_36:polygon
+Regions:2:polygon
+Regions:3:polygon
 Regions:3684408:polygon
 Regions:3684408:polygon
 Regions:3684408:polygon
@@ -46,6 +38,7 @@ Regions:3684408:polygon
 Regions:3684408:polygon
 Regions:3684408:polygon
 Regions:3684408:polygon
+Regions:4:polygon
 Regions:4802889:polygon
 Regions:4802889:polygon
 Regions:4802889:polygon
@@ -65,6 +58,7 @@ Regions:4802889:polygon
 Regions:4802889:polygon
 Regions:4802889:polygon
 Regions:4802889:polygon
+Regions:5:polygon
 Regions:5329233:polygon
 Regions:5329233:polygon
 Regions:5329233:polygon
@@ -129,6 +123,16 @@ Regions:5329233:polygon
 Regions:5329233:polygon
 Regions:5329233:polygon
 Regions:5329233:polygon
+Regions:6:polygon
+Regions:7:polygon
+Regions:8:polygon
+Regions:9:polygon
+Regions:ATCT:polygon
+Regions:Cargo:polygon
+Regions:D_1:polygon
+Regions:E:polygon
+Regions:East:polygon
+Regions:H:polygon
 Regions:N027.46.18.999:polygon
 Regions:N029.57.31.300:polygon
 Regions:N029.57.31.320:polygon
@@ -5128,24 +5132,14 @@ Regions:N030.00.25.880:polygon
 Regions:N030.00.26.610:polygon
 Regions:noname:polygon
 Regions:noname:polygon
-Sids:i90 Base:
-Sids:O ZHU/MSY Boundary:
-Stars:* BTR TRACON:
-Stars:* CRP SSC:
-Stars:* GPT TRACON:
-Stars:* LCH TRACON:
-Stars:* LFT TRACON:
-Stars:O ZHU/AUS Boundary:
-Stars:O ZHU/DLF Boundary:
-Stars:O ZHU/GPT Boundary:
-Stars:O ZHU/MOB Boundary:
-Stars:O ZHU/NQI Boundary:
-Stars:O ZHU/POE Boundary:
-Stars:O ZHU/SAT Boundary:
+Regions:Northwest:polygon
+Regions:Terminal:polygon
+Regions:West:polygon
+Regions:West_Ramp:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0
-ABOVE:0
+ABOVE:1000
 LEADER:5
 SHOWLEADER:1
 TURNLEADER:0
@@ -5155,4 +5149,5 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:25.805314:-102.012001:33.752601:-85.369851
+WINDOWAREA:26.163677:-98.266109:26.190670:-98.209584
+PLUGIN:vSMR:Airport:KMFE
