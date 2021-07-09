@@ -4008,9 +4008,9 @@ CATEGORIES
  
 .BAYYYAPP .MSG ZHU_ISR *** BAYYY 3 ::: RNAV ::: [RWY 4] Vector to Final @ ALLLY __ [ALL OTHER RWYs] Vector to Final @ EMARR ::: A$altim(KHOU) 
  
-.TBAYYYCTRS . HOU Landing South. Altimeter A$altim(KHOU) 
+.TBAYYYCTR Descend via the BAYYY3 Arrival, the Hobby Altimeter A$altim(KHOU) 
  
-.TBAYYYAPPS . Altimeter A$altim(KHOU) 
+.TBAYYYAPP A$altim(KHOU) 
 
 ;HOU BELLR 
  
@@ -4027,9 +4027,9 @@ CATEGORIES
  
 .BELLRAPP .MSG ZHU_ISR *** BELLR 3 ::: RNAV ::: [RWY 4] Cleared ILS @ GEEEO __ [ILS 13R/L] Vector to Final @ SEUSS [RWY 22] Vector to Final @ MAAHH [RWY 31L/R] Vector to Final at RJAAY ::: A$altim(KHOU) 
  
-.TBELLRCTRS . HOU Landing South. Altimeter A$altim(KHOU) 
+.TBELLRCTR Descend via the BELLR3 Arrival, the Hobby Altimeter A$altim(KHOU) 
  
-.TBELLRAPPS . Altimeter A$altim(KHOU) 
+.TBELLRAPP4 At GEEEO, Cleared ILS Runway 4 Approach. 
 
 ;HOU BLUBL 
  
@@ -4046,7 +4046,7 @@ CATEGORIES
  
 .BLUBLAPP .MSG ZHU_ISR *** BLUBL 4 ::: Non-RNAV ::: SNDAY @ 9000 , vector to final [54T, AXH, EFD, GLS, HOU, HPY, IWS, LBX, LVJ, SGR, T00, T41, TME] ::: A$altim(KHOU) 
  
-.TBLUBLCTRS . HOU Landing South. Altimeter A$altim(KHOU) 
+.TBLUBLCTR Cross BLUBL at 9000, the Hobby Altimeter A$altim(KHOU) 
  
 .TBLUBLAPPS . Altimeter A$altim(KHOU) 
  
@@ -4065,7 +4065,7 @@ CATEGORIES
  
 .CESANAPP .MSG ZHU_ISR *** CESAN 4 ::: RNAV ::: Cross CESAN @ 11000 , vector to final [54T, ARM, AXH, BYY, CXO, EFD, GLS, HOU, HPY, IWS, LBX, LVJ, SGR, T00, T41,] ::: A$altim(KHOU) 
  
-.TCESANCTRS . HOU Landing South. Altimeter A$altim(KHOU) 
+.TCESANCTR Cross BLUBL at 9000, the Hobby Altimeter A$altim(KHOU)
  
 .TCESANAPPS . Altimeter A$altim(KHOU) 
 ;HOU HUDZY 
@@ -4079,11 +4079,11 @@ CATEGORIES
  
 .HUDZYF .FF BRWCK WAPPL HUDZY CLWSN SWWAA 
  
-.HUDZYCTR .MSG ZHU_ISR *** HUDZY 4 ::: Non-RNAV ::: Advise I90 if arrival is filed to an uncontrolled field or GLS ::: A$altim(KHOU) 
+.HUDZYCTR .MSG ZHU_ISR *** HUDZY 4 ::: Non-RNAV ::: HUDZY @ 14k, 280 knots. RNAV Aircraft file WAPPL ::: A$altim(KHOU) 
  
 .HUDZYAPP .MSG ZHU_ISR *** HUDZY 4 ::: Non-RNAV ::: [54T, 6R3, AXH, BYY, DWH, CXO, EFD, GLS, HOU, HPY, IWS, LBX, LVJ, SGR,T41,T78] ::: A$altim(KHOU) 
  
-.THUDZYCTRS . HOU Landing South. Altimeter A$altim(KHOU) 
+.THUDZYCTR Cross HUDZY at 14,000, 280 knots, the Hobby Altimeter A$altim(KHOU)
  
 .THUDZYAPPS . Altimeter A$altim(KHOU) 
 
@@ -4103,9 +4103,9 @@ CATEGORIES
  
 .KIDDZAPP .MSG ZHU_ISR *** KIDDZ 3 ::: RNAV ::: [RWY 4] @ GEEEO Cleared ILS __ [ALL OTHER RUNWAYS] Vector to Final ::: A$altim(KHOU) 
  
-.TKIDDZCTRS . HOU Landing South. Altimeter A$altim(KHOU) 
+.TKIDDZCTR Descend via the KIDDZ3 Arrival, the Hobby Altimeter A$altim(KHOU)
  
-.TKIDDZAPPS . Altimeter A$altim(KHOU) 
+.TKIDDZAPP4 At GEEEO Cleared ILS Runway 4 Approach.
  
  
 ;HOU OHIIO 
@@ -4113,19 +4113,21 @@ CATEGORIES
  
 .HOUOHIIO .FD HOU_OHIIO 
  
-.HOUOHIIOC .OPENURL https://aeronav.faa.gov/d-tpp/2014/05461ohiio.pdf#nameddest=(HOU) 
-.HOUOHIIO2C .OPENURL There Are No Additional Pages for This Procedure 
-.HOUOHIIO3C .OPENURL There Are No Additional Pages for This Procedure 
+.OHIIOC .OPENURL https://aeronav.faa.gov/d-tpp/2014/05461ohiio.pdf#nameddest=(HOU) 
+.OHIIO2C .OPENURL There Are No Additional Pages for This Procedure 
+.OHIIO3C .OPENURL There Are No Additional Pages for This Procedure 
  
-.HOUOHIIOF .FF AEX LYMBO ZEEKK GESNR OHIIO PNUUT IAH 
+.OHIIOF .FF AEX LYMBO ZEEKK GESNR OHIIO PNUUT IAH 
  
-.HOUOHIIOCTR .MSG ZHU_ISR *** OHIIO 4 ::: Non-RNAV ::: Descend via Arrival ::: A$altim(KHOU) 
+.OHIIOCTR .MSG ZHU_ISR *** OHIIO 4 ::: Non-RNAV ::: [IAH East] ZEEKK at 17k, 280 Knots. [IAH West] ZEEKK at 12k, 250 knots. ::: A$altim(KHOU) 
  
-.HOUOHIIOAPP .MSG ZHU_ISR *** OHIIO 4 ::: Non-RNAV ::: If; [IAH EAST] ZEEKK @ 17000 [IAH WEST] ZEEKK @ 12000 __ [54T, 6R3, AXH, BYY, DWH, CXO, EFD, GLS, HOU, HPY, IWS, LBX, LVJ, SGR,T41,T78] ::: A$altim(KHOU) 
+.OHIIOAPP .MSG ZHU_ISR *** OHIIO 4 ::: Non-RNAV ::: If; [IAH EAST] ZEEKK @ 17000 [IAH WEST] ZEEKK @ 12000 __ [54T, 6R3, AXH, BYY, DWH, CXO, EFD, GLS, HOU, HPY, IWS, LBX, LVJ, SGR,T41,T78] ::: A$altim(KHOU) 
  
-.THOUOHIIOCTRS . HOU Landing South. Altimeter A$altim(KHOU) 
+.OHIIOCTRE . Cross ZEEKK at 17,000, 280 knots, the Hobby Altimeter A$altim(KHOU)
+
+.OHIIOCTRE . Cross ZEEKK at 12,000, 250 knots, the Hobby Altimeter A$altim(KHOU) 
  
-.THOUOHIIOAPPS . Altimeter A$altim(KHOU) 
+.OHIIOAPPS . Altimeter A$altim(KHOU) 
 
 ;HOU PUCKS 
  
@@ -4142,7 +4144,7 @@ CATEGORIES
  
 .PUCKSAPP .MSG ZHU_ISR *** PUCKS 3 ::: RNAV ::: [RWY 22] Vector from JCNTO @ 4000 __ [RWY 31L/R] Vector from MMOOW @ 6000 ::: A$altim(KHOU) 
  
-.TPUCKSCTRN . HOU Landing North. Altimeter A$altim(KHOU) 
+.TPUCKSCTR . Descend via the PUCKS3 Arrival, the Hobby Altimeter A$altim(KHOU) 
  
 .TPUCKSAPPN . Altimeter A$altim(KHOU) 
 
@@ -4158,11 +4160,11 @@ CATEGORIES
  
 .SNIFYF .FF ELLVR ARNNE KIDDZ SNIFY 
  
-.SNIFYCTR .MSG ZHU_ISR *** SNIFY 1 ::: Non-RNAV ::: [GPS or DME/IRU] Assign KIDDZ2 (RNAV) ::: A$altim(KHOU) 
+.SNIFYCTR .MSG ZHU_ISR *** SNIFY 1 ::: Non-RNAV ::: [GPS or DME/IRU] Assign KIDDZ2 (RNAV) [HOU ALL] KIDDZ @ 12k, 280 knots. ::: A$altim(KHOU) 
  
 .SNIFYAPP .MSG ZHU_ISR *** SNIFY 1 ::: Non-RNAV ::: [EFD, GLS, HOU, LBX] Vector to final @ SNIFY, 12000 ::: A$altim(KHOU) 
  
-.TSNIFYCTRS . HOU Landing South. Altimeter A$altim(KHOU) 
+.TSNIFYCTR Cross KIDDZ at 12,000, 280 Knots, the Hobby Altimeter A$altim(KHOU) 
  
 .TSNIFYAPPS . Altimeter A$altim(KHOU) 
 
@@ -4216,11 +4218,11 @@ CATEGORIES
  
 .WAPPLF .FF WAPPL WLMOR CLWSN SWWAA PUSHN BUGZY PRTCH MOLLR
  
-.WAPPLCTR .MSG ZHU_ISR *** PUCKS 3 ::: RNAV ::: Descend Via Arrival ::: A$altim(KHOU) 
+.WAPPLCTR .MSG ZHU_ISR *** WAPPL 5 ::: RNAV ::: Descend Via Arrival ::: A$altim(KHOU) 
  
-.WAPPLAPP .MSG ZHU_ISR *** PUCKS 3 ::: RNAV ::: [HOU All RWYs] Vector to Final __ [ARM, AXH, BYY, EFD, GLS, HPY, IWS, LBX, LVJ, SGR, TME, T00, T41, 54T] Vector to Final ::: A$altim(KHOU) 
+.WAPPLAPP .MSG ZHU_ISR *** WAPPL 5 ::: RNAV ::: [HOU All RWYs] Vector to Final __ [ARM, AXH, BYY, EFD, GLS, HPY, IWS, LBX, LVJ, SGR, TME, T00, T41, 54T] Vector to Final ::: A$altim(KHOU) 
  
-.TWAPPLCTRN . HOU Landing North. Altimeter A$altim(KHOU) 
+.TWAPPLCTR Descend via the WAPPL5 Arrival, the Hobby Altimeter A$altim(KHOU) 
  
 .TWAPPLAPPN . Altimeter A$altim(KHOU) 
 
@@ -4237,11 +4239,11 @@ CATEGORIES
  
 .DOOBICTR .MSG ZHU_ISR *** DOOBI 2 ::: RNAV ::: (IAH WEST) Descend Via Arrival (IAH EAST) Assign SKNRD2 ::: A$altim(KIAH) 
  
-.DOOBIAPP .MSG ZHU_ISR *** DOOBI 2 ::: RNAV ::: (WEST FLOW) Assign Approach ::: A$altim(KIAH) 
+.DOOBIAPP .MSG ZHU_ISR *** DOOBI 2 ::: RNAV ::: (26L] @ BOZZZ Cleared ILS ::: A$altim(KIAH) 
  
-.TDOOBICTRW . IAH Landing West. Altimeter A$altim(KIAH) 
+.TDOOBICTR Descend via the DOOBI2 Arrival, the Houston Altimeter A$altim(KIAH) 
  
-.TDOOBIAPPW . Altimeter A$altim(KIAH) 
+.TDOOBIAPP At BOZZZ, Cleared ILS Runway 26L Approach.
  
  
 ;IAH DRLLR 
@@ -4259,9 +4261,9 @@ CATEGORIES
  
 .DRLLRAPP .MSG ZHU_ISR *** DRLLR 5 ::: RNAV ::: [WEST FLOW] Assign 26R Transition unless otherwise needed. [26R] Cleared RNAV Y @ SKLER [26L, 27] Vectors to Final ::: A$altim(KIAH) 
  
-.TDRLLRCTRW . IAH Landing West. Altimeter A$altim(KIAH) 
+.TDRLLRCTRW Descend via the DRLLR5 Arrival, the Houston Altimeter A$altim(KIAH) 
  
-.TDRLLRAPPW . Altimeter A$altim(KIAH) 
+.TDRLLRAPP6R At SKLER, Cleared RNAV Y Runway 26R Approach.
 
  
 ;IAH DUUUK 
@@ -4275,9 +4277,13 @@ CATEGORIES
  
 .DUUUKF .FF CHVRN FLANL GMANN DUUUK BIIGG 
  
-.DUUUKCTR .MSG ZHU_ISR *** DUUUK 3 ::: Non-RNAV ::: [IAH East] If GPS/DME, assign HTOWN2 __ [IAH West] If GPS/DME, assign TEJAS4 ::: A$altim(KIAH) 
+.DUUUKCTR .MSG ZHU_ISR *** DUUUK 3 ::: Non-RNAV ::: If GPS/DME, assign HTOWN2 or TEJAS4 [IAH East] Cross GMANN @ 13,000, 250 knots __ [IAH West] Cross GMANN @ 14,000, 280 knots::: A$altim(KIAH) 
  
 .DUUUKAPP .MSG ZHU_ISR *** DUUUK 3 ::: Non-RNAV ::: [IAH East] Cross GMANN @ 13,000, 250 knots __ [IAH West] Cross GMANN @ 14,000, 280 knots, Vectors to Final ::: A$altim(KIAH) 
+
+.DUUUKCTRE Cross GMANN at 13,000, 250 Knots, the Houston Altimeter A$altim(KIAH)
+
+.DUUUKCTRW Cross GMANN at 14,000, 280 Knots, the Houston Altimeter A$altim(KIAH)
 
 ;IAH GESNR 
  
@@ -4292,11 +4298,11 @@ CATEGORIES
  
 .GESNRCTR .MSG ZHU_ISR *** GESNR 1 ::: RNAV ::: [IAH EAST] Descend via Arrival [IAH WEST] Assign ZEEEK2 ::: A$altim(KIAH) 
  
-.GESNRAPP .MSG ZHU_ISR *** GESNR 1 ::: RNAV ::: Assign 08L, unless otherwise needed. (All RWYs) Vector to final ::: A$altim(KIAH) 
+.GESNRAPP .MSG ZHU_ISR *** GESNR 1 ::: RNAV ::: Assign 08L, unless otherwise needed. (9) @ HOWLN Cleared RNAV Y (All RWYs) Vector to final ::: A$altim(KIAH) 
  
-.TGESNRCTRE . IAH Landing East. Altimeter A$altim(KIAH) 
+.TGESNRCTRE Descend via the GESNR1 Arrival, the Houston Altimeter A$altim(KIAH) 
  
-.TGESNRAPPE . Altimeter A$altim(KIAH) 
+.TGESNRAPP9 At HOWLN, Cleared RNAV Y Runway 9 Approach. 
 
 ;IAH GILCO 
  
@@ -4309,13 +4315,15 @@ CATEGORIES
  
 .GILCOF .FF SNYDE TOPEZ JEPEG GIRLY KUGLE WOLDE DRAPH GILCO 
  
-.GILCOCTR .MSG ZHU_ISR *** GILCO 5 ::: Non-RNAV ::: [IAH EAST] If Aircraft is GPS/DME, assign NNCEE1 [IAH WEST] LINKK1 ::: A$altim(KIAH) 
+.GILCOCTR .MSG ZHU_ISR *** GILCO 5 ::: Non-RNAV ::: [RNAV] If Aircraft is GPS/DME, assign NNCEE1 or LINKK1 [IAH East] WOLDE @ 17k, 280 Knots [IAH West] WOLDE @ 12k, 250 Knots. ::: A$altim(KIAH) 
  
 .GILCOAPP .MSG ZHU_ISR *** GILCO 5 ::: Non-RNAV ::: [IAH EAST] Cross WOLDE at 17,000, 280 knots, Vector to final at GILCO [IAH WEST] Cross WOLDE at 12,000, 250 knots, Vector to final at GILCO ::: A$altim(KIAH) 
  
-.GILCOCTRw . IAH Landing West. Altimeter A$altim(KIAH) 
+.GILCOCTRW . IAH Landing West. Altimeter A$altim(KIAH) 
  
-.GILCOAPPw . Altimeter A$altim(KIAH) 
+.GILCOCTRE Cross WOLDE at 17,000, 280 Knots, the Houston Altimeter A$altim(KIAH
+ 
+.GILCOAPPW Cross WOLDE at 12,000, 250 Knots, the Houston Altimeter A$altim(KIAH) 
  
 ;IAH GUSHR 
  
@@ -4330,11 +4338,11 @@ CATEGORIES
  
 .GUSHRCTR .MSG ZHU_ISR *** GUSHR 3 ::: RNAV ::: [IAH EAST] Descend via Arrival [IAH WEST] Assign DRLLR5 ::: A$altim(KIAH) 
  
-.GUSHRAPP .MSG ZHU_ISR *** GUSHR 3 ::: RNAV ::: Assign Runway on Contact [08L] Clrd ILS @ GUSHR [08R, 9] Vector to Final ::: A$altim(KIAH) 
+.GUSHRAPP .MSG ZHU_ISR *** GUSHR 3 ::: RNAV ::: [08L] Clrd ILS @ GUSHR [08R, 9] Vector to Final ::: A$altim(KIAH) 
  
-.TGUSHRCTRE . IAH Landing East. Altimeter A$altim(KIAH) 
+.TGUSHRCTR Descend via the GUSHR3 Arrival, the Houston Altimeter A$altim(KIAH) 
  
-.TGUSHRAPPE . Altimeter A$altim(KIAH) 
+.TGUSHRAPP8R At GUSHR Cleared ILS runway 8R Approach.
 
 ;IAH HTOWN 
  
@@ -4349,11 +4357,11 @@ CATEGORIES
  
 .HTOWNCTR .MSG ZHU_ISR *** HTOWN 2 ::: RNAV ::: [IAH East] Descend via Arrival [IAH West] Assign TEJAS4 ::: A$altim(KIAH) 
  
-.HTOWNAPP .MSG ZHU_ISR *** HTOWN 2 ::: RNAV ::: Assign East Flow Approach [8R] @ WDLNS Cleared ILS [8L,9] Vector to Final ::: A$altim(KIAH) 
+.HTOWNAPP .MSG ZHU_ISR *** HTOWN 2 ::: RNAV ::: [8R] @ WDLNS Cleared ILS [8L,9] Vector to Final ::: A$altim(KIAH) 
  
-.THTOWNCTRE . IAH Landing East. Altimeter A$altim(KIAH) 
+.THTOWNCTRE Descend via the HTOWN2 Arrival, the Houston Altimeter A$altim(KIAH) 
  
-.THTOWNAPPE . Altimeter A$altim(KIAH) 
+.THTOWNAPP8R At WDLNS Cleared ILS Runway 8R Approach.
 
 ;IAH HUDZY 
  
@@ -4387,11 +4395,14 @@ CATEGORIES
  
 .LINKKCTR .MSG ZHU_ISR *** LINKK 1 ::: RNAV ::: [IAH West] Descend via Arrival [IAH East] Assign NNCEE3 ::: A$altim(KIAH) 
  
-.LINKKAPP .MSG ZHU_ISR *** LINKK 1 ::: RNAV ::: Assign 27 Approach, unless Otherwise needed. [27] @ RDFSH Cleared ILS 27. [26L] @ GARRR Cleared ILS 26L [26R] Vector to final. ::: A$altim(KIAH) 
+.LINKKAPP .MSG ZHU_ISR *** LINKK 1 ::: RNAV ::: Assign 27 by Default. [27] @ RDFSH Cleared ILS 27. [26L] @ GARRR Cleared ILS 26L [26R] Vector to final. ::: A$altim(KIAH) 
  
-.TLINKKCTRW . IAH Landing West. Altimeter A$altim(KIAH) 
+.TLINKKCTR . Descend via the LINKK1 Arrival, the Houston Altimeter A$altim(KIAH) 
  
-.TLINKKAPPW . Altimeter A$altim(KIAH) 
+.TLINKKAPP27 At RDFSH, Cleared ILS Runway 27 Approach.
+
+.TLINKKAPP6L At GARRR, Cleared ILS Runway 26L Approach.
+
 
 ;IAH NNCEE
  
@@ -4408,9 +4419,9 @@ CATEGORIES
  
 .NNCEEAPP .MSG ZHU_ISR *** LINKK 1 ::: RNAV ::: Assign 8R Approach, unless Otherwise needed. [9] @ HOWLN Cleared RNAV Y 9. [8L/R] @ CASST Vector to Final. ::: A$altim(KIAH) 
  
-.TNNCEECTRE . IAH Landing East. Altimeter A$altim(KIAH) 
+.TNNCEECTR . Descend via the NNCEE1 Arrival, the Houston Altimeter A$altim(KIAH) 
  
-.TNNCEEAPPW . Altimeter A$altim(KIAH) 
+.TNNCEEAPP9 At HOWLN, Cleared RNAV Y Runway 9 Approach. 
  
  
 ;IAH OHIIO 
@@ -4443,13 +4454,13 @@ CATEGORIES
  
 .RIICEF .FF CHMPZ TORNN HOOTZ BILEE HOMRN 
  
-.RIICECTR .MSG ZHU_ISR *** RIICE 8 ::: Non-RNAV ::: . ::: A$altim(KIAH) 
+.RIICECTR .MSG ZHU_ISR *** RIICE 8 ::: Non-RNAV ::: [IAH West] RIICE @ 16000 [IAH East] RIICE @ 9000 ::: A$altim(KIAH) 
  
-.RIICEAPP .MSG ZHU_ISR *** RIICE 8 ::: Non-RNAV ::: [IAH West] RIICE @ 16000 [IAH East] RIICE @ 9000 ::: A$altim(KIAH) 
+.RIICEAPP .MSG ZHU_ISR *** RIICE 8 ::: Non-RNAV ::: ::: A$altim(KIAH) 
  
-.TRIICECTRW O. IAH Landing West. Altimeter A$altim(KIAH) 
+.TRIICECTRW Cross RIICE at 16,000, 280 Knots, the Houston Altimeter A$altim(KIAH) 
  
-.TRIICEAPPW . Altimeter A$altim(KIAH) 
+.TRIICEAPPE Cross RIICE at 9000, the Houston Altimeter A$altim(KIAH) 
 
 ;IAH SKNRD 
  
@@ -4464,11 +4475,11 @@ CATEGORIES
  
 .SKNRDCTR .MSG ZHU_ISR *** SKNRD 4 ::: RNAV ::: [IAH EAST] Descend Via Arrival [IAH WEST] Assign DOOBI2 ::: A$altim(KIAH) 
  
-.SKNRDAPP .MSG ZHU_ISR *** SKNRD 4 ::: RNAV ::: Assign 08L unless otherwise needed. Expect vectors to final approach. ::: A$altim(KIAH) 
+.SKNRDAPP .MSG ZHU_ISR *** SKNRD 4 ::: RNAV ::: Assign 08L unless otherwise needed. [9] @ HOWLN Cleared RNAV Y ::: A$altim(KIAH) 
  
-.TSKNRDCTRE O. IAH Landing East. Altimeter A$altim(KIAH) 
+.TSKNRDCTR Descend via teh SKNRD4 Arrival, the Houston Altimeter A$altim(KIAH) 
  
-.TSKNRDAPPE . Altimeter A$altim(KIAH) 
+.TSKNRDAPP9 At HOWLN, Cleared RNAV Y Runway 9 Approach.
 
 ;IAH SOULL 
  
@@ -4485,9 +4496,13 @@ CATEGORIES
  
 .SOULLAPP .MSG ZHU_ISR *** SOULL 1 ::: RNAV ::: Assign Runway. [27] @ RDFSH Cleared ILS [26L] @ GARRR Cleared ILS [09] @ HOWLN Cleared RNAV Y [Others] Vector to Final ::: A$altim(KIAH) 
  
-.TSOULLCTRE O. IAH Landing East. Altimeter A$altim(KIAH) 
+.TSOULLCTR Descend via the SOULL1 Arrival, the Houston Altimeter A$altim(KIAH) 
  
-.TSOULLAPPE . Altimeter A$altim(KIAH) 
+.TSOULLAPP27 At RDFSH, Cleared ILS Runway 27 Approach.
+
+.TSOULLAPP6L At GARRR, Cleared ILS Runway 26L Approach.
+
+.TSOULLAPP9 At HOWLN, Cleared RNAV Y Runway 9 Approach.
 
 ;IAH TEJAS 
  
@@ -4504,9 +4519,9 @@ CATEGORIES
  
 .TEJASAPP .MSG ZHU_ISR *** TEJAS 4 ::: RNAV ::: Assign 27, unless otherwise needed. [26R] @ SKLER Cleared RNAV Y [Others] Vector to final ::: A$altim(KIAH) 
  
-.TTEJASCTRW O. IAH Landing West. Altimeter A$altim(KIAH) 
+.TTEJASCTR Descend via the TEJAS4 Arrival, Altimeter A$altim(KIAH) 
  
-.TTEJASAPPW . Altimeter A$altim(KIAH) 
+.TTEJASAPP6R At SKLER, Cleared RNAV Y Runway 26R Approach.
 
 ;IAH TTORO 
  
@@ -4521,11 +4536,11 @@ CATEGORIES
  
 .TTOROCTR .MSG ZHU_ISR *** TTORO 3 ::: RNAV ::: [IAH East] Descend via Arrival [IAH West] MSCOT1 ::: A$altim(KIAH) 
  
-.TTOROAPP .MSG ZHU_ISR *** TTORO 3 ::: RNAV ::: (08L) @ TTORO Cleared ILS (Others) Vector to Final ::: A$altim(KIAH) 
+.TTOROAPP .MSG ZHU_ISR *** TTORO 3 ::: RNAV ::: (8R) @ TTORO Cleared ILS (Others) Vector to Final ::: A$altim(KIAH) 
  
-.TTTOROCTRE O. IAH Landing East. Altimeter A$altim(KIAH) 
+.TTTOROCTR Descend via the TTORO3 Arrival, the Houston Altimeter A$altim(KIAH) 
  
-.TTTOROAPPE . Altimeter A$altim(KIAH) 
+.TTTOROAPP8R At TTORO, Cleared ILS Runway 8R Approach.
  
 ;IAH ZEEKK 
  
@@ -4540,11 +4555,15 @@ CATEGORIES
  
 .ZEEKKCTR .MSG ZHU_ISR *** ZEEKK 2 ::: RNAV ::: [IAH EAST] Descend via Arrival __ [IAH WEST] Expect GESNR7 ::: A$altim(KIAH) 
  
-.ZEEKKAPP .MSG ZHU_ISR *** ZEEKK 2 ::: RNAV ::: Assign 26L unless otherwise Needed. [26R] @ HOOTI Cleared ILS [26L] @ BOZZZ Cleared ILS [27] @ CLSIK Cleared ILS ::: A$altim(KIAH) 
+.ZEEKKAPP .MSG ZHU_ISR *** ZEEKK 2 ::: RNAV ::: Assign 26R unless otherwise Needed. [26R] @ HOOTI Cleared ILS [26L] @ BOZZZ Cleared ILS [27] @ CLSIK Cleared ILS ::: A$altim(KIAH) 
  
-.TZEEKKCTRW O. IAH Landing West. Altimeter A$altim(KIAH) 
+.TZEEKKCTR Descend via the ZEEKK2 Arrival, the Houston Altimeter A$altim(KIAH) 
  
-.TZEEKKAPPW . Altimeter A$altim(KIAH) 
+.TZEEKKAPP27 At CLSIK, Cleared ILS Runway 27 Approach. 
+
+.TZEEKKAPP6R At HOOTI, Cleared ILS Runway 26R Approach. 
+
+.TZEEKKAPP6L At BOZZZ, Cleared ILS Runway 26L Approach. 
 
  
 ;IAH MSCOT 
@@ -4560,15 +4579,18 @@ CATEGORIES
  
 .MSCOTCTR .MSG ZHU_ISR *** MSCOT 4 ::: RNAV ::: [IAH WEST] Descend via Arrival [IAH EAST] Assign TTORO1 ::: A$altim(KIAH) 
  
-.MSCOTAPP .MSG ZHU_ISR *** MSCOT 4 ::: RNAV ::: Assign 26R, unless otherwise needed. [26R] @ SKLER Cleared RNAV Y[26L/27] Vector to Final ::: A$altim(KIAH) 
+.MSCOTAPP .MSG ZHU_ISR *** MSCOT 4 ::: RNAV ::: Assign 26R, unless otherwise needed. [26R] @ SKLER Cleared RNAV Y [26L/27] Vector to Final ::: A$altim(KIAH) 
  
-.TMSCOTCTRW O. IAH Landing West. Altimeter A$altim(KIAH) 
+.TMSCOTCTRW Descend via the MSCOT4 Arrival, the Houston Altimeter A$altim(KIAH) 
  
-.TMSCOTAPPW . Altimeter A$altim(KIAH) 
+.TMSCOTAPP6R At SKLER, Cleared RNAV Y Runway 26R Approach.
+
 ;AUS AEROZ 
  
  
-.AEROZ .FD AUS_AEROZ 
+ ;AUS
+ 
+.AUS AEROZ .FD AUS_AEROZ 
  
 .AEROZC .OPENURL https://aeronav.faa.gov/d-tpp/2014/00556aeroz.pdf#nameddest=(AUS)
 .AEROZ2C .OPENURL There Are No Additional Pages for This Procedure 
@@ -4933,10 +4955,11 @@ CATEGORIES
  
 .BITERF .FF SHYNR BOCCK ISU BITER ISHOV BASTO 
  
-.BITERCTR .MSG ZHU_IDS *** BITER 9 ::: Non-RNAV ::: Expect vectors to final approach course at or prior to BASTO ::: A$altim(KAUS) 
+.BITERCTR .MSG ZHU_IDS *** BITER 9 ::: Non-RNAV ::: [ALL FLOWS] Cross BITER @ 12k ::: A$altim(KAUS) 
  
 .BITERAPP .MSG ZHU_IDS *** BITER 9 ::: Non-RNAV ::: Expect vectors to final approach course at or prior to BASTO ::: A$altim(KAUS) 
  
+.TBITERCTR Cross WLEEE at 12,000. The Austin Altimeter A$altim(KAUS)
 
 .BLEWE .FD AUS_BLEWE 
  
@@ -4946,9 +4969,12 @@ CATEGORIES
  
 .BLEWEF .FF WINDU BLEWE SEWZY CWK 
  
-.BLEWECTR .MSG ZHU_IDS *** BLEWE 4 ::: Non-RNAV :::  ::: A$altim(KAUS) 
+.BLEWECTR .MSG ZHU_IDS *** BLEWE 4 ::: Non-RNAV ::: [ALL FLOWS] SEWZY @ 13k ::: A$altim(KAUS) 
  
 .BLEWEAPP .MSG ZHU_IDS *** BLEWE 4 ::: Non-RNAV ::: Expect vectors at or prior to CWK ::: A$altim(KAUS) 
+
+.TBLEWECTR Cross SEWZY at 13,000. The Austin Altimeter A$altim(KAUS)
+
 
  ;AUS DXEEE 
  
@@ -4961,13 +4987,21 @@ CATEGORIES
  
 .DXEEEF .FF HFMAN GYTON DOBBY THELM HOOLR NILEE SKEWT VIDAA PUDDY ORINT DXEE BAAAB SMILN PLANX FAACE DBORD LIPSS STNSN TATAU TRPPN SNOTT 
  
-.DXEEECTR .MSG ZHU_IDS *** DXEEE 1 ::: RNAV ::: [SOUTH FLOW] TRPPN @ 6k. [NORTH FLOW] LIPSS @ 4k. ::: A$altim(KAUS) 
+.DXEEECTR .MSG ZHU_IDS *** DXEEE 2 ::: RNAV ::: [SOUTH FLOW] TRPPN @ 6k. [NORTH FLOW] LIPSS @ 4k. ::: A$altim(KAUS) 
  
-.DXEEEAPP .MSG ZHU_IDS *** DXEEE 1 ::: RNAV ::: [SOUTH FLOW] VECTORS from SNOTT. [NORTH FLOW] VECTORS from TATAU. ::: A$altim(KAUS) 
+.DXEEEAPP .MSG ZHU_IDS *** DXEEE 2 ::: RNAV ::: [SOUTH FLOW] At TRPPN, Cleared RNAV Z [NORTH FLOW] At LIPSS Cleared RNAV Z. ::: A$altim(KAUS) 
  
-.TDXEEECTRN .AUS Landing North. Altimeter A$altim(KAUS) 
+.TDXEEECTRS Descend via the DXEEE2 Arrival, the Austin Altimeter A$altim(KAUS) Austin Landing South.
  
-.TDXEEEAPPN .Altimeter A$altim(KAUS) 
+.TDXEEECTRN Descend via the DXEEE2 Arrival, the Austin Altimeter A$altim(KAUS) Austin Landing North.
+
+.TDXEEEAPPSL At TRPPN, Cleared RNAV Z Runway 18L Approach.
+
+.TDXEEEAPPSR At TRPPN, Cleared RNAV Z Runway 18R Approach.
+
+.TDXEEEAPPNL At LIPSS, Cleared RNAV Z Runway 36L Approach.
+
+.TDXEEEAPPNR At LIPSS, Cleared RNAV Z Runway 36R Approach.
  
 ;AUS KALLA 
  
@@ -4980,7 +5014,7 @@ CATEGORIES
  
 .KALLAF .FF KALLA 
  
-.KALLACTR .MSG ZHU_IDS *** KALLA 4 ::: Non-RNAV ::: [SOUTH FLOW] TRPPN @ 6k. [NORTH FLOW] LIPSS @ 4k. ::: A$altim(KAUS) 
+.KALLACTR .MSG ZHU_IDS *** KALLA 4 ::: Non-RNAV ::: [ALL FLOWS] KALLA @ 10,000. ::: A$altim(KAUS) 
  
 .KALLAAPP .MSG ZHU_IDS *** KALLA 4 ::: Non-RNAV ::: Vectors to KAUS,KGTU,K3R9 at or before CWK ::: A$altim(KAUS) 
  
@@ -4993,38 +5027,54 @@ CATEGORIES
  
 .LAIKS .FD AUS_LAIKS 
  
-.LAIKSC .OPENURL https://aeronav.faa.gov/d-tpp/2014/00556laiks.pdf#nameddest=(AUS) 
+.LAIKSC .OPENURL https://aeronav.faa.gov/d-tpp/2107/00556laiks.pdf#nameddest=(AUS) 
 .LAIKS2C .OPENURL There Are No Additional Pages for This Procedure 
 .LAIKS3C .OPENURL There Are No Additional Pages for This Procedure 
  
 .LAIKSF .FF UCOKA DILLO SZAGI LAIKS BOYZZ CRLOS HOUKM TRVSS RATTT LAIDY 
  
-.LAIKSCTR .MSG ZHU_IDS *** LAIKS 2 ::: RNAV ::: [SOUTH FLOW] TRPPN @ 6k. [NORTH FLOW] LIPSS @ 4k. ::: A$altim(KAUS) 
+.LAIKSCTR .MSG ZHU_IDS *** LAIKS 3 ::: RNAV ::: Descend Via @ 4k. ::: A$altim(KAUS) 
  
-.LAIKSAPP .MSG ZHU_IDS *** LAIKS 2 ::: RNAV ::: [SOUTH FLOW] At HOUKM, Cleared ILS ::: A$altim(KAUS) 
+.LAIKSAPP .MSG ZHU_IDS *** LAIKS 3 ::: RNAV ::: [SOUTH FLOW] At HOUKM, Cleared ILS [NORTH FLOW] At LAIDY Cleared RNAV Z. ::: A$altim(KAUS) 
  
-.TLAIKSCTRS .AUS Landing South. Altimeter A$altim(KAUS) 
+.TLAIKSCTRS Descend via the LAIKS3 Arrival, the Austin Altimeter A$altim(KAUS) Austin Landing South.
  
-.TLAIKSAPPS .Altimeter A$altim(KAUS) 
+.TLAIKSCTRN Descend via the LAIKS3 Arrival, the Austin Altimeter A$altim(KAUS) Austin Landing North.
+
+.TLAIKSAPPSL At HOUKM, Cleared ILS Runway 18L Approach.
+
+.TLAIKSAPPSR At HOUKM, Cleared ILS Runway 18R Approach.
+
+.TLAIKSAPPNL At LAIDY, Cleared RNAV Z Runway 36L Approach.
+
+.TLAIKSAPPNR At LAIDY, Cleared RNAV Z Runway 36R Approach.
 
 ;AUS SEWZY 
  
 
 .SEWZY .FD AUS_SEWZY 
  
-.SEWZYC .OPENURL https://aeronav.faa.gov/d-tpp/2014/00556sewzy.pdf#nameddest=(AUS) 
+.SEWZYC .OPENURL https://aeronav.faa.gov/d-tpp/2107/00556sewzy.pdf#nameddest=(AUS) 
 .SEWZY2C .OPENURL There Are No Additional Pages for This Procedure 
 .SEWZY3C .OPENURL There Are No Additional Pages for This Procedure 
  
 .SEWZYF .FF WINDU SSOLO MSTLO SEWZY VADRR MGTEC JEDYE HHOOF MMARE SMRFF 
  
-.SEWZYCTR .MSG ZHU_IDS *** SEWZY 4 ::: RNAV ::: [SOUTH FLOW] TRPPN @ 6k. [NORTH FLOW] LIPSS @ 4k. ::: A$altim(KAUS) 
+.SEWZYCTR .MSG ZHU_IDS *** SEWZY 6 ::: RNAV ::: Descend Via ::: A$altim(KAUS) 
  
-.SEWZYAPP .MSG ZHU_IDS *** SEWZY 4 ::: RNAV ::: [SOUTH FLOW] At JEDYE, Cleared ILS ::: A$altim(KAUS) 
+.SEWZYAPP .MSG ZHU_IDS *** SEWZY 6 ::: RNAV ::: [SOUTH FLOW] At JEDYE, Cleared ILS [NORTH FLOW] At SMRFF Cleared RNAV Z. ::: A$altim(KAUS) 
  
-.TSEWZYCTRS .AUS Landing South. Altimeter A$altim(KAUS) 
+.TSEWZYCTRS Descend via the SEWZY66 Arrival, the Austin Altimeter A$altim(KAUS) Austin Landing South.
  
-.TSEWZYAPPS .Altimeter A$altim(KAUS) 
+.TSEWZYCTRN Descend via the SEWZY6 Arrival, the Austin Altimeter A$altim(KAUS) Austin Landing North.
+
+.TSEWZYAPPSL At JEDYE, Cleared ILS Runway 18L Approach.
+
+.TSEWZYAPPSR At JEDYE, Cleared ILS Runway 18R Approach.
+
+.TSEWZYAPPNL At SMRFF, Cleared RNAV Z Runway 36L Approach.
+
+.TSEWZYAPPNR At SMRFF, Cleared RNAV Z Runway 36R Approach.
  
  
 ;AUS WLEEE 
@@ -5032,19 +5082,27 @@ CATEGORIES
  
 .WLEEE .FD AUS_WLEEE 
  
-.WLEEEC .OPENURL https://aeronav.faa.gov/d-tpp/2014/00556wleee.pdf#nameddest=(AUS) 
-.WLEEE2C .OPENURL https://aeronav.faa.gov/d-tpp/2014/00556wleee_c.pdf#nameddest=(AUS) 
+.WLEEEC .OPENURL https://aeronav.faa.gov/d-tpp/2107/00556wleee.pdf#nameddest=(AUS) 
+.WLEEE2C .OPENURL https://aeronav.faa.gov/d-tpp/2107/00556wleee_c.pdf#nameddest=(AUS) 
 .WLEEE3C .OPENURL There Are No Additional Pages for This Procedure 
  
 .WLEEEF .FF DBOYS LUKKN WEEED DOOEE WAILN MNURE WLEEE BITER ISHOV BASTO LUKKE XWING SSURF BEESO MUSEC TOONE OWTZ EEVEE SCUTE 
  
-.WLEEECTR .MSG ZHU_IDS *** WLEEE 5 ::: RNAV ::: [SOUTH FLOW] TRPPN @ 6k. [NORTH FLOW] LIPSS @ 4k. ::: A$altim(KAUS) 
+.WLEEECTR .MSG ZHU_IDS *** WLEEE 6 ::: RNAV ::: Descend Via ::: A$altim(KAUS) 
  
-.WLEEEAPP .MSG ZHU_IDS *** WLEEE 5 ::: RNAV ::: [SOUTH FLOW] At XWING Cleared RNAV Z. ::: A$altim(KAUS) 
+.WLEEEAPP .MSG ZHU_IDS *** WLEEE 6 ::: RNAV ::: [SOUTH FLOW] At XWING Cleared RNAV Z. [NORTH FLOW] At BOWTZ Cleared RNAV Z. ::: A$altim(KAUS) 
  
-.TWLEEECTRS . AUS Landing South. Altimeter A$altim(KAUS) 
+.TWLEEECTRS Descend via the WLEEE6 Arrival, the Austin Altimeter A$altim(KAUS) Austin Landing South.
  
-.TWLEEEAPPS .Altimeter A$altim(KAUS) 
+.TWLEEECTRN Descend via the WLEEE6 Arrival, the Austin Altimeter A$altim(KAUS) Austin Landing North.
+ 
+.TWLEEEAPPSL At XWING, Cleared RNAV Z Runway 18L Approach.
+
+.TWLEEEAPPSR At XWING, Cleared RNAV Z Runway 18R Approach.
+
+.TWLEEEAPPNL At BOWTZ, Cleared RNAV Z Runway 36L Approach.
+
+.TWLEEEAPPNR At BOWTZ, Cleared RNAV Z Runway 36R Approach.
 
 ;SAT ALAMO 
  
@@ -5196,9 +5254,8 @@ CATEGORIES
  
 .BRAUNAPP .MSG ZHU_ISR *** BRAUN 3 ::: RNAV :::  ::: A$altim(KSAT) 
  
-.TBRAUNCTRN . sat Landing North. Altimeter A$altim(KSAT) 
+.TBRAUNCTRN . Cross MARCS at 13,000, the San Antonio Altimeter A$altim(KSAT) 
  
-.TBRAUNAPPN . Altimeter A$altim(KSAT) 
 
 ;SAT CSI 
  
@@ -5209,9 +5266,8 @@ CATEGORIES
  
 .CSIAPP .MSG ZHU_ISR *** CSI 2 ::: A$altim(KSAT) 
  
-.TCSICTRN . SAT Landing North. Altimeter A$altim(KSAT) 
+.TCSICTRN Cross BENEY at 10,000, the San Antonio Altimeter A$altim(KSAT) 
  
-.TCSIAPPN . Altimeter A$altim(KSAT) 
 
 
 
@@ -5223,9 +5279,8 @@ CATEGORIES
  
 .LEMIGAPP .MSG ZHU_ISR *** LEMIG 1 ::: A$altim(KSAT) 
  
-.TBLEMIGCTRN . SAT Landing North. Altimeter A$altim(KSAT) 
+.TBLEMIGCTRN Cross LEMIG at 10,000, the San Antonio Altimeter A$altim(KSAT) 
  
-.TLEMIGAPPN . Altimeter A$altim(KSAT) 
 
 
 ;SAT MARCS
@@ -5236,29 +5291,28 @@ CATEGORIES
  
 .MARCSAPP .MSG ZHU_ISR *** MARCS 1 ::: A$altim(KSAT) 
  
-.TMARCSCTRN . SAT Landing North. Altimeter A$altim(KSAT) 
+.TMARCSCTR Cross MARCS at 13,000, the San Antonio Altimeter A$altim(KSAT) 
  
-.TMARCSAPPN . Altimeter A$altim(KSAT) 
 
 ;SAT STV 
  
  
 .STV .FD SAT_STV
  
-.STVCTR .MSG ZHU_ISR *** STV 2 :::  STV @ 10000 ::: A$altim(KSAT) 
+.STVCTR .MSG ZHU_ISR *** STV 2 :::  STV (STONEWALL) @ 10000 ::: A$altim(KSAT) 
  
 .STVAPP .MSG ZHU_ISR *** STV 2 ::: A$altim(KSAT) 
  
-.TSTVCTRN . SAT Landing North. Altimeter A$altim(KSAT) 
+.TSTVCTR Cross STV at 10,000, the San Antonio Altimeter Altimeter A$altim(KSAT) 
  
-.TSTVAPPN . Altimeter A$altim(KSAT) 
+.TSTVAPP13 Cross REUBE at or above 3,200, Cleared ILS Runway 13R Approach
 
 ;MSY AWDAD 
  
  
 .AWDAD .FD MSY_AWDAD 
  
-.AWDADC .OPENURL https://aeronav.faa.gov/d-tpp/2014/00609awdad.pdf#nameddest=(MSY) 
+.AWDADC .OPENURL https://aeronav.faa.gov/d-tpp/2107/00609awdad.pdf#nameddest=(MSY) 
 .AWDAD2C .OPENURL There Are No Additional Pages for This Procedure 
 .AWDAD3C .OPENURL There Are No Additional Pages for This Procedure 
  
@@ -5268,14 +5322,16 @@ CATEGORIES
  
 .AWDADAPP .MSG ZHU_IDS *** AWDAD 1 ::: Non-RNAV ::: [MSY ILS 11] @ VOODO Clrd ILS __ [ALL OTHER APT/RWY] VECTORS. ::: A$altim(KMSY) 
  
-.TAWDADCTR Cross AWDAD At and Maintain 11000, 250 Knots, the New Orleans Altimeter A$altim(KMSY) 
+.TAWDADCTR1 Cross AWDAD At and Maintain 11000, 250 Knots, New Orleans Altimeter A$altim(KMSY) 
+
+.TAWDADCTR2 Cross AWDAD At and Maintain 13000, 250 Knots, New Orleans Altimeter A$altim(KMSY) 
  
-.TAWDADAPP . Altimeter A$altim(KMSY)
+.TAWDADAPP11 Cross VOODO at or above 4000, Cleared ILS Runway 11 Approach.
 
 .RYTHM .FD MSY_RYTHM 
  
-.RYTHMC .OPENURL https://aeronav.faa.gov/d-tpp/2014/00609rythm.pdf#nameddest=(MSY) 
-.RYTHM2C .OPENURL https://aeronav.faa.gov/d-tpp/2014/00609rythm_c.pdf#nameddest=(MSY) 
+.RYTHMC .OPENURL https://aeronav.faa.gov/d-tpp/2107/00609rythm.pdf#nameddest=(MSY) 
+.RYTHM2C .OPENURL https://aeronav.faa.gov/d-tpp/2107/00609rythm_c.pdf#nameddest=(MSY) 
 .RYTHM3C .OPENURL There Are No Additional Pages for This Procedure 
  
 .RYTHMF .FF ZYDCO FOILS RYTHM OYSTY RAYOP 
@@ -5284,7 +5340,7 @@ CATEGORIES
  
 .RYTHMAPP .MSG ZHU_IDS *** RYTHM 4 ::: Non-RNAV ::: [MSY LOC 20] @ RAYOP Clrd LOC 20 __ [ALL Other APT/RWY] Vectors at or before RAYOP ::: A$altim(KMSY) 
  
-.TRYTHMCTRS Cross RYTHM at and maintain 11,000 and 250kts.. Altimeter A$altim(KMSY) 
+.TRYTHMCTR Cross RYTHM at and maintain 11,000, 250 Knots, New Orleans Altimeter A$altim(KMSY)  
  
 .TRYTHMAPPS Unless otherwise stated on frequency, expect LOC 20 Approach.. Altimeter A$altim(KMSY) 
 
@@ -5293,17 +5349,17 @@ CATEGORIES
  
 .OLEDD .FD MSY_OLEDD 
  
-.OLEDDC .OPENURL https://aeronav.faa.gov/d-tpp/2014/00609oledd.pdf#nameddest=(MSY) 
+.OLEDDC .OPENURL https://aeronav.faa.gov/d-tpp/2107/00609oledd.pdf#nameddest=(MSY) 
 .OLEDD2C .OPENURL There Are No Additional Pages for This Procedure 
 .OLEDD3C .OPENURL There Are No Additional Pages for This Procedure 
  
 .OLEDDF .FF LLA ORICH LUFFS TBD OLEDD 
  
-.OLEDDCTR .MSG ZHU_IDS *** OLEDD 4 ::: Non-RNAV ::: [LANDING MSY OLEDD @11K __ [LANDING OTHER] OLEDD @11K ::: A$altim(KMSY) 
+.OLEDDCTR .MSG ZHU_IDS *** OLEDD 4 ::: Non-RNAV ::: [LANDING ALL] TBD (TIBBY) @11K ::: New Orleans Altimeter A$altim(KMSY) 
  
 .OLEDDAPP .MSG ZHU_IDS *** OLEDD 4 ::: Non-RNAV ::: VECTORS AT OR BEFORE OLEDD ::: A$altim(KMSY) 
  
-.TOLEDDCTR . . Altimeter A$altim(KMSY) 
+.TOLEDDCTR Cross OLEDD at 11,000... New Orleans Altimeter A$altim(KMSY)  
  
 .TOLEDDAPP . Altimeter A$altim(KMSY) 
 
@@ -5312,7 +5368,7 @@ CATEGORIES
  
 .SLIDD .FD MSY_SLIDD 
  
-.SLIDDC .OPENURL https://aeronav.faa.gov/d-tpp/2014/00609slidd.pdf#nameddest=(MSY) 
+.SLIDDC .OPENURL https://aeronav.faa.gov/d-tpp/2107/00609slidd.pdf#nameddest=(MSY) 
 .SLIDD2C .OPENURL There Are No Additional Pages for This Procedure 
 .SLIDD3C .OPENURL There Are No Additional Pages for This Procedure 
  
@@ -5322,12 +5378,8 @@ CATEGORIES
  
 .SLIDDAPP .MSG ZHU_IDS *** SLIDD 2 ::: Non-RNAV ::: [ALL OPS] Inbound from SLIDD @ 11k (CTR) ::: A$altim(KMSY) 
  
-.TSLIDDCTRS Cross SLIDD at and maintain 11,000 and 250kts.. Altimeter A$altim(KMSY) 
+.TSLIDDCTR Cross SLIDD at 11,000... New Orleans Altimeter A$altim(KMSY) 
  
-.TSLIDDAPPS Unless otherwise stated on frequency, expect LOC 20 Approach.. Altimeter A$altim(KMSY) 
-
-
-; MSY PDC Functions
-
+.TSLIDDAPP
 
 .MSYCTR A$altim(KMSY)
