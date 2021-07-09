@@ -45,29 +45,29 @@ HOU_79_CTR Houston Center (Ocean West)
 HOU_72_CTR Houston Center (Ocean East)
 HOU_79_FSS Houston Center (Ocean West)
 HOU_72_FSS Houston Center (Ocean East)
-HOU_M_DEP Houston Departure (North)
-HOU_E_DEP Houston Departure (East)
-HOU_L_DEP Houston Departure (South)
-HOU_W_DEP Houston Departure (West)
-HOU_DEP Houston Departure
-HOU_R_APP Houston Approach (Tomball)
-HOU_P_APP Houston Approach (Lakeside)
-HOU_N_APP Houston Approach (West Arrival)
-HOU_X_APP Houston Approach (Eagle Lake)
-HOU_U_APP Houston Approach (College Station)
-HOU_T_APP Houston Approach (College Station Final)
-HOU_Z_APP Houston Approach (Industry)
-HOU_B_APP Houston Approach (Sanjac)
-HOU_J_APP Houston Approach (Beaumont)
-HOU_D_APP Houston Approach
-HOU_G_APP Houston Approach (Gulf Arrival)
-HOU_H_APP Houston Approach (Hobby Final)
-HOU_FN_APP Houston Approach (Final North)
-HOU_FC_APP Houston Approach (Final Center)
-HOU_FS_APP Houston Approach (Final South)
-HOU_MN_APP Final Monitor North
-HOU_MC_APP Final Monitor Center
-HOU_MS_APP Final Monitor South
+I90_M_DEP Houston Departure (North)
+I90_E_DEP Houston Departure (East)
+I90_L_DEP Houston Departure (South)
+I90_W_DEP Houston Departure (West)
+I90_DEP Houston Departure
+I90_R_APP Houston Approach (Tomball)
+I90_P_APP Houston Approach (Lakeside)
+I90_N_APP Houston Approach (West Arrival)
+I90_X_APP Houston Approach (Eagle Lake)
+I90_U_APP Houston Approach (College Station)
+I90_T_APP Houston Approach (College Station Final)
+I90_Z_APP Houston Approach (Industry)
+I90_B_APP Houston Approach (Sanjac)
+I90_J_APP Houston Approach (Beaumont)
+I90_D_APP Houston Approach
+I90_G_APP Houston Approach (Gulf Arrival)
+I90_H_APP Houston Approach (Hobby Final)
+I90_FN_APP Houston Approach (Final North)
+I90_FC_APP Houston Approach (Final Center)
+I90_FS_APP Houston Approach (Final South)
+I90_MN_APP Final Monitor North
+I90_MC_APP Final Monitor Center
+I90_MS_APP Final Monitor South
 IAH_RN_GND Houston Ramp
 IAH_RW_GND Houston Ramp (West)
 IAH_RE_GND Houston Ramp (East)
