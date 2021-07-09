@@ -46,27 +46,27 @@ AG:HOU_72_CTR:135.770:novoice:Oceanic West
 AG:HOU_72_FSS:135.770:novoice:Oceanic West
 AG:HOU_79_FSS:132.620:novoice:Oceanic East
 AG:HOU_79_CTR:132.620:novoice:Oceanic East
-AG:HOU_APP:120.050:novoice:I90 Combined
-AG:HOU_DEP:132.250:novoice:I90 Departure Combined
-AG:HOU_M_DEP:132.250:novoice:I90 Departure North
-AG:HOU_E_DEP:133.600:novoice:I90 Depature East
-AG:HOU_L_DEP:127.125:novoice:I90 Departure South
-AG:HOU_W_DEP:126.675:novoice:I90 Departure West
-AG:HOU_R_APP:119.700:novoice:I90 Tomball Satellite
-AG:HOU_P_APP:123.800:novoice:190 Lakeside Satellite
-AG:HOU_N_APP:124.350:novoice:I90 West Arrival
-AG:HOU_X_APP:119.170:novoice:I90 Eagle Lake
-AG:HOU_U_APP:124.470:novoice:I90 College Satellite
-AG:HOU_T_APP:127.470:novoice:I90 College Final
-AG:HOU_Z_APP:124.220:novoice:I90 Industry Satellite
-AG:HOU_B_APP:124.220:novoice:I90 Sanjac Satellite
-AG:HOU_J_APP:121.300:novoice:I90 Beaumont Satellite
-AG:HOU_D_APP:120.050:novoice:I90 Combined
-AG:HOU_G_APP:119.620:novoice:I90 Gulf Arrival
-AG:HOU_H_APP:133.050:novoice:I90 Hobby Final
-AG:HOU_FN_APP:119.100:novoice:I90 Final North
-AG:HOU_FC_APP:120.650:novoice:I90 Final Center
-AG:HOU_FS_APP:134.000:novoice:I90 Final South
+AG:I90_APP:120.050:novoice:I90 Combined
+AG:I90_DEP:132.250:novoice:I90 Departure Combined
+AG:I90_M_DEP:132.250:novoice:I90 Departure North
+AG:I90_E_DEP:133.600:novoice:I90 Depature East
+AG:I90_L_DEP:127.125:novoice:I90 Departure South
+AG:I90_W_DEP:126.675:novoice:I90 Departure West
+AG:I90_R_APP:119.700:novoice:I90 Tomball Satellite
+AG:I90_P_APP:123.800:novoice:190 Lakeside Satellite
+AG:I90_N_APP:124.350:novoice:I90 West Arrival
+AG:I90_X_APP:119.170:novoice:I90 Eagle Lake
+AG:I90_U_APP:124.470:novoice:I90 College Satellite
+AG:I90_T_APP:127.470:novoice:I90 College Final
+AG:I90_Z_APP:124.220:novoice:I90 Industry Satellite
+AG:I90_B_APP:124.220:novoice:I90 Sanjac Satellite
+AG:I90_J_APP:121.300:novoice:I90 Beaumont Satellite
+AG:I90_D_APP:120.050:novoice:I90 Combined
+AG:I90_G_APP:119.620:novoice:I90 Gulf Arrival
+AG:I90_H_APP:133.050:novoice:I90 Hobby Final
+AG:I90_FN_APP:119.100:novoice:I90 Final North
+AG:I90_FC_APP:120.650:novoice:I90 Final Center
+AG:I90_FS_APP:134.000:novoice:I90 Final South
 AG:IAH_RN_GND:130.825:novoice:IAH Ramp North
 AG:IAH_RW_GND:121.625:novoice:IAH Ramp West
 AG:IAH_RE_GND:131.275:novoice:IAH Ramp East
