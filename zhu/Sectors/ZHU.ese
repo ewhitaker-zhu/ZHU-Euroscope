@@ -51,27 +51,27 @@ HOU_CTR:Houston Center:134.420:81:81:HOU:CTR:-:-:7300:7477
 
 ***************************
 ;I90 Approach
-Houston East Approach:Houston Approach:120.050:AID:D:HOU:APP:HOU:APP:2400:2450
-Houston West Approach:Houston Approach:124.350:AIN:N:HOU:APP:HOU:APP:2400:2450
-Houston Gulf Approach:Houston Approach:119.620:AIG:G:HOU:APP:HOU:APP:2400:2450
-Houston Eagle Lake Approach:Houston Approach:119.170:AIX:X:HOU:APP:HOU:APP:2400:2450
-Houston Final North Approach:Houston Approach:119.100:AIA:A:HOU:APP:HOU:APP:2400:2450
-Houston Final Center Approach:Houston Approach:120.650:AII:I:HOU:APP:HOU:APP:2400:2450
-Houston Final South Approach:Houston Approach:134.000:AIO:O:HOU:APP:HOU:APP:2400:2450
-Houston Hobby Final Approach:Houston Approach:133.050:AIH:H:HOU:APP:HOU:APP:2400:2450
-Houston Beaumont Satellite Approach:Houston Approach:121.300:AIJ:J:HOU:APP:HOU:APP:2400:2450
-Houston College Satellite Approach:Houston Approach:134.300:AIU:U:HOU:APP:HOU:APP:2400:2450
-Houston Industry Satellite Approach:Houston Approach:124.220:AIZ:Z:HOU:APP:HOU:APP:2400:2450
-Houston Lakeside Satellite Approach:Houston Approach:123.800:AIP:P:HOU:APP:HOU:APP:2400:2450
-Houston Tomball Satellite Approach:Houston Approach:119.700:AIR:R:HOU:APP:HOU:APP:2400:2450
-Houston Sanjac Satellite Approach:Houston Approach:124.450:AIB:B:HOU:APP:HOU:APP:2400:2450
+Houston East Approach:Houston Approach:120.050:AID:D:I90:APP:I90:APP:2400:2450
+Houston West Approach:Houston Approach:124.350:AIN:N:HOU:APP:I90:APP:2400:2450
+Houston Gulf Approach:Houston Approach:119.620:AIG:G:I90:APP:I90:APP:2400:2450
+Houston Eagle Lake Approach:Houston Approach:119.170:AIX:X:I90:APP:I90:APP:2400:2450
+Houston Final North Approach:Houston Approach:119.100:AIA:A:I90:APP:I90:APP:2400:2450
+Houston Final Center Approach:Houston Approach:120.650:AII:I:I90:APP:I90:APP:2400:2450
+Houston Final South Approach:Houston Approach:134.000:AIO:O:I90:APP:I90:APP:2400:2450
+Houston Hobby Final Approach:Houston Approach:133.050:AIH:H:I90:APP:I90:APP:2400:2450
+Houston Beaumont Satellite Approach:Houston Approach:121.300:AIJ:J:I90:APP:I90:APP:2400:2450
+Houston College Satellite Approach:Houston Approach:134.300:AIU:U:I90:APP:I90:APP:2400:2450
+Houston Industry Satellite Approach:Houston Approach:124.220:AIZ:Z:I90:APP:I90:APP:2400:2450
+Houston Lakeside Satellite Approach:Houston Approach:123.800:AIP:P:I90:APP:I90:APP:2400:2450
+Houston Tomball Satellite Approach:Houston Approach:119.700:AIR:R:I90:APP:I90:APP:2400:2450
+Houston Sanjac Satellite Approach:Houston Approach:124.450:AIB:B:I90:APP:I90:APP:2400:2450
 
 ***************************
 ;I90 Departure
-Houston North Departure:Houston Departure:132.250:AIM:M:HOU:DEP:HOU:DEP:2400:2450
-Houston South Departure:Houston Departure:127.120:AIL:L:HOU:DEP:HOU:DEP:2400:2450
-Houston East Departure:Houston Departure:133.600:AIE:E:HOU:DEP:HOU:DEP:2400:2450
-Houston West Departure:Houston Departure:126.675:AIW:W:HOU:DEP:HOU:DEP:2400:2450
+Houston North Departure:Houston Departure:132.250:AIM:M:I90:DEP:I90:DEP:2400:2450
+Houston South Departure:Houston Departure:127.120:AIL:L:I90:DEP:I90:DEP:2400:2450
+Houston East Departure:Houston Departure:133.600:AIE:E:I90:DEP:I90:DEP:2400:2450
+Houston West Departure:Houston Departure:126.675:AIW:W:I90:DEP:I90:DEP:2400:2450
 
 ***************************
 ;GEORGE BUSH INTERCONTINENTAL
@@ -463,7 +463,7 @@ ZJX KNEMO R51:Jacksonville Center:120.120:J51:C:JAX:CTR:ZJX:51:1001:1077
 ***********************
 ; MEM_CTR
 ***********************
-Memphis Center NE Low:Memphis Center:135.900:M05:C:MEM:CTR:ZME 05:NEL:1501:1577
+Memphis Center NE Low:Memphis Center:135.900:M33:C:MEM:CTR:ZME 05:NEL:1501:1577
 Memphis Center NW Low:Memphis Center:120.070:M04:C:MEM:CTR:ZME 04:NWL:1501:1577
 Memphis Center SW Low:Memphis Center:135.300:M15:C:MEM:CTR:ZME 15:SWL:1501:1577
 Memphis Center SE Low:Memphis Center:120.800:M13:C:MEM:CTR:ZME 13:SEL:1501:1577
@@ -472,7 +472,7 @@ Memphis Center NW High:Memphis Center:132.550:M22:C:MEM:CTR:ZME 22:NWH:5601:5677
 Memphis Center S High:Memphis Center:124.820:M45:C:MEM:CTR:ZME 45:SSH:5601:5677
 Memphis Center NW Ultra:Memphis Center:134.770:M20:C:MEM:CTR:ZME 20:NWU:5601:5677
 Memphis Center NE Ultra:Memphis Center:134.650:M32:C:MEM:CTR:ZME 32:NEU:5601:5677
-Memphis Center S Ultra/Combined:Memphis Center:133.650:M33:C:MEM:CTR:ZME 33:SSU:5601:5677
+Memphis Center S Ultra/Combined:Memphis Center:133.650:M05:C:MEM:CTR:ZME 05:SSU:5601:5677
 
 
 ***************************
