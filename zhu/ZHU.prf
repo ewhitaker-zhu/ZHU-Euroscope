@@ -55,7 +55,7 @@ LastSession	simdatapublish	0
 Plugins	Plugin2	\Plugins\vSMR_1.4.0\vSMR.dll
 Plugins	Plugin2Display0	SMR radar display
 Plugins	Plugin3	\Plugins\DiscordEuroscope.dll
-LastSession	callsign	HOU_D_APP
+LastSession	callsign	I90_D_APP
 LastSession	atis2	"Houston Approach"
 LastSession	atis3	Feedback always appreciated at vats.im/zhufb
 LastSession	atis4	Covering BPT. CLL, CXO, DWH, EFD, GLS, HOU, IAH, SGR, TME
