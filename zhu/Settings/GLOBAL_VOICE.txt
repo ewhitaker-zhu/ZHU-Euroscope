@@ -103,6 +103,32 @@ AG:AUS_GND:121.900:novoice:Austin Ground Combined
 AG:AUS_E_TWR:121.000:novoice:Austin Tower East
 AG:AUS_W_TWR:118.220:novoice:Austin Tower West
 AG:AUS_TWR:121.000:novoice:Austin Tower Combined
+AG:SAT_N_APP:124.450:novoice:San Antonio Approach Northeast
+AG:SAT_E_APP:128.050:novoice:San Antonio Approach Southeast
+AG:SAT_W_APP:125.100:novoice:San Antonio Approach Northwest
+AG:SAT_S:APP:118.050:novoice:San Antonio Approach Southwest
+AG:SAT_F_APP:121.375:novoice:San Antonio Approach Final
+AG:SAT_APP:124.450:novoice:San Antonio Approach Combined
+AG:SAT:TWR:119.800:novoice:San Antonio Tower
+AG:SAT_GND:121.900:novoice:San Antonio Ground
+AG:SAT_DEL:126.700:novoice:San Antonio Clearance
+AG:CRP_N_APP:120.900:novoice:Corpus Approach North
+AG:CRP_W_APP:124.800:novoice:Corpus Approach West
+AG:CRP_W_APP:125.800:novoice:Corpus Approach East
+AG:CRP_APP:120.900:novoice:Corpus/Valley Approach Combined
+AG:CRP_DEL:119.400:novoice:Corpus Clearance
+AG:CRP_GND:121.900:novoice:Corpus Ground
+AG:CRP_TWR:118.550:novoice:Corpus Tower
+AG:VLY_N_APP:120.700:novoice:Valley Approach North
+AG:VLY_W_APP:121.000:novoice:Valley Approach West
+AG:VLY_E_APP:119.500:novoice:Valley Approach East
+AG:VLY_APP:120.700:novoice:Valley Approach Combined
+AG:BRO_GND:121.900:novoice:Brownsville Ground
+AG:BRO_TWR:118.900:novoice:Brownsville Tower
+AG:HRL_GND:121.700:novoice:Harlingen Ground
+AG:HRL_TWR:119.300:novoice:Harlingen Tower
+AG:MFE_GND:121.800:novoice:McAllen Ground
+AG:MFE_TWR:118.500:novoice:McAllen Tower
 AG:LCH_W_APP:119.350:novoice:Lake Charles Approach West
 AG:LCH_E_APP:119.800:novoice:Lake Charles Approach East
 AG:LCH_APP:119.350:novoice:Lake Charles Approach Combined
@@ -111,7 +137,6 @@ AG:LCH_GND:121.800:novoice:Lake Charles Ground
 AG:LCH_DEL:126.250:novoice:Lake Charles Clearance
 AG:CWF_TWR:124.200:novoice:Chennault Tower
 AG:CWF_GND:121.650:novoice:Chennault Ground
---
 AG:BPT_TWR:119.500:novoice:Beaumont Tower
 AG:BPT_GND:124.850:novoice:Beaumont Ground
 END
