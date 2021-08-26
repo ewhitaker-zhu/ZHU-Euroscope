@@ -1,7 +1,7 @@
 VOICE
+AG:HOU_CTR:134.420:novoice:Esler Combined Ultra High
 AG:HOU_24_CTR:132.170:novoice:Leeville
 AG:HOU_23_CTR:132.950:novoice:White Lake Ultra High
-AG:HOU_CTR:134.420:novoice:Esler Combined Ultra High
 AG:HOU_25_CTR:127.650:novoice:Brookley Low
 AG:HOU_26_CTR:128.170:novoice:Woodville High
 AG:HOU_27_CTR:128.170:novoice:Picayune Low
@@ -131,12 +131,33 @@ AG:MFE_GND:121.800:novoice:McAllen Ground
 AG:MFE_TWR:118.500:novoice:McAllen Tower
 AG:LCH_W_APP:119.350:novoice:Lake Charles Approach West
 AG:LCH_E_APP:119.800:novoice:Lake Charles Approach East
-AG:LCH_APP:119.350:novoice:Lake Charles Approach Combined
+AG:LCH_APP:119.800:novoice:Lake Charles Approach Combined
 AG:LCH_TWR:120.700:novoice:Lake Charles Tower
 AG:LCH_GND:121.800:novoice:Lake Charles Ground
 AG:LCH_DEL:126.250:novoice:Lake Charles Clearance
 AG:CWF_TWR:124.200:novoice:Chennault Tower
 AG:CWF_GND:121.650:novoice:Chennault Ground
+AG:LFT_W_APP:127.500:novoice:Lafayette Approach West
+AG:LFT_E_APP:124.600:novoice:Lafayette Approach East
+AG:LFT_APP:127.650:novoice:Lafayette Approach Combined
+AG:LFT_TWR:118.500:novoice:Lafayette Tower
+AG:LFT_GND:121.800:novoice:Lafayette Ground
+AG:LFT_DEL:125.550:novoice:Lafayette Clearance
+AG:ARA_TWR:125.000:novoice:Acadiana Tower
+AG:ARA_GND:121.700:novoice:Acadiana Ground
+AG:BTR_W_APP:120.300:novoice:Baton Rouge Approach West
+AG:BTR_E_APP:126.500:novoice:Baton Rouge Approach East
+AG:BTR_APP:120.300:novoice:Baton Rouge Approach Combined
+AG:BTR_DEL:119.400:novoice:Ryan Clearance
+AG:BTR_GND:121.900:novoice:Ryan Ground
+AG:BTR_TWR:118.450:novoice:Ryan Tower
 AG:BPT_TWR:119.500:novoice:Beaumont Tower
 AG:BPT_GND:124.850:novoice:Beaumont Ground
+AG:POE_W_APP:123.700:novoice:Polk Approach West
+AG:POE_E_APP:125.400:novoice:Polk APproach East
+AG:POE_APP:123.700:novoice:Polk Approach Combined
+AG:POE_GND:121.800:novoice:Polk Ground
+AG:POE_TWR:119.000:novoice:Polk Tower
+AG:AEX_GND:121.900:novoice:Alexandria Ground
+AG:AEX_TWR:127.350:novoice:Alexandria Tower
 END
