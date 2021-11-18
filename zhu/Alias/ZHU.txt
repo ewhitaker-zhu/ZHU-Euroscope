@@ -51,7 +51,7 @@ KIAH ARRIVALS (CURRENT):
 
 .gesnr1 .openurl https://aeronav.faa.gov/d-tpp/2102/05461GESNR.PDF
 .gesnr11 .openurl https://aeronav.faa.gov/d-tpp/2102/05461GESNR_C.PDF
-.gesn1ae .fd GENSR1.AEX
+.gesn1ae .fd GENSR1.
 .gesn1aef .ff AEX EMGEE(>FL240) SCHEX(FL220-FL270) ZEEK(17K-FL200) GESNR(13K-16K) KENNN(10K-11K) KNGWD(8K-10K) ZOEE(7K) CASST(6K) EDEE(8K) REAPR(6K) SHIVV(6K) HOWLN(6K)
 .gesn1ca .fd GENSR1.CARPR
 .gesn1caf .ff CARPR MURFF(FL220-FL270) FL270) ZEEK(17K-FL200) GESNR(13K-16K) KENNN(10K-11K) KNGWD(8K-10K) ZOEE(7K) CASST(6K) EDEE(8K) REAPR(6K) SHIVV(6K) HOWLN(6K)
@@ -260,162 +260,56 @@ KIAH ARRIVALS (OBSOLETE, DIAGRAMS DELETED FROM SCT FILE):
 
 
 KIAH DEPARTURES (CURRENT):
-.AEXDEP .msg ZHU_ISR ***AEX 2 ::: Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to RAECN 
-.BLTWYDEP .msg ZHU_ISR ***BLTWY 6 ::: RNAV-Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to DREMR
+.AEXDEP .msg ZHU_ISR ***AEX 3 ::: Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to RAECN 
+.BLTWYDEP .msg ZHU_ISR ***BLTWY 7 ::: RNAV-Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to DREMR
 .BNDTODEP .msg ZHU_ISR ***BNDTO 5 ::: RNAV-PilotNav ::: IAH Only ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: RNAV SCAMM
 .BORRNDEP .msg ZHU_ISR ***BORRN 4 ::: RNAV-Hybrid ::: Satellite Only ::: CRZ-10min(Listed) ::: TopAlt ATC ::: Vector to BORRN
-.CRIEDDEP .msg ZHU_ISR ***CRIED 9 ::: Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to LITLD
-.ELDDEP .msg ZHU_ISR ***ELD 9 ::: Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to RAECN
-.ELOCODEP .msg ZHU_ISR ***ELOCO 4 ::: RNAV-Hybrid ::: HOU Only ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to ELOCO
+.CRIEDDEP .msg ZHU_ISR ***CRIED 1 ::: Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to LITLD
+.ELDDEP .msg ZHU_ISR ***ELD 1 ::: Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to RAECN
+.ELOCODEP .msg ZHU_ISR ***ELOCO 5 ::: RNAV-Hybrid ::: HOU Only ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to ELOCO
 .FLYZADEP .msg ZHU_ISR ***FLYZA 5 ::: RNAV-PilotNav ::: IAH Only ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: RNAV TTAPS
-.GIFFADEP .msg ZHU_ISR ***GIFFA 9 ::: Hybrid ::: All Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to MONNT
+.GIFFADEP .msg ZHU_ISR ***GIFFA 1 ::: Hybrid ::: All Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to MONNT
 .GUMBYDEP .msg ZHU_ISR ***GUMBY 5 ::: RNAV-PilotNav ::: IAH Only ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: RNAV CRTMN
-.HOODODEP .msg ZHU_ISR ***HOODO 6 ::: RNAV-Hybrid ::: HOU/Satellite Only ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to VUH (Scholes)
-.INDIEDEP .msg ZHU_ISR ***INDIE 7 ::: RNAV-Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to RENNK
-.IDUDEP .msg ZHU_ISR ***IDU 9 ::: Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to SHYNR
+.HOODODEP .msg ZHU_ISR ***HOODO 7 ::: RNAV-Hybrid ::: HOU/Satellite Only ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to VUH (Scholes)
+.INDIEDEP .msg ZHU_ISR ***INDIE 8 ::: RNAV-Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to RENNK
+.IDUDEP .msg ZHU_ISR ***IDU 1 ::: Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to SHYNR
 .KARRRDEP .msg ZHU_ISR ***KARRR 6 ::: RNAV-Hybrid ::: Satellite Only ::: CRZ-10min(Listed) ::: TopAlt ATC ::: Vector to KARRR
-.LOADEP .msg ZHU_ISR ***LOA 3 ::: Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to WLLIS
-.LFKDEP .msg ZHU_ISR ***LFK 2 ::: Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to KYANN
-.LURICDEP .msg ZHU_ISR ***LURIC 7 ::: RNAV-Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to KNTKY
+.LOADEP .msg ZHU_ISR ***LOA 4 ::: Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to WLLIS
+.LFKDEP .msg ZHU_ISR ***LFK 3 ::: Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to KYANN
+.LURICDEP .msg ZHU_ISR ***LURIC 8 ::: RNAV-Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to KNTKY
 .MMALTDEP .msg ZHU_ISR ***MMALT 5 ::: RNAV-Hybrid ::: Satellite Only ::: CRZ-10min(Listed) ::: TopAlt ATC ::: Vector to MMALT
 .MMUGSDEP .msg ZHU_ISR ***MMUGS 4 ::: RNAV-PilotNav ::: IAH Only ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: RNAV TTAPS
-.PSXDEP .msg ZHU_ISR ***PSX 1 ::: Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to SKUBA
-.PEECEDEP .msg ZHU_ISR ***PEECE 4 ::: RNAV-Hybrid ::: HOU Only ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to PEECE
+.PSXDEP .msg ZHU_ISR ***PSX 2 ::: Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to SKUBA
+.PEECEDEP .msg ZHU_ISR ***PEECE 5 ::: RNAV-Hybrid ::: HOU Only ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to PEECE
 .PITZZDEP .msg ZHU_ISR ***PITZZ 4 ::: RNAV-PilotNav ::: IAH Only ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: RNAV JAYLO
-.PTRONDEP .msg ZHU_ISR ***PTRON 6 ::: RNAV-Hybrid ::: HOU Only ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to SAALT
-.RETYRDEP .msg ZHU_ISR ***RETYR 5 ::: RNAV-Hybrid ::: HOU Only ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to RETYR
+.PTRONDEP .msg ZHU_ISR ***PTRON 7 ::: RNAV-Hybrid ::: HOU Only ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to SAALT
+.RETYRDEP .msg ZHU_ISR ***RETYR 6 ::: RNAV-Hybrid ::: HOU Only ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to RETYR
 .RITAADEP .msg ZHU_ISR ***RITAA 4 ::: RNAV-PilotNav ::: IAH Only ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: RNAV JAYLO
-.STRYADEP .msg ZHU_ISR ***STRYA 7 ::: RNAV-Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to KNTKY
-.STYCKDEP .msg ZHU_ISR ***STYCK 7 ::: RNAV-Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to BBYSE
+.STRYADEP .msg ZHU_ISR ***STRYA 8 ::: RNAV-Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to KNTKY
+.STYCKDEP .msg ZHU_ISR ***STYCK 8 ::: RNAV-Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt 16000 ::: Vector to BBYSE
 .WATFODEP .msg ZHU_ISR ***WATFO 5 ::: RNAV-Hybrid ::: Satellite Only ::: CRZ-10min(Listed) ::: TopAlt ATC ::: Vector to WATFO
-.WYLSNDEP .msg ZHU_ISR ***WYLSN 7 ::: RNAV-Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt ATC ::: Vector to WYLSN
+.WYLSNDEP .msg ZHU_ISR ***WYLSN 8 ::: RNAV-Hybrid ::: ALL Fields ::: CRZ-10min(Listed) ::: TopAlt ATC ::: Vector to WYLSN
 
-.aex2 .openurl https://aeronav.faa.gov/d-tpp/2102/05461ALEXANDRIA.PDF
-.aex21 .openurl https://aeronav.faa.gov/d-tpp/2102/05461ALEXANDRIA_C.PDF
-.aex2c --ALEXANDRIA TWO
-.aex2f RAECN DARTR MUSIQ VELCO(>10K) COSGO
-
-.blt6 .openurl https://aeronav.faa.gov/d-tpp/2102/05461BLTWY.PDF
-.blt6c --BLTWY SIX
-.blt6f DREMR LITLD BLTWY CRIED
-
-.bnd5 .openurl https://aeronav.faa.gov/d-tpp/2102/05461BNDTO.PDF
-.bnd51 .openurl https://aeronav.faa.gov/d-tpp/2102/05461BNDTO_C.PDF
-.bnd5c --BNDTO FIVE
-.bnd5f SCAMM SHARRK BNDTO
-
-.crie9 .openurl https://aeronav.faa.gov/d-tpp/2102/05461CRIED.PDF
-.crie9c --CRIED NINE
-.crie9f LITLD BLTWY STELL CRIED CQY
-
-.eld9 .openurl https://aeronav.faa.gov/d-tpp/2102/05461ELDORADO.PDF
-.eld9c --EL DORADO NINE
-.eld9f RAECN DARTR MUSIQ VECLO ENJOY ELD
-
-.flzy9 .openurl https://aeronav.faa.gov/d-tpp/2102/05461FLYZA.PDF
-.flyz91 .openurl https://aeronav.faa.gov/d-tpp/2102/05461FLYZA_C.PDF
-.flyz9c --FLYZA FIVE
-.flyz9f TTAPS BOTLL FLYZA PPALE VUH
-
-.giff9 .openurl https://aeronav.faa.gov/d-tpp/2102/05461GIFFA.PDF
-.giff9c --GIFFA NINE
-.giff9f MONNT BUMCO GIFFA
-
-.gumb3 .openurl https://aeronav.faa.gov/d-tpp/2102/05461GUMBY.PDF
-.gumb31 .openurl https://aeronav.faa.gov/d-tpp/2102/05461GUMBY_C.PDF
-.gumb3c --GUMBY Three
-.gumb3f CRTMN DWSUN GUMBY
-
-.hood6 .openurl https://aeronav.faa.gov/d-tpp/2102/05461HOODO.PDF
-.hood61 .openurl https://aeronav.faa.gov/d-tpp/2102/05461HOODO_C.PDF
-.hood6c --HOODO SIX
-.hood6f HOODO SBIRD CFOOD BOWFN
-
-.indi7 .openurl https://aeronav.faa.gov/d-tpp/2102/05461INDIE.PDF
-.indi7c --INDIE SEVEN
-.indi7f RENNK COLET SUSHI WWELL INDIE TPAKK
-
-.indu9 .openurl https://aeronav.faa.gov/d-tpp/2102/05461INDUSTRY.PDF
-.indu91 .openurl https://aeronav.faa.gov/d-tpp/2102/05461INDUSTRY_C.PDF
-.indu9c --INDUSTRY NINE
-.indu9f SHYNR BOCCK IDU
-
-.jct1 .openurl https://aeronav.faa.gov/d-tpp/2102/05461JUNCTION.PDF
-.jct1c --JUNCTION ONE
-.jct1f IAH CRUZZZ ZUUU PUFER
-
-.lch5 .openurl https://aeronav.faa.gov/d-tpp/2102/05461LAKECHARLES.PDF
-.lch5c --Lake Charles Five
-.lch5f WEDRI HOURN LCH
-
-.loa3 .openurl https://aeronav.faa.gov/d-tpp/2102/05461LEONA.PDF
-.loa31 .openurl http://aeronav.faa.gov/d-tpp/2102/05461LEONA_C.PDF
-.loa3c --LEONA THREE
-.loa3f WLLIS LEONA 
-
-.lfk2 .openurl https://aeronav.faa.gov/d-tpp/2102/05461LUFKIN.PDF
-.lfk21 .openurl http://aeronav.faa.gov/d-tpp/2102/05461LUFKIN_C.PDF
-.lfk2C --LUFKIN TWO
-.lfk2f KYANN COLET SUSHI LUFKIN
-
-.luri7 .openurl https://aeronav.faa.gov/d-tpp/2102/05461LURIC.PDF
-.luri7c --LURIC SEVEN
-.luri7f KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC
-
-.mmug4 .openurl https://aeronav.faa.gov/d-tpp/2102/05461MMUGS.PDF
-.mmug41 .openurl https://aeronav.faa.gov/d-tpp/2102/05461MMUGS_C.PDF
-.mmug5c --MMUGS FOUR
-.mmug4f TTAPS BOTLL MMUGS
-
-.psx1 .openurl https://aeronav.faa.gov/d-tpp/2102/05461PALACIOS.PDF
-.psx11 .openurl https://aeronav.faa.gov/d-tpp/2102/05461PALACIOS_C.PDF
-.psx1c --PALACIOS ONE
-.psx1f SKUBA PSX
-
-.pitz4 .openurl https://aeronav.faa.gov/d-tpp/2102/05461PITZZ.PDF
-.pitz41 .openurl https://aeronav.faa.gov/d-tpp/2102/05461PITZZ_C.PDF
-.pitz4c --PITZZ FOUR
-.pitz4f JAYLI RODKL PITZZ
-
-.rita6 .openurl https://aeronav.faa.gov/d-tpp/2102/05461RITAA.PDF
-.rita61 .openurl https://aeronav.faa.gov/d-tpp/2102/05461RITAA_C.PDF
-.rita6c --RITTA SIX
-.rita6f TTAPS BOTLL FLYZA WINEO RITAA
-
-.stry7 .openurl https://aeronav.faa.gov/d-tpp/2102/05461STRYA.PDF
-.stry7c --STRYA SEVEN
-.stry7f KNTKY PEETY DARTR MUSIQ CLAVN STRYA
-
-.styc7 .openurl 
-.styc7c --STYCK SEVEN
-.styc7f BBYSE SPICR WLLIS STYCK
-
-.wyls7 .openurl https://aeronav.faa.gov/d-tpp/2102/05461WYLSN.PDF
-.wyls7c --WYLSN SEVEN
-.wyls7f WYLSN MONNT
-
-
-KIAH DEPARTURES (OBSOLETE, DIAGRAMS DELETED FROM SCT FILE):
 
 
 *****************************
 KHOU ARRIVALS AND DEPARTURES:
 *****************************
 KHOU ARRIVALS (CURRENT):
-.bayy3 .openurl https://aeronav.faa.gov/d-tpp/2102/00198BAYYY.PDF
-.bayy31 .openurl https://aeronav.faa.gov/d-tpp/2102/00198BAYYY_C.PDF
-.bayy3kc .fd BAYYY3.KCEEE
-.bayy3kcf .ff KECEE SLYCE SHUDL BAYYY(17K-FL200) PUCKS(10K-14K) FRDDY(8K-10K) FIGGG(6K-7K) IVEEE(6K) VILLI ALLY SHUUG(6K) EMARR
-.bayy3ke .fd BAYYY3.KELPP
-.bayy3kef .ff KELPP SHLLL BAYYY(17K-FL200) PUCKS(10K-14K) FRDDY(8K-10K) FIGGG(6K-7K) IVEEE(6K) VILLI ALLY SHUUG(6K) EMARR
-.bayy3le .fd BAYYY3.LEV
-.bayy3lef .ff LEV KCEEE SLYCE SHUDL BAYYY(17K-FL200) PUCKS(10K-14K) FRDDY(8K-10K) FIGGG(6K-7K) IVEEE(6K) VILLI ALLY SHUUG(6K) EMARR
-.bayy3pe .fd BAYYY3.PEGLG
-.bayy3pef .ff PEGLG SHLLL BAYYY(17K-FL200) PUCKS(10K-14K) FRDDY(8K-10K) FIGGG(6K-7K) IVEEE(6K) VILLI ALLY SHUUG(6K) EMARR
-.bayy3se .fd BAYYY3.SEAGL
-.bayy3sef .ff SEAGL SHLLL BAYYY(17K-FL200) PUCKS(10K-14K) FRDDY(8K-10K) FIGGG(6K-7K) IVEEE(6K) VILLI ALLY SHUUG(6K) EMARR
-.bayy3sj .fd BAYYY3.SEMMES
-.bayy3sjc SEEMES SHREQ JEPEG SLYCE SHUDL BAYYY(17K-FL200) PUCKS(10K-14K) FRDDY(8K-10K) FIGGG(6K-7K) IVEEE(6K) VILLI ALLY SHUUG(6K) EMARR
+.bayy4 .openurl https://aeronav.faa.gov/d-tpp/2102/00198BAYYY.PDF
+.bayy41 .openurl https://aeronav.faa.gov/d-tpp/2102/00198BAYYY_C.PDF
+.bayy4kc .fd BAYYY3.KCEEE
+.bayy4kcf .ff KECEE SLYCE SHUDL BAYYY(17K-FL200) PUCKS(10K-14K) FRDDY(8K-10K) FIGGG(6K-7K) IVEEE(6K) VILLI ALLY SHUUG(6K) EMARR
+.bayy4ke .fd BAYYY3.KELPP
+.bayy4kef .ff KELPP SHLLL BAYYY(17K-FL200) PUCKS(10K-14K) FRDDY(8K-10K) FIGGG(6K-7K) IVEEE(6K) VILLI ALLY SHUUG(6K) EMARR
+.bayy4le .fd BAYYY3.LEV
+.bayy4lef .ff LEV KCEEE SLYCE SHUDL BAYYY(17K-FL200) PUCKS(10K-14K) FRDDY(8K-10K) FIGGG(6K-7K) IVEEE(6K) VILLI ALLY SHUUG(6K) EMARR
+.bayy4pe .fd BAYYY3.PEGLG
+.bayy4pef .ff PEGLG SHLLL BAYYY(17K-FL200) PUCKS(10K-14K) FRDDY(8K-10K) FIGGG(6K-7K) IVEEE(6K) VILLI ALLY SHUUG(6K) EMARR
+.bayy4se .fd BAYYY3.SEAGL
+.bayy4sef .ff SEAGL SHLLL BAYYY(17K-FL200) PUCKS(10K-14K) FRDDY(8K-10K) FIGGG(6K-7K) IVEEE(6K) VILLI ALLY SHUUG(6K) EMARR
+.bayy4sj .fd BAYYY3.SEMMES
+.bayy4sjc SEEMES SHREQ JEPEG SLYCE SHUDL BAYYY(17K-FL200) PUCKS(10K-14K) FRDDY(8K-10K) FIGGG(6K-7K) IVEEE(6K) VILLI ALLY SHUUG(6K) EMARR
 .bayy3shf .ff BAYYY3.SHLL
 .bayy3sh SHLL BAYYY(17K-FL200) PUCKS(10K-14K) FRDDY(8K-10K) FIGGG(6K-7K) IVEEE(6K) VILLI ALLY SHUUG(6K) EMARR
 
@@ -605,39 +499,15 @@ EXTERNAL STARS
 **************
 KDFW (CURRENT)
 
-KDFW (OBSOLETE)
+.DFWSTAR .msg ZHU_IDS [I90/SE] North: WHINY4 | South: BEREE1 [AUS/SW] North: BOOVE4 | South: SOCKK3
 
 KDAL (CURRENT)
 
-KDAL (OBSOLETE)
+.DALSTAR .msg ZHU_IDS [I90/SE] North: MNNDO4 | South: REDDN4 [AUS/SW] North: BACHR4 | South: DRYYE2
 
 KATL (CURRENT)
 
-KATL (OBSOLETE)
-
-KACT (CURRENT)
-
-KACT (OBSOLETE)
-
-KGGG (CURRENT)
-
-KGGG (OBSOLETE)
-
-KMLU (CURRENT)
-
-KMLU (OBSOLETE)
-
-KJAN (CURRENT)
-
-KJAN (OBSOLETE)
-
-KSJT (CURRENT)
-
-KSJT (OBSOLETE)
-
-KSHV (CURRENT)
-
-KSHV (OBSOLETE)
+.ATLSTAR .msg ZHU_IDS [ATL EAST] GNDLF2 [ATL WEST] HOBBT2
 
 
 
@@ -836,6 +706,8 @@ DEPARTURE
 APPROACH
 ********
 .rw Runway $1
+.eapp Expect $1 Runway $2 Approach
+.evapp Expect Visual Approach Runway $1
 .atis ATIS $1 is current
 
 
@@ -875,9 +747,9 @@ GENERAL CLEARANCES:
 CLEARANCES:
 ***********
 KIAH WITHOUT TRANSITIONS - CURRENT
-e.g. AEX2 no transition, type ".aex2clr 4000 120.05"
+e.g. AEX2 no transition, type ".aex3clr 4000 120.05"
 e.g. BNDTO5 RNAV no transition type ".bdn5clr 120.05"
-.aex2clr Cleared to $arr via the ALEXANDRIA TWO departure, then as filled, on departure maintain $1 expect $cruise 10 mins after departure, departure om $2, squawk $squawk
+.aex3clr Cleared to $arr via the ALEXANDRIA THREE departure, then as filled, on departure maintain $1 expect $cruise 10 mins after departure, departure om $2, squawk $squawk
 .blt6clr Cleared to $arr via the BLTWY SIX departure, then as filled, on departure climb via SID, departure on $1, squawk $squawk
 .bnd5clr Cleared to $arr via the BNDTO FIVE departure, then as filled, on departure climb via SID, departure on $1, squawk $squawk
 .crie9clr Cleared to $arr via the CRIED NINE departure, then as filled, on departure maintain $1 expect $cruise 10 mins after departure, departure on $2, squawk $squawk
@@ -906,10 +778,10 @@ KIAH WITHOUT TRANSITIONS - OBSOLETE
 
 
 KIAH WITH TRANSITIONS - CURRENT
-e.g. AEX2 CEW transition type ".aex2ceclr 4000 120.05"
+e.g. AEX3 CEW transition type ".aex3ceclr 4000 120.05"
 e.g. BNDTO5 RNAV no transition type ".bdn5clr 120.05"
-.aex2ceclr Cleared to $arv via the ALEXANDRIA TWO departure, CRESTVIEW transition, then as filled, on departure maintain $1 expect $cruise 10 mins after departure, departure on $2, squawk $squawk
-.aex2mcclr Cleared to $arv via the ALEXANDRIA TWO departure, MC COMB transition, then as filled, on departure maintain $1 expect $cruise 10 mins after departure, departure on $2, squawk $squawk
+.aex3ceclr Cleared to $arv via the ALEXANDRIA THREE departure, CRESTVIEW transition, then as filled, on departure maintain $1 expect $cruise 10 mins after departure, departure on $2, squawk $squawk
+.aex3mcclr Cleared to $arv via the ALEXANDRIA THREE departure, MC COMB transition, then as filled, on departure maintain $1 expect $cruise 10 mins after departure, departure on $2, squawk $squawk
 .blt6crclr Cleared to $arv via the BLTWY SIX departure, CRIED transition, then as filled, on departure climb via SID, departure on $1, squawk $squawk
 .bnd5crclr Cleared to $arv via the BNDTO FIVE departure, CRGER transition, then as filled, on departure climb via SID, departure on $1, squawk $squawk
 .bnd5mnclr Cleared to $arv via the BNDTO FIVE departure, MNURE transition, then as filled, on departure climb via SID, departure on $1, squawk $squawk
@@ -961,7 +833,7 @@ e.g. BNDTO5 RNAV no transition type ".bdn5clr 120.05"
 KIAH WITH TRANSITIONS - OBSOLETE
 
 KHOU WITHOUT TRANSITIONS - CURRENT
-.aex2clr Cleared to $arr via the ALEXANDRIA TWO departure, then as filled, on departure maintain $1 expect $cruise 10 mins after departure, departure om $2, squawk $squawk
+.aex3clr Cleared to $arr via the ALEXANDRIA THREE departure, then as filled, on departure maintain $1 expect $cruise 10 mins after departure, departure om $2, squawk $squawk
 .blt6clr Cleared to $arr via the BLTWY SIX departure, then as filled, on departure climb via SID, departure on $1, squawk $squawk
 .crie9clr Cleared to $arr via the CRIED NINE departure, then as filled, on departure maintain $1 expect $cruise 10 mins after departure, departure on $2, squawk $squawk
 .eld9clr Cleared to $arr via the EL DORADO NINE departure, then as filled, on departure maintain $1, expect $cruise 10 mins after departure, departure on $2, squawk $squawk
@@ -984,8 +856,8 @@ KHOU WITHOUT TRANSITIONS - CURRENT
 KHOU WITHOUT TRANSITIONS - OBSOLETE
 
 KHOU WITH TRANSITIONS - CURRENT
-.aex2ceclr Cleared to $arv via the ALEXANDRIA TWO departure, CRESTVIEW transition, then as filled, on departure maintain $1 expect $cruise 10 mins after departure, departure on $2, squawk $squawk
-.aex2mcclr Cleared to $arv via the ALEXANDRIA TWO departure, MC COMB transition, then as filled, on departure maintain $1 expect $cruise 10 mins after departure, departure on $2, squawk $squawk
+.aex3ceclr Cleared to $arv via the ALEXANDRIA THREE departure, CRESTVIEW transition, then as filled, on departure maintain $1 expect $cruise 10 mins after departure, departure on $2, squawk $squawk
+.aex3mcclr Cleared to $arv via the ALEXANDRIA THREE departure, MC COMB transition, then as filled, on departure maintain $1 expect $cruise 10 mins after departure, departure on $2, squawk $squawk
 .blt6crclr Cleared to $arv via the BLTWY SIX departure, CRIED transition, then as filled, on departure climb via SID, departure on $1, squawk $squawk
 .bnd5crclr Cleared to $arv via the BNDTO FIVE departure, CRGER transition, then as filled, on departure climb via SID, departure on $1, squawk $squawk
 .bnd5mnclr Cleared to $arv via the BNDTO FIVE departure, MNURE transition, then as filled, on departure climb via SID, departure on $1, squawk $squawk
@@ -1065,6 +937,8 @@ PRE-DEPARTURE CLEARANCE
 .pdchoupu .msg $aircraft *** PRE-DEPARTURE ATC CLEARANCE *** $aircraft $cruise $type($aircraft) TRANSPONDER $squawk ROUTE: $dep - $route - $arr ******* Maintain 3000, * DEP OFFLINE * PDC RECEIVED AT $time Zulu *** RPLY NOT RQRD. CTC APPROPRIATE CLNC DEL WITH QUESTIONS ***
 .pdciah .msg $aircraft *** PRE-DEPARTURE ATC CLEARANCE *** $aircraft $cruise $type($aircraft) TRANSPONDER $squawk ROUTE: $dep - $route - $arr ******* Maintain 4000, * DEP FREQ $freq($1) * PDC RECEIVED AT $time Zulu *** RPLY NOT RQRD. CTC APPROPRIATE CLNC DEL WITH QUESTIONS ***  
 .pdciahu .msg $aircraft *** PRE-DEPARTURE ATC CLEARANCE *** $aircraft $cruise $type($aircraft) TRANSPONDER $squawk ROUTE: $dep - $route - $arr ******* Maintain 4000, * DEP OFFLINE * PDC RECEIVED AT $time Zulu *** RPLY NOT RQRD. CTC APPROPRIATE CLNC DEL WITH QUESTIONS ***
+.pdciahv .msg $aircraft *** PRE-DEPARTURE ATC CLEARANCE *** $aircraft $cruise $type($aircraft) TRANSPONDER $squawk ROUTE: $dep - $route - $arr ******* Climb Via SID, Top Altitude 16,000, * DEP FREQ $freq($1) * PDC RECEIVED AT $time Zulu *** RPLY NOT RQRD. CTC APPROPRIATE CLNC DEL WITH QUESTIONS ***  
+.pdciahvu .msg $aircraft *** PRE-DEPARTURE ATC CLEARANCE *** $aircraft $cruise $type($aircraft) TRANSPONDER $squawk ROUTE: $dep - $route - $arr ******* Climb Via SID, Top Altitude 16,000, * DEP OFFLINE * PDC RECEIVED AT $time Zulu *** RPLY NOT RQRD. CTC APPROPRIATE CLNC DEL WITH QUESTIONS ***
 .pdciahp .msg $aircraft *** PRE-DEPARTURE ATC CLEARANCE *** $aircraft $cruise $type($aircraft) TRANSPONDER $squawk ROUTE: $dep - $route - $arr ******* Maintain 3000, * DEP FREQ $freq($1) * PDC RECEIVED AT $time Zulu *** RPLY NOT RQRD. CTC APPROPRIATE CLNC DEL WITH QUESTIONS ***  
 .pdciahpu .msg $aircraft *** PRE-DEPARTURE ATC CLEARANCE *** $aircraft $cruise $type($aircraft) TRANSPONDER $squawk ROUTE: $dep - $route - $arr ******* Maintain 3000, * DEP OFFLINE * PDC RECEIVED AT $time Zulu *** RPLY NOT RQRD. CTC APPROPRIATE CLNC DEL WITH QUESTIONS ***
 .pdcmsy .msg $aircraft *** PRE-DEPARTURE ATC CLEARANCE *** $aircraft $cruise $type($aircraft) TRANSPONDER $squawk ROUTE: $dep - $route - $arr ******* Maintain 4000, * DEP FREQ $freq($1) * PDC RECEIVED AT $time Zulu *** RPLY NOT RQRD. CTC APPROPRIATE CLNC DEL WITH QUESTIONS ***  
@@ -3998,17 +3872,17 @@ CATEGORIES
 ;All the Fun CTR/APP Commands
 .BAYYY .FD HOU_BAYYY 
  
-.BAYYYC .OPENURL https://aeronav.faa.gov/d-tpp/2014/00198bayyy.pdf#nameddest=(HOU) 
-.BAYYY2C .OPENURL https://aeronav.faa.gov/d-tpp/2014/00198bayyy_c.pdf#nameddest=(HOU) 
+.BAYYYC .OPENURL https://aeronav.faa.gov/d-tpp/2110/00198bayyy.pdf#nameddest=(HOU) 
+.BAYYY2C .OPENURL https://aeronav.faa.gov/d-tpp/2110/00198bayyy_c.pdf#nameddest=(HOU) 
 .BAYYY3C .OPENURL There Are No Additional Pages for This Procedure 
  
 .BAYYYF .FF SLYCE GEEAR SHUDL BAYYY PUCKS FRDDY FIGGG 
  
-.BAYYYCTR .MSG ZHU_ISR *** BAYYY 3 ::: RNAV ::: [RWYs 22, 31L/R] Assign PUCKS3 ::: A$altim(KHOU) 
+.BAYYYCTR .MSG ZHU_ISR *** BAYYY 4 ::: RNAV ::: [RWYs 22, 31L/R] Assign PUCKS3 ::: A$altim(KHOU) 
  
-.BAYYYAPP .MSG ZHU_ISR *** BAYYY 3 ::: RNAV ::: [RWY 4] Vector to Final @ ALLLY __ [ALL OTHER RWYs] Vector to Final @ EMARR ::: A$altim(KHOU) 
+.BAYYYAPP .MSG ZHU_ISR *** BAYYY 4 ::: RNAV ::: [RWY 4] Vector to Final @ ALLLY __ [ALL OTHER RWYs] Vector to Final @ EMARR ::: A$altim(KHOU) 
  
-.TBAYYYCTR Descend via the BAYYY3 Arrival, the Hobby Altimeter A$altim(KHOU) 
+.TBAYYYCTR Descend via the BAYYY4 Arrival, the Hobby Altimeter A$altim(KHOU) 
  
 .TBAYYYAPP A$altim(KHOU) 
 
@@ -4023,11 +3897,11 @@ CATEGORIES
  
 .BELLRF .FF BELLR HNTRR 
  
-.BELLRCTR .MSG ZHU_ISR *** BELLR 3 ::: RNAV ::: Descend via Arrival ::: A$altim(KHOU) 
+.BELLRCTR .MSG ZHU_ISR *** BELLR 4 ::: RNAV ::: Descend via Arrival ::: A$altim(KHOU) 
  
-.BELLRAPP .MSG ZHU_ISR *** BELLR 3 ::: RNAV ::: [RWY 4] Cleared ILS @ GEEEO __ [ILS 13R/L] Vector to Final @ SEUSS [RWY 22] Vector to Final @ MAAHH [RWY 31L/R] Vector to Final at RJAAY ::: A$altim(KHOU) 
+.BELLRAPP .MSG ZHU_ISR *** BELLR 4 ::: RNAV ::: [RWY 4] Cleared ILS @ GEEEO __ [ILS 13R/L] Vector to Final @ SEUSS [RWY 22] Vector to Final @ MAAHH [RWY 31L/R] Vector to Final at RJAAY ::: A$altim(KHOU) 
  
-.TBELLRCTR Descend via the BELLR3 Arrival, the Hobby Altimeter A$altim(KHOU) 
+.TBELLRCTR Descend via the BELLR4 Arrival, the Hobby Altimeter A$altim(KHOU) 
  
 .TBELLRAPP4 At GEEEO, Cleared ILS Runway 4 Approach. 
 
@@ -4099,11 +3973,11 @@ CATEGORIES
  
 .KIDDZF .FF KIDDZ SNIFY QTRBK RVEEE AAHZZ GLUVR 
  
-.KIDDZCTR .MSG ZHU_ISR *** KIDDZ 3 ::: RNAV ::: Descend via Arrival ::: A$altim(KHOU) 
+.KIDDZCTR .MSG ZHU_ISR *** KIDDZ 4 ::: RNAV ::: Descend via Arrival ::: A$altim(KHOU) 
  
-.KIDDZAPP .MSG ZHU_ISR *** KIDDZ 3 ::: RNAV ::: [RWY 4] @ GEEEO Cleared ILS __ [ALL OTHER RUNWAYS] Vector to Final ::: A$altim(KHOU) 
+.KIDDZAPP .MSG ZHU_ISR *** KIDDZ 4 ::: RNAV ::: [RWY 4] @ GEEEO Cleared ILS __ [ALL OTHER RUNWAYS] Vector to Final ::: A$altim(KHOU) 
  
-.TKIDDZCTR Descend via the KIDDZ3 Arrival, the Hobby Altimeter A$altim(KHOU)
+.TKIDDZCTR Descend via the KIDDZ4 Arrival, the Hobby Altimeter A$altim(KHOU)
  
 .TKIDDZAPP4 At GEEEO Cleared ILS Runway 4 Approach.
  
@@ -4140,11 +4014,11 @@ CATEGORIES
  
 .PUCKSF .FF BAYYY PUCKS SQRLL KEMAH WWLLD JCNTO 
  
-.PUCKSCTR .MSG ZHU_ISR *** PUCKS 3 ::: RNAV ::: [RWYs 4, 13R/L] Assign BAYYY3 __ Descend via Arrival ::: A$altim(KHOU) 
+.PUCKSCTR .MSG ZHU_ISR *** PUCKS 4 ::: RNAV ::: [RWYs 4, 13R/L] Assign BAYYY3 __ Descend via Arrival ::: A$altim(KHOU) 
  
-.PUCKSAPP .MSG ZHU_ISR *** PUCKS 3 ::: RNAV ::: [RWY 22] Vector from JCNTO @ 4000 __ [RWY 31L/R] Vector from MMOOW @ 6000 ::: A$altim(KHOU) 
+.PUCKSAPP .MSG ZHU_ISR *** PUCKS 4 ::: RNAV ::: [RWY 22] Vector from JCNTO @ 4000 __ [RWY 31L/R] Vector from MMOOW @ 6000 ::: A$altim(KHOU) 
  
-.TPUCKSCTR . Descend via the PUCKS3 Arrival, the Hobby Altimeter A$altim(KHOU) 
+.TPUCKSCTR . Descend via the PUCKS4 Arrival, the Hobby Altimeter A$altim(KHOU) 
  
 .TPUCKSAPPN . Altimeter A$altim(KHOU) 
 
@@ -4180,11 +4054,13 @@ CATEGORIES
  
 .TKNIQF .FF BBURT TKNIQ DOCCC FRDDY FIGGG IVEEE VILLI ALLY 
  
-.TKNIQCTR .MSG ZHU_ISR *** TKNIQ 2 ::: RNAV ::: [HOU] ATC Assigned Only ::: A$altim(KHOU) 
+.TKNIQCTR .MSG ZHU_ISR *** TKNIQ 3 ::: RNAV ::: [HOU] ATC Assigned Only ::: A$altim(KHOU) 
  
-.TKNIQAPP .MSG ZHU_ISR *** TKNIQ 2 ::: RNAV ::: [HOU Turbojets] TKNIQ @ 12000 __ [AXH, EFD, GLS, HPY, IWS, LVJ, SGR, TME, T00, T41] ::: A$altim(KHOU) 
+.TKNIQAPP .MSG ZHU_ISR *** TKNIQ 3 ::: RNAV ::: [HOU Turbojets] TKNIQ @ 12000 __ [AXH, EFD, GLS, HPY, IWS, LVJ, SGR, TME, T00, T41] ::: A$altim(KHOU) 
  
-.TTKNIQCTRS . HOU Landing South. Altimeter A$altim(KHOU) 
+.THOUTKNIQCTR Cross TKNIQ at and maintain 12,000, 250 knots, the Hobby Altimeter A$altim(KHOU)
+
+.tTKNIQCTR Cross TKNIQ at and maintain 12,000, 280 knots, the Ellington Altimeter A$altim(KEFD)
  
 .TTKNIQAPPS . Altimeter A$altim(KHOU) 
 
@@ -4218,11 +4094,11 @@ CATEGORIES
  
 .WAPPLF .FF WAPPL WLMOR CLWSN SWWAA PUSHN BUGZY PRTCH MOLLR
  
-.WAPPLCTR .MSG ZHU_ISR *** WAPPL 5 ::: RNAV ::: Descend Via Arrival ::: A$altim(KHOU) 
+.WAPPLCTR .MSG ZHU_ISR *** WAPPL 6 ::: RNAV ::: Descend Via Arrival ::: A$altim(KHOU) 
  
-.WAPPLAPP .MSG ZHU_ISR *** WAPPL 5 ::: RNAV ::: [HOU All RWYs] Vector to Final __ [ARM, AXH, BYY, EFD, GLS, HPY, IWS, LBX, LVJ, SGR, TME, T00, T41, 54T] Vector to Final ::: A$altim(KHOU) 
+.WAPPLAPP .MSG ZHU_ISR *** WAPPL 6 ::: RNAV ::: [HOU All RWYs] Vector to Final __ [ARM, AXH, BYY, EFD, GLS, HPY, IWS, LBX, LVJ, SGR, TME, T00, T41, 54T] Vector to Final ::: A$altim(KHOU) 
  
-.TWAPPLCTR Descend via the WAPPL5 Arrival, the Hobby Altimeter A$altim(KHOU) 
+.TWAPPLCTR Descend via the WAPPL6 Arrival, the Hobby Altimeter A$altim(KHOU) 
  
 .TWAPPLAPPN . Altimeter A$altim(KHOU) 
 
