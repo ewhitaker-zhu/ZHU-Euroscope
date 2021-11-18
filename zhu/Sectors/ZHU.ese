@@ -163,6 +163,12 @@ KGTU Georgetown Tower:Georgetown Tower:120.225:UGT:T:GTU:TWR:GTU:TWR:4604:4657
 KEDC Executive Ground:Executive Ground:119.125:UDR:R:EDC:GND:EDC:GND:4604:4657
 KEDC Executive Tower:Executive Tower:120.225:UDT:T:EDC:TWR:EDC:TWR:4604:4657
 
+
+***************************
+;San Marcos
+KHYI San Marcos Ground:San Marcos Ground:120.125:USR:R:HYI:GND:HYI:GND:4604:4657
+KHYI San Marcos Tower:San Marcos Tower:126.825:UST:T:HYI:TWR:HYI:TWR:4604:4657
+
 ***************************
 ;VICTORIA REGIONAL
 KVCT Victoria Regional Ground:Victoria Ground:120.525:VR:R:VCT:GND:VCT:GND:4769:4774
