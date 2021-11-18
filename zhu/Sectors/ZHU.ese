@@ -159,6 +159,11 @@ KGTU Georgetown Ground:Georgetown Ground:119.125:UGR:R:GTU:GND:GTU:GND:4604:4657
 KGTU Georgetown Tower:Georgetown Tower:120.225:UGT:T:GTU:TWR:GTU:TWR:4604:4657
 
 ***************************
+;Austin Executive
+KEDC Executive Ground:Executive Ground:119.125:UDR:R:EDC:GND:EDC:GND:4604:4657
+KEDC Executive Tower:Executive Tower:120.225:UDT:T:EDC:TWR:EDC:TWR:4604:4657
+
+***************************
 ;VICTORIA REGIONAL
 KVCT Victoria Regional Ground:Victoria Ground:120.525:VR:R:VCT:GND:VCT:GND:4769:4774
 KVCT Victoria Regional Tower:Victoria Tower:126.075:VT:T:VCT:TWR:VCT:TWR:4769:4774
