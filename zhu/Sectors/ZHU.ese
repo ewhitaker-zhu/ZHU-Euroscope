@@ -1,7 +1,9 @@
 ;======================================================== ~~  ~~ =========================================================;
 ;================================================ ~~ Positions-Section ~~ ================================================;
 [POSITIONS]
-HOU_CTR:Houston Center:134.425:81:81:HOU:CTR:-:-:7300:7477
+***************************
+;Houston Center
+***************************
 23 - White Lake Ultra High:Houston Center:132.950:23:C:HOU:CTR:HOU:23:7300:7477
 24 - Leeville:Houston Center:132.175:24:C:HOU:CTR:HOU:24:7300:7477
 25 - Brookley Low:Houston Center:127.650:25:C:HOU:CTR:HOU:25:7300:7477
@@ -11,7 +13,7 @@ HOU_CTR:Houston Center:134.425:81:81:HOU:CTR:-:-:7300:7477
 30 - Offshore East:Houston Center:134.900:30:C:HOU:CTR:HOU:30:7300:7477
 34 - Baton Rouge Low:Houston Center:126.350:34:C:HOU:CTR:HOU:34:7300:7477
 36 - Liberty Low:Houston Center:124.700:36:C:HOU:CTR:HOU:36:7300:7477
-37 - Hattiesburg Ultra High:Houston Center:126.870:37:C:HOU:CTR:HOU:37:7300:7477
+37 - Hattiesburg Ultra High:Houston Center:126.875:37:C:HOU:CTR:HOU:37:7300:7477
 38 - Daisetta Low:Houston Center:126.950:38:C:HOU:CTR:HOU:38:7300:7477 
 40 - Polk Low:Houston Center:120.975:40:C:HOU:CTR:HOU:40:7300:7477 
 42 - Alexandria High:Houston Center:132.700:42:C:HOU:CTR:HOU:42:7300:7477 
@@ -25,15 +27,15 @@ HOU_CTR:Houston Center:134.425:81:81:HOU:CTR:-:-:7300:7477
 59 - Corpus High:Houston Center:133.750:59:C:HOU:CTR:HOU:59:7300:7477
 63 - Mobile High:Houston Center:125.775:63:C:HOU:CTR:HOU:63:7300:7477
 65 - McComb High:Houston Center:119.725:65:C:HOU:CTR:HOU:65:7300:7477
-68 - Galveston High:Houston Center:123.820:68:C:HOU:CTR:HOU:68:7300:7477
-70 - Tibby High:Houston Center:134.920:70:C:HOU:CTR:HOU:70:7300:7477
+68 - Galveston High:Houston Center:123.825:68:C:HOU:CTR:HOU:68:7300:7477
+70 - Tibby High:Houston Center:134.925:70:C:HOU:CTR:HOU:70:7300:7477
 74 - Alamo High:Houston Center:128.650:74:C:HOU:CTR:HOU:74:7300:7477
-76 - Slimm Ultra High:Houston Center:125.620:76:C:HOU:CTR:HOU:76:7300:7477
-78 - Austin High:Houston Center:126.420:78:C:HOU:CTR:HOU:78:7300:7477
+76 - Slimm Ultra High:Houston Center:125.625:76:C:HOU:CTR:HOU:76:7300:7477
+78 - Austin High:Houston Center:126.425:78:C:HOU:CTR:HOU:78:7300:7477
 80 - Industry Low:Houston Center:132.150:80:C:HOU:CTR:HOU:80:7300:7477
 81 - Esler Ultra High:Houston Center:134.425:81:C:HOU:CTR:HOU:81:7300:7477
 82 - Bilee High:Houston Center:123.725:82:C:HOU:CTR:HOU:82:7300:7477
-83 - Cougar Low:Houston Center:128.070:83:C:HOU:CTR:HOU:83:7300:7477
+83 - Cougar Low:Houston Center:128.075:83:C:HOU:CTR:HOU:83:7300:7477
 84 - SOTEX Ultra High:Houston Center:124.725:84:C:HOU:CTR:HOU:84:7300:7477
 85 - Kelly Low:Houston Center:134.950:85:C:HOU:CTR:HOU:85:7300:7477
 86 - Humble Low:Houston Center:134.800:86:C:HOU:CTR:HOU:86:7300:7477
@@ -52,7 +54,7 @@ HOU_CTR:Houston Center:134.425:81:81:HOU:CTR:-:-:7300:7477
 ***************************
 ;I90 Approach
 Houston East Approach:Houston Approach:120.050:AID:D:I90:APP:I90:APP:2400:2450
-Houston West Approach:Houston Approach:124.350:AIN:N:HOU:APP:I90:APP:2400:2450
+Houston West Approach:Houston Approach:124.350:AIN:N:I90:APP:I90:APP:2400:2450
 Houston Gulf Approach:Houston Approach:119.625:AIG:G:I90:APP:I90:APP:2400:2450
 Houston Eagle Lake Approach:Houston Approach:119.175:AIX:X:I90:APP:I90:APP:2400:2450
 Houston Final North Approach:Houston Approach:119.100:AIA:A:I90:APP:I90:APP:2400:2450
@@ -75,104 +77,93 @@ Houston West Departure:Houston Departure:126.675:AIW:W:I90:DEP:I90:DEP:2400:2450
 
 ***************************
 ;GEORGE BUSH INTERCONTINENTAL
-KIAH George Bush Intercontinental Clearance Delivery:Houston Delivery:128.100:ABD:L:IAH:DEL:IAH:DEL:2451:2500
-KIAH George Bush Intercontinental Ground East:Houston Ground:118.575:ABS:R:IAH:GND:IAH:GND:E:2451:2500
-KIAH George Bush Intercontinental Ground West:Houston Ground:121.700:ABT:R:IAH:GND:IAH:GND:W:2451:2500
-KIAH George Bush Intercontinental Ramp North:Houston Metering:130.825:ABJ:RN:IAH:GND:IAH:GND:RN:2451:2500
-KIAH George Bush Intercontinental Ramp West:Houston Ground:121.625:ABK:RW:IAH:GND:IAH:GND:RW:2451:2500
-KIAH George Bush Intercontinental Ramp East:Houston Ground:131.275:ABL:RE:IAH:GND:IAH:GND:RE:2451:2500
-KIAH George Bush Intercontinental Ground Metering:Houston Ground:119.950:ABM:GM:IAH:GND:IAH:GND:GM:2451:2500
-KIAH George Bush Intercontinental North Tower:Houston Tower:120.725:ABN:T:IAH:TWR:IAH:N:2451:2500
-KIAH George Bush Intercontinental Center Tower:Houston Tower:125.350:ABC:T:IAH:TWR:IAH:C:2451:2500
-KIAH George Bush Intercontinental South Tower:Houston Tower:135.150:ABS:T:IAH:TWR:IAH:S:2451:2500
-KIAH George Bush Intercontinental West Tower:Houston Tower:127.300:ABW:T:IAH:TWR:IAH:W:2451:2500
+KIAH George Bush Intercontinental Clearance Delivery:Houston Delivery:128.100:ABD:L:IAH:DEL:IAH:DEL:2451:2535
+KIAH George Bush Intercontinental Ground East:Houston Ground:118.575:ABS:R:IAH:GND:IAH:GNDE:2451:2535
+KIAH George Bush Intercontinental Ground West:Houston Ground:121.700:ABT:R:IAH:GND:IAH:GNDW:2451:2535
+KIAH George Bush Intercontinental Ramp North:Houston Metering:130.825:ABJ:RN:IAH:GND:IAH:GNDRN:2451:2535
+KIAH George Bush Intercontinental Ramp West:Houston Ground:121.625:ABK:RW:IAH:GND:IAH:GNDRW:2451:2535
+KIAH George Bush Intercontinental Ramp East:Houston Ground:131.275:ABL:RE:IAH:GND:IAH:GNDRE:2451:2535
+KIAH George Bush Intercontinental Ground Metering:Houston Ground:119.950:ABM:GM:IAH:GND:IAH:GNDGM:2451:2535
+KIAH George Bush Intercontinental North Tower:Houston Tower:120.725:ABN:T:IAH:TWR:IAH:N:2451:2535
+KIAH George Bush Intercontinental Center Tower:Houston Tower:125.350:ABC:T:IAH:TWR:IAH:C:2451:2535
+KIAH George Bush Intercontinental South Tower:Houston Tower:135.150:ABS:T:IAH:TWR:IAH:S:2451:2535
+KIAH George Bush Intercontinental West Tower:Houston Tower:127.300:ABW:T:IAH:TWR:IAH:W:2451:2535
 
 ***************************
 ;WILLIAM P. HOBBY
-KHOU William P. Hobby Clearance Delivery:Hobby Delivery:125.450:AHL:L:HOU:DEL:HOU:DEL:2501:2535
-KHOU William P. Hobby Ground:Hobby Ground:121.900:AHR:R:HOU:GND:HOU:GND:2501:2535
-KHOU William P. Hobby Tower:Hobby Tower:118.700:AHT:T:HOU:TWR:HOU:TWR:2501:2535
+KHOU William P. Hobby Clearance Delivery:Hobby Delivery:125.450:AHL:L:HOU:DEL:HOU:DEL:2700:2740
+KHOU William P. Hobby Ground:Hobby Ground:121.900:AHR:R:HOU:GND:HOU:GND:2700:2740
+KHOU William P. Hobby Tower:Hobby Tower:118.700:AHT:T:HOU:TWR:HOU:TWR:2700:2740
 
 ***************************
 ;AUSTIN BERGSTROM INTERNATIONAL
-KAUS Austin Bergstrom International Clearance Delivery:Austin Delivery:125.500:UAC:L:AUS:DEL:AUS:DEL:4604:4657
-KAUS Austin Bergstrom International Ground:Austin Ground:121.900:UAA:R:AUS:GND:AUS:GND:4500:4560
-KAUS Austin Bergstrom International East Ground:Austin Ground:121.900:UAA:R:AUS:GND:AUS:GND:E:4500:4560
-KAUS Austin Bergstrom International West Ground:Austin Ground:121.700:UAB:R:AUS:GND:AUS:GND:W:4500:4560
-KAUS Austin Bergstrom International Tower:Austin Tower:121.000:UAE:T:AUS:TWR:AUS:TWR:4500:4560
-KAUS Austin Bergstrom International East Tower:Austin Tower:121.000:UAE:T:AUS:TWR:AUS:TWR:E:4500:4560
-KAUS Austin Bergstrom International West Tower:Austin Tower:118.225:UAW:T:AUS:TWR:AUS:TWR:W:4500:4560
-KAUS Austin West Approach:Austin Approach:119.000:AW:W:AUS:APP:AUS:APP:4500:4560
-KAUS Austin East Approach:Austin Approach:127.225:AE:E:AUS:APP:AUS:APP:4500:4560
-KAUS Austin South Approach:Austin Approach:120.875:AS:S:AUS:APP:AUS:APP:4500:4560
-KAUS Austin Final Approach:Austin Approach:125.325:AF:F:AUS:APP:AUS:APP:4500:4560
+KAUS Austin Bergstrom International Clearance Delivery:Austin Delivery:125.500:UAC:L:AUS:DEL:AUS:DEL:4604:4627
+KAUS Austin Bergstrom International Ground:Austin Ground:121.900:UAA:R:AUS:GND:AUS:GND:4604:4627
+KAUS Austin Bergstrom International East Ground:Austin Ground:121.900:UAA:R:AUS:GND:AUS:GNDE:4604:4627
+KAUS Austin Bergstrom International West Ground:Austin Ground:121.700:UAB:R:AUS:GND:AUS:GNDW:4604:4627
+KAUS Austin Bergstrom International Tower:Austin Tower:121.000:UAE:T:AUS:TWR:AUS:TWR:4604:4627
+KAUS Austin Bergstrom International East Tower:Austin Tower:121.000:UAE:T:AUS:TWR:AUS:TWRE:4604:4627
+KAUS Austin Bergstrom International West Tower:Austin Tower:118.225:UAW:T:AUS:TWR:AUS:TWRW:4604:4627
+KAUS Austin West Approach:Austin Approach:119.000:AW:W:AUS:APP:AUS:APP:4604:4627
+KAUS Austin East Approach:Austin Approach:127.225:AE:E:AUS:APP:AUS:APP:4604:4627
+KAUS Austin South Approach:Austin Approach:120.875:AS:S:AUS:APP:AUS:APP:4604:4627
+KAUS Austin Final Approach:Austin Approach:125.325:AF:F:AUS:APP:AUS:APP:4604:4627
 
 ***************************
 ;LOUIS ARMSTRONG INTERNATIONAL
-KMSY Louis Armstrong New Orleans International Clearance Delivery:New Orleans Delivery:127.200:NML:L:MSY:DEL:MSY:DEL:4521:4580
-KMSY Louis Armstrong New Orleans International Ground:New Orleans Ground:121.900:NMR:R:MSY:GND:MSY:GND:4521:4580
-KMSY Louis Armstrong New Orleans International Tower:New Orleans Tower:119.500:NMT:T:MSY:TWR:MSY:TWR:4521:4580
-New Orleans West Approach:New Orleans Approach:125.500:NOW:W:MSY:APP:MSY:APP:4521:4580
-New Orleans East Approach:New Orleans Approach:133.150:NOE:E:MSY:APP:MSY:APP:4521:4580
-New Orleans South Approach:New Orleans Approach:123.850:NOS:E:MSY:APP:MSY:APP:4521:4580
-New Orleans Houma Approach:New Orleans Approach:118.900:NOH:E:MSY:APP:MSY:APP:4521:4580
+KMSY Louis Armstrong New Orleans International Clearance Delivery:New Orleans Delivery:127.200:NML:L:MSY:DEL:MSY:DEL:2741:2777
+KMSY Louis Armstrong New Orleans International Ground:New Orleans Ground:121.900:NMR:R:MSY:GND:MSY:GND:2741:2777
+KMSY Louis Armstrong New Orleans International Tower:New Orleans Tower:119.500:NMT:T:MSY:TWR:MSY:TWR:2741:2777
+New Orleans West Approach:New Orleans Approach:125.500:NOW:W:MSY:APP:MSY:APP:2741:2777
+New Orleans East Approach:New Orleans Approach:133.150:NOE:E:MSY:APP:MSY:APP:2741:2777
+New Orleans South Approach:New Orleans Approach:123.850:NOS:E:MSY:APP:MSY:APP:2741:2777
+New Orleans Houma Approach:New Orleans Approach:118.900:NOH:E:MSY:APP:MSY:APP:2741:2777
 
 ***************************
 ;SAN ANTONIO
-KSAT San Antonio International Clearance Delivery:San Antonio Delivery:126.700:SSL:L:SAT:DEL:SAT:DEL:4581:4639
-KSAT San Antonio International Ground:San Antonio Ground:121.900:SSR:R:SAT:GND:SAT:GND:4581:4639
-KSAT San Antonio International Tower:San Antonio Tower:119.800:SST:T:SAT:TWR:SAT:TWR:4581:4639
-San Antonio Northeast Approach:San Antonio Approach:124.450:SN:N:SAT:APP:SAT:APP:4581:4639
-San Antonio Southeast Approach:San Antonio Approach:125.700:SE:S:SAT:APP:SAT:APP:4581:4639
-San Antonio Southwest Approach:San Antonio Approach:118.050:SS:S:SAT:APP:SAT:APP:4581:4639
-San Antonio Northwest Approach:San Antonio Approach:125.100:SW:S:SAT:APP:SAT:APP:4581:4639
+KSAT San Antonio International Clearance Delivery:San Antonio Delivery:126.700:SSL:L:SAT:DEL:SAT:DEL:7401:7440
+KSAT San Antonio International Ground:San Antonio Ground:121.900:SSR:R:SAT:GND:SAT:GND:7401:7440
+KSAT San Antonio International Tower:San Antonio Tower:119.800:SST:T:SAT:TWR:SAT:TWR:7401:7440
+San Antonio Northeast Approach:San Antonio Approach:124.450:SN:N:SAT:APP:SAT:APP:7401:7440
+San Antonio Southeast Approach:San Antonio Approach:125.700:SE:S:SAT:APP:SAT:APP:7401:7440
+San Antonio Southwest Approach:San Antonio Approach:118.050:SS:S:SAT:APP:SAT:APP:7401:7440
+San Antonio Northwest Approach:San Antonio Approach:125.100:SW:S:SAT:APP:SAT:APP:7401:7440
 
 ***************************
 ;LAUGHLIN AIR FORCE BASE
-KDLF Laughlin AFB Ground:Laughlin Ground:120.500:DLR:R:DLF:GND:DLF:GND:7757:4762
-KDLF Laughlin AFB Tower:Laughlin Tower:125.200:DLT:T:DLF:TWR:DLF:TWR:7757:4762
+KDLF Laughlin AFB Ground:Laughlin Ground:120.500:DLR:R:DLF:GND:DLF:GND:7441:7477
+KDLF Laughlin AFB Tower:Laughlin Tower:125.200:DLT:T:DLF:TWR:DLF:TWR:7441:7477
 
 ***************************
 ;KELLY
-KSKF Kelly Ground:Kelly Ground:121.800:SKR:R:SKF:GND:SKF:G:4581:4639
-KSKF Kelly Tower:Kelly Tower:124.300:SKT:T:SKF:TWR:SKF:TWR:4581:4639
+KSKF Kelly Ground:Kelly Ground:121.800:SKR:R:SKF:GND:SKF:G:7441:7477
+KSKF Kelly Tower:Kelly Tower:124.300:SKT:T:SKF:TWR:SKF:TWR:7441:7477
 
 ***************************
 ;STINSON
-KSSF Stinson Ground:Stinson Ground:121.700:SFR:R:SSF:GND:SSF:GND:4581:4639
-KSSF Stinson Tower:Stinson Tower:118.200:SFT:T:SSF:TWR:SSF:TWR:4581:4639
+KSSF Stinson Ground:Stinson Ground:121.700:SFR:R:SSF:GND:SSF:GND:7441:7477
+KSSF Stinson Tower:Stinson Tower:118.200:SFT:T:SSF:TWR:SSF:TWR:7441:7477
 
 ***************************
 ;RANDOLPH AIR FORCE BASE
-KRND Randolph AFB Ground:Hangover Ground:119.650:SRR:R:RND:GND:RND:GND:4581:4639
-KRND Randolph AFB Tower:Hangover Tower:120.500:SRT:T:RND:TWR:RND:TWR:4581:4639
+KRND Randolph AFB Ground:Hangover Ground:119.650:SRR:R:RND:GND:RND:GND:7441:7477
+KRND Randolph AFB Tower:Hangover Tower:120.500:SRT:T:RND:TWR:RND:TWR:7441:7477
 
 ***************************
 ;NEW BRAUNFELS
-KBAZ New Braunfels Clearance Delivery:New Braunfels Delivery:134.750:SNL:L:BAZ:DEL:BAZ:DEL:4581:4639
-KBAZ New Braunfels Ground:New Braunfels Ground:120.175:SNR:R:BAZ:GND:BAZ:GND:4581:4639
-KBAZ New Braunfels Tower:New Braunfels Tower:127.050:SNT:T:BAZ:TWR:BAZ:TWR:4581:4639
+KBAZ New Braunfels Clearance Delivery:New Braunfels Delivery:134.750:SNL:L:BAZ:DEL:BAZ:DEL:7441:7477
+KBAZ New Braunfels Ground:New Braunfels Ground:120.175:SNR:R:BAZ:GND:BAZ:GND:7441:7477
+KBAZ New Braunfels Tower:New Braunfels Tower:127.050:SNT:T:BAZ:TWR:BAZ:TWR:7441:7477
 
 ***************************
 ;GEORGETOWN
-KGTU Georgetown Ground:Georgetown Ground:119.125:UGR:R:GTU:GND:GTU:GND:4604:4657
-KGTU Georgetown Tower:Georgetown Tower:120.225:UGT:T:GTU:TWR:GTU:TWR:4604:4657
-
-***************************
-;Austin Executive
-KEDC Executive Ground:Executive Ground:119.125:UDR:R:EDC:GND:EDC:GND:4604:4657
-KEDC Executive Tower:Executive Tower:120.225:UDT:T:EDC:TWR:EDC:TWR:4604:4657
-
-
-***************************
-;San Marcos
-KHYI San Marcos Ground:San Marcos Ground:120.125:USR:R:HYI:GND:HYI:GND:4604:4657
-KHYI San Marcos Tower:San Marcos Tower:126.825:UST:T:HYI:TWR:HYI:TWR:4604:4657
+KGTU Georgetown Ground:Georgetown Ground:119.125:UGR:R:GTU:GND:GTU:GND:7441:7477
+KGTU Georgetown Tower:Georgetown Tower:120.225:UGT:T:GTU:TWR:GTU:TWR:7441:7477
 
 ***************************
 ;VICTORIA REGIONAL
-KVCT Victoria Regional Ground:Victoria Ground:120.525:VR:R:VCT:GND:VCT:GND:4769:4774
-KVCT Victoria Regional Tower:Victoria Tower:126.075:VT:T:VCT:TWR:VCT:TWR:4769:4774
+KVCT Victoria Regional Ground:Victoria Ground:120.525:VR:R:VCT:GND:VCT:GND:7441:7477
+KVCT Victoria Regional Tower:Victoria Tower:126.075:VT:T:VCT:TWR:VCT:TWR:7441:7477
 
 ***************************
 ;EASTERWOOD COLLEGE STATION
@@ -197,52 +188,53 @@ KSGR Sugar Land Regional Tower:Sugarland Tower:118.650:AUL:T:SGR:TWR:SGR:TWR:253
 
 ***************************
 ;CORPUS CHRISTI INTERNATIONAL
-KCRP Corpus Christi International Clearance Delivery:Corpus Delivery:118.550:CPL:L:CRP:DEL:CRP:DEL:4561:4620
-KCRP Corpus Christi International Ground:Corpus Ground:121.900:CPR:R:CRP:GND:CRP:GND:4561:4620
-KCRP Corpus Christi International Tower:Corpus Tower:119.400:CPT:T:CRP:TWR:CRP:TWR:4561:4620
-Corpus North Approach:Corpus Approach:120.900:CN:A:CRP:APP:CRP:APP:N:4561:4620
-Corpus West Approach:Corpus Approach:124.800:CW:A:CRP:APP:CRP:APP:W:4561:4620
-Corpus East Approach:Corpus Approach:125.400:CE:A:CRP:APP:CRP:APP:E:4561:4620
+KCRP Corpus Christi International Clearance Delivery:Corpus Delivery:118.550:CPL:L:CRP:DEL:CRP:DEL:7441:7477
+KCRP Corpus Christi International Ground:Corpus Ground:121.900:CPR:R:CRP:GND:CRP:GND:7441:7477
+KCRP Corpus Christi International Tower:Corpus Tower:119.400:CPT:T:CRP:TWR:CRP:TWR:7441:7477
+Corpus North Approach:Corpus Approach:120.900:CN:A:CRP:APP:CRP:APPN:7441:7477
+Corpus West Approach:Corpus Approach:124.800:CW:A:CRP:APP:CRP:APPW:7441:7477
+Corpus East Approach:Corpus Approach:125.400:CE:A:CRP:APP:CRP:APPE:7441:7477
 
 ***************************
 ;CORPUS CHRISTI NAVAL AIR STATION
-KNGP Corpus Christi NAS Tower:Navy Corpus Tower:125.525:CTT:T:NGP:TWR:NGP:TWR:4561:4620
+KNGP Corpus Christi NAS Tower:Navy Corpus Tower:125.525:CTT:T:NGP:TWR:NGP:TWR:7441:7477
 
 ***************************
 ;ORANGE GROVE NAVAL AUX FIELD
-KNOG Orange Grove NAF Tower:Navy Orange Tower:128.400:CTO:T:NOG:TWR:NOG:TWR:4561:4620
+KNOG Orange Grove NAF Tower:Navy Orange Tower:128.400:CTO:T:NOG:TWR:NOG:TWR:7441:7477
 
 ***************************
 ;KINGSVILLE NAVAL AIR STATION 
-KNQI Kingsville NAS Tower:Kingsville Tower:124.100:KIT:T:NQI:TWR:NQI:TWR:4561:4620
-Kingsville Approach:Kingsville Approach:119.900:KIA:A:NQI:APP:NQI:APP:4561:4620
+KNQI Kingsville NAS Tower:Kingsville Tower:124.100:KIT:T:NQI:TWR:NQI:TWR:7441:7477
+Kingsville Approach:Kingsville Approach:119.900:KIA:A:NQI:APP:NQI:APP:7441:7477
+Kingsville Departure:Kingsville Approach:121.050:KID:A:NQI:DEP:NQI:DEP:7441:7477
 
 ***************************
 ;LAREDO INTERNATIONAL
-KLRD Laredo International Ground:Laredo Ground:121.800:LR:R:LRD:GND:LRD:R:4775:4777
-KLRD Laredo International Tower:Laredo Tower:120.100:LT:T:LRD:TWR:LRD:TWR:4775:4777
+KLRD Laredo International Ground:Laredo Ground:121.800:LR:R:LRD:GND:LRD:R:7441:7477
+KLRD Laredo International Tower:Laredo Tower:120.100:LT:T:LRD:TWR:LRD:TWR:7441:7477
 
 ***************************
 ;RIO GRANDE VALLEY APPROACH
-McAllen West Valley Approach:Valley Approach:121.000:VW:W:VW:APP:VLY:APP:W:4640:4720
-Brownsville East Valley Approach:Valley Approach:119.500:VE:E:VLY:APP:VLY:APP:E:4640:4720
-Harlingen North Valley Approach:Valley Approach:120.700:VN:N:VLY:APP:VLY:APP:N:4640:4720
-Combined Valley Approach:Valley Approach:120.700:VN:C:VLY:APP:VLY:APP:4640:4720
+McAllen West Valley Approach:Valley Approach:121.000:VW:W:VLY:APP:VLY:APPW:7441:7477
+Brownsville East Valley Approach:Valley Approach:119.500:VE:E:VLY:APP:VLY:APPE:7441:7477
+Harlingen North Valley Approach:Valley Approach:120.700:VN:N:VLY:APP:VLY:APPN:7441:7477
+Combined Valley Approach:Valley Approach:120.700:VN:C:VLY:APP:VLY:APP:7441:7477
 
 ***************************
 ;MCALLEN MILLER INTRNATIONAL
-KMFE McAllen Miller International Ground:McAllen Ground:121.800:VFR:R:MFE:GND:MFE:GND:4640:4720
-KMFE McAllen Miller International Tower:McAllen Tower:118.500:VFT:T:MFE:TWR:MFE:TWR:4640:4720
+KMFE McAllen Miller International Ground:McAllen Ground:121.800:VFR:R:MFE:GND:MFE:GND:7441:7477
+KMFE McAllen Miller International Tower:McAllen Tower:118.500:VFT:T:MFE:TWR:MFE:TWR:7441:7477
 
 ***************************
 ;BROWNSVILLE SOUTH PADRE ISLAND INTERNATIONAL
-KBRO Brownsville South Padre Island International Ground:Brownsville Ground:121.900:VBR:R:BRO:GND:BRO:GND:4640:4720
-KBRO Brownsville South Padre Island International Tower:Brownsville Tower:118.900:VBT:T:BRO:TWR:BRO:TWR:4640:4720
+KBRO Brownsville South Padre Island International Ground:Brownsville Ground:121.900:VBR:R:BRO:GND:BRO:GND:7441:7477
+KBRO Brownsville South Padre Island International Tower:Brownsville Tower:118.900:VBT:T:BRO:TWR:BRO:TWR:7441:7477
 
 ***************************
 ;HARLINGEN VALLEY INTERNATIONAL
-KHRL Harlingen Valley International Ground:Harlingen Ground:121.700:VRR:R:HRL:GND:HRL:GND:4640:4720
-KHRL Harlingen Valley International Tower:Harlingen Tower:119.300:VRT:T:HRL:TWR:HRL:TWR:4640:4720
+KHRL Harlingen Valley International Ground:Harlingen Ground:121.700:VRR:R:HRL:GND:HRL:GND:7441:7477
+KHRL Harlingen Valley International Tower:Harlingen Tower:119.300:VRT:T:HRL:TWR:HRL:TWR:7441:7477
 ***************************
 ;CONROE NORTH HOUSTON REGIONAL AIRPORT
 KCXO Conroe North Houston Regional Ground:Lone Star Ground:120.450:ACG:R:CXO:GND:CXO:GND:2536:2550
@@ -265,10 +257,15 @@ KTME Houston Executive Ground:Executive Ground:132.075:AXG:G:TME:GND:TME:G:2536:
 KTME Houston Executive Tower:Executive Tower:126.975:AXL:L:TME:TWR:TME:L:2536:2550
 
 ***************************
+;Austin Executive
+KEDC Executive Ground:Executive Ground:119.125:UDR:R:EDC:GND:EDC:GND:7441:7477
+KEDC Executive Tower:Executive Tower:120.225:UDT:T:EDC:TWR:EDC:TWR:7441:7477
+
+***************************
 ;POLK AIRFORCE AUX FIELD
-KPOE Polk AAF Ground:Polk Ground:121.800:PPR:R:POE:GND:POE:GND:4751:4756
-KPOE Polk AAF Tower:Polk Tower:119.000:PPT:T:POE:TWR:POE:TWR:4751:4756
-Polk Approach:Polk Approach:123.700:PPA:A:POE:APP:POE:APP:4751:4756
+KPOE Polk AAF Ground:Polk Ground:121.800:PPR:R:POE:GND:POE:GND:7441:7477
+KPOE Polk AAF Tower:Polk Tower:119.000:PPT:T:POE:TWR:POE:TWR:7441:7477
+Polk Approach:Polk Approach:123.700:PPA:A:POE:APP:POE:APP:7441:7477
 
 ***************************
 ;LAKE CHARLES REGIONAL
@@ -311,200 +308,238 @@ Baton Rouge West Approach:Baton Rouge Approach:120.300:BRW:W:BTR:APP:BTR:TWR:255
 
 ***************************
 ;HOUMA TERREBONNE
-KHUM Houma Terrebonne Ground:Houma Ground:121.800:NOR:R:HUM:GND:HUM:GND:4521:4580
-KHUM Houma Terrebonne Tower:Houma Tower:125.300:NOT:T:HUM:TWR:HUM:TWR:4521:4580
+KHUM Houma Terrebonne Ground:Houma Ground:121.800:NOR:R:HUM:GND:HUM:GND:7441:7477
+KHUM Houma Terrebonne Tower:Houma Tower:125.300:NOT:T:HUM:TWR:HUM:TWR:7441:7477
 
 ***************************
 ;NEW ORLEANS LAKEFRONT
-KNEW New Orleans Lakefront Ground:Lakefront Ground:121.700:NLR:R:NEW:GND:NEW:GND:4521:4580
-KNEW New Orleans Lakefront Tower:Lakefront Tower:119.900:NLT:T:NEW:TWR:NEW:TWR:4521:4580
+KNEW New Orleans Lakefront Ground:Lakefront Ground:121.700:NLR:R:NEW:GND:NEW:GND:7441:7477
+KNEW New Orleans Lakefront Tower:Lakefront Tower:119.900:NLT:T:NEW:TWR:NEW:TWR:7441:7477
 
 ***************************
 ;NEW ORLEANS NAVAL AIR STATION
-KNBG New Orleans NAS Ground:Navy New Orleans Ground:121.600:NGR:R:NBG:GND:NBG:GND:4521:4580
-KNBG New Orleans NAS Tower:Navy New Orleans Tower:123.800:NGT:T:NBG:TWR:NBG:TWR:4521:4580
+KNBG New Orleans NAS Ground:Navy New Orleans Ground:121.600:NGR:R:NBG:GND:NBG:GND:7441:7477
+KNBG New Orleans NAS Tower:Navy New Orleans Tower:123.800:NGT:T:NBG:TWR:NBG:TWR:7441:7477
 
 ***************************
 ;STENNIS INTERNATIONAL 
-KHSA Stennis International Ground:Stennis Ground:121.725:GHR:R:HSA:GND:HSA:GND:4636:4750
-KHSA Stennis International Tower:Stennis Tower:127.150:GHT:T:HSA:TWR:HSA:TWR:4636:4750
+KHSA Stennis International Ground:Stennis Ground:121.725:GHR:R:HSA:GND:HSA:GND:7441:7477
+KHSA Stennis International Tower:Stennis Tower:127.150:GHT:T:HSA:TWR:HSA:TWR:7441:7477
 
 ***************************
 ;GULFPORT BILOXI INTERNATIONAL
-KGPT Gulfport Biloxi International Ground:Gulfport Ground:120.400:GPR:R:GPT:GND:GPT:GND:4636:4750
-KGPT Gulfport Biloxi International Tower:Gulfport Tower:123.700:GPR:T:GPT:TWR:GPT:TWR:4636:4750
-Gulfport Southwest Approach:Gulfport Approach:124.600:GW:A:GPT:APP:GPT:APP:4636:4750
-Gulfport Northeast Approach:Gulfport Approach:127.500:GE:A:GPT:APP:GPT:APP:4636:4750
+KGPT Gulfport Biloxi International Ground:Gulfport Ground:120.400:GPR:R:GPT:GND:GPT:GND:7441:7477
+KGPT Gulfport Biloxi International Tower:Gulfport Tower:123.700:GPR:T:GPT:TWR:GPT:TWR:7441:7477
+Gulfport Southwest Approach:Gulfport Approach:124.600:GW:A:GPT:APP:GPT:APP:7441:7477
+Gulfport Northeast Approach:Gulfport Approach:127.500:GE:A:GPT:APP:GPT:APP:7441:7477
 
 ***************************
 ;KEESLER AIRFORCE BASE
-KBIX Keesler AFB Ground:Keesler Ground:121.800:GBR:R:BIX:GND:BIX:GND:4636:4750
-KBIX Keesler AFB Tower:Keesler Tower:120.750:GBT:T:BIX:TWR:BIX:TWR:4636:4750
+KBIX Keesler AFB Ground:Keesler Ground:121.800:GBR:R:BIX:GND:BIX:GND:7441:7477
+KBIX Keesler AFB Tower:Keesler Tower:120.750:GBT:T:BIX:TWR:BIX:TWR:7441:7477
 
 ***************************
 ;PASCAGPOULA TRENT LOTT INTERNATIONAL
-KPQL Pascagoula Trent Lott International Ground:Trent Lott Ground:121.725:MQR:R:PQL:GND:PQL:GND:4721:4735
-KPQL Pascagoula Trent Lott International Tower:Trent Lott Tower:118.575:MQT:T:PQL:TWR:PQL:T:4721:4735
+KPQL Pascagoula Trent Lott International Ground:Trent Lott Ground:121.725:MQR:R:PQL:GND:PQL:GND:7441:7477
+KPQL Pascagoula Trent Lott International Tower:Trent Lott Tower:118.575:MQT:T:PQL:TWR:PQL:T:7441:7477
 ***************************
 ;MOBILE DOWNTOWN
-KBFM Mobile Downtown Ground:Downtown Ground:121.700:MDR:R:BFM:GND:BFM:GND:4721:4735
-KBFM Mobile Downtown Tower:Downtown Tower:118.800:MDT:T:BFM:TWR:BFM:TWR:4721:4735
+KBFM Mobile Downtown Ground:Downtown Ground:121.700:MDR:R:BFM:GND:BFM:GND:7441:7477
+KBFM Mobile Downtown Tower:Downtown Tower:118.800:MDT:T:BFM:TWR:BFM:TWR:7441:7477
 
 ***************************
 ;MOBILE REGIONAL 
-KMOB Mobile Regional Clearance Delivery:Mobile Delivery:119.850:MML:L:MOB:DEL:MOB:DEL:4721:4735
-KMOB Mobile Regional Ground:Mobile Ground:121.900:MMG:R:MOB:GND:MOB:GND:4721:4735
-KMOB Mobile Regional Tower:Mobile Tower:118.300:MMT:T:MOB:TWR:MOB:TWR:4721:4735
-Mobile Northeast Approach:Mobile Approach:118.500:MN:A:MOB:APP:MOB:APP:4721:4735
-Mobile Southwest Approach:Mobile Approach:121.000:MS:A:MOB:APP:MOB:APP:4721:4735
+KMOB Mobile Regional Clearance Delivery:Mobile Delivery:119.850:MML:L:MOB:DEL:MOB:DEL:7441:7477
+KMOB Mobile Regional Ground:Mobile Ground:121.900:MMG:R:MOB:GND:MOB:GND:7441:7477
+KMOB Mobile Regional Tower:Mobile Tower:118.300:MMT:T:MOB:TWR:MOB:TWR:7441:7477
+Mobile Northeast Approach:Mobile Approach:118.500:MN:A:MOB:APP:MOB:APP:7441:7477
+Mobile Southwest Approach:Mobile Approach:121.000:MS:A:MOB:APP:MOB:APP:7441:7477
 
 ***************************
 ;ZFW ARTCC
 ***************************
-;ZFW Ultra-High/Top Down CTR
-FTW_51_CTR ZFW Top Down  :Fort Worth Center:135.170:F51:C:FTW:CTR:ZFW:ZFW51:3600:3677
-FTW_51_CTR ZFW Top Down  :Fort Worth Center:135.175:F51:C:FTW:CTR:ZFW:ZFW51:3600:3677
-
 ;Dallas Area
+FTW_51_CTR Choctaw UH    :Fort Worth Center:135.175:F51:C:FTW:CTR:ZFW:ZFW51:3600:3677
+FTW_20_CTR Majors UH     :Fort Worth Center:136.125:F20:C:FTW:CTR:ZFW:ZFW20:3600:3677
 FTW_46_CTR Dallas High   :Fort Worth Center:135.750:F46:C:FTW:CTR:ZFW:ZFW46:3600:3677
-FTW_90_CTR Texarkana High:Fort Worth Center:126.570:F90:C:FTW:CTR:ZFW:ZFW90:3600:3677
+FTW_90_CTR Texarkana High:Fort Worth Center:126.575:F90:C:FTW:CTR:ZFW:ZFW90:3600:3677
 FTW_96_CTR Waco Low      :Fort Worth Center:133.300:F96:C:FTW:CTR:ZFW:ZFW96:3600:3677
-FTW_83_CTR Quitman Low   :Fort Worth Center:132.020:F83:C:FTW:CTR:ZFW:ZFW83:3600:3677
-FTW_27_CTR Texarkana Low :Fort Worth Center:123.920:F27:C:FTW:CTR:ZFW:ZFW27:3600:3677
+FTW_83_CTR Quitman Low   :Fort Worth Center:132.025:F83:C:FTW:CTR:ZFW:ZFW83:3600:3677
+FTW_27_CTR Texarkana Low :Fort Worth Center:123.925:F27:C:FTW:CTR:ZFW:ZFW27:3600:3677
 
 ;Raider Area
-FTW_93_CTR Turki High   :Fort Worth Center:120.770:F93:C:FTW:CTR:ZFW:ZFW93:3600:3677
-FTW_94_CTR Woven High   :Fort Worth Center:132.920:F94:C:FTW:CTR:ZFW:ZFW94:3600:3677
-FTW_64_CTR Lubbock Low  :Fort Worth Center:126.450:F64:C:FTW:CTR:ZFW:ZFW64:3600:3677
-FTW_32_CTR Possum Low   :Fort Worth Center:127.000:F32:C:FTW:CTR:ZFW:ZFW32:3600:3677
+FTW_55_CTR Raider UH     :Fort Worth Center:125.225:F55:C:FTW:CTR:ZFW:ZFW55:3600:3677
+FTW_97_CTR Brazos UH     :Fort Worth Center:133.575:F97:C:FTW:CTR:ZFW:ZFW97:3600:3677
+FTW_93_CTR Turki High    :Fort Worth Center:120.775:F93:C:FTW:CTR:ZFW:ZFW93:3600:3677
+FTW_94_CTR Woven High    :Fort Worth Center:132.925:F94:C:FTW:CTR:ZFW:ZFW94:3600:3677
+FTW_64_CTR Lubbock Low   :Fort Worth Center:126.450:F64:C:FTW:CTR:ZFW:ZFW64:3600:3677
+FTW_32_CTR Possum Low    :Fort Worth Center:127.000:F32:C:FTW:CTR:ZFW:ZFW32:3600:3677
 
 ;Bonham Area
+FTW_26_CTR Klubb UH      :Fort Worth Center:128.125:F26:C:FTW:CTR:ZFW:ZFW26:3600:3677
+FTW_41_CTR Hugo UH       :Fort Worth Center:128.125:F41:C:FTW:CTR:ZFW:ZFW41:3600:3677
 FTW_50_CTR McAlester High:Fort Worth Center:135.450:F50:C:FTW:CTR:ZFW:ZFW50:3600:3677
-FTW_42_CTR Decod High    :Fort Worth Center:134.470:F42:C:FTW:CTR:ZFW:ZFW42:3600:3677
-FTW_48_CTR Ardmore High  :Fort Worth Center:132.970:F48:C:FTW:CTR:ZFW:ZFW48:3600:3677
+FTW_42_CTR Decod High    :Fort Worth Center:134.475:F42:C:FTW:CTR:ZFW:ZFW42:3600:3677
+FTW_48_CTR Ardmore High  :Fort Worth Center:132.975:F48:C:FTW:CTR:ZFW:ZFW48:3600:3677
 FTW_38_CTR McAlester Low :Fort Worth Center:132.200:F38:C:FTW:CTR:ZFW:ZFW38:3600:3677
 FTW_53_CTR Frisco Low    :Fort Worth Center:124.750:F53:C:FTW:CTR:ZFW:ZFW53:3600:3677
-FTW_37_CTR Seevr Low     :Fort Worth Center:124.870:F37:C:FTW:CTR:ZFW:ZFW37:3600:3677
+FTW_37_CTR Seevr Low     :Fort Worth Center:124.875:F37:C:FTW:CTR:ZFW:ZFW37:3600:3677
 
 ;Bowie Area
+FTW_23_CTR Archer UH     :Fort Worth Center:135.275:F23:C:FTW:CTR:ZFW:ZFW23:3600:3677
+FTW_43_CTR Cruiser UH    :Fort Worth Center:135.275:F43:C:FTW:CTR:ZFW:ZFW43:3600:3677
 FTW_49_CTR Oke City High :Fort Worth Center:132.450:F49:C:FTW:CTR:ZFW:ZFW49:3600:3677
-FTW_47_CTR Falls High    :Fort Worth Center:124.520:F47:C:FTW:CTR:ZFW:ZFW47:3600:3677
+FTW_47_CTR Falls High    :Fort Worth Center:124.525:F47:C:FTW:CTR:ZFW:ZFW47:3600:3677
 FTW_75_CTR Bowie Low     :Fort Worth Center:127.950:F75:C:FTW:CTR:ZFW:ZFW75:3600:3677
 FTW_35_CTR Oke City Low  :Fort Worth Center:128.400:F35:C:FTW:CTR:ZFW:ZFW35:3600:3677
 FTW_34_CTR Falls Low     :Fort Worth Center:133.500:F34:C:FTW:CTR:ZFW:ZFW34:3600:3677
 
 ;Cedar Creek Area
-FTW_28_CTR El Dorado High :Fort Worth Center:133.870:F28:C:FTW:CTR:ZFW:ZFW28:3600:3677
-FTW_86_CTR Paxto High     :Fort Worth Center:120.470:F86:C:FTW:CTR:ZFW:ZFW86:3600:3677
-FTW_89_CTR Frankston High :Fort Worth Center:134.020:F89:C:FTW:CTR:ZFW:ZFW89:3600:3677
-FTW_30_CTR Monroe Low     :Fort Worth Center:126.320:F30:C:FTW:CTR:ZFW:ZFW30:3600:3677
+FTW_25_CTR Union UH       :Fort Worth Center:133.375:F25:C:FTW:CTR:ZFW:ZFW25:3600:3677
+FTW_28_CTR El Dorado High :Fort Worth Center:133.875:F28:C:FTW:CTR:ZFW:ZFW28:3600:3677
+FTW_86_CTR Paxto High     :Fort Worth Center:120.475:F86:C:FTW:CTR:ZFW:ZFW86:3600:3677
+FTW_89_CTR Frankston High :Fort Worth Center:134.025:F89:C:FTW:CTR:ZFW:ZFW89:3600:3677
+FTW_30_CTR Monroe Low     :Fort Worth Center:126.325:F30:C:FTW:CTR:ZFW:ZFW30:3600:3677
 FTW_29_CTR Donnie Low     :Fort Worth Center:135.250:F29:C:FTW:CTR:ZFW:ZFW29:3600:3677
 
 ;Glen Rose Area
-FTW_82_CTR Wink High     :Fort Worth Center:132.070:F82:C:FTW:CTR:ZFW:ZFW82:3600:3677
-FTW_61_CTR Lee High      :Fort Worth Center:120.270:F61:C:FTW:CTR:ZFW:ZFW61:3600:3677
-FTW_65_CTR Hicoe High    :Fort Worth Center:128.320:F65:C:FTW:CTR:ZFW:ZFW65:3600:3677
+FTW_24_CTR Odessa UH     :Fort Worth Center:128.525:F24:C:FTW:CTR:ZFW:ZFW24:3600:3677
+FTW_82_CTR Wink High     :Fort Worth Center:132.075:F82:C:FTW:CTR:ZFW:ZFW82:3600:3677
+FTW_61_CTR Lee High      :Fort Worth Center:120.275:F61:C:FTW:CTR:ZFW:ZFW61:3600:3677
+FTW_65_CTR Hicoe High    :Fort Worth Center:128.325:F65:C:FTW:CTR:ZFW:ZFW65:3600:3677
 FTW_63_CTR Abeline Low   :Fort Worth Center:127.450:F63:C:FTW:CTR:ZFW:ZFW63:3600:3677
 FTW_40_CTR Midland Low   :Fort Worth Center:133.100:F40:C:FTW:CTR:ZFW:ZFW40:3600:3677
 FTW_62_CTR Ednas Low     :Fort Worth Center:127.150:F62:C:FTW:CTR:ZFW:ZFW62:3600:3677
 
 ;D10
 
-REG_E_APP FE1:Regional Approach:125.020:D1E:E:REG:APP:REG:APP:3400:3477
-REG_A_APP FE2:Regional Approach:133.520:D1A:A:REG:APP:REG:APP:3400:3477
-REG_W_APP FW1:Regional Approach:119.870:D1W:W:REG:APP:REG:APP:3400:3477
-REG_Y_APP FW2:Regional Approach:133.620:D1Y:Y:REG:APP:REG:APP:3400:3477
-REG_N_APP DN:Regional Approach:124.300:D1N:N:REG:APP:REG:APP:3400:3477
-REG_U_APP DE:Regional Approach:125.270:D1U:U:REG:APP:REG:APP:3400:3477
-REG_S_APP DS:Regional Approach:125.200:D1S:S:REG:APP:REG:APP:3400:3477
-REG_M_APP MN:Regional Approach:118.100:D1M:M:REG:APP:REG:APP:3400:3477
-REG_P_APP MW:Regional Approach:125.800:D1P:P:REG:APP:REG:APP:3400:3477
-REG_D_APP MS:Regional Approach:135.970:D1D:D:REG:APP:REG:APP:3400:3477
-REG_B_APP MNH:Regional Approach:119.050:D1B:B:REG:APP:REG:APP:3400:3477
-REG_G_APP AR1:Regional Approach:119.400:D1G:G:REG:APP:REG:APP:3400:3477
-REG_J_APP AR2:Regional Approach:127.070:D1J:J:REG:APP:REG:APP:3400:3477
-REG_H_APP AR3:Regional Approach:118.420:D1H:H:REG:APP:REG:APP:3400:3477
-REG_R_APP AR5:Regional Approach:133.150:D1R:R:REG:APP:REG:APP:3400:3477
-REG_V_APP AR6:Regional Approach:135.500:D1V:V:REG:APP:REG:APP:3400:3477
-REG_K_APP AR7:Regional Approach:123.900:D1K:K:REG:APP:REG:APP:3400:3477
-REG_F_APP AR8:Regional Approach:124.250:D1F:F:REG:APP:REG:APP:3400:3477
-REG_T_APP AR9:Regional Approach:124.820:D1T:T:REG:APP:REG:APP:3400:3477
-REG_L_DEP DR1:Regional Departure:118.550:D1L:L:REG:DEP:REG:DEP:3400:3477
-REG_Q_DEP DR2:Regional Departure:125.120:D1Q:Q:REG:DEP:REG:DEP:3400:3477
-REG_Z_DEP DR3:Regional Departure:126.470:D1Z:Z:REG:DEP:REG:DEP:3400:3477 
-SPS_APP:Sheppard Approach:118.200:S1L:S:SPS:APP:SPS:APP:6200:6277
-ABI_APP:Abilene Approach:125.000:I1E:A:ABI:APP:ABI:APP:6200:6277
+REG_E_APP FE1:Regional Approach:125.025:E:E:REG:APP:REG:APP:3400:3477
+REG_A_APP FE2:Regional Approach:133.525:A:A:REG:APP:REG:APP:3400:3477
+REG_W_APP FW1:Regional Approach:119.875:W:W:REG:APP:REG:APP:3400:3477
+REG_Y_APP FW2:Regional Approach:133.625:Y:Y:REG:APP:REG:APP:3400:3477
+REG_N_APP DN:Regional Approach:124.300:N:N:REG:APP:REG:APP:3400:3477
+REG_U_APP DE:Regional Approach:125.275:U:U:REG:APP:REG:APP:3400:3477
+REG_S_APP DS:Regional Approach:125.200:S:S:REG:APP:REG:APP:3400:3477
+REG_M_APP MN:Regional Approach:118.100:M:M:REG:APP:REG:APP:3400:3477
+REG_P_APP MW:Regional Approach:125.800:P:P:REG:APP:REG:APP:3400:3477
+REG_D_APP MS:Regional Approach:135.975:D:D:REG:APP:REG:APP:3400:3477
+REG_B_APP MNH:Regional Approach:119.050:B:B:REG:APP:REG:APP:3400:3477
+REG_G_APP AR1:Regional Approach:119.400:G:G:REG:APP:REG:APP:3400:3477
+REG_J_APP AR2:Regional Approach:127.075:J:J:REG:APP:REG:APP:3400:3477
+REG_H_APP AR3:Regional Approach:118.425:H:H:REG:APP:REG:APP:3400:3477
+REG_R_APP AR5:Regional Approach:133.150:R:R:REG:APP:REG:APP:3400:3477
+REG_V_APP AR6:Regional Approach:135.500:V:V:REG:APP:REG:APP:3400:3477
+REG_K_APP AR7:Regional Approach:123.900:K:K:REG:APP:REG:APP:3400:3477
+REG_F_APP AR8:Regional Approach:124.250:F:F:REG:APP:REG:APP:3400:3477
+REG_T_APP AR9:Regional Approach:124.825:T:T:REG:APP:REG:APP:3400:3477
+REG_L_DEP DR1:Regional Departure:118.550:L:L:REG:DEP:REG:DEP:3400:3477
+REG_Q_DEP DR2:Regional Departure:125.125:Q:Q:REG:DEP:REG:DEP:3400:3477
+REG_Z_DEP DR3:Regional Departure:126.475:Z:Z:REG:DEP:REG:DEP:3400:3477 
 SJT_APP:San Angelo Approach:125.350:J1A:S:SJT:APP:SJT:APP:6200:6277
-LBB_APP:Lubbock Approach:119.200:B1E:L:LBB:APP:LBB:APP:6200:6277
-MAF_APP:Midland Approach:121.100:M1N:M:MAF:APP:MAF:APP:6200:6277
-SHV_APP:Shreveport Approach:119.900:B1S:S:SHV:APP:SHV:APP:6200:6277
-GGG_APP:Longview Approach:128.750:V1W:G:GGG:APP:GGG:APP:6200:6277
-ACT_H_APP:Waco Approach:127.650:W1H:A:ACT:APP:ACT:APP:6200:6277
-ACT_L_APP:Waco Approach:126.120:W1L:A:ACT:APP:ACT:APP:6200:6277
-LTS_APP:Altus Aproach:125.100:A1A:A:LTS:APP:LTS:APP:6200:6277
-MLU_APP:Monroe Approach:126.900:U1E:M:MLU:APP:MLU:APP:6200:6277 
-FSI_APP:Fort Sill Approach:127.300:F1N:F:FSI:APP:FSI:APP:6200:6277
-GRK_W_APP:Gray Approach:120.070:K1W:G:GRK:APP:GRK:APP:6200:6277
-GRK_E_APP:Gray Approach:134.350:K1E:G:GRK:APP:GRK:APP:6200:6277
+SHV_W_APP:Shreveport Approach:119.900:B1W:W:SHV:APP:SHV:APP:6200:6277
+SHV_E_APP:Shreveport Approach:123.750:B1E:E:SHV:APP:SHV:APP:6200:6277
+ACT_H_APP:Waco Approach:127.650:W1H:H:ACT:APP:ACT:APP:6200:6277
+ACT_L_APP:Waco Approach:126.125:W1L:L:ACT:APP:ACT:APP:6200:6277
+MLU_H_APP:Monroe Approach:126.900:U1H:H:MLU:APP:MLU:APP:6200:6277
+MLU_L_APP:Monroe Approach:118.150:U1L:L:MLU:APP:MLU:APP:6200:6277
+GRK_APP:Gray Approach:120.075:K1W:W:GRK:APP:GRK:APP:6200:6277
 
 
-***************************
-;ZJX ARTCC
-***************************
+;******************************************
+; ZJX CENTER
+;******************************************
+
 ; HIGH
-ZJX NEPTA R30:Jacksonville Center:135.925:J30:C:JAX:CTR:ZJX:30:1001:1077
-ZJX NEPTA R30:Jacksonville Center:135.925:J30:C:JAX:CTR:ZJX:NP:1001:1077
-ZJX TORRY R35:Jacksonville Center:134.850:J35:C:JAX:CTR:ZJX:35:1001:1077
-ZJX GENEVA R33:Jacksonville Center:125.050:J33:C:JAX:CTR:ZJX:33:1001:1077
-ZJX AIKEN R66:Jacksonville Center:127.870:J66:C:JAX:CTR:ZJX:66:1001:1077
 
-ZJX MAYO R16:Jacksonville Center:125.170:J16:C:JAX:CTR:ZJX:16:1001:1077
+ZJX NEPTA R30:Jacksonville Center Nepta:135.925:J30:C:JAX:CTR:ZJX:30:1001:1077
+ZJX GENEVA R33:Jacksonville Center Geneva:125.050:J33:C:JAX:CTR:ZJX:33:1001:1077
+ZJX TORRY R35:Jacksonville Center Torry:134.850:J35:C:JAX:CTR:ZJX:35:1001:1077
+ZJX AIKEN R66:Jacksonville Center Aiken:127.875:J66:C:JAX:CTR:ZJX:66:1001:1077
+
+ZJX Brewton R11:Jacksonville Center Brewton:124.475:J11:C:JAX:CTR:ZJX:11:1001:1077
+ZJX MAYO R16:Jacksonville Center Mayo:125.175:J16:C:JAX:CTR:ZJX:16:1001:1077
+ZJX ALMA R50:Jacksonville Center Alma:135.970:J50:C:JAX:CTR:ZJX:50:1001:1077
+ZJX METTA R52:Jacksonville Center Metta:135.050:J52:C:JAX:CTR:ZJX:52:1001:1077
+ZJX ST. AUGUSTINE R58:Jacksonville Center St. Augustine:126.350:J58:C:JAX:CTR:ZJX:58:1001:1077
+ZJX STATES R68:Jacksonville Center States:126.125:J68:C:JAX:CTR:ZJX:68:1001:1077
+ZJX GREEN COVE R75:Jacksonville Center Green Cove:127.475:J75:C:JAX:CTR:ZJX:75:1001:1077
 
 ; LOW
-ZJX OCALA R15:Jacksonville Center:133.320:J15:C:JAX:CTR:ZJX:15:1001:1077
-ZJX ASHBURN R13:Jacksonville Center:134.450:J13:C:JAX:CTR:ZJX:13:1001:1077
-ZJX CRESTVIEW R10:Jacksonville Center:120.200:J10:C:JAX:CTR:ZJX:10:1001:1077
-ZJX METTA R52:Jacksonville Center:135.050:J52:C:JAX:CTR:ZJX:52:1001:1077
-ZJX AIKEN R53:Jacksonville Center:126.750:J53:C:JAX:CTR:ZJX:53:1001:1077
-ZJX ST.JOHN R57:Jacksonville Center:134.000:J57:C:JAX:CTR:ZJX:57:1001:1077
+ZJX CRESTVIEW R10:Jacksonville Center Crestview:120.200:J10:C:JAX:CTR:ZJX:10:1001:1077
+ZJX ASHBURN R13:Jacksonville Center Ashburn:134.450:J13:C:JAX:CTR:ZJX:13:1001:1077
+ZJX OCALA R15:Jacksonville Center Ocala:133.325:J15:C:JAX:CTR:ZJX:15:1001:1077
+ZJX BRUNSWICK R53:Jacksonville Center Brunswick:126.750:J53:C:JAX:CTR:ZJX:53:1001:1077
+ZJX ST.JOHN R57:Jacksonville Center St. John:134.000:J57:C:JAX:CTR:ZJX:57:1001:1077
+ZJX CHARLESTON R74:Jacksonville Center Charleston:134.375:J74:C:JAX:CTR:ZJX:74:1001:1077
 
-; ULTRAHIGH
-ZJX KNEMO R51:Jacksonville Center:120.120:J51:C:JAX:CTR:ZJX:51:1001:1077
+; ULTRAHIGH - deleted 2/2022
+;ZJX KNEMO R51:Jacksonville Center KNEMO:120.125:J51:C:JAX:CTR:ZJX:51:1001:1077
+
+; ULTRALOW
+ZJX ALBANY R12:Jacksonville Center ALBANY:125.750:J12:C:JAX:CTR:ZJX:12:1001:1077
+
+PNS_E_APP:Pensacola East Approach:119.000:P1E:E:PNS:APP:PNS:East:3201:3277
+PNS_W_APP:Pensacola West Approach:118.600:P1W:W:PNS:APP:PNS:West:3201:3277
+PNS_P_APP:Pensacola Final Approach:118.000:P1P:P:PNS:APP:PNS:PNS Final:3201:3277
+PNS_K_APP:Pensacola Whiting Approach:126.850:P1K:K:PNS:APP:PNS:Whiting:3201:3277
+PNS_Z_APP:Pensacola S Whiting Approach:124.850:P1Z:Z:PNS:APP:PNS:S Whiting:3201:3277
+PNS_A_APP:Pensacola Sherman Approach:120.650:P1A:A:PNS:APP:PNS:Sherman:3201:3277
+PNS_F_APP:Pensacola NPA Final Approach:125.350:P1F:F:PNS:APP:PNS:NPA Final:3201:3277
+PNS_S_APP:Pensacola S MOA Approach:120.050:P1S:S:PNS:APP:PNS:S MOA:3201:3277
+
 
 ***********************
 ; MEM_CTR
-***********************
-Memphis Center NE Low:Memphis Center:135.900:M33:C:MEM:CTR:ZME 05:NEL:1501:1577
-Memphis Center NW Low:Memphis Center:120.070:M04:C:MEM:CTR:ZME 04:NWL:1501:1577
-Memphis Center SW Low:Memphis Center:135.300:M15:C:MEM:CTR:ZME 15:SWL:1501:1577
-Memphis Center SE Low:Memphis Center:120.800:M13:C:MEM:CTR:ZME 13:SEL:1501:1577
-Memphis Center NE High:Memphis Center:118.870:M63:C:MEM:CTR:ZME 63:NEH:5601:5677
-Memphis Center NW High:Memphis Center:132.550:M22:C:MEM:CTR:ZME 22:NWH:5601:5677
-Memphis Center S High:Memphis Center:124.820:M45:C:MEM:CTR:ZME 45:SSH:5601:5677
-Memphis Center NW Ultra:Memphis Center:134.770:M20:C:MEM:CTR:ZME 20:NWU:5601:5677
-Memphis Center NE Ultra:Memphis Center:134.650:M32:C:MEM:CTR:ZME 32:NEU:5601:5677
-Memphis Center S Ultra/Combined:Memphis Center:133.650:M05:C:MEM:CTR:ZME 05:SSU:5601:5677
+;--------------LOW---------------------
+01 Hot Springs:Memphis Center:128.475:M01:C:MEM:CTR:ZME 01:NWL:1501:1577
+02 Fayetteville:Memphis Center:126.100:M02:C:MEM:CTR:ZME 02:NWL:1501:1577
+03 Harrison:Memphis Center:126.850:M03:C:MEM:CTR:ZME 03:NWL:1501:1577
+04 Jonesboro:Memphis Center:120.075:M04:C:MEM:CTR:ZME 04:NWL:1501:1577
+05 Paducah:Memphis Center:133.650:M05:C:MEM:CTR:ZME 05:NEL:1501:1577
+07 Jonesboro:Memphis Center:120.075:M04:C:MEM:CTR:ZME 04:NEL:1501:1577
+12 Columbus:Memphis Center:128.500:M12:C:MEM:CTR:ZME 12:NEL:1501:1577
+13 Hamilton:Memphis Center:120.800:M13:C:MEM:CTR:ZME 13:SEL:1501:1577
+14 Holly Springs:Memphis Center:135.900:M14:C:MEM:CTR:ZME 05:NEL:1501:1577
+15 Helena:Memphis Center:135.300:M15:C:MEM:CTR:ZME 15:SWL:1501:1577
+40 Nashville:Memphis Center:132.900:M40:C:MEM:CTR:ZME 40:NEL:1501:1577
+41 Bowling Green:Memphis Center:133.850:M41:C:MEM:CTR:ZME 41:NEL:1501:1577
+60 Shelbyville:Memphis Center:128.150:M60:C:MEM:CTR:ZME 60:NEL:1501:1577
+65 Kewanee:Memphis Center:125.975:M65:C:MEM:CTR:ZME 65:SEL:1501:1577
+66 Jackson:Memphis Center:132.500:M66:C:MEM:CTR:ZME 66:SWL:1501:1577
+67 Greenville:Memphis Center:135.875:M67:C:MEM:CTR:ZME 67:SWL:1501:1577
+;--------------HIGH---------------------
+21 Conway Hi:Memphis Center:132.425:M21:C:MEM:CTR:ZME 21:NWH:5601:5677  
+22 Razorback Hi:Memphis Center:132.550:M22:C:MEM:CTR:ZME 22:NWH:5601:5677
+25 TNGS Hi:Memphis Center:122.275:M25:C:MEM:CTR:ZME 25:NEH:5601:5677 
+26 Jacks Creek Hi:Memphis Center:126.45:M26:C:MEM:CTR:ZME 26:NEH:5601:5677  
+27 Jonesboro Hi:Memphis Center:132.375:M27:C:MEM:CTR:ZME 27:NWH:5601:5677  
+28 Memphis Hi:Memphis Center:118.625:M28:C:MEM:CTR:ZME 28:CH:5601:5677  
+30 Columbus Hi:Memphis Center:134.775:M30:C:MEM:CTR:ZME 30:SEH:5601:5677  
+31 Muscle Shoals Hi:Memphis Center:127.375:M31:C:MEM:CTR:ZME 31:SEH:5601:5677  
+44 Pine Bluff Hi:Memphis Center:124.925:M44:C:MEM:CTR:ZME 44:SWH:5601:5677   
+45 Vicksburg Hi:Memphis Center:133.075:M45:C:MEM:CTR:ZME 45:SWH:5601:5677
+46 Meridian Hi:Memphis Center:128.275:M46:C:MEM:CTR:ZME 46:SSH:5601:5677  
+62 Smyrna Hi:Memphis Center:118.875:M62:C:MEM:CTR:ZME 62:NEH:5601:5677 
+63 Campbell Hi:Memphis Center:124.275:M63:C:MEM:CTR:ZME 63:NEH:5601:5677  
+;--------------ULTRA-HIGH---------------------
+19 Drake Ultra-Hi:Memphis Center:133.025:M19:C:MEM:CTR:ZME 19:SSU:5601:5677
+20 Little Rock Ultra Hi:Memphis Center:125.475:M20:C:MEM:CTR:ZME 20:NWU:5601:5677
+32 Tupelo Ultra Hi:Memphis Center:135.650:32:C:MEM:CTR:ZME 32:NEU:5601:5677
+33 Elvis Super Hi:Memphis Center:127.975:M33:C:MEM:CTR:ZME 33:SSU:5601:5677
+34 Sikeston Super Hi:Memphis Center:133.125:M34:C:MEM:CTR:ZME 34:SSU:5601:5677
+35 Walnut Ridge Ultra-Hi:Memphis Center:135.225:M35:C:MEM:CTR:ZME 35:SSU:5601:5677
+43 Greenwood Ultra Hi:Memphis Center:127.425:M43:C:MEM:CTR:ZME 43:SSU:5601:5677
+61 Clarksville Super Hi:Memphis Center:124.125:61:C:MEM:CTR:ZME 61:SSU:5601:5677
 
 
 ***************************
-;ZTL ARTCC
-***************************
-Traffic Management Unit  :Atlanta TMU:199.998:00:-:ZTL:TMU:ZTL:TMU
-
-;ZTL ARTCC
-
-;Operations Desk
-ZTL TMU:Atlanta TMU:199.998:Z00:C:ZTL:TMU:ZTL:TMU
-ZTL TMU:Atlanta TMU:199.997:Z00:U:ATL:CTR:ZTL:TMU
-A80 TMU:Atlanta TMU:199.997:U:U:ATL:APP:A80:TMU
-ZTL Flight Data:Atlanta Flight Watch:135.470:ZWX:C:ATL:CTR:ATL:CTR
-ZTL Clearance Delivery:Atlanta Center:124.250:ZCD:C:ATL:CTR:ATL:CTR
-
-
 ;Area 1
 ZTL Salem 42 High:Atlanta Center:120.720:Z42:C:ATL:CTR:Salem High:ZTL 42:2001:2077
+ZTL Salem 42 High:Atlanta Center:120.725:Z42:C:ATL:CTR:Salem High:ZTL 42:2001:2077
 ZTL Pulaski 43 High:Atlanta Center:132.970:Z43:C:ATL:CTR:Pulaski High:ZTL 43:2001:2077
+ZTL Pulaski 43 High:Atlanta Center:132.975:Z43:C:ATL:CTR:Pulaski High:ZTL 43:2001:2077
 ZTL Shine 44 Low:Atlanta Center:132.620:Z44:C:ATL:CTR:Shine Low:ZTL 44:2001:2077
+ZTL Shine 44 Low:Atlanta Center:132.625:Z44:C:ATL:CTR:Shine Low:ZTL 44:2001:2077
 ZTL Bristol 45 Low:Atlanta Center:127.850:Z45:C:ATL:CTR:Bristol Low:ZTL 45:2001:2077
 ZTL Moped 47 Low:Atlanta Center:134.550:Z47:C:ATL:CTR:Moped Low:ZTL 47:2001:2077
 ZTL Wilkes 48 Ultra Low:Atlanta Center:125.150:Z48:C:ATL:CTR:Wilkes Ultra Low:ZTL 48:2001:2077
@@ -514,25 +549,35 @@ ZTL Leeon 29 Low:Atlanta Center:128.800:Z29:C:ATL:CTR:Leeon Low:ZTL 29:2001:2077
 ZTL Locas 30 Low:Atlanta Center:133.150:Z30:C:ATL:CTR:Locas Low:ZTL 30:2001:2077
 ZTL Unarm 31 Low:Atlanta Center:135.350:Z31:C:ATL:CTR:Unarm Low:ZTL 31:2001:2077
 ZTL Spartanburg 32 High:Atlanta Center:125.620:Z32:C:ATL:CTR:Spartanburg High:ZTL 32:2001:2077
+ZTL Spartanburg 32 High:Atlanta Center:125.625:Z32:C:ATL:CTR:Spartanburg High:ZTL 32:2001:2077
 ZTL Charlotte 33 Hi:Atlanta Center:124.420:Z33:C:ATL:CTR:Charlotte High:ZTL 33:2001:2077
+ZTL Charlotte 33 Hi:Atlanta Center:124.425:Z33:C:ATL:CTR:Charlotte High:ZTL 33:2001:2077
 ZTL Georgia 34 High:Atlanta Center:120.420:Z34:C:ATL:CTR:Georgia High:ZTL 34:2001:2077
+ZTL Georgia 34 High:Atlanta Center:120.425:Z34:C:ATL:CTR:Georgia High:ZTL 34:2001:2077
 ZTL High Rock 28 Ultra High:Atlanta Center:125.020:Z28:C:ATL:CTR:High Rock Ultra High:ZTL 28:2001:2077
+ZTL High Rock 28 Ultra High:Atlanta Center:125.025:Z28:C:ATL:CTR:High Rock Ultra High:ZTL 28:2001:2077
 
 ;Area 3
 ZTL East Departure 16 Low:Atlanta Center:134.200:Z16:C:ATL:CTR:East Departure Low:ZTL 16:2001:2077
 ZTL Logen 49 Low:Atlanta Center:121.350:Z49:C:ATL:CTR:Logen Low:ZTL 49:2001:2077
 ZTL Commerce 18 Ultra Low:Atlanta Center:134.800:Z18:C:ATL:CTR:Commerce Ultra Low:ZTL 18:2001:2077
 ZTL Lanier 50 High:Atlanta Center:124.370:Z50:C:ATL:CTR:Lanier High:ZTL 50:2001:2077
+ZTL Lanier 50 High:Atlanta Center:124.375:Z50:C:ATL:CTR:Lanier High:ZTL 50:2001:2077
 ZTL Baden 15 Ultra High:Atlanta Center:126.770:Z15:C:ATL:CTR:Baden Ultra High:ZTL 15:2001:2077
+ZTL Baden 15 Ultra High:Atlanta Center:126.775:Z15:C:ATL:CTR:Baden Ultra High:ZTL 15:2001:2077
 
 ;Area 4
 ZTL Sinca 19 Low:Atlanta Center:123.950:Z19:C:ATL:CTR:Sinca Low:ZTL 19:2001:2077
 ZTL South Departure 21 Low:Atlanta Center:134.500:Z21:C:ATL:CTR:South Departure Low:ZTL 21:2001:2077
 ZTL Augusta 24 Low:Atlanta Center:128.100:Z24:C:ATL:CTR:Augusta Low:ZTL 24:2001:2077
 ZTL Dublin 20 High:Atlanta Center:126.420:Z20:C:ATL:CTR:Dublin High:ZTL 20:2001:2077
+ZTL Dublin 20 High:Atlanta Center:126.425:Z20:C:ATL:CTR:Dublin High:ZTL 20:2001:2077
 ZTL Macon 22 High:Atlanta Center:119.370:Z22:C:ATL:CTR:Macon High:ZTL 22:2001:2077
+ZTL Macon 22 High:Atlanta Center:119.375:Z22:C:ATL:CTR:Macon High:ZTL 22:2001:2077
 ZTL Clark Hill 23 Ultra High:Atlanta Center:124.320:Z23:C:ATL:CTR:Clark Hill Ultra High:ZTL 23:2001:2077
+ZTL Clark Hill 23 Ultra High:Atlanta Center:124.325:Z23:C:ATL:CTR:Clark Hill Ultra High:ZTL 23:2001:2077
 ZTL Hampton 27 Ultra High:Atlanta Center:125.820:Z27:C:ATL:CTR:Hampton 27 Ultra High:ZTL 27:2001:2077
+ZTL Hampton 27 Ultra High:Atlanta Center:125.825:Z27:C:ATL:CTR:Hampton 27 Ultra High:ZTL 27:2001:2077
 
 ;Area 5
 ZTL Tiroe 09 Low:Atlanta Center:120.450:Z09:C:ATL:CTR:Tiroe 09 Low:ZTL 09:2001:2077
@@ -540,77 +585,87 @@ ZTL Birmingham 12 Low:Atlanta Center:127.300:Z12:C:ATL:CTR:Birmingham Low:ZTL 12
 ZTL Montgomery 13 Low:Atlanta Center:120.550:Z13:C:ATL:CTR:Montgomery Low:ZTL 13:2001:2077
 ZTL Maxwell 14 Low:Atlanta Center:132.250:Z14:C:ATL:CTR:Maxwell Low:ZTL 14:2001:2077
 ZTL LaGrange 10 High:Atlanta Center:125.570:Z10:C:ATL:CTR:LaGrange High:ZTL 10:2001:2077
+ZTL LaGrange 10 High:Atlanta Center:125.575:Z10:C:ATL:CTR:LaGrange High:ZTL 10:2001:2077
 ZTL Monroeville 11 High:Atlanta Center:128.020:Z11:C:ATL:CTR:Monroeville High:ZTL 11:2001:2077
+ZTL Monroeville 11 High:Atlanta Center:128.025:Z11:C:ATL:CTR:Monroeville High:ZTL 11:2001:2077
 ZTL Martin Lake 08 Ultra High:Atlanta Center:125.870:Z08:C:ATL:CTR:Martin Lake Ultra High:ZTL 08:2001:2077
+ZTL Martin Lake 08 Ultra High:Atlanta Center:125.875:Z08:C:ATL:CTR:Martin Lake Ultra High:ZTL 08:2001:2077
 
 ;Area 6
 ZTL West Departure 04 Low:Atlanta Center:134.950:Z04:C:ATL:CTR:West Departure Low:ZTL 04:2001:2077
 ZTL Dalas 05 Low:Atlanta Center:132.050:Z05:C:ATL:CTR:Dalas Low:ZTL 05:2001:2077
 ZTL Rome 01 Ultra Low:Atlanta Center:135.170:Z01:C:ATL:CTR:Rome Ultra Low:ZTL 01:2001:2077
+ZTL Rome 01 Ultra Low:Atlanta Center:135.175:Z01:C:ATL:CTR:Rome Ultra Low:ZTL 01:2001:2077
 ZTL Gadsden 03 High:Atlanta Center:128.720:Z03:C:ATL:CTR:Gadsden High:ZTL 03:2001:2077
+ZTL Gadsden 03 High:Atlanta Center:128.725:Z03:C:ATL:CTR:Gadsden High:ZTL 03:2001:2077
 ZTL Rocket 06 Ultra High:Atlanta Center:133.170:Z06:C:ATL:CTR:Rocket Ultra High:ZTL 06:2001:2077
+ZTL Rocket 06 Ultra High:Atlanta Center:133.175:Z06:C:ATL:CTR:Rocket Ultra High:ZTL 06:2001:2077
 ZTL Gunter 02 Ultra High:Atlanta Center:126.820:Z02:C:ATL:CTR:Gunter Ultra High:ZTL 02:2001:2077
+ZTL Gunter 02 Ultra High:Atlanta Center:126.825:Z02:C:ATL:CTR:Gunter Ultra High:ZTL 02:2001:2077
 
 ;Area 7
 ZTL North Departure 38 Low:Atlanta Center:133.100:Z38:C:ATL:CTR:North Departure Low:ZTL 38:2001:2077
 ZTL Hinch Mountain 41 Low:Atlanta Center:133.600:Z41:C:ATL:CTR:Hinch Mountain Low:ZTL 41:2001:2077
 ZTL Crossville 37 High:Atlanta Center:126.670:Z37:C:ATL:CTR:Crossville High:ZTL 37:2001:2077
+ZTL Crossville 37 High:Atlanta Center:126.675:Z37:C:ATL:CTR:Crossville High:ZTL 37:2001:2077
 ZTL Burne 39 High:Atlanta Center:125.920:Z39:C:ATL:CTR:Burne High:ZTL 39:2001:2077
+ZTL Burne 39 High:Atlanta Center:125.925:Z39:C:ATL:CTR:Burne High:ZTL 39:2001:2077
 ZTL Allatoona 36 Ultra High:Atlanta Center:124.870:Z36:C:ATL:CTR:Allatoona Ultra High:ZTL 36:2001:2077
+ZTL Allatoona 36 Ultra High:Atlanta Center:124.875:Z36:C:ATL:CTR:Allatoona Ultra High:ZTL 36:2001:2077
 ZTL Blue Ridge 40 Ultra High:Atlanta Center:134.070:Z40:C:ATL:CTR:Blue Ridge Ultra High:ZTL 40:2001:2077
+ZTL Blue Ridge 40 Ultra High:Atlanta Center:134.075:Z40:C:ATL:CTR:Blue Ridge Ultra High:ZTL 40:2001:2077
 
 ***************************
 ;ZAB ARTCC
 ***************************
 ; ZAB Combined ABQ_CTR
-ZB - ZAB:Albuquerque Center:127.850:AZB:C:ABQ:CTR:ZAB:ZB:0701:0777
+A15 - ZAB:Albuquerque Center:127.850:A15:C:ABQ:CTR:ZAB:A15:0701:0777
 ;
 ; ZAB Northwest Area
 ;
-NW - NORWEST:Albuquerque Center:128.450:ANW:C:ABQ:CTR:ZAB:NW:0701:0777
-38 - MIALH:Albuquerque Center:132.900:A38:C:ABQ:CTR:ZAB:38:0701:0777
-43 - DRKLO:Albuquerque Center:128.450:A43:C:ABQ:CTR:ZAB:43:0701:0777
+NW - NORWEST:Albuquerque Center:128.450:A43:C:ABQ:CTR:ZAB:A43:0701:0777
+38 - MIALH:Albuquerque Center:132.900:A38:C:ABQ:CTR:ZAB:A38:0701:0777
+43 - DRKLO:Albuquerque Center:128.450:A43:C:ABQ:CTR:ZAB:A43:0701:0777
 ;
 ;ZAB Northeast Area
-NE - NOREST:Albuquerque Center:127.850:ANE:C:ABQ:CTR:ZAB:NE:0701:0777
+A15 - NOREST:Albuquerque Center:127.850:A15:C:ABQ:CTR:ZAB:A15:0701:0777
 ;
 ; ZAB North Area
 ;
-ZN - North:Albuquerque Center:127.850:AZN:C:ABQ:CTR:ZAB:ZN:0701:0777
-16 - SANLH:Albuquerque Center:132.800:A16:C:ABQ:CTR:ZAB:16:0701:0777
-17 - LAVLO:Albuquerque Center:124.320:A17:C:ABQ:CTR:ZAB:17:0701:0777
+A15 - North:Albuquerque Center:127.850:A15:C:ABQ:CTR:ZAB:A15:0701:0777
+16 - SANLH:Albuquerque Center:132.800:A16:C:ABQ:CTR:ZAB:A16:0701:0777
+17 - LAVLO:Albuquerque Center:124.325:A17:C:ABQ:CTR:ZAB:A17:0701:0777
 ;
 ; ZAB South Area
-ZS - SOUTH:Albuquerque Center:126.450:AZS:C:ABQ:CTR:ZAB:ZS:0701:0777
+A42 - SOUTH:Albuquerque Center:126.450:A42:C:ABQ:CTR:ZAB:A42:0701:0777
 ;
 ; ZAB East Area
 ;
-ZE _ EAST:Albuquerque Center:127.850:AZE:C:ABQ:CTR:ZAB:ZE:0701:0777
-15 - BDGLO:Albuquerque Center:127.850:A15:C:ABQ:CTR:ZAB:15:0701:0777
-97 - AMAHI:Albuquerque Center:134.750:A97:C:ABQ:CTR:ZAB:97:0701:0777
+A15 _ EAST:Albuquerque Center:127.850:A15:C:ABQ:CTR:ZAB:A15:0701:0777
+15 - BDGLO:Albuquerque Center:127.850:A15:C:ABQ:CTR:ZAB:A15:0701:0777
+97 - AMAHI:Albuquerque Center:134.750:A97:C:ABQ:CTR:ZAB:A97:0701:0777
 ;
 ;ZAB West Area
-ZW - WEST:Albuquerque Center:128.450:AZW:C:ABQ:CTR:ZAB:ZW:0701:0777
+A43 - WEST:Albuquerque Center:128.450:A43:C:ABQ:CTR:ZAB:A43:0701:0777
 ;
 ; ZAB Southeast Area
 ;
-SE - SOUEST:Albuquerque Center:120.970:ASE:C:ABQ:CTR:ZAB:SE:0701:0777
+A63 - SOUEST:Albuquerque Center:120.975:A63:C:ABQ:CTR:ZAB:A63:0701:0777
 19 - DMNLO:Albuquerque Center:128.200:A19:C:ABQ:CTR:ZAB:19:0701:0777
-63 - ELPHI:Albuquerque Center:120.970:A63:C:ABQ:CTR:ZAB:63:0701:0777
+63 - ELPHI:Albuquerque Center:120.975:A63:C:ABQ:CTR:ZAB:63:0701:0777
 ;
 ;
 ; ZAB Southwest Area
 ;
-SW - SOUWST:Albuquerque Center:126.450:ASW:C:ABQ:CTR:ZAB:SW:0701:0777
+A42 - SOUWST:Albuquerque Center:126.450:A42:C:ABQ:CTR:ZAB:A42:0701:0777
 42 - GBNLO:Albuquerque Center:126.450:A42:C:ABQ:CTR:ZAB:42:0701:0777
 46 - TUSLO:Albuquerque Center:125.400:A46:C:ABQ:CTR:ZAB:46:0701:0777
-
 **************************
 ;ZMA ARTCC
 **************************
 ; MIAMI CENTER (##)
-MIA_LO_CTR:Miami Center:132.250:00:ULC:MIA:CTR:MIA:CTR:4501:4777
-MIA_02_CTR:Miami Center:119.820:02:U2C:MIA:CTR:MIA:CTR:4501:4777
+MIA_LO_CTR:Miami Center:132.250:U00:C:MIA:CTR:MIA:CTR:4501:4777
+MIA_02_CTR:Miami Center:119.820:U02:C:MIA:CTR:MIA:CTR:4501:4777
     MIA_02_CTR:Miami Center:119.825:U02:C:MIA:CTR:MIA:CTR:4501:4777
 MIA_05_CTR:Miami Center:132.700:U05:C:MIA:CTR:MIA:CTR:4501:4777
 MIA_06_CTR:Miami Center:132.200:U06:C:MIA:CTR:MIA:CTR:4501:4777
@@ -628,7 +683,7 @@ MIA_46_CTR:Miami Center:135.170:U46:C:MIA:CTR:MIA:CTR:4501:4777
     MIA_46_CTR:Miami Center:135.175:U46:C:MIA:CTR:MIA:CTR:4501:4777
 MIA_64_CTR:Miami Center:126.520:U64:C:MIA:CTR:MIA:CTR:4501:4777
     MIA_64_CTR:Miami Center:126.525:U64:C:MIA:CTR:MIA:CTR:4501:4777
-MIA_TM_CTR:Miami TMU:199.998:UTM:C:MIA:CTR:MIA:CTR:4501:4777
+MIA_TM_CTR:Miami TMU:199.998:TM:C:MIA:CTR:MIA:CTR:4501:4777
 
 ; MIAMI OCEANIC (##)
 ZMO_43_CTR:Miami Center:123.770:U43:Z:ZMO:CTR:ZMO:CTR:4701:4777
@@ -638,6 +693,106 @@ ZMO_58_CTR:Miami Center:124.520:U58:Z:ZMO:CTR:ZMO:CTR:4701:4777
 ZMO_59_CTR:Miami Center:134.800:U59:Z:ZMO:CTR:ZMO:CTR:4701:4777
 ZMO_62_CTR:Miami Center:132.300:U62:Z:ZMO:CTR:ZMO:CTR:4701:4777
 ZMO_63_CTR:Miami Center:135.200:U63:Z:ZMO:CTR:ZMO:CTR:4701:4777
+
+;Indianapolis ZID
+;-------------------------------------------------------------------------------------
+;                                 INDIANAPOLIS CENTER                                 
+;-------------------------------------------------------------------------------------
+
+;PRIMARY INDY CENTER FREQUENCYS
+;
+INDIANAPOLIS CENTER:Indy Center:119.550:I34:C:IND:CTR:IND 34:CTR:6601:6777
+;
+;SPLIT EAST/WEST
+;
+INDY 30 (East):Indy Center:124.450:I30:C:IND:CTR:IND 30:CTR:6701:6777
+INDY 34 (West):Indy Center:119.550:I34:C:IND:CTR:IND 34:CTR:6601:6677
+;
+;SPLIT EAST/WEST AND HI/LO
+INDY EAST (LO):Indy Center:124.450:I30:L:IND:CTR:IND 30:CTR:6701:6777
+INDY WEST (Lo):Indy Center:119.550:I34:L:IND:CTR:IND 34:CTR:6601:6677
+Indy EAST (HI):Indy Center:119.520:I85:H:IND:CTR:IND 85:CTR:6401:6477
+Indy WEST (HI):Indy Center:128.220:I83:H:IND:CTR:IND 83:CTR:6501:6577
+;
+;SPLIT N/S HIGH
+INDY NORTH (HI):Indy Center:120.570:I88:H:IND:CTR:IND 88:CTR:6401:6477
+INDY SOUTH (HI):Indy Center:134.670:I84:H:IND:CTR:IND 84:CTR:6501:6577
+;
+;3 WAY SPLIT Lo
+INDY NORTHEAST (LO):Indy Center:124.450:I30:L:IND:CTR:IND 30:CTR:6701:6777
+INDY SOUTH (Lo):Indy Center:126.570:I25:C:IND:CTR:IND 25:CTR:6701:6777
+INDY WEST (LO):Indy Center:119.550:I34:L:IND:CTR:IND 34:CTR:6601:6677
+;
+;AREA One
+;
+EVANSVILLE 17 (EVV LO):Indy Center:128.300:I17:C:IND:CTR:IND 17:CTR:6701:6777
+NEW HOPE 19 (EWO LO):Indy Center:121.170:I19:C:IND:CTR:IND 19:CTR:6701:6777
+POCKET CITY 81 (PXV HI):Indy Center:132.520:I81:C:IND:CTR:IND 81:CTR:6601:6677
+LOUISVILLE 82 (LOU HI):Indy Center:133.050:I82:C:IND:CTR:IND 82:CTR:6601:6677
+IMPEL 91 (IMP SH):Indy Center:127.020:I91:C:IND:CTR:IND 91:CTR:6401:6477
+MYSTIC 92 (MYS SH):Indy Center:134.270:I92:C:IND:CTR:IND 92:CTR:6401:6477
+;
+;AREA 2
+;
+LONDON 21 (LOZ LO):Indy Center:124.620:I21:C:IND:CTR:IND 21:CTR:6701:6777
+HAZARD 25 (AZQ LO):Indy Center:126.570:I25:C:IND:CTR:IND 25:CTR:6701:6777
+RIVER 26 (RIV LO):Indy Center:124.220:I26:C:IND:CTR:IND 26:CTR:6701:6777
+REBEL 84 (RBL HI):Indy Center:134.670:I84:C:IND:CTR:IND 84:CTR:6601:6677
+SOMERSET 94 (SME SH):Indy Center:126.920:I94:C:IND:CTR:IND 94:CTR:6401:6477
+;
+;AREA 3
+;
+CHARLESTON 85 (CRW HI):Indy Center:119.520:I85:C:IND:CTR:IND 85:CTR:6601:6677
+BOBCAT 79 (BOB IM):Indy Center:135.120:I79:C:IND:CTR:IND 79:CTR:6501:6577
+HENDERSON 95 (HNN SH):Indy Center:120.270:I95:C:IND:CTR:IND 95:CTR:6401:6477
+BECKLEY 86 (BKW HI):Indy Center:124.570:I86:C:IND:CTR:IND 86:CTR:6601:6677
+BLUEFIELD 96 (BLF SH):Indy Center:134.220:I96:C:IND:CTR:IND 96:CTR:6401:6477
+;
+;AREA 4
+;
+SHELBYVILLE 34 (SHB LO):Indy Center:119.550:I34:C:IND:CTR:IND 34:CTR:6601:6777
+TERRE HAUTE 35 (HUF LO):Indy Center:132.200:I35:C:IND:CTR:IND 35:CTR:6701:6777
+RUSHVILLE 75 (RSH SH):Indy Center:125.120:I75:C:IND:CTR:IND 75:CTR:6401:6477
+KING 80 (KNG HI):Indy Center:134.170:I80:C:IND:CTR:IND 80:CTR:6601:6677
+INDY 89 (IND HI):Indy Center:133.420:I89:C:IND:CTR:IND 89:CTR:6601:6677
+WABASH 99 (WAB SH):Indy Center:132.770:I99:C:IND:CTR:IND 99:CTR:6401:6477
+;
+;AREA 5
+;
+ROSEWOOD 32 (ROD LO):Indy Center:128.070:I32:C:IND:CTR:IND 32:CTR:6701:6777
+COVINGTON 22 (CVG LO):Indy Center:123.920:I22:C:IND:CTR:IND 22:CTR:6701:6777
+LYTLE 31 (LTL LO):Indy Center:120.470:I31:C:IND:CTR:IND 31:CTR:6701:6777
+MUNCIE 33 (MIE LO):Indy Center:124.520:I33:C:IND:CTR:IND 33:CTR:6701:6777
+DAYTON 88 (DAY HI):Indy Center:120.570:I88:C:IND:CTR:IND 88:CTR:6601:6677
+SPRINGFIELD 78 (SGH IM):Indy Center:135.800:I78:C:IND:CTR:IND 78:CTR:6501:6577
+PATTERSON 98 (FFO SH):Indy Center:128.770:I98:C:IND:CTR:IND 98:CTR:6401:6477
+;
+;AREA 6
+;
+COLUMBUS 30 (CMH LO):Indy Center:124.450:I30:C:IND:CTR:IND 30:CTR:6701:6777
+PARKERSBURG 24 (PKB LO):Indy Center:125.550:I24:C:IND:CTR:IND 24:CTR:6701:6777
+PIKE 69 (PIK LO):Indy Center:135.570:I69:C:IND:CTR:IND 69:CTR:6701:6777
+APPLETON 87 (APE HI):Indy Center:132.820:I87:C:IND:CTR:IND 87:CTR:6601:6677
+UNIVERSITY 77 (UNV HI):Indy Center:125.070:I77:C:IND:CTR:IND 77:CTR:6401:6477
+LOCKBOURNE 97 (LCK SH):Indy Center:133.770:I97:C:IND:CTR:IND 97:CTR:6401:6477
+;
+;AREA 7
+;
+NABB 18 (ABB LO):Indy Center:124.770:I18:C:IND:CTR:IND 18:CTR:6701:6777
+LEXINGTON 20 (LEX LO):Indy Center:126.370:I20:C:IND:CTR:IND 20:CTR:6701:6777
+MADISON 66 (MAD HI):Indy Center:128.370:I66:C:IND:CTR:IND 66:CTR:6601:6677
+FALMOUTH 83 (FLM HI):Indy Center:128.220:I83:C:IND:CTR:IND 83:CTR:6601:6677
+BATESVILLE 76 (BTV SH):Indy Center:134.700:I76:C:IND:CTR:IND 76:CTR:6401:6477
+DACOS 93 (DAC SH):Indy Center:123.770:I93:C:IND:CTR:IND 93:CTR:6401:6477
+HOOSIER 70 (OOM SH):Indy Center:120.870:I70:C:IND:CTR:IND 70:CTR:6401:6477
+
+
+; ZKC - Kansas City ARTCC
+Kansas City Center Sector 41 (Topeka High):Kansas City Center:132.320:K41:K:KC:CTR:KC:41 CTR:2101:2177
+Kansas City Center Sector 84 (St Louis High):Kansas City Center:134.670:K84:K:KC:CTR:KC:84 CTR:2115:2132
+Kansas City Center Sector 98 (Emporia Low):Kansas City Center:127.720:K98:K:KC:CTR:KC:98 CTR:2147:2162
+Kansas City Center Sector 54 (Farmington Low):Kansas City Center:127.470:K54:K:KC:CTR:KC:54 CTR:2163:2177
+Kansas City Center Sector 94 (Combined):Kansas City Center:125.729:K94:K:KC:CTR:KC:94 CTR:2163:2177
 
 ; Republica de Mexico
 ; Centro Monterrey (10'S)
@@ -652,6 +807,16 @@ Centro Merida2:Centro Merida/2:125.800:D32:C:MMID:CTR:MMID2:CTR:7001:7077
 Centro Merida3:Centro Merida/3:125.200:D33:C:MMID:CTR:MMID3:CTR:7001:7077
 Centro Merida4:Centro Merida/4:128.200:D34:C:MMID:CTR:MMID4:CTR:7001:7077
 Centro Merida5:Centro Merida/5:123.750:D35:C:MMID:CTR:MMID5:CTR:7001:7077
+
+;Reynosa
+;
+Torre Reynosa:MMRX_TWR:118.800:R1:T:MMRX:TWR:MMRX:TWR:2000:2200
+Aproximaciones Reynosa:MMRX_APP:118.800:R2:APP:MMRX:APP:MMRX:APP:2000:2200
+
+;Nuevo Laredo  (MISMA FREC twr=app)
+;
+Torre Nuevo Laredo:MMNL_TWR:118.300:N1:T:MMNL:TWR:MMNL:TWR:4000:4200
+Aproximaciones Nuevo Laredo:MMNL_APP:118.300:N2:A:MMNL:APP:MMNL:APP:4000:4200
 
 ARTCC boundary:_CTR:
 ARTCC low boundary:AUSTIN:
@@ -7025,336 +7190,270 @@ SID:KHLR:34:CONRA2:CONRA
 SID:KHLR:34:LAMPS7xACT:AGJ SONET ACT
 SID:KHLR:34:LAMPS7xSTV:AGJ STV
 SID:KHLR:34:LAMPS7:AGJ
-SID:KHOU:04:AEX2xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
-SID:KHOU:04:AEX2xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
-SID:KHOU:04:IDU9xCRP:SHYNR BOCCK IDU MARCS SAT CRP
-SID:KHOU:04:IDU9xCWK:SHYNR BOCCK IDU CWK
-SID:KHOU:04:IDU9xJCT:SHYNR BOCCK IDU JCT
-SID:KHOU:04:IDU9xLRD:SHYNR BOCCK IDU MARCS SAT LRD
-SID:KHOU:04:LFK2xLIT:KYANN COLET SUSHI LFK SKKIP LIT
-SID:KHOU:04:LOA3xADM:WLLIS LOA DOLEY ADM
-SID:KHOU:04:LOA3xBYP:WLLIS LOA CQY BYP
-SID:KHOU:04:LOA3xFUZ:WLLIS LOA DOLEY FUZ
-SID:KHOU:04:PSX1xFST:SKUBA PSX THX COT RSG FST
-SID:KHOU:04:PSX1xSAT:SKUBA PSX THX SAT
-SID:KHOU:04:BLTWY6xCRIED:DREMR LITLD BLTWY CRIED
-SID:KHOU:04:ELOCO4xLLA:ELOCO CHPEE GRIPY YOKEM SBI LLA
-SID:KHOU:04:HOODO6xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
-SID:KHOU:04:HOODO6xCFOOD:VUH HOODO SBIRD CFOOD
-SID:KHOU:04:HOODO6xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
-SID:KHOU:04:HOODO6xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
-SID:KHOU:04:HOODO6xSBIRD:VUH HOODO SBIRD
-SID:KHOU:04:INDIE7xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
-SID:KHOU:04:LURIC7xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
-SID:KHOU:04:LURIC7xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
-SID:KHOU:04:PEECE4xANKRR:PEECE VUH ANKRR
-SID:KHOU:04:PEECE4xKELPP:PEECE VUH KELPP
-SID:KHOU:04:PEECE4xMUSYL:PEECE VUH MUSYL
-SID:KHOU:04:PTRON6xCRP:SAALT PTRON SKUBA PSX YOMOM CRP
-SID:KHOU:04:PTRON6xNGP:SAALT PTRON RIIGG NGP
-SID:KHOU:04:PTRON6xPSX:SAALT PTRON SKUBA PSX
-SID:KHOU:04:PTRON6xWWREN:SAALT PTRON RIIGG WWREN
-SID:KHOU:04:PTRON6xYOMOM:SAALT PTRON SKUBA PSX YOMOM
-SID:KHOU:04:RETYR5xCRGER:RETYR MNNKE ZUUUU PUFER PSTUR CRGER
-SID:KHOU:04:RETYR5xJCT:RETYR MNNKE BOCCK MNURE HAYYY FOWLR JCT
-SID:KHOU:04:RETYR5xMNURE:RETYR MNNKE BOCCK MNURE
-SID:KHOU:04:RETYR5xSAT:RETYR MNNKE BOCCK MNURE MARCS SAT
-SID:KHOU:04:RETYR5xWAILN:RETYR MNNKE WEEED WAILN
-SID:KHOU:04:STRYA7xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
-SID:KHOU:04:STRYA7xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
-SID:KHOU:04:STYCK7xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
-SID:KHOU:04:STYCK7xWTSON:BBYSE SPICR WLLIS STYCK WTSON
-SID:KHOU:04:WYLSN7xGIFFA:WYLSN MONNT BUMCO GIFFA
-SID:KHOU:04:WYLSN7xMAJKK:WYLSN MONNT KLJOY MAJKK
-SID:KHOU:13L:AEX2xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
-SID:KHOU:13L:AEX2xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
-SID:KHOU:13L:IDU9xCRP:SHYNR BOCCK IDU MARCS SAT CRP
-SID:KHOU:13L:IDU9xCWK:SHYNR BOCCK IDU CWK
-SID:KHOU:13L:IDU9xJCT:SHYNR BOCCK IDU JCT
-SID:KHOU:13L:IDU9xLRD:SHYNR BOCCK IDU MARCS SAT LRD
-SID:KHOU:13L:LFK2xLIT:KYANN COLET SUSHI LFK SKKIP LIT
-SID:KHOU:13L:LOA3xADM:WLLIS LOA DOLEY ADM
-SID:KHOU:13L:LOA3xBYP:WLLIS LOA CQY BYP
-SID:KHOU:13L:LOA3xFUZ:WLLIS LOA DOLEY FUZ
-SID:KHOU:13L:PSX1xFST:SKUBA PSX THX COT RSG FST
-SID:KHOU:13L:PSX1xSAT:SKUBA PSX THX SAT
-SID:KHOU:13L:BLTWY6xCRIED:DREMR LITLD BLTWY CRIED
-SID:KHOU:13L:ELOCO4xLLA:ELOCO CHPEE GRIPY YOKEM SBI LLA
-SID:KHOU:13L:HOODO6xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
-SID:KHOU:13L:HOODO6xCFOOD:VUH HOODO SBIRD CFOOD
-SID:KHOU:13L:HOODO6xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
-SID:KHOU:13L:HOODO6xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
-SID:KHOU:13L:HOODO6xSBIRD:VUH HOODO SBIRD
-SID:KHOU:13L:INDIE7xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
-SID:KHOU:13L:LURIC7xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
-SID:KHOU:13L:LURIC7xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
-SID:KHOU:13L:PEECE4xANKRR:PEECE VUH ANKRR
-SID:KHOU:13L:PEECE4xKELPP:PEECE VUH KELPP
-SID:KHOU:13L:PEECE4xMUSYL:PEECE VUH MUSYL
-SID:KHOU:13L:PTRON6xCRP:SAALT PTRON SKUBA PSX YOMOM CRP
-SID:KHOU:13L:PTRON6xNGP:SAALT PTRON RIIGG NGP
-SID:KHOU:13L:PTRON6xPSX:SAALT PTRON SKUBA PSX
-SID:KHOU:13L:PTRON6xWWREN:SAALT PTRON RIIGG WWREN
-SID:KHOU:13L:PTRON6xYOMOM:SAALT PTRON SKUBA PSX YOMOM
-SID:KHOU:13L:RETYR5xCRGER:RETYR MNNKE ZUUUU PUFER PSTUR CRGER
-SID:KHOU:13L:RETYR5xJCT:RETYR MNNKE BOCCK MNURE HAYYY FOWLR JCT
-SID:KHOU:13L:RETYR5xMNURE:RETYR MNNKE BOCCK MNURE
-SID:KHOU:13L:RETYR5xSAT:RETYR MNNKE BOCCK MNURE MARCS SAT
-SID:KHOU:13L:RETYR5xWAILN:RETYR MNNKE WEEED WAILN
-SID:KHOU:13L:STRYA7xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
-SID:KHOU:13L:STRYA7xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
-SID:KHOU:13L:STYCK7xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
-SID:KHOU:13L:STYCK7xWTSON:BBYSE SPICR WLLIS STYCK WTSON
-SID:KHOU:13L:WYLSN7xGIFFA:WYLSN MONNT BUMCO GIFFA
-SID:KHOU:13L:WYLSN7xMAJKK:WYLSN MONNT KLJOY MAJKK
-SID:KHOU:13R:AEX2xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
-SID:KHOU:13R:AEX2xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
-SID:KHOU:13R:IDU9xCRP:SHYNR BOCCK IDU MARCS SAT CRP
-SID:KHOU:13R:IDU9xCWK:SHYNR BOCCK IDU CWK
-SID:KHOU:13R:IDU9xJCT:SHYNR BOCCK IDU JCT
-SID:KHOU:13R:IDU9xLRD:SHYNR BOCCK IDU MARCS SAT LRD
-SID:KHOU:13R:LFK2xLIT:KYANN COLET SUSHI LFK SKKIP LIT
-SID:KHOU:13R:LOA3xADM:WLLIS LOA DOLEY ADM
-SID:KHOU:13R:LOA3xBYP:WLLIS LOA CQY BYP
-SID:KHOU:13R:LOA3xFUZ:WLLIS LOA DOLEY FUZ
-SID:KHOU:13R:PSX1xFST:SKUBA PSX THX COT RSG FST
-SID:KHOU:13R:PSX1xSAT:SKUBA PSX THX SAT
-SID:KHOU:13R:BLTWY6xCRIED:DREMR LITLD BLTWY CRIED
-SID:KHOU:13R:ELOCO4xLLA:ELOCO CHPEE GRIPY YOKEM SBI LLA
-SID:KHOU:13R:HOODO6xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
-SID:KHOU:13R:HOODO6xCFOOD:VUH HOODO SBIRD CFOOD
-SID:KHOU:13R:HOODO6xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
-SID:KHOU:13R:HOODO6xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
-SID:KHOU:13R:HOODO6xSBIRD:VUH HOODO SBIRD
-SID:KHOU:13R:INDIE7xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
-SID:KHOU:13R:LURIC7xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
-SID:KHOU:13R:LURIC7xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
-SID:KHOU:13R:PEECE4xANKRR:PEECE VUH ANKRR
-SID:KHOU:13R:PEECE4xKELPP:PEECE VUH KELPP
-SID:KHOU:13R:PEECE4xMUSYL:PEECE VUH MUSYL
-SID:KHOU:13R:PTRON6xCRP:SAALT PTRON SKUBA PSX YOMOM CRP
-SID:KHOU:13R:PTRON6xNGP:SAALT PTRON RIIGG NGP
-SID:KHOU:13R:PTRON6xPSX:SAALT PTRON SKUBA PSX
-SID:KHOU:13R:PTRON6xWWREN:SAALT PTRON RIIGG WWREN
-SID:KHOU:13R:PTRON6xYOMOM:SAALT PTRON SKUBA PSX YOMOM
-SID:KHOU:13R:RETYR5xCRGER:RETYR MNNKE ZUUUU PUFER PSTUR CRGER
-SID:KHOU:13R:RETYR5xJCT:RETYR MNNKE BOCCK MNURE HAYYY FOWLR JCT
-SID:KHOU:13R:RETYR5xMNURE:RETYR MNNKE BOCCK MNURE
-SID:KHOU:13R:RETYR5xSAT:RETYR MNNKE BOCCK MNURE MARCS SAT
-SID:KHOU:13R:RETYR5xWAILN:RETYR MNNKE WEEED WAILN
-SID:KHOU:13R:STRYA7xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
-SID:KHOU:13R:STRYA7xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
-SID:KHOU:13R:STYCK7xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
-SID:KHOU:13R:STYCK7xWTSON:BBYSE SPICR WLLIS STYCK WTSON
-SID:KHOU:13R:WYLSN7xGIFFA:WYLSN MONNT BUMCO GIFFA
-SID:KHOU:13R:WYLSN7xMAJKK:WYLSN MONNT KLJOY MAJKK
-SID:KHOU:17:AEX2xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
-SID:KHOU:17:AEX2xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
-SID:KHOU:17:IDU9xCRP:SHYNR BOCCK IDU MARCS SAT CRP
-SID:KHOU:17:IDU9xCWK:SHYNR BOCCK IDU CWK
-SID:KHOU:17:IDU9xJCT:SHYNR BOCCK IDU JCT
-SID:KHOU:17:IDU9xLRD:SHYNR BOCCK IDU MARCS SAT LRD
-SID:KHOU:17:LFK2xLIT:KYANN COLET SUSHI LFK SKKIP LIT
-SID:KHOU:17:LOA3xADM:WLLIS LOA DOLEY ADM
-SID:KHOU:17:LOA3xBYP:WLLIS LOA CQY BYP
-SID:KHOU:17:LOA3xFUZ:WLLIS LOA DOLEY FUZ
-SID:KHOU:17:PSX1xFST:SKUBA PSX THX COT RSG FST
-SID:KHOU:17:PSX1xSAT:SKUBA PSX THX SAT
-SID:KHOU:17:BLTWY6xCRIED:DREMR LITLD BLTWY CRIED
-SID:KHOU:17:ELOCO4xLLA:ELOCO CHPEE GRIPY YOKEM SBI LLA
-SID:KHOU:17:HOODO6xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
-SID:KHOU:17:HOODO6xCFOOD:VUH HOODO SBIRD CFOOD
-SID:KHOU:17:HOODO6xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
-SID:KHOU:17:HOODO6xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
-SID:KHOU:17:HOODO6xSBIRD:VUH HOODO SBIRD
-SID:KHOU:17:INDIE7xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
-SID:KHOU:17:LURIC7xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
-SID:KHOU:17:LURIC7xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
-SID:KHOU:17:PEECE4xANKRR:PEECE VUH ANKRR
-SID:KHOU:17:PEECE4xKELPP:PEECE VUH KELPP
-SID:KHOU:17:PEECE4xMUSYL:PEECE VUH MUSYL
-SID:KHOU:17:PTRON6xCRP:SAALT PTRON SKUBA PSX YOMOM CRP
-SID:KHOU:17:PTRON6xNGP:SAALT PTRON RIIGG NGP
-SID:KHOU:17:PTRON6xPSX:SAALT PTRON SKUBA PSX
-SID:KHOU:17:PTRON6xWWREN:SAALT PTRON RIIGG WWREN
-SID:KHOU:17:PTRON6xYOMOM:SAALT PTRON SKUBA PSX YOMOM
-SID:KHOU:17:RETYR5xCRGER:RETYR MNNKE ZUUUU PUFER PSTUR CRGER
-SID:KHOU:17:RETYR5xJCT:RETYR MNNKE BOCCK MNURE HAYYY FOWLR JCT
-SID:KHOU:17:RETYR5xMNURE:RETYR MNNKE BOCCK MNURE
-SID:KHOU:17:RETYR5xSAT:RETYR MNNKE BOCCK MNURE MARCS SAT
-SID:KHOU:17:RETYR5xWAILN:RETYR MNNKE WEEED WAILN
-SID:KHOU:17:STRYA7xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
-SID:KHOU:17:STRYA7xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
-SID:KHOU:17:STYCK7xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
-SID:KHOU:17:STYCK7xWTSON:BBYSE SPICR WLLIS STYCK WTSON
-SID:KHOU:17:WYLSN7xGIFFA:WYLSN MONNT BUMCO GIFFA
-SID:KHOU:17:WYLSN7xMAJKK:WYLSN MONNT KLJOY MAJKK
-SID:KHOU:22:AEX2xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
-SID:KHOU:22:AEX2xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
-SID:KHOU:22:IDU9xCRP:SHYNR BOCCK IDU MARCS SAT CRP
-SID:KHOU:22:IDU9xCWK:SHYNR BOCCK IDU CWK
-SID:KHOU:22:IDU9xJCT:SHYNR BOCCK IDU JCT
-SID:KHOU:22:IDU9xLRD:SHYNR BOCCK IDU MARCS SAT LRD
-SID:KHOU:22:LFK2xLIT:KYANN COLET SUSHI LFK SKKIP LIT
-SID:KHOU:22:LOA3xADM:WLLIS LOA DOLEY ADM
-SID:KHOU:22:LOA3xBYP:WLLIS LOA CQY BYP
-SID:KHOU:22:LOA3xFUZ:WLLIS LOA DOLEY FUZ
-SID:KHOU:22:PSX1xFST:SKUBA PSX THX COT RSG FST
-SID:KHOU:22:PSX1xSAT:SKUBA PSX THX SAT
-SID:KHOU:22:BLTWY6xCRIED:DREMR LITLD BLTWY CRIED
-SID:KHOU:22:ELOCO4xLLA:ELOCO CHPEE GRIPY YOKEM SBI LLA
-SID:KHOU:22:HOODO6xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
-SID:KHOU:22:HOODO6xCFOOD:VUH HOODO SBIRD CFOOD
-SID:KHOU:22:HOODO6xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
-SID:KHOU:22:HOODO6xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
-SID:KHOU:22:HOODO6xSBIRD:VUH HOODO SBIRD
-SID:KHOU:22:INDIE7xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
-SID:KHOU:22:LURIC7xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
-SID:KHOU:22:LURIC7xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
-SID:KHOU:22:PEECE4xANKRR:PEECE VUH ANKRR
-SID:KHOU:22:PEECE4xKELPP:PEECE VUH KELPP
-SID:KHOU:22:PEECE4xMUSYL:PEECE VUH MUSYL
-SID:KHOU:22:PTRON6xCRP:SAALT PTRON SKUBA PSX YOMOM CRP
-SID:KHOU:22:PTRON6xNGP:SAALT PTRON RIIGG NGP
-SID:KHOU:22:PTRON6xPSX:SAALT PTRON SKUBA PSX
-SID:KHOU:22:PTRON6xWWREN:SAALT PTRON RIIGG WWREN
-SID:KHOU:22:PTRON6xYOMOM:SAALT PTRON SKUBA PSX YOMOM
-SID:KHOU:22:RETYR5xCRGER:RETYR MNNKE ZUUUU PUFER PSTUR CRGER
-SID:KHOU:22:RETYR5xJCT:RETYR MNNKE BOCCK MNURE HAYYY FOWLR JCT
-SID:KHOU:22:RETYR5xMNURE:RETYR MNNKE BOCCK MNURE
-SID:KHOU:22:RETYR5xSAT:RETYR MNNKE BOCCK MNURE MARCS SAT
-SID:KHOU:22:RETYR5xWAILN:RETYR MNNKE WEEED WAILN
-SID:KHOU:22:STRYA7xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
-SID:KHOU:22:STRYA7xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
-SID:KHOU:22:STYCK7xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
-SID:KHOU:22:STYCK7xWTSON:BBYSE SPICR WLLIS STYCK WTSON
-SID:KHOU:22:WYLSN7xGIFFA:WYLSN MONNT BUMCO GIFFA
-SID:KHOU:22:WYLSN7xMAJKK:WYLSN MONNT KLJOY MAJKK
-SID:KHOU:31L:AEX2xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
-SID:KHOU:31L:AEX2xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
-SID:KHOU:31L:IDU9xCRP:SHYNR BOCCK IDU MARCS SAT CRP
-SID:KHOU:31L:IDU9xCWK:SHYNR BOCCK IDU CWK
-SID:KHOU:31L:IDU9xJCT:SHYNR BOCCK IDU JCT
-SID:KHOU:31L:IDU9xLRD:SHYNR BOCCK IDU MARCS SAT LRD
-SID:KHOU:31L:LFK2xLIT:KYANN COLET SUSHI LFK SKKIP LIT
-SID:KHOU:31L:LOA3xADM:WLLIS LOA DOLEY ADM
-SID:KHOU:31L:LOA3xBYP:WLLIS LOA CQY BYP
-SID:KHOU:31L:LOA3xFUZ:WLLIS LOA DOLEY FUZ
-SID:KHOU:31L:PSX1xFST:SKUBA PSX THX COT RSG FST
-SID:KHOU:31L:PSX1xSAT:SKUBA PSX THX SAT
-SID:KHOU:31L:BLTWY6xCRIED:DREMR LITLD BLTWY CRIED
-SID:KHOU:31L:ELOCO4xLLA:ELOCO CHPEE GRIPY YOKEM SBI LLA
-SID:KHOU:31L:HOODO6xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
-SID:KHOU:31L:HOODO6xCFOOD:VUH HOODO SBIRD CFOOD
-SID:KHOU:31L:HOODO6xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
-SID:KHOU:31L:HOODO6xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
-SID:KHOU:31L:HOODO6xSBIRD:VUH HOODO SBIRD
-SID:KHOU:31L:INDIE7xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
-SID:KHOU:31L:LURIC7xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
-SID:KHOU:31L:LURIC7xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
-SID:KHOU:31L:PEECE4xANKRR:PEECE VUH ANKRR
-SID:KHOU:31L:PEECE4xKELPP:PEECE VUH KELPP
-SID:KHOU:31L:PEECE4xMUSYL:PEECE VUH MUSYL
-SID:KHOU:31L:PTRON6xCRP:SAALT PTRON SKUBA PSX YOMOM CRP
-SID:KHOU:31L:PTRON6xNGP:SAALT PTRON RIIGG NGP
-SID:KHOU:31L:PTRON6xPSX:SAALT PTRON SKUBA PSX
-SID:KHOU:31L:PTRON6xWWREN:SAALT PTRON RIIGG WWREN
-SID:KHOU:31L:PTRON6xYOMOM:SAALT PTRON SKUBA PSX YOMOM
-SID:KHOU:31L:RETYR5xCRGER:RETYR MNNKE ZUUUU PUFER PSTUR CRGER
-SID:KHOU:31L:RETYR5xJCT:RETYR MNNKE BOCCK MNURE HAYYY FOWLR JCT
-SID:KHOU:31L:RETYR5xMNURE:RETYR MNNKE BOCCK MNURE
-SID:KHOU:31L:RETYR5xSAT:RETYR MNNKE BOCCK MNURE MARCS SAT
-SID:KHOU:31L:RETYR5xWAILN:RETYR MNNKE WEEED WAILN
-SID:KHOU:31L:STRYA7xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
-SID:KHOU:31L:STRYA7xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
-SID:KHOU:31L:STYCK7xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
-SID:KHOU:31L:STYCK7xWTSON:BBYSE SPICR WLLIS STYCK WTSON
-SID:KHOU:31L:WYLSN7xGIFFA:WYLSN MONNT BUMCO GIFFA
-SID:KHOU:31L:WYLSN7xMAJKK:WYLSN MONNT KLJOY MAJKK
-SID:KHOU:31R:AEX2xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
-SID:KHOU:31R:AEX2xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
-SID:KHOU:31R:IDU9xCRP:SHYNR BOCCK IDU MARCS SAT CRP
-SID:KHOU:31R:IDU9xCWK:SHYNR BOCCK IDU CWK
-SID:KHOU:31R:IDU9xJCT:SHYNR BOCCK IDU JCT
-SID:KHOU:31R:IDU9xLRD:SHYNR BOCCK IDU MARCS SAT LRD
-SID:KHOU:31R:LFK2xLIT:KYANN COLET SUSHI LFK SKKIP LIT
-SID:KHOU:31R:LOA3xADM:WLLIS LOA DOLEY ADM
-SID:KHOU:31R:LOA3xBYP:WLLIS LOA CQY BYP
-SID:KHOU:31R:LOA3xFUZ:WLLIS LOA DOLEY FUZ
-SID:KHOU:31R:PSX1xFST:SKUBA PSX THX COT RSG FST
-SID:KHOU:31R:PSX1xSAT:SKUBA PSX THX SAT
-SID:KHOU:31R:BLTWY6xCRIED:DREMR LITLD BLTWY CRIED
-SID:KHOU:31R:ELOCO4xLLA:ELOCO CHPEE GRIPY YOKEM SBI LLA
-SID:KHOU:31R:HOODO6xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
-SID:KHOU:31R:HOODO6xCFOOD:VUH HOODO SBIRD CFOOD
-SID:KHOU:31R:HOODO6xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
-SID:KHOU:31R:HOODO6xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
-SID:KHOU:31R:HOODO6xSBIRD:VUH HOODO SBIRD
-SID:KHOU:31R:INDIE7xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
-SID:KHOU:31R:LURIC7xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
-SID:KHOU:31R:LURIC7xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
-SID:KHOU:31R:PEECE4xANKRR:PEECE VUH ANKRR
-SID:KHOU:31R:PEECE4xKELPP:PEECE VUH KELPP
-SID:KHOU:31R:PEECE4xMUSYL:PEECE VUH MUSYL
-SID:KHOU:31R:PTRON6xCRP:SAALT PTRON SKUBA PSX YOMOM CRP
-SID:KHOU:31R:PTRON6xNGP:SAALT PTRON RIIGG NGP
-SID:KHOU:31R:PTRON6xPSX:SAALT PTRON SKUBA PSX
-SID:KHOU:31R:PTRON6xWWREN:SAALT PTRON RIIGG WWREN
-SID:KHOU:31R:PTRON6xYOMOM:SAALT PTRON SKUBA PSX YOMOM
-SID:KHOU:31R:RETYR5xCRGER:RETYR MNNKE ZUUUU PUFER PSTUR CRGER
-SID:KHOU:31R:RETYR5xJCT:RETYR MNNKE BOCCK MNURE HAYYY FOWLR JCT
-SID:KHOU:31R:RETYR5xMNURE:RETYR MNNKE BOCCK MNURE
-SID:KHOU:31R:RETYR5xSAT:RETYR MNNKE BOCCK MNURE MARCS SAT
-SID:KHOU:31R:RETYR5xWAILN:RETYR MNNKE WEEED WAILN
-SID:KHOU:31R:STRYA7xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
-SID:KHOU:31R:STRYA7xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
-SID:KHOU:31R:STYCK7xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
-SID:KHOU:31R:STYCK7xWTSON:BBYSE SPICR WLLIS STYCK WTSON
-SID:KHOU:31R:WYLSN7xGIFFA:WYLSN MONNT BUMCO GIFFA
-SID:KHOU:31R:WYLSN7xMAJKK:WYLSN MONNT KLJOY MAJKK
-SID:KHOU:35:AEX2xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
-SID:KHOU:35:AEX2xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
-SID:KHOU:35:IDU9xCRP:SHYNR BOCCK IDU MARCS SAT CRP
-SID:KHOU:35:IDU9xCWK:SHYNR BOCCK IDU CWK
-SID:KHOU:35:IDU9xJCT:SHYNR BOCCK IDU JCT
-SID:KHOU:35:IDU9xLRD:SHYNR BOCCK IDU MARCS SAT LRD
-SID:KHOU:35:LFK2xLIT:KYANN COLET SUSHI LFK SKKIP LIT
-SID:KHOU:35:LOA3xADM:WLLIS LOA DOLEY ADM
-SID:KHOU:35:LOA3xBYP:WLLIS LOA CQY BYP
-SID:KHOU:35:LOA3xFUZ:WLLIS LOA DOLEY FUZ
-SID:KHOU:35:PSX1xFST:SKUBA PSX THX COT RSG FST
-SID:KHOU:35:PSX1xSAT:SKUBA PSX THX SAT
-SID:KHOU:35:BLTWY6xCRIED:DREMR LITLD BLTWY CRIED
-SID:KHOU:35:ELOCO4xLLA:ELOCO CHPEE GRIPY YOKEM SBI LLA
-SID:KHOU:35:HOODO6xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
-SID:KHOU:35:HOODO6xCFOOD:VUH HOODO SBIRD CFOOD
-SID:KHOU:35:HOODO6xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
-SID:KHOU:35:HOODO6xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
-SID:KHOU:35:HOODO6xSBIRD:VUH HOODO SBIRD
-SID:KHOU:35:INDIE7xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
-SID:KHOU:35:LURIC7xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
-SID:KHOU:35:LURIC7xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
-SID:KHOU:35:PEECE4xANKRR:PEECE VUH ANKRR
-SID:KHOU:35:PEECE4xKELPP:PEECE VUH KELPP
-SID:KHOU:35:PEECE4xMUSYL:PEECE VUH MUSYL
-SID:KHOU:35:PTRON6xCRP:SAALT PTRON SKUBA PSX YOMOM CRP
-SID:KHOU:35:PTRON6xNGP:SAALT PTRON RIIGG NGP
-SID:KHOU:35:PTRON6xPSX:SAALT PTRON SKUBA PSX
-SID:KHOU:35:PTRON6xWWREN:SAALT PTRON RIIGG WWREN
-SID:KHOU:35:PTRON6xYOMOM:SAALT PTRON SKUBA PSX YOMOM
-SID:KHOU:35:RETYR5xCRGER:RETYR MNNKE ZUUUU PUFER PSTUR CRGER
-SID:KHOU:35:RETYR5xJCT:RETYR MNNKE BOCCK MNURE HAYYY FOWLR JCT
-SID:KHOU:35:RETYR5xMNURE:RETYR MNNKE BOCCK MNURE
-SID:KHOU:35:RETYR5xSAT:RETYR MNNKE BOCCK MNURE MARCS SAT
-SID:KHOU:35:RETYR5xWAILN:RETYR MNNKE WEEED WAILN
-SID:KHOU:35:STRYA7xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
-SID:KHOU:35:STRYA7xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
-SID:KHOU:35:STYCK7xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
-SID:KHOU:35:STYCK7xWTSON:BBYSE SPICR WLLIS STYCK WTSON
-SID:KHOU:35:WYLSN7xGIFFA:WYLSN MONNT BUMCO GIFFA
-SID:KHOU:35:WYLSN7xMAJKK:WYLSN MONNT KLJOY MAJKK
-SID:KHOU:35:PEECE4xPEECE4:PEECE VUH
-SID:KHOU:35:PTRON6xPTRON6:SAALT PTRON
+SID:KHOU:04:BLTWY7xCRIED:DREMR LITLD BLTWY CRIED
+SID:KHOU:04:ELOCO6xLLA:ELOCO CHPEE GRIPY YOKEM SBI LLA
+SID:KHOU:04:HOODO7xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
+SID:KHOU:04:HOODO7xCFOOD:VUH HOODO SBIRD CFOOD
+SID:KHOU:04:HOODO7xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
+SID:KHOU:04:HOODO7xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
+SID:KHOU:04:HOODO7xSBIRD:VUH HOODO SBIRD
+SID:KHOU:04:INDIE8xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
+SID:KHOU:04:LURIC8xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
+SID:KHOU:04:LURIC8xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
+SID:KHOU:04:PEECE6xANKRR:PEECE VUH ANKRR
+SID:KHOU:04:PEECE6xKELPP:PEECE VUH KELPP
+SID:KHOU:04:PEECE6xMUSYL:PEECE VUH MUSYL
+SID:KHOU:04:PTRON8xCRP:SAALT PTRON SKUBA PSX YOMOM CRP
+SID:KHOU:04:PTRON8xNGP:SAALT PTRON RIIGG NGP
+SID:KHOU:04:PTRON8xPSX:SAALT PTRON SKUBA PSX
+SID:KHOU:04:PTRON8xWWREN:SAALT PTRON RIIGG WWREN
+SID:KHOU:04:PTRON8xYOMOM:SAALT PTRON SKUBA PSX YOMOM
+SID:KHOU:04:RETYR7xCRGER:RETYR MNNKE ZUUUU PUFER PSTUR CRGER
+SID:KHOU:04:RETYR7xJCT:RETYR MNNKE BOCCK MNURE HAYYY FOWLR JCT
+SID:KHOU:04:RETYR7xMNURE:RETYR MNNKE BOCCK MNURE
+SID:KHOU:04:RETYR7xSAT:RETYR MNNKE BOCCK MNURE MARCS SAT
+SID:KHOU:04:RETYR7xWAILN:RETYR MNNKE WEEED WAILN
+SID:KHOU:04:STRYA8xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
+SID:KHOU:04:STRYA8xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
+SID:KHOU:04:STYCK8xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
+SID:KHOU:04:STYCK8xWTSON:BBYSE SPICR WLLIS STYCK WTSON
+SID:KHOU:04:WYLSN8xGIFFA:WYLSN MONNT BUMCO GIFFA
+SID:KHOU:04:WYLSN8xMAJKK:WYLSN MONNT KLJOY MAJKK
+SID:KHOU:04:AEX3xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
+SID:KHOU:04:AEX3xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
+SID:KHOU:04:CRIED1xCQY:IAH LITLD BLTWY STELL CRIED CQY
+SID:KHOU:04:ELD1:IAH RAECN DARTR MUSIQ VELCO ENJOY ELD
+SID:KHOU:04:GIFFA1: IAH MONNT BUMCO GIFFA
+SID:KHOU:04:IDU1xCRP:SHYNR BOCCK IDU MARCS SAT CRP
+SID:KHOU:04:IDU1xCWK:SHYNR BOCCK IDU CWK
+SID:KHOU:04:IDU1xJCT:SHYNR BOCCK IDU JCT
+SID:KHOU:04:IDU1xLRD:SHYNR BOCCK IDU MARCS SAT LRD
+SID:KHOU:04:LFK3xLIT:KYANN COLET SUSHI LFK SKKIP LIT
+SID:KHOU:04:LOA4xADM:WLLIS LOA DOLEY ADM
+SID:KHOU:04:LOA4xBYP:WLLIS LOA CQY BYP
+SID:KHOU:04:LOA4xFUZ:WLLIS LOA DOLEY FUZ
+SID:KHOU:04:PSX2xFST:SKUBA PSX THX COT RSG FST
+SID:KHOU:04:PSX2xSAT:SKUBA PSX THX SAT
+SID:KHOU:13L:BLTWY7xCRIED:DREMR LITLD BLTWY CRIED
+SID:KHOU:13L:ELOCO6xLLA:ELOCO CHPEE GRIPY YOKEM SBI LLA
+SID:KHOU:13L:HOODO7xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
+SID:KHOU:13L:HOODO7xCFOOD:VUH HOODO SBIRD CFOOD
+SID:KHOU:13L:HOODO7xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
+SID:KHOU:13L:HOODO7xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
+SID:KHOU:13L:HOODO7xSBIRD:VUH HOODO SBIRD
+SID:KHOU:13L:INDIE8xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
+SID:KHOU:13L:LURIC8xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
+SID:KHOU:13L:LURIC8xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
+SID:KHOU:13L:PEECE6xANKRR:PEECE VUH ANKRR
+SID:KHOU:13L:PEECE6xKELPP:PEECE VUH KELPP
+SID:KHOU:13L:PEECE6xMUSYL:PEECE VUH MUSYL
+SID:KHOU:13L:PTRON8xCRP:SAALT PTRON SKUBA PSX YOMOM CRP
+SID:KHOU:13L:PTRON8xNGP:SAALT PTRON RIIGG NGP
+SID:KHOU:13L:PTRON8xPSX:SAALT PTRON SKUBA PSX
+SID:KHOU:13L:PTRON8xWWREN:SAALT PTRON RIIGG WWREN
+SID:KHOU:13L:PTRON8xYOMOM:SAALT PTRON SKUBA PSX YOMOM
+SID:KHOU:13L:RETYR7xCRGER:RETYR MNNKE ZUUUU PUFER PSTUR CRGER
+SID:KHOU:13L:RETYR7xJCT:RETYR MNNKE BOCCK MNURE HAYYY FOWLR JCT
+SID:KHOU:13L:RETYR7xMNURE:RETYR MNNKE BOCCK MNURE
+SID:KHOU:13L:RETYR7xSAT:RETYR MNNKE BOCCK MNURE MARCS SAT
+SID:KHOU:13L:RETYR7xWAILN:RETYR MNNKE WEEED WAILN
+SID:KHOU:13L:STRYA8xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
+SID:KHOU:13L:STRYA8xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
+SID:KHOU:13L:STYCK8xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
+SID:KHOU:13L:STYCK8xWTSON:BBYSE SPICR WLLIS STYCK WTSON
+SID:KHOU:13L:WYLSN8xGIFFA:WYLSN MONNT BUMCO GIFFA
+SID:KHOU:13L:WYLSN8xMAJKK:WYLSN MONNT KLJOY MAJKK
+SID:KHOU:13L:AEX3xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
+SID:KHOU:13L:AEX3xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
+SID:KHOU:13L:CRIED1xCQY:IAH LITLD BLTWY STELL CRIED CQY
+SID:KHOU:13L:ELD1:IAH RAECN DARTR MUSIQ VELCO ENJOY ELD
+SID:KHOU:13L:GIFFA1: IAH MONNT BUMCO GIFFA
+SID:KHOU:13L:IDU1xCRP:SHYNR BOCCK IDU MARCS SAT CRP
+SID:KHOU:13L:IDU1xCWK:SHYNR BOCCK IDU CWK
+SID:KHOU:13L:IDU1xJCT:SHYNR BOCCK IDU JCT
+SID:KHOU:13L:IDU1xLRD:SHYNR BOCCK IDU MARCS SAT LRD
+SID:KHOU:13L:LFK3xLIT:KYANN COLET SUSHI LFK SKKIP LIT
+SID:KHOU:13L:LOA4xADM:WLLIS LOA DOLEY ADM
+SID:KHOU:13L:LOA4xBYP:WLLIS LOA CQY BYP
+SID:KHOU:13L:LOA4xFUZ:WLLIS LOA DOLEY FUZ
+SID:KHOU:13L:PSX2xFST:SKUBA PSX THX COT RSG FST
+SID:KHOU:13L:PSX2xSAT:SKUBA PSX THX SAT
+SID:KHOU:13R:BLTWY7xCRIED:DREMR LITLD BLTWY CRIED
+SID:KHOU:13R:ELOCO6xLLA:ELOCO CHPEE GRIPY YOKEM SBI LLA
+SID:KHOU:13R:HOODO7xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
+SID:KHOU:13R:HOODO7xCFOOD:VUH HOODO SBIRD CFOOD
+SID:KHOU:13R:HOODO7xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
+SID:KHOU:13R:HOODO7xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
+SID:KHOU:13R:HOODO7xSBIRD:VUH HOODO SBIRD
+SID:KHOU:13R:INDIE8xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
+SID:KHOU:13R:LURIC8xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
+SID:KHOU:13R:LURIC8xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
+SID:KHOU:13R:PEECE6xANKRR:PEECE VUH ANKRR
+SID:KHOU:13R:PEECE6xKELPP:PEECE VUH KELPP
+SID:KHOU:13R:PEECE6xMUSYL:PEECE VUH MUSYL
+SID:KHOU:13R:PTRON8xCRP:SAALT PTRON SKUBA PSX YOMOM CRP
+SID:KHOU:13R:PTRON8xNGP:SAALT PTRON RIIGG NGP
+SID:KHOU:13R:PTRON8xPSX:SAALT PTRON SKUBA PSX
+SID:KHOU:13R:PTRON8xWWREN:SAALT PTRON RIIGG WWREN
+SID:KHOU:13R:PTRON8xYOMOM:SAALT PTRON SKUBA PSX YOMOM
+SID:KHOU:13R:RETYR7xCRGER:RETYR MNNKE ZUUUU PUFER PSTUR CRGER
+SID:KHOU:13R:RETYR7xJCT:RETYR MNNKE BOCCK MNURE HAYYY FOWLR JCT
+SID:KHOU:13R:RETYR7xMNURE:RETYR MNNKE BOCCK MNURE
+SID:KHOU:13R:RETYR7xSAT:RETYR MNNKE BOCCK MNURE MARCS SAT
+SID:KHOU:13R:RETYR7xWAILN:RETYR MNNKE WEEED WAILN
+SID:KHOU:13R:STRYA8xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
+SID:KHOU:13R:STRYA8xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
+SID:KHOU:13R:STYCK8xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
+SID:KHOU:13R:STYCK8xWTSON:BBYSE SPICR WLLIS STYCK WTSON
+SID:KHOU:13R:WYLSN8xGIFFA:WYLSN MONNT BUMCO GIFFA
+SID:KHOU:13R:WYLSN8xMAJKK:WYLSN MONNT KLJOY MAJKK
+SID:KHOU:13R:AEX3xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
+SID:KHOU:13R:AEX3xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
+SID:KHOU:13R:CRIED1xCQY:IAH LITLD BLTWY STELL CRIED CQY
+SID:KHOU:13R:ELD1:IAH RAECN DARTR MUSIQ VELCO ENJOY ELD
+SID:KHOU:13R:GIFFA1: IAH MONNT BUMCO GIFFA
+SID:KHOU:13R:IDU1xCRP:SHYNR BOCCK IDU MARCS SAT CRP
+SID:KHOU:13R:IDU1xCWK:SHYNR BOCCK IDU CWK
+SID:KHOU:13R:IDU1xJCT:SHYNR BOCCK IDU JCT
+SID:KHOU:13R:IDU1xLRD:SHYNR BOCCK IDU MARCS SAT LRD
+SID:KHOU:13R:LFK3xLIT:KYANN COLET SUSHI LFK SKKIP LIT
+SID:KHOU:13R:LOA4xADM:WLLIS LOA DOLEY ADM
+SID:KHOU:13R:LOA4xBYP:WLLIS LOA CQY BYP
+SID:KHOU:13R:LOA4xFUZ:WLLIS LOA DOLEY FUZ
+SID:KHOU:13R:PSX2xFST:SKUBA PSX THX COT RSG FST
+SID:KHOU:13R:PSX2xSAT:SKUBA PSX THX SAT
+SID:KHOU:22:BLTWY7xCRIED:DREMR LITLD BLTWY CRIED
+SID:KHOU:22:ELOCO6xLLA:ELOCO CHPEE GRIPY YOKEM SBI LLA
+SID:KHOU:22:HOODO7xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
+SID:KHOU:22:HOODO7xCFOOD:VUH HOODO SBIRD CFOOD
+SID:KHOU:22:HOODO7xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
+SID:KHOU:22:HOODO7xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
+SID:KHOU:22:HOODO7xSBIRD:VUH HOODO SBIRD
+SID:KHOU:22:INDIE8xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
+SID:KHOU:22:LURIC8xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
+SID:KHOU:22:LURIC8xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
+SID:KHOU:22:PEECE6xANKRR:PEECE VUH ANKRR
+SID:KHOU:22:PEECE6xKELPP:PEECE VUH KELPP
+SID:KHOU:22:PEECE6xMUSYL:PEECE VUH MUSYL
+SID:KHOU:22:PTRON8xCRP:SAALT PTRON SKUBA PSX YOMOM CRP
+SID:KHOU:22:PTRON8xNGP:SAALT PTRON RIIGG NGP
+SID:KHOU:22:PTRON8xPSX:SAALT PTRON SKUBA PSX
+SID:KHOU:22:PTRON8xWWREN:SAALT PTRON RIIGG WWREN
+SID:KHOU:22:PTRON8xYOMOM:SAALT PTRON SKUBA PSX YOMOM
+SID:KHOU:22:RETYR7xCRGER:RETYR MNNKE ZUUUU PUFER PSTUR CRGER
+SID:KHOU:22:RETYR7xJCT:RETYR MNNKE BOCCK MNURE HAYYY FOWLR JCT
+SID:KHOU:22:RETYR7xMNURE:RETYR MNNKE BOCCK MNURE
+SID:KHOU:22:RETYR7xSAT:RETYR MNNKE BOCCK MNURE MARCS SAT
+SID:KHOU:22:RETYR7xWAILN:RETYR MNNKE WEEED WAILN
+SID:KHOU:22:STRYA8xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
+SID:KHOU:22:STRYA8xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
+SID:KHOU:22:STYCK8xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
+SID:KHOU:22:STYCK8xWTSON:BBYSE SPICR WLLIS STYCK WTSON
+SID:KHOU:22:WYLSN8xGIFFA:WYLSN MONNT BUMCO GIFFA
+SID:KHOU:22:WYLSN8xMAJKK:WYLSN MONNT KLJOY MAJKK
+SID:KHOU:22:AEX3xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
+SID:KHOU:22:AEX3xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
+SID:KHOU:22:CRIED1xCQY:IAH LITLD BLTWY STELL CRIED CQY
+SID:KHOU:22:ELD1:IAH RAECN DARTR MUSIQ VELCO ENJOY ELD
+SID:KHOU:22:GIFFA1: IAH MONNT BUMCO GIFFA
+SID:KHOU:22:IDU1xCRP:SHYNR BOCCK IDU MARCS SAT CRP
+SID:KHOU:22:IDU1xCWK:SHYNR BOCCK IDU CWK
+SID:KHOU:22:IDU1xJCT:SHYNR BOCCK IDU JCT
+SID:KHOU:22:IDU1xLRD:SHYNR BOCCK IDU MARCS SAT LRD
+SID:KHOU:22:LFK3xLIT:KYANN COLET SUSHI LFK SKKIP LIT
+SID:KHOU:22:LOA4xADM:WLLIS LOA DOLEY ADM
+SID:KHOU:22:LOA4xBYP:WLLIS LOA CQY BYP
+SID:KHOU:22:LOA4xFUZ:WLLIS LOA DOLEY FUZ
+SID:KHOU:22:PSX2xFST:SKUBA PSX THX COT RSG FST
+SID:KHOU:22:PSX2xSAT:SKUBA PSX THX SAT
+SID:KHOU:31L:BLTWY7xCRIED:DREMR LITLD BLTWY CRIED
+SID:KHOU:31L:ELOCO6xLLA:ELOCO CHPEE GRIPY YOKEM SBI LLA
+SID:KHOU:31L:HOODO7xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
+SID:KHOU:31L:HOODO7xCFOOD:VUH HOODO SBIRD CFOOD
+SID:KHOU:31L:HOODO7xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
+SID:KHOU:31L:HOODO7xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
+SID:KHOU:31L:HOODO7xSBIRD:VUH HOODO SBIRD
+SID:KHOU:31L:INDIE8xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
+SID:KHOU:31L:LURIC8xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
+SID:KHOU:31L:LURIC8xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
+SID:KHOU:31L:PEECE6xANKRR:PEECE VUH ANKRR
+SID:KHOU:31L:PEECE6xKELPP:PEECE VUH KELPP
+SID:KHOU:31L:PEECE6xMUSYL:PEECE VUH MUSYL
+SID:KHOU:31L:PTRON8xCRP:SAALT PTRON SKUBA PSX YOMOM CRP
+SID:KHOU:31L:PTRON8xNGP:SAALT PTRON RIIGG NGP
+SID:KHOU:31L:PTRON8xPSX:SAALT PTRON SKUBA PSX
+SID:KHOU:31L:PTRON8xWWREN:SAALT PTRON RIIGG WWREN
+SID:KHOU:31L:PTRON8xYOMOM:SAALT PTRON SKUBA PSX YOMOM
+SID:KHOU:31L:RETYR7xCRGER:RETYR MNNKE ZUUUU PUFER PSTUR CRGER
+SID:KHOU:31L:RETYR7xJCT:RETYR MNNKE BOCCK MNURE HAYYY FOWLR JCT
+SID:KHOU:31L:RETYR7xMNURE:RETYR MNNKE BOCCK MNURE
+SID:KHOU:31L:RETYR7xSAT:RETYR MNNKE BOCCK MNURE MARCS SAT
+SID:KHOU:31L:RETYR7xWAILN:RETYR MNNKE WEEED WAILN
+SID:KHOU:31L:STRYA8xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
+SID:KHOU:31L:STRYA8xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
+SID:KHOU:31L:STYCK8xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
+SID:KHOU:31L:STYCK8xWTSON:BBYSE SPICR WLLIS STYCK WTSON
+SID:KHOU:31L:WYLSN8xGIFFA:WYLSN MONNT BUMCO GIFFA
+SID:KHOU:31L:WYLSN8xMAJKK:WYLSN MONNT KLJOY MAJKK
+SID:KHOU:31L:AEX3xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
+SID:KHOU:31L:AEX3xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
+SID:KHOU:31L:CRIED1xCQY:IAH LITLD BLTWY STELL CRIED CQY
+SID:KHOU:31L:ELD1:IAH RAECN DARTR MUSIQ VELCO ENJOY ELD
+SID:KHOU:31L:GIFFA1: IAH MONNT BUMCO GIFFA
+SID:KHOU:31L:IDU1xCRP:SHYNR BOCCK IDU MARCS SAT CRP
+SID:KHOU:31L:IDU1xCWK:SHYNR BOCCK IDU CWK
+SID:KHOU:31L:IDU1xJCT:SHYNR BOCCK IDU JCT
+SID:KHOU:31L:IDU1xLRD:SHYNR BOCCK IDU MARCS SAT LRD
+SID:KHOU:31L:LFK3xLIT:KYANN COLET SUSHI LFK SKKIP LIT
+SID:KHOU:31L:LOA4xADM:WLLIS LOA DOLEY ADM
+SID:KHOU:31L:LOA4xBYP:WLLIS LOA CQY BYP
+SID:KHOU:31L:LOA4xFUZ:WLLIS LOA DOLEY FUZ
+SID:KHOU:31L:PSX2xFST:SKUBA PSX THX COT RSG FST
+SID:KHOU:31L:PSX2xSAT:SKUBA PSX THX SAT
+SID:KHOU:31R:BLTWY7xCRIED:DREMR LITLD BLTWY CRIED
+SID:KHOU:31R:ELOCO6xLLA:ELOCO CHPEE GRIPY YOKEM SBI LLA
+SID:KHOU:31R:HOODO7xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
+SID:KHOU:31R:HOODO7xCFOOD:VUH HOODO SBIRD CFOOD
+SID:KHOU:31R:HOODO7xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
+SID:KHOU:31R:HOODO7xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
+SID:KHOU:31R:HOODO7xSBIRD:VUH HOODO SBIRD
+SID:KHOU:31R:INDIE8xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
+SID:KHOU:31R:LURIC8xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
+SID:KHOU:31R:LURIC8xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
+SID:KHOU:31R:PEECE6xANKRR:PEECE VUH ANKRR
+SID:KHOU:31R:PEECE6xKELPP:PEECE VUH KELPP
+SID:KHOU:31R:PEECE6xMUSYL:PEECE VUH MUSYL
+SID:KHOU:31R:PTRON8xCRP:SAALT PTRON SKUBA PSX YOMOM CRP
+SID:KHOU:31R:PTRON8xNGP:SAALT PTRON RIIGG NGP
+SID:KHOU:31R:PTRON8xPSX:SAALT PTRON SKUBA PSX
+SID:KHOU:31R:PTRON8xWWREN:SAALT PTRON RIIGG WWREN
+SID:KHOU:31R:PTRON8xYOMOM:SAALT PTRON SKUBA PSX YOMOM
+SID:KHOU:31R:RETYR7xCRGER:RETYR MNNKE ZUUUU PUFER PSTUR CRGER
+SID:KHOU:31R:RETYR7xJCT:RETYR MNNKE BOCCK MNURE HAYYY FOWLR JCT
+SID:KHOU:31R:RETYR7xMNURE:RETYR MNNKE BOCCK MNURE
+SID:KHOU:31R:RETYR7xSAT:RETYR MNNKE BOCCK MNURE MARCS SAT
+SID:KHOU:31R:RETYR7xWAILN:RETYR MNNKE WEEED WAILN
+SID:KHOU:31R:STRYA8xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
+SID:KHOU:31R:STRYA8xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
+SID:KHOU:31R:STYCK8xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
+SID:KHOU:31R:STYCK8xWTSON:BBYSE SPICR WLLIS STYCK WTSON
+SID:KHOU:31R:WYLSN8xGIFFA:WYLSN MONNT BUMCO GIFFA
+SID:KHOU:31R:WYLSN8xMAJKK:WYLSN MONNT KLJOY MAJKK
+SID:KHOU:31R:AEX3xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
+SID:KHOU:31R:AEX3xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
+SID:KHOU:31R:CRIED1xCQY:IAH LITLD BLTWY STELL CRIED CQY
+SID:KHOU:31R:ELD1:IAH RAECN DARTR MUSIQ VELCO ENJOY ELD
+SID:KHOU:31R:GIFFA1: IAH MONNT BUMCO GIFFA
+SID:KHOU:31R:IDU1xCRP:SHYNR BOCCK IDU MARCS SAT CRP
+SID:KHOU:31R:IDU1xCWK:SHYNR BOCCK IDU CWK
+SID:KHOU:31R:IDU1xJCT:SHYNR BOCCK IDU JCT
+SID:KHOU:31R:IDU1xLRD:SHYNR BOCCK IDU MARCS SAT LRD
+SID:KHOU:31R:LFK3xLIT:KYANN COLET SUSHI LFK SKKIP LIT
+SID:KHOU:31R:LOA4xADM:WLLIS LOA DOLEY ADM
+SID:KHOU:31R:LOA4xBYP:WLLIS LOA CQY BYP
+SID:KHOU:31R:LOA4xFUZ:WLLIS LOA DOLEY FUZ
+SID:KHOU:31R:PSX2xFST:SKUBA PSX THX COT RSG FST
+SID:KHOU:31R:PSX2xSAT:SKUBA PSX THX SAT
 SID:KHYI:08:ELOEL3xABI:WLMRT ELOEL FORSS ABI
 SID:KHYI:08:ELOEL3xFORSS:WLMRT ELOEL FORSS
 SID:KHYI:08:ELOEL3xKLNGR:WLMRT ELOEL KLNGR
@@ -7391,21 +7490,21 @@ SID:KHYI:35:ELOEL3xKLNGR:WLMRT ELOEL KLNGR
 SID:KHYI:35:ILEXY3xJAYJO:HOOKK ILEXY JAYJO
 SID:KHYI:35:ILEXY3xZENZI:HOOKK ILEXY JAYJO ASHRR ZENZI
 SID:KHYI:35:AEROZ2xSJT:AMUSE AEROZ SJT
-SID:KIAH:08L:AEX2xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
-SID:KIAH:08L:AEX2xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
-SID:KIAH:08L:IDU9xCRP:SHYNR BOCCK IDU MARCS SAT CRP
-SID:KIAH:08L:IDU9xCWK:SHYNR BOCCK IDU CWK
-SID:KIAH:08L:IDU9xJCT:SHYNR BOCCK IDU JCT
-SID:KIAH:08L:IDU9xLRD:SHYNR BOCCK IDU MARCS SAT LRD
+SID:KIAH:08L:AEX3xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
+SID:KIAH:08L:AEX3xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
+SID:KIAH:08L:IDU1xCRP:SHYNR BOCCK IDU MARCS SAT CRP
+SID:KIAH:08L:IDU1xCWK:SHYNR BOCCK IDU CWK
+SID:KIAH:08L:IDU1xJCT:SHYNR BOCCK IDU JCT
+SID:KIAH:08L:IDU1xLRD:SHYNR BOCCK IDU MARCS SAT LRD
 SID:KIAH:08L:JCT1xJCT:CUZZZ ZUUUU PUFER SPURS JCT
 SID:KIAH:08L:LCH5xLSU:WEDRI HOURN LCH LSU
-SID:KIAH:08L:LFK2xLIT:KYANN COLET SUSHI LFK SKKIP LIT
-SID:KIAH:08L:LOA3xADM:WLLIS LOA DOLEY ADM
-SID:KIAH:08L:LOA3xBYP:WLLIS LOA CQY BYP
-SID:KIAH:08L:LOA3xFUZ:WLLIS LOA DOLEY FUZ
-SID:KIAH:08L:PSX1xFST:SKUBA PSX THX COT RSG FST
-SID:KIAH:08L:PSX1xSAT:SKUBA PSX THX SAT
-SID:KIAH:08L:BLTWY6xCRIED:DREMR LITLD BLTWY CRIED
+SID:KIAH:08L:LFK3xLIT:KYANN COLET SUSHI LFK SKKIP LIT
+SID:KIAH:08L:LOA4xADM:WLLIS LOA DOLEY ADM
+SID:KIAH:08L:LOA4xBYP:WLLIS LOA CQY BYP
+SID:KIAH:08L:LOA4xFUZ:WLLIS LOA DOLEY FUZ
+SID:KIAH:08L:PSX2xFST:SKUBA PSX THX COT RSG FST
+SID:KIAH:08L:PSX2xSAT:SKUBA PSX THX SAT
+SID:KIAH:08L:BLTWY7xCRIED:DREMR LITLD BLTWY CRIED
 SID:KIAH:08L:BNDTO5xCRGER:SHAAK BNDTO CUZZZ ZUUUU PUFER PSTUR CRGER
 SID:KIAH:08L:BNDTO5xMNURE:SHAAK BNDTO FFOAM BOCCK MNURE
 SID:KIAH:08L:BNDTO5xSAT:SHAAK BNDTO FFOAM BOCCK MNURE MARCS SAT
@@ -7416,14 +7515,14 @@ SID:KIAH:08L:FLYZA5xMUSYL:BOTLL FLYZA PPALE VUH MUSYL
 SID:KIAH:08L:GUMBY3xGUSTI:DWSUN GUMBY JAAYE SPINY GUSTI
 SID:KIAH:08L:GUMBY3xLCH:DWSUN GUMBY HOURN BLING LCH
 SID:KIAH:08L:GUMBY3xLLA:DWSUN GUMBY YOKEM SBI LLA
-SID:KIAH:08L:HOODO6xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
-SID:KIAH:08L:HOODO6xCFOOD:VUH HOODO SBIRD CFOOD
-SID:KIAH:08L:HOODO6xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
-SID:KIAH:08L:HOODO6xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
-SID:KIAH:08L:HOODO6xSBIRD:VUH HOODO SBIRD
-SID:KIAH:08L:INDIE7xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
-SID:KIAH:08L:LURIC7xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
-SID:KIAH:08L:LURIC7xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
+SID:KIAH:08L:HOODO7xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
+SID:KIAH:08L:HOODO7xCFOOD:VUH HOODO SBIRD CFOOD
+SID:KIAH:08L:HOODO7xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
+SID:KIAH:08L:HOODO7xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
+SID:KIAH:08L:HOODO7xSBIRD:VUH HOODO SBIRD
+SID:KIAH:08L:INDIE8xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
+SID:KIAH:08L:LURIC8xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
+SID:KIAH:08L:LURIC8xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
 SID:KIAH:08L:MMUGS4xGUSTI:BOTLL MMUGS HHOPS JAAYE SPINY GUSTI
 SID:KIAH:08L:MMUGS4xLCH:BOTLL MMUGS MMALT HOURN BLING LCH
 SID:KIAH:08L:MMUGS4xLLA:BOTLL MMUGS GRAYN YOKEM SBI LLA
@@ -7436,27 +7535,27 @@ SID:KIAH:08L:RITAA6xNGP:BOTLL FLYZA WINEO RITAA RIIGG NGP
 SID:KIAH:08L:RITAA6xPSX:BOTLL FLYZA WINEO RITAA SKUBA PSX
 SID:KIAH:08L:RITAA6xWWREN:BOTLL FLYZA WINEO RITAA RIIGG WWREN
 SID:KIAH:08L:RITAA6xYOMOM:BOTLL FLYZA WINEO RITAA SKUBA PSX YOMOM
-SID:KIAH:08L:STRYA7xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
-SID:KIAH:08L:STRYA7xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
-SID:KIAH:08L:STYCK7xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
-SID:KIAH:08L:STYCK7xWTSON:BBYSE SPICR WLLIS STYCK WTSON
-SID:KIAH:08L:WYLSN7xGIFFA:WYLSN MONNT BUMCO GIFFA
-SID:KIAH:08L:WYLSN7xMAJKK:WYLSN MONNT KLJOY MAJKK
-SID:KIAH:08R:AEX2xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
-SID:KIAH:08R:AEX2xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
-SID:KIAH:08R:IDU9xCRP:SHYNR BOCCK IDU MARCS SAT CRP
-SID:KIAH:08R:IDU9xCWK:SHYNR BOCCK IDU CWK
-SID:KIAH:08R:IDU9xJCT:SHYNR BOCCK IDU JCT
-SID:KIAH:08R:IDU9xLRD:SHYNR BOCCK IDU MARCS SAT LRD
+SID:KIAH:08L:STRYA8xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
+SID:KIAH:08L:STRYA8xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
+SID:KIAH:08L:STYCK8xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
+SID:KIAH:08L:STYCK8xWTSON:BBYSE SPICR WLLIS STYCK WTSON
+SID:KIAH:08L:WYLSN8xGIFFA:WYLSN MONNT BUMCO GIFFA
+SID:KIAH:08L:WYLSN8xMAJKK:WYLSN MONNT KLJOY MAJKK
+SID:KIAH:08R:AEX3xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
+SID:KIAH:08R:AEX3xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
+SID:KIAH:08R:IDU1xCRP:SHYNR BOCCK IDU MARCS SAT CRP
+SID:KIAH:08R:IDU1xCWK:SHYNR BOCCK IDU CWK
+SID:KIAH:08R:IDU1xJCT:SHYNR BOCCK IDU JCT
+SID:KIAH:08R:IDU1xLRD:SHYNR BOCCK IDU MARCS SAT LRD
 SID:KIAH:08R:JCT1xJCT:CUZZZ ZUUUU PUFER SPURS JCT
 SID:KIAH:08R:LCH5xLSU:WEDRI HOURN LCH LSU
-SID:KIAH:08R:LFK2xLIT:KYANN COLET SUSHI LFK SKKIP LIT
-SID:KIAH:08R:LOA3xADM:WLLIS LOA DOLEY ADM
-SID:KIAH:08R:LOA3xBYP:WLLIS LOA CQY BYP
-SID:KIAH:08R:LOA3xFUZ:WLLIS LOA DOLEY FUZ
-SID:KIAH:08R:PSX1xFST:SKUBA PSX THX COT RSG FST
-SID:KIAH:08R:PSX1xSAT:SKUBA PSX THX SAT
-SID:KIAH:08R:BLTWY6xCRIED:DREMR LITLD BLTWY CRIED
+SID:KIAH:08R:LFK3xLIT:KYANN COLET SUSHI LFK SKKIP LIT
+SID:KIAH:08R:LOA4xADM:WLLIS LOA DOLEY ADM
+SID:KIAH:08R:LOA4xBYP:WLLIS LOA CQY BYP
+SID:KIAH:08R:LOA4xFUZ:WLLIS LOA DOLEY FUZ
+SID:KIAH:08R:PSX2xFST:SKUBA PSX THX COT RSG FST
+SID:KIAH:08R:PSX2xSAT:SKUBA PSX THX SAT
+SID:KIAH:08R:BLTWY7xCRIED:DREMR LITLD BLTWY CRIED
 SID:KIAH:08R:BNDTO5xCRGER:SHAAK BNDTO CUZZZ ZUUUU PUFER PSTUR CRGER
 SID:KIAH:08R:BNDTO5xMNURE:SHAAK BNDTO FFOAM BOCCK MNURE
 SID:KIAH:08R:BNDTO5xSAT:SHAAK BNDTO FFOAM BOCCK MNURE MARCS SAT
@@ -7467,14 +7566,14 @@ SID:KIAH:08R:FLYZA5xMUSYL:BOTLL FLYZA PPALE VUH MUSYL
 SID:KIAH:08R:GUMBY3xGUSTI:DWSUN GUMBY JAAYE SPINY GUSTI
 SID:KIAH:08R:GUMBY3xLCH:DWSUN GUMBY HOURN BLING LCH
 SID:KIAH:08R:GUMBY3xLLA:DWSUN GUMBY YOKEM SBI LLA
-SID:KIAH:08R:HOODO6xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
-SID:KIAH:08R:HOODO6xCFOOD:VUH HOODO SBIRD CFOOD
-SID:KIAH:08R:HOODO6xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
-SID:KIAH:08R:HOODO6xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
-SID:KIAH:08R:HOODO6xSBIRD:VUH HOODO SBIRD
-SID:KIAH:08R:INDIE7xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
-SID:KIAH:08R:LURIC7xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
-SID:KIAH:08R:LURIC7xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
+SID:KIAH:08R:HOODO7xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
+SID:KIAH:08R:HOODO7xCFOOD:VUH HOODO SBIRD CFOOD
+SID:KIAH:08R:HOODO7xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
+SID:KIAH:08R:HOODO7xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
+SID:KIAH:08R:HOODO7xSBIRD:VUH HOODO SBIRD
+SID:KIAH:08R:INDIE8xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
+SID:KIAH:08R:LURIC8xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
+SID:KIAH:08R:LURIC8xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
 SID:KIAH:08R:MMUGS4xGUSTI:BOTLL MMUGS HHOPS JAAYE SPINY GUSTI
 SID:KIAH:08R:MMUGS4xLCH:BOTLL MMUGS MMALT HOURN BLING LCH
 SID:KIAH:08R:MMUGS4xLLA:BOTLL MMUGS GRAYN YOKEM SBI LLA
@@ -7487,27 +7586,27 @@ SID:KIAH:08R:RITAA6xNGP:BOTLL FLYZA WINEO RITAA RIIGG NGP
 SID:KIAH:08R:RITAA6xPSX:BOTLL FLYZA WINEO RITAA SKUBA PSX
 SID:KIAH:08R:RITAA6xWWREN:BOTLL FLYZA WINEO RITAA RIIGG WWREN
 SID:KIAH:08R:RITAA6xYOMOM:BOTLL FLYZA WINEO RITAA SKUBA PSX YOMOM
-SID:KIAH:08R:STRYA7xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
-SID:KIAH:08R:STRYA7xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
-SID:KIAH:08R:STYCK7xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
-SID:KIAH:08R:STYCK7xWTSON:BBYSE SPICR WLLIS STYCK WTSON
-SID:KIAH:08R:WYLSN7xGIFFA:WYLSN MONNT BUMCO GIFFA
-SID:KIAH:08R:WYLSN7xMAJKK:WYLSN MONNT KLJOY MAJKK
-SID:KIAH:09:AEX2xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
-SID:KIAH:09:AEX2xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
-SID:KIAH:09:IDU9xCRP:SHYNR BOCCK IDU MARCS SAT CRP
-SID:KIAH:09:IDU9xCWK:SHYNR BOCCK IDU CWK
-SID:KIAH:09:IDU9xJCT:SHYNR BOCCK IDU JCT
-SID:KIAH:09:IDU9xLRD:SHYNR BOCCK IDU MARCS SAT LRD
+SID:KIAH:08R:STRYA8xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
+SID:KIAH:08R:STRYA8xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
+SID:KIAH:08R:STYCK8xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
+SID:KIAH:08R:STYCK8xWTSON:BBYSE SPICR WLLIS STYCK WTSON
+SID:KIAH:08R:WYLSN8xGIFFA:WYLSN MONNT BUMCO GIFFA
+SID:KIAH:08R:WYLSN8xMAJKK:WYLSN MONNT KLJOY MAJKK
+SID:KIAH:09:AEX3xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
+SID:KIAH:09:AEX3xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
+SID:KIAH:09:IDU1xCRP:SHYNR BOCCK IDU MARCS SAT CRP
+SID:KIAH:09:IDU1xCWK:SHYNR BOCCK IDU CWK
+SID:KIAH:09:IDU1xJCT:SHYNR BOCCK IDU JCT
+SID:KIAH:09:IDU1xLRD:SHYNR BOCCK IDU MARCS SAT LRD
 SID:KIAH:09:JCT1xJCT:CUZZZ ZUUUU PUFER SPURS JCT
 SID:KIAH:09:LCH5xLSU:WEDRI HOURN LCH LSU
-SID:KIAH:09:LFK2xLIT:KYANN COLET SUSHI LFK SKKIP LIT
-SID:KIAH:09:LOA3xADM:WLLIS LOA DOLEY ADM
-SID:KIAH:09:LOA3xBYP:WLLIS LOA CQY BYP
-SID:KIAH:09:LOA3xFUZ:WLLIS LOA DOLEY FUZ
-SID:KIAH:09:PSX1xFST:SKUBA PSX THX COT RSG FST
-SID:KIAH:09:PSX1xSAT:SKUBA PSX THX SAT
-SID:KIAH:09:BLTWY6xCRIED:DREMR LITLD BLTWY CRIED
+SID:KIAH:09:LFK3xLIT:KYANN COLET SUSHI LFK SKKIP LIT
+SID:KIAH:09:LOA4xADM:WLLIS LOA DOLEY ADM
+SID:KIAH:09:LOA4xBYP:WLLIS LOA CQY BYP
+SID:KIAH:09:LOA4xFUZ:WLLIS LOA DOLEY FUZ
+SID:KIAH:09:PSX2xFST:SKUBA PSX THX COT RSG FST
+SID:KIAH:09:PSX2xSAT:SKUBA PSX THX SAT
+SID:KIAH:09:BLTWY7xCRIED:DREMR LITLD BLTWY CRIED
 SID:KIAH:09:BNDTO5xCRGER:SHAAK BNDTO CUZZZ ZUUUU PUFER PSTUR CRGER
 SID:KIAH:09:BNDTO5xMNURE:SHAAK BNDTO FFOAM BOCCK MNURE
 SID:KIAH:09:BNDTO5xSAT:SHAAK BNDTO FFOAM BOCCK MNURE MARCS SAT
@@ -7518,14 +7617,14 @@ SID:KIAH:09:FLYZA5xMUSYL:BOTLL FLYZA PPALE VUH MUSYL
 SID:KIAH:09:GUMBY3xGUSTI:DWSUN GUMBY JAAYE SPINY GUSTI
 SID:KIAH:09:GUMBY3xLCH:DWSUN GUMBY HOURN BLING LCH
 SID:KIAH:09:GUMBY3xLLA:DWSUN GUMBY YOKEM SBI LLA
-SID:KIAH:09:HOODO6xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
-SID:KIAH:09:HOODO6xCFOOD:VUH HOODO SBIRD CFOOD
-SID:KIAH:09:HOODO6xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
-SID:KIAH:09:HOODO6xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
-SID:KIAH:09:HOODO6xSBIRD:VUH HOODO SBIRD
-SID:KIAH:09:INDIE7xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
-SID:KIAH:09:LURIC7xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
-SID:KIAH:09:LURIC7xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
+SID:KIAH:09:HOODO7xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
+SID:KIAH:09:HOODO7xCFOOD:VUH HOODO SBIRD CFOOD
+SID:KIAH:09:HOODO7xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
+SID:KIAH:09:HOODO7xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
+SID:KIAH:09:HOODO7xSBIRD:VUH HOODO SBIRD
+SID:KIAH:09:INDIE8xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
+SID:KIAH:09:LURIC8xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
+SID:KIAH:09:LURIC8xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
 SID:KIAH:09:MMUGS4xGUSTI:BOTLL MMUGS HHOPS JAAYE SPINY GUSTI
 SID:KIAH:09:MMUGS4xLCH:BOTLL MMUGS MMALT HOURN BLING LCH
 SID:KIAH:09:MMUGS4xLLA:BOTLL MMUGS GRAYN YOKEM SBI LLA
@@ -7538,27 +7637,27 @@ SID:KIAH:09:RITAA6xNGP:BOTLL FLYZA WINEO RITAA RIIGG NGP
 SID:KIAH:09:RITAA6xPSX:BOTLL FLYZA WINEO RITAA SKUBA PSX
 SID:KIAH:09:RITAA6xWWREN:BOTLL FLYZA WINEO RITAA RIIGG WWREN
 SID:KIAH:09:RITAA6xYOMOM:BOTLL FLYZA WINEO RITAA SKUBA PSX YOMOM
-SID:KIAH:09:STRYA7xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
-SID:KIAH:09:STRYA7xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
-SID:KIAH:09:STYCK7xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
-SID:KIAH:09:STYCK7xWTSON:BBYSE SPICR WLLIS STYCK WTSON
-SID:KIAH:09:WYLSN7xGIFFA:WYLSN MONNT BUMCO GIFFA
-SID:KIAH:09:WYLSN7xMAJKK:WYLSN MONNT KLJOY MAJKK
-SID:KIAH:15L:AEX2xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
-SID:KIAH:15L:AEX2xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
-SID:KIAH:15L:IDU9xCRP:SHYNR BOCCK IDU MARCS SAT CRP
-SID:KIAH:15L:IDU9xCWK:SHYNR BOCCK IDU CWK
-SID:KIAH:15L:IDU9xJCT:SHYNR BOCCK IDU JCT
-SID:KIAH:15L:IDU9xLRD:SHYNR BOCCK IDU MARCS SAT LRD
+SID:KIAH:09:STRYA8xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
+SID:KIAH:09:STRYA8xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
+SID:KIAH:09:STYCK8xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
+SID:KIAH:09:STYCK8xWTSON:BBYSE SPICR WLLIS STYCK WTSON
+SID:KIAH:09:WYLSN8xGIFFA:WYLSN MONNT BUMCO GIFFA
+SID:KIAH:09:WYLSN8xMAJKK:WYLSN MONNT KLJOY MAJKK
+SID:KIAH:15L:AEX3xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
+SID:KIAH:15L:AEX3xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
+SID:KIAH:15L:IDU1xCRP:SHYNR BOCCK IDU MARCS SAT CRP
+SID:KIAH:15L:IDU1xCWK:SHYNR BOCCK IDU CWK
+SID:KIAH:15L:IDU1xJCT:SHYNR BOCCK IDU JCT
+SID:KIAH:15L:IDU1xLRD:SHYNR BOCCK IDU MARCS SAT LRD
 SID:KIAH:15L:JCT1xJCT:CUZZZ ZUUUU PUFER SPURS JCT
 SID:KIAH:15L:LCH5xLSU:WEDRI HOURN LCH LSU
-SID:KIAH:15L:LFK2xLIT:KYANN COLET SUSHI LFK SKKIP LIT
-SID:KIAH:15L:LOA3xADM:WLLIS LOA DOLEY ADM
-SID:KIAH:15L:LOA3xBYP:WLLIS LOA CQY BYP
-SID:KIAH:15L:LOA3xFUZ:WLLIS LOA DOLEY FUZ
-SID:KIAH:15L:PSX1xFST:SKUBA PSX THX COT RSG FST
-SID:KIAH:15L:PSX1xSAT:SKUBA PSX THX SAT
-SID:KIAH:15L:BLTWY6xCRIED:DREMR LITLD BLTWY CRIED
+SID:KIAH:15L:LFK3xLIT:KYANN COLET SUSHI LFK SKKIP LIT
+SID:KIAH:15L:LOA4xADM:WLLIS LOA DOLEY ADM
+SID:KIAH:15L:LOA4xBYP:WLLIS LOA CQY BYP
+SID:KIAH:15L:LOA4xFUZ:WLLIS LOA DOLEY FUZ
+SID:KIAH:15L:PSX2xFST:SKUBA PSX THX COT RSG FST
+SID:KIAH:15L:PSX2xSAT:SKUBA PSX THX SAT
+SID:KIAH:15L:BLTWY7xCRIED:DREMR LITLD BLTWY CRIED
 SID:KIAH:15L:BNDTO5xCRGER:SHAAK BNDTO CUZZZ ZUUUU PUFER PSTUR CRGER
 SID:KIAH:15L:BNDTO5xMNURE:SHAAK BNDTO FFOAM BOCCK MNURE
 SID:KIAH:15L:BNDTO5xSAT:SHAAK BNDTO FFOAM BOCCK MNURE MARCS SAT
@@ -7569,14 +7668,14 @@ SID:KIAH:15L:FLYZA5xMUSYL:BOTLL FLYZA PPALE VUH MUSYL
 SID:KIAH:15L:GUMBY3xGUSTI:DWSUN GUMBY JAAYE SPINY GUSTI
 SID:KIAH:15L:GUMBY3xLCH:DWSUN GUMBY HOURN BLING LCH
 SID:KIAH:15L:GUMBY3xLLA:DWSUN GUMBY YOKEM SBI LLA
-SID:KIAH:15L:HOODO6xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
-SID:KIAH:15L:HOODO6xCFOOD:VUH HOODO SBIRD CFOOD
-SID:KIAH:15L:HOODO6xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
-SID:KIAH:15L:HOODO6xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
-SID:KIAH:15L:HOODO6xSBIRD:VUH HOODO SBIRD
-SID:KIAH:15L:INDIE7xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
-SID:KIAH:15L:LURIC7xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
-SID:KIAH:15L:LURIC7xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
+SID:KIAH:15L:HOODO7xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
+SID:KIAH:15L:HOODO7xCFOOD:VUH HOODO SBIRD CFOOD
+SID:KIAH:15L:HOODO7xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
+SID:KIAH:15L:HOODO7xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
+SID:KIAH:15L:HOODO7xSBIRD:VUH HOODO SBIRD
+SID:KIAH:15L:INDIE8xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
+SID:KIAH:15L:LURIC8xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
+SID:KIAH:15L:LURIC8xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
 SID:KIAH:15L:MMUGS4xGUSTI:BOTLL MMUGS HHOPS JAAYE SPINY GUSTI
 SID:KIAH:15L:MMUGS4xLCH:BOTLL MMUGS MMALT HOURN BLING LCH
 SID:KIAH:15L:MMUGS4xLLA:BOTLL MMUGS GRAYN YOKEM SBI LLA
@@ -7589,27 +7688,27 @@ SID:KIAH:15L:RITAA6xNGP:BOTLL FLYZA WINEO RITAA RIIGG NGP
 SID:KIAH:15L:RITAA6xPSX:BOTLL FLYZA WINEO RITAA SKUBA PSX
 SID:KIAH:15L:RITAA6xWWREN:BOTLL FLYZA WINEO RITAA RIIGG WWREN
 SID:KIAH:15L:RITAA6xYOMOM:BOTLL FLYZA WINEO RITAA SKUBA PSX YOMOM
-SID:KIAH:15L:STRYA7xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
-SID:KIAH:15L:STRYA7xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
-SID:KIAH:15L:STYCK7xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
-SID:KIAH:15L:STYCK7xWTSON:BBYSE SPICR WLLIS STYCK WTSON
-SID:KIAH:15L:WYLSN7xGIFFA:WYLSN MONNT BUMCO GIFFA
-SID:KIAH:15L:WYLSN7xMAJKK:WYLSN MONNT KLJOY MAJKK
-SID:KIAH:15R:AEX2xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
-SID:KIAH:15R:AEX2xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
-SID:KIAH:15R:IDU9xCRP:SHYNR BOCCK IDU MARCS SAT CRP
-SID:KIAH:15R:IDU9xCWK:SHYNR BOCCK IDU CWK
-SID:KIAH:15R:IDU9xJCT:SHYNR BOCCK IDU JCT
-SID:KIAH:15R:IDU9xLRD:SHYNR BOCCK IDU MARCS SAT LRD
+SID:KIAH:15L:STRYA8xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
+SID:KIAH:15L:STRYA8xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
+SID:KIAH:15L:STYCK8xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
+SID:KIAH:15L:STYCK8xWTSON:BBYSE SPICR WLLIS STYCK WTSON
+SID:KIAH:15L:WYLSN8xGIFFA:WYLSN MONNT BUMCO GIFFA
+SID:KIAH:15L:WYLSN8xMAJKK:WYLSN MONNT KLJOY MAJKK
+SID:KIAH:15R:AEX3xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
+SID:KIAH:15R:AEX3xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
+SID:KIAH:15R:IDU1xCRP:SHYNR BOCCK IDU MARCS SAT CRP
+SID:KIAH:15R:IDU1xCWK:SHYNR BOCCK IDU CWK
+SID:KIAH:15R:IDU1xJCT:SHYNR BOCCK IDU JCT
+SID:KIAH:15R:IDU1xLRD:SHYNR BOCCK IDU MARCS SAT LRD
 SID:KIAH:15R:JCT1xJCT:CUZZZ ZUUUU PUFER SPURS JCT
 SID:KIAH:15R:LCH5xLSU:WEDRI HOURN LCH LSU
-SID:KIAH:15R:LFK2xLIT:KYANN COLET SUSHI LFK SKKIP LIT
-SID:KIAH:15R:LOA3xADM:WLLIS LOA DOLEY ADM
-SID:KIAH:15R:LOA3xBYP:WLLIS LOA CQY BYP
-SID:KIAH:15R:LOA3xFUZ:WLLIS LOA DOLEY FUZ
-SID:KIAH:15R:PSX1xFST:SKUBA PSX THX COT RSG FST
-SID:KIAH:15R:PSX1xSAT:SKUBA PSX THX SAT
-SID:KIAH:15R:BLTWY6xCRIED:DREMR LITLD BLTWY CRIED
+SID:KIAH:15R:LFK3xLIT:KYANN COLET SUSHI LFK SKKIP LIT
+SID:KIAH:15R:LOA4xADM:WLLIS LOA DOLEY ADM
+SID:KIAH:15R:LOA4xBYP:WLLIS LOA CQY BYP
+SID:KIAH:15R:LOA4xFUZ:WLLIS LOA DOLEY FUZ
+SID:KIAH:15R:PSX2xFST:SKUBA PSX THX COT RSG FST
+SID:KIAH:15R:PSX2xSAT:SKUBA PSX THX SAT
+SID:KIAH:15R:BLTWY7xCRIED:DREMR LITLD BLTWY CRIED
 SID:KIAH:15R:BNDTO5xCRGER:SHAAK BNDTO CUZZZ ZUUUU PUFER PSTUR CRGER
 SID:KIAH:15R:BNDTO5xMNURE:SHAAK BNDTO FFOAM BOCCK MNURE
 SID:KIAH:15R:BNDTO5xSAT:SHAAK BNDTO FFOAM BOCCK MNURE MARCS SAT
@@ -7620,14 +7719,14 @@ SID:KIAH:15R:FLYZA5xMUSYL:BOTLL FLYZA PPALE VUH MUSYL
 SID:KIAH:15R:GUMBY3xGUSTI:DWSUN GUMBY JAAYE SPINY GUSTI
 SID:KIAH:15R:GUMBY3xLCH:DWSUN GUMBY HOURN BLING LCH
 SID:KIAH:15R:GUMBY3xLLA:DWSUN GUMBY YOKEM SBI LLA
-SID:KIAH:15R:HOODO6xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
-SID:KIAH:15R:HOODO6xCFOOD:VUH HOODO SBIRD CFOOD
-SID:KIAH:15R:HOODO6xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
-SID:KIAH:15R:HOODO6xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
-SID:KIAH:15R:HOODO6xSBIRD:VUH HOODO SBIRD
-SID:KIAH:15R:INDIE7xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
-SID:KIAH:15R:LURIC7xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
-SID:KIAH:15R:LURIC7xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
+SID:KIAH:15R:HOODO7xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
+SID:KIAH:15R:HOODO7xCFOOD:VUH HOODO SBIRD CFOOD
+SID:KIAH:15R:HOODO7xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
+SID:KIAH:15R:HOODO7xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
+SID:KIAH:15R:HOODO7xSBIRD:VUH HOODO SBIRD
+SID:KIAH:15R:INDIE8xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
+SID:KIAH:15R:LURIC8xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
+SID:KIAH:15R:LURIC8xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
 SID:KIAH:15R:MMUGS4xGUSTI:BOTLL MMUGS HHOPS JAAYE SPINY GUSTI
 SID:KIAH:15R:MMUGS4xLCH:BOTLL MMUGS MMALT HOURN BLING LCH
 SID:KIAH:15R:MMUGS4xLLA:BOTLL MMUGS GRAYN YOKEM SBI LLA
@@ -7640,27 +7739,27 @@ SID:KIAH:15R:RITAA6xNGP:BOTLL FLYZA WINEO RITAA RIIGG NGP
 SID:KIAH:15R:RITAA6xPSX:BOTLL FLYZA WINEO RITAA SKUBA PSX
 SID:KIAH:15R:RITAA6xWWREN:BOTLL FLYZA WINEO RITAA RIIGG WWREN
 SID:KIAH:15R:RITAA6xYOMOM:BOTLL FLYZA WINEO RITAA SKUBA PSX YOMOM
-SID:KIAH:15R:STRYA7xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
-SID:KIAH:15R:STRYA7xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
-SID:KIAH:15R:STYCK7xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
-SID:KIAH:15R:STYCK7xWTSON:BBYSE SPICR WLLIS STYCK WTSON
-SID:KIAH:15R:WYLSN7xGIFFA:WYLSN MONNT BUMCO GIFFA
-SID:KIAH:15R:WYLSN7xMAJKK:WYLSN MONNT KLJOY MAJKK
-SID:KIAH:26L:AEX2xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
-SID:KIAH:26L:AEX2xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
-SID:KIAH:26L:IDU9xCRP:SHYNR BOCCK IDU MARCS SAT CRP
-SID:KIAH:26L:IDU9xCWK:SHYNR BOCCK IDU CWK
-SID:KIAH:26L:IDU9xJCT:SHYNR BOCCK IDU JCT
-SID:KIAH:26L:IDU9xLRD:SHYNR BOCCK IDU MARCS SAT LRD
+SID:KIAH:15R:STRYA8xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
+SID:KIAH:15R:STRYA8xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
+SID:KIAH:15R:STYCK8xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
+SID:KIAH:15R:STYCK8xWTSON:BBYSE SPICR WLLIS STYCK WTSON
+SID:KIAH:15R:WYLSN8xGIFFA:WYLSN MONNT BUMCO GIFFA
+SID:KIAH:15R:WYLSN8xMAJKK:WYLSN MONNT KLJOY MAJKK
+SID:KIAH:26L:AEX3xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
+SID:KIAH:26L:AEX3xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
+SID:KIAH:26L:IDU1xCRP:SHYNR BOCCK IDU MARCS SAT CRP
+SID:KIAH:26L:IDU1xCWK:SHYNR BOCCK IDU CWK
+SID:KIAH:26L:IDU1xJCT:SHYNR BOCCK IDU JCT
+SID:KIAH:26L:IDU1xLRD:SHYNR BOCCK IDU MARCS SAT LRD
 SID:KIAH:26L:JCT1xJCT:CUZZZ ZUUUU PUFER SPURS JCT
 SID:KIAH:26L:LCH5xLSU:WEDRI HOURN LCH LSU
-SID:KIAH:26L:LFK2xLIT:KYANN COLET SUSHI LFK SKKIP LIT
-SID:KIAH:26L:LOA3xADM:WLLIS LOA DOLEY ADM
-SID:KIAH:26L:LOA3xBYP:WLLIS LOA CQY BYP
-SID:KIAH:26L:LOA3xFUZ:WLLIS LOA DOLEY FUZ
-SID:KIAH:26L:PSX1xFST:SKUBA PSX THX COT RSG FST
-SID:KIAH:26L:PSX1xSAT:SKUBA PSX THX SAT
-SID:KIAH:26L:BLTWY6xCRIED:DREMR LITLD BLTWY CRIED
+SID:KIAH:26L:LFK3xLIT:KYANN COLET SUSHI LFK SKKIP LIT
+SID:KIAH:26L:LOA4xADM:WLLIS LOA DOLEY ADM
+SID:KIAH:26L:LOA4xBYP:WLLIS LOA CQY BYP
+SID:KIAH:26L:LOA4xFUZ:WLLIS LOA DOLEY FUZ
+SID:KIAH:26L:PSX2xFST:SKUBA PSX THX COT RSG FST
+SID:KIAH:26L:PSX2xSAT:SKUBA PSX THX SAT
+SID:KIAH:26L:BLTWY7xCRIED:DREMR LITLD BLTWY CRIED
 SID:KIAH:26L:BNDTO5xCRGER:SHAAK BNDTO CUZZZ ZUUUU PUFER PSTUR CRGER
 SID:KIAH:26L:BNDTO5xMNURE:SHAAK BNDTO FFOAM BOCCK MNURE
 SID:KIAH:26L:BNDTO5xSAT:SHAAK BNDTO FFOAM BOCCK MNURE MARCS SAT
@@ -7671,14 +7770,14 @@ SID:KIAH:26L:FLYZA5xMUSYL:BOTLL FLYZA PPALE VUH MUSYL
 SID:KIAH:26L:GUMBY3xGUSTI:DWSUN GUMBY JAAYE SPINY GUSTI
 SID:KIAH:26L:GUMBY3xLCH:DWSUN GUMBY HOURN BLING LCH
 SID:KIAH:26L:GUMBY3xLLA:DWSUN GUMBY YOKEM SBI LLA
-SID:KIAH:26L:HOODO6xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
-SID:KIAH:26L:HOODO6xCFOOD:VUH HOODO SBIRD CFOOD
-SID:KIAH:26L:HOODO6xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
-SID:KIAH:26L:HOODO6xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
-SID:KIAH:26L:HOODO6xSBIRD:VUH HOODO SBIRD
-SID:KIAH:26L:INDIE7xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
-SID:KIAH:26L:LURIC7xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
-SID:KIAH:26L:LURIC7xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
+SID:KIAH:26L:HOODO7xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
+SID:KIAH:26L:HOODO7xCFOOD:VUH HOODO SBIRD CFOOD
+SID:KIAH:26L:HOODO7xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
+SID:KIAH:26L:HOODO7xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
+SID:KIAH:26L:HOODO7xSBIRD:VUH HOODO SBIRD
+SID:KIAH:26L:INDIE8xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
+SID:KIAH:26L:LURIC8xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
+SID:KIAH:26L:LURIC8xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
 SID:KIAH:26L:MMUGS4xGUSTI:BOTLL MMUGS HHOPS JAAYE SPINY GUSTI
 SID:KIAH:26L:MMUGS4xLCH:BOTLL MMUGS MMALT HOURN BLING LCH
 SID:KIAH:26L:MMUGS4xLLA:BOTLL MMUGS GRAYN YOKEM SBI LLA
@@ -7691,27 +7790,27 @@ SID:KIAH:26L:RITAA6xNGP:BOTLL FLYZA WINEO RITAA RIIGG NGP
 SID:KIAH:26L:RITAA6xPSX:BOTLL FLYZA WINEO RITAA SKUBA PSX
 SID:KIAH:26L:RITAA6xWWREN:BOTLL FLYZA WINEO RITAA RIIGG WWREN
 SID:KIAH:26L:RITAA6xYOMOM:BOTLL FLYZA WINEO RITAA SKUBA PSX YOMOM
-SID:KIAH:26L:STRYA7xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
-SID:KIAH:26L:STRYA7xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
-SID:KIAH:26L:STYCK7xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
-SID:KIAH:26L:STYCK7xWTSON:BBYSE SPICR WLLIS STYCK WTSON
-SID:KIAH:26L:WYLSN7xGIFFA:WYLSN MONNT BUMCO GIFFA
-SID:KIAH:26L:WYLSN7xMAJKK:WYLSN MONNT KLJOY MAJKK
-SID:KIAH:26R:AEX2xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
-SID:KIAH:26R:AEX2xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
-SID:KIAH:26R:IDU9xCRP:SHYNR BOCCK IDU MARCS SAT CRP
-SID:KIAH:26R:IDU9xCWK:SHYNR BOCCK IDU CWK
-SID:KIAH:26R:IDU9xJCT:SHYNR BOCCK IDU JCT
-SID:KIAH:26R:IDU9xLRD:SHYNR BOCCK IDU MARCS SAT LRD
+SID:KIAH:26L:STRYA8xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
+SID:KIAH:26L:STRYA8xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
+SID:KIAH:26L:STYCK8xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
+SID:KIAH:26L:STYCK8xWTSON:BBYSE SPICR WLLIS STYCK WTSON
+SID:KIAH:26L:WYLSN8xGIFFA:WYLSN MONNT BUMCO GIFFA
+SID:KIAH:26L:WYLSN8xMAJKK:WYLSN MONNT KLJOY MAJKK
+SID:KIAH:26R:AEX3xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
+SID:KIAH:26R:AEX3xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
+SID:KIAH:26R:IDU1xCRP:SHYNR BOCCK IDU MARCS SAT CRP
+SID:KIAH:26R:IDU1xCWK:SHYNR BOCCK IDU CWK
+SID:KIAH:26R:IDU1xJCT:SHYNR BOCCK IDU JCT
+SID:KIAH:26R:IDU1xLRD:SHYNR BOCCK IDU MARCS SAT LRD
 SID:KIAH:26R:JCT1xJCT:CUZZZ ZUUUU PUFER SPURS JCT
 SID:KIAH:26R:LCH5xLSU:WEDRI HOURN LCH LSU
-SID:KIAH:26R:LFK2xLIT:KYANN COLET SUSHI LFK SKKIP LIT
-SID:KIAH:26R:LOA3xADM:WLLIS LOA DOLEY ADM
-SID:KIAH:26R:LOA3xBYP:WLLIS LOA CQY BYP
-SID:KIAH:26R:LOA3xFUZ:WLLIS LOA DOLEY FUZ
-SID:KIAH:26R:PSX1xFST:SKUBA PSX THX COT RSG FST
-SID:KIAH:26R:PSX1xSAT:SKUBA PSX THX SAT
-SID:KIAH:26R:BLTWY6xCRIED:DREMR LITLD BLTWY CRIED
+SID:KIAH:26R:LFK3xLIT:KYANN COLET SUSHI LFK SKKIP LIT
+SID:KIAH:26R:LOA4xADM:WLLIS LOA DOLEY ADM
+SID:KIAH:26R:LOA4xBYP:WLLIS LOA CQY BYP
+SID:KIAH:26R:LOA4xFUZ:WLLIS LOA DOLEY FUZ
+SID:KIAH:26R:PSX2xFST:SKUBA PSX THX COT RSG FST
+SID:KIAH:26R:PSX2xSAT:SKUBA PSX THX SAT
+SID:KIAH:26R:BLTWY7xCRIED:DREMR LITLD BLTWY CRIED
 SID:KIAH:26R:BNDTO5xCRGER:SHAAK BNDTO CUZZZ ZUUUU PUFER PSTUR CRGER
 SID:KIAH:26R:BNDTO5xMNURE:SHAAK BNDTO FFOAM BOCCK MNURE
 SID:KIAH:26R:BNDTO5xSAT:SHAAK BNDTO FFOAM BOCCK MNURE MARCS SAT
@@ -7722,14 +7821,14 @@ SID:KIAH:26R:FLYZA5xMUSYL:BOTLL FLYZA PPALE VUH MUSYL
 SID:KIAH:26R:GUMBY3xGUSTI:DWSUN GUMBY JAAYE SPINY GUSTI
 SID:KIAH:26R:GUMBY3xLCH:DWSUN GUMBY HOURN BLING LCH
 SID:KIAH:26R:GUMBY3xLLA:DWSUN GUMBY YOKEM SBI LLA
-SID:KIAH:26R:HOODO6xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
-SID:KIAH:26R:HOODO6xCFOOD:VUH HOODO SBIRD CFOOD
-SID:KIAH:26R:HOODO6xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
-SID:KIAH:26R:HOODO6xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
-SID:KIAH:26R:HOODO6xSBIRD:VUH HOODO SBIRD
-SID:KIAH:26R:INDIE7xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
-SID:KIAH:26R:LURIC7xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
-SID:KIAH:26R:LURIC7xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
+SID:KIAH:26R:HOODO7xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
+SID:KIAH:26R:HOODO7xCFOOD:VUH HOODO SBIRD CFOOD
+SID:KIAH:26R:HOODO7xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
+SID:KIAH:26R:HOODO7xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
+SID:KIAH:26R:HOODO7xSBIRD:VUH HOODO SBIRD
+SID:KIAH:26R:INDIE8xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
+SID:KIAH:26R:LURIC8xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
+SID:KIAH:26R:LURIC8xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
 SID:KIAH:26R:MMUGS4xGUSTI:BOTLL MMUGS HHOPS JAAYE SPINY GUSTI
 SID:KIAH:26R:MMUGS4xLCH:BOTLL MMUGS MMALT HOURN BLING LCH
 SID:KIAH:26R:MMUGS4xLLA:BOTLL MMUGS GRAYN YOKEM SBI LLA
@@ -7742,27 +7841,27 @@ SID:KIAH:26R:RITAA6xNGP:BOTLL FLYZA WINEO RITAA RIIGG NGP
 SID:KIAH:26R:RITAA6xPSX:BOTLL FLYZA WINEO RITAA SKUBA PSX
 SID:KIAH:26R:RITAA6xWWREN:BOTLL FLYZA WINEO RITAA RIIGG WWREN
 SID:KIAH:26R:RITAA6xYOMOM:BOTLL FLYZA WINEO RITAA SKUBA PSX YOMOM
-SID:KIAH:26R:STRYA7xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
-SID:KIAH:26R:STRYA7xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
-SID:KIAH:26R:STYCK7xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
-SID:KIAH:26R:STYCK7xWTSON:BBYSE SPICR WLLIS STYCK WTSON
-SID:KIAH:26R:WYLSN7xGIFFA:WYLSN MONNT BUMCO GIFFA
-SID:KIAH:26R:WYLSN7xMAJKK:WYLSN MONNT KLJOY MAJKK
-SID:KIAH:27:AEX2xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
-SID:KIAH:27:AEX2xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
-SID:KIAH:27:IDU9xCRP:SHYNR BOCCK IDU MARCS SAT CRP
-SID:KIAH:27:IDU9xCWK:SHYNR BOCCK IDU CWK
-SID:KIAH:27:IDU9xJCT:SHYNR BOCCK IDU JCT
-SID:KIAH:27:IDU9xLRD:SHYNR BOCCK IDU MARCS SAT LRD
+SID:KIAH:26R:STRYA8xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
+SID:KIAH:26R:STRYA8xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
+SID:KIAH:26R:STYCK8xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
+SID:KIAH:26R:STYCK8xWTSON:BBYSE SPICR WLLIS STYCK WTSON
+SID:KIAH:26R:WYLSN8xGIFFA:WYLSN MONNT BUMCO GIFFA
+SID:KIAH:26R:WYLSN8xMAJKK:WYLSN MONNT KLJOY MAJKK
+SID:KIAH:27:AEX3xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
+SID:KIAH:27:AEX3xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
+SID:KIAH:27:IDU1xCRP:SHYNR BOCCK IDU MARCS SAT CRP
+SID:KIAH:27:IDU1xCWK:SHYNR BOCCK IDU CWK
+SID:KIAH:27:IDU1xJCT:SHYNR BOCCK IDU JCT
+SID:KIAH:27:IDU1xLRD:SHYNR BOCCK IDU MARCS SAT LRD
 SID:KIAH:27:JCT1xJCT:CUZZZ ZUUUU PUFER SPURS JCT
 SID:KIAH:27:LCH5xLSU:WEDRI HOURN LCH LSU
-SID:KIAH:27:LFK2xLIT:KYANN COLET SUSHI LFK SKKIP LIT
-SID:KIAH:27:LOA3xADM:WLLIS LOA DOLEY ADM
-SID:KIAH:27:LOA3xBYP:WLLIS LOA CQY BYP
-SID:KIAH:27:LOA3xFUZ:WLLIS LOA DOLEY FUZ
-SID:KIAH:27:PSX1xFST:SKUBA PSX THX COT RSG FST
-SID:KIAH:27:PSX1xSAT:SKUBA PSX THX SAT
-SID:KIAH:27:BLTWY6xCRIED:DREMR LITLD BLTWY CRIED
+SID:KIAH:27:LFK3xLIT:KYANN COLET SUSHI LFK SKKIP LIT
+SID:KIAH:27:LOA4xADM:WLLIS LOA DOLEY ADM
+SID:KIAH:27:LOA4xBYP:WLLIS LOA CQY BYP
+SID:KIAH:27:LOA4xFUZ:WLLIS LOA DOLEY FUZ
+SID:KIAH:27:PSX2xFST:SKUBA PSX THX COT RSG FST
+SID:KIAH:27:PSX2xSAT:SKUBA PSX THX SAT
+SID:KIAH:27:BLTWY7xCRIED:DREMR LITLD BLTWY CRIED
 SID:KIAH:27:BNDTO5xCRGER:SHAAK BNDTO CUZZZ ZUUUU PUFER PSTUR CRGER
 SID:KIAH:27:BNDTO5xMNURE:SHAAK BNDTO FFOAM BOCCK MNURE
 SID:KIAH:27:BNDTO5xSAT:SHAAK BNDTO FFOAM BOCCK MNURE MARCS SAT
@@ -7773,14 +7872,14 @@ SID:KIAH:27:FLYZA5xMUSYL:BOTLL FLYZA PPALE VUH MUSYL
 SID:KIAH:27:GUMBY3xGUSTI:DWSUN GUMBY JAAYE SPINY GUSTI
 SID:KIAH:27:GUMBY3xLCH:DWSUN GUMBY HOURN BLING LCH
 SID:KIAH:27:GUMBY3xLLA:DWSUN GUMBY YOKEM SBI LLA
-SID:KIAH:27:HOODO6xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
-SID:KIAH:27:HOODO6xCFOOD:VUH HOODO SBIRD CFOOD
-SID:KIAH:27:HOODO6xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
-SID:KIAH:27:HOODO6xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
-SID:KIAH:27:HOODO6xSBIRD:VUH HOODO SBIRD
-SID:KIAH:27:INDIE7xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
-SID:KIAH:27:LURIC7xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
-SID:KIAH:27:LURIC7xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
+SID:KIAH:27:HOODO7xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
+SID:KIAH:27:HOODO7xCFOOD:VUH HOODO SBIRD CFOOD
+SID:KIAH:27:HOODO7xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
+SID:KIAH:27:HOODO7xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
+SID:KIAH:27:HOODO7xSBIRD:VUH HOODO SBIRD
+SID:KIAH:27:INDIE8xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
+SID:KIAH:27:LURIC8xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
+SID:KIAH:27:LURIC8xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
 SID:KIAH:27:MMUGS4xGUSTI:BOTLL MMUGS HHOPS JAAYE SPINY GUSTI
 SID:KIAH:27:MMUGS4xLCH:BOTLL MMUGS MMALT HOURN BLING LCH
 SID:KIAH:27:MMUGS4xLLA:BOTLL MMUGS GRAYN YOKEM SBI LLA
@@ -7793,27 +7892,27 @@ SID:KIAH:27:RITAA6xNGP:BOTLL FLYZA WINEO RITAA RIIGG NGP
 SID:KIAH:27:RITAA6xPSX:BOTLL FLYZA WINEO RITAA SKUBA PSX
 SID:KIAH:27:RITAA6xWWREN:BOTLL FLYZA WINEO RITAA RIIGG WWREN
 SID:KIAH:27:RITAA6xYOMOM:BOTLL FLYZA WINEO RITAA SKUBA PSX YOMOM
-SID:KIAH:27:STRYA7xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
-SID:KIAH:27:STRYA7xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
-SID:KIAH:27:STYCK7xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
-SID:KIAH:27:STYCK7xWTSON:BBYSE SPICR WLLIS STYCK WTSON
-SID:KIAH:27:WYLSN7xGIFFA:WYLSN MONNT BUMCO GIFFA
-SID:KIAH:27:WYLSN7xMAJKK:WYLSN MONNT KLJOY MAJKK
-SID:KIAH:33L:AEX2xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
-SID:KIAH:33L:AEX2xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
-SID:KIAH:33L:IDU9xCRP:SHYNR BOCCK IDU MARCS SAT CRP
-SID:KIAH:33L:IDU9xCWK:SHYNR BOCCK IDU CWK
-SID:KIAH:33L:IDU9xJCT:SHYNR BOCCK IDU JCT
-SID:KIAH:33L:IDU9xLRD:SHYNR BOCCK IDU MARCS SAT LRD
+SID:KIAH:27:STRYA8xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
+SID:KIAH:27:STRYA8xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
+SID:KIAH:27:STYCK8xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
+SID:KIAH:27:STYCK8xWTSON:BBYSE SPICR WLLIS STYCK WTSON
+SID:KIAH:27:WYLSN8xGIFFA:WYLSN MONNT BUMCO GIFFA
+SID:KIAH:27:WYLSN8xMAJKK:WYLSN MONNT KLJOY MAJKK
+SID:KIAH:33L:AEX3xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
+SID:KIAH:33L:AEX3xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
+SID:KIAH:33L:IDU1xCRP:SHYNR BOCCK IDU MARCS SAT CRP
+SID:KIAH:33L:IDU1xCWK:SHYNR BOCCK IDU CWK
+SID:KIAH:33L:IDU1xJCT:SHYNR BOCCK IDU JCT
+SID:KIAH:33L:IDU1xLRD:SHYNR BOCCK IDU MARCS SAT LRD
 SID:KIAH:33L:JCT1xJCT:CUZZZ ZUUUU PUFER SPURS JCT
 SID:KIAH:33L:LCH5xLSU:WEDRI HOURN LCH LSU
-SID:KIAH:33L:LFK2xLIT:KYANN COLET SUSHI LFK SKKIP LIT
-SID:KIAH:33L:LOA3xADM:WLLIS LOA DOLEY ADM
-SID:KIAH:33L:LOA3xBYP:WLLIS LOA CQY BYP
-SID:KIAH:33L:LOA3xFUZ:WLLIS LOA DOLEY FUZ
-SID:KIAH:33L:PSX1xFST:SKUBA PSX THX COT RSG FST
-SID:KIAH:33L:PSX1xSAT:SKUBA PSX THX SAT
-SID:KIAH:33L:BLTWY6xCRIED:DREMR LITLD BLTWY CRIED
+SID:KIAH:33L:LFK3xLIT:KYANN COLET SUSHI LFK SKKIP LIT
+SID:KIAH:33L:LOA4xADM:WLLIS LOA DOLEY ADM
+SID:KIAH:33L:LOA4xBYP:WLLIS LOA CQY BYP
+SID:KIAH:33L:LOA4xFUZ:WLLIS LOA DOLEY FUZ
+SID:KIAH:33L:PSX2xFST:SKUBA PSX THX COT RSG FST
+SID:KIAH:33L:PSX2xSAT:SKUBA PSX THX SAT
+SID:KIAH:33L:BLTWY7xCRIED:DREMR LITLD BLTWY CRIED
 SID:KIAH:33L:BNDTO5xCRGER:SHAAK BNDTO CUZZZ ZUUUU PUFER PSTUR CRGER
 SID:KIAH:33L:BNDTO5xMNURE:SHAAK BNDTO FFOAM BOCCK MNURE
 SID:KIAH:33L:BNDTO5xSAT:SHAAK BNDTO FFOAM BOCCK MNURE MARCS SAT
@@ -7824,14 +7923,14 @@ SID:KIAH:33L:FLYZA5xMUSYL:BOTLL FLYZA PPALE VUH MUSYL
 SID:KIAH:33L:GUMBY3xGUSTI:DWSUN GUMBY JAAYE SPINY GUSTI
 SID:KIAH:33L:GUMBY3xLCH:DWSUN GUMBY HOURN BLING LCH
 SID:KIAH:33L:GUMBY3xLLA:DWSUN GUMBY YOKEM SBI LLA
-SID:KIAH:33L:HOODO6xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
-SID:KIAH:33L:HOODO6xCFOOD:VUH HOODO SBIRD CFOOD
-SID:KIAH:33L:HOODO6xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
-SID:KIAH:33L:HOODO6xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
-SID:KIAH:33L:HOODO6xSBIRD:VUH HOODO SBIRD
-SID:KIAH:33L:INDIE7xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
-SID:KIAH:33L:LURIC7xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
-SID:KIAH:33L:LURIC7xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
+SID:KIAH:33L:HOODO7xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
+SID:KIAH:33L:HOODO7xCFOOD:VUH HOODO SBIRD CFOOD
+SID:KIAH:33L:HOODO7xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
+SID:KIAH:33L:HOODO7xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
+SID:KIAH:33L:HOODO7xSBIRD:VUH HOODO SBIRD
+SID:KIAH:33L:INDIE8xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
+SID:KIAH:33L:LURIC8xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
+SID:KIAH:33L:LURIC8xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
 SID:KIAH:33L:MMUGS4xGUSTI:BOTLL MMUGS HHOPS JAAYE SPINY GUSTI
 SID:KIAH:33L:MMUGS4xLCH:BOTLL MMUGS MMALT HOURN BLING LCH
 SID:KIAH:33L:MMUGS4xLLA:BOTLL MMUGS GRAYN YOKEM SBI LLA
@@ -7844,27 +7943,27 @@ SID:KIAH:33L:RITAA6xNGP:BOTLL FLYZA WINEO RITAA RIIGG NGP
 SID:KIAH:33L:RITAA6xPSX:BOTLL FLYZA WINEO RITAA SKUBA PSX
 SID:KIAH:33L:RITAA6xWWREN:BOTLL FLYZA WINEO RITAA RIIGG WWREN
 SID:KIAH:33L:RITAA6xYOMOM:BOTLL FLYZA WINEO RITAA SKUBA PSX YOMOM
-SID:KIAH:33L:STRYA7xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
-SID:KIAH:33L:STRYA7xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
-SID:KIAH:33L:STYCK7xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
-SID:KIAH:33L:STYCK7xWTSON:BBYSE SPICR WLLIS STYCK WTSON
-SID:KIAH:33L:WYLSN7xGIFFA:WYLSN MONNT BUMCO GIFFA
-SID:KIAH:33L:WYLSN7xMAJKK:WYLSN MONNT KLJOY MAJKK
-SID:KIAH:33R:AEX2xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
-SID:KIAH:33R:AEX2xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
-SID:KIAH:33R:IDU9xCRP:SHYNR BOCCK IDU MARCS SAT CRP
-SID:KIAH:33R:IDU9xCWK:SHYNR BOCCK IDU CWK
-SID:KIAH:33R:IDU9xJCT:SHYNR BOCCK IDU JCT
-SID:KIAH:33R:IDU9xLRD:SHYNR BOCCK IDU MARCS SAT LRD
+SID:KIAH:33L:STRYA8xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
+SID:KIAH:33L:STRYA8xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
+SID:KIAH:33L:STYCK8xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
+SID:KIAH:33L:STYCK8xWTSON:BBYSE SPICR WLLIS STYCK WTSON
+SID:KIAH:33L:WYLSN8xGIFFA:WYLSN MONNT BUMCO GIFFA
+SID:KIAH:33L:WYLSN8xMAJKK:WYLSN MONNT KLJOY MAJKK
+SID:KIAH:33R:AEX3xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
+SID:KIAH:33R:AEX3xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
+SID:KIAH:33R:IDU1xCRP:SHYNR BOCCK IDU MARCS SAT CRP
+SID:KIAH:33R:IDU1xCWK:SHYNR BOCCK IDU CWK
+SID:KIAH:33R:IDU1xJCT:SHYNR BOCCK IDU JCT
+SID:KIAH:33R:IDU1xLRD:SHYNR BOCCK IDU MARCS SAT LRD
 SID:KIAH:33R:JCT1xJCT:CUZZZ ZUUUU PUFER SPURS JCT
 SID:KIAH:33R:LCH5xLSU:WEDRI HOURN LCH LSU
-SID:KIAH:33R:LFK2xLIT:KYANN COLET SUSHI LFK SKKIP LIT
-SID:KIAH:33R:LOA3xADM:WLLIS LOA DOLEY ADM
-SID:KIAH:33R:LOA3xBYP:WLLIS LOA CQY BYP
-SID:KIAH:33R:LOA3xFUZ:WLLIS LOA DOLEY FUZ
-SID:KIAH:33R:PSX1xFST:SKUBA PSX THX COT RSG FST
-SID:KIAH:33R:PSX1xSAT:SKUBA PSX THX SAT
-SID:KIAH:33R:BLTWY6xCRIED:DREMR LITLD BLTWY CRIED
+SID:KIAH:33R:LFK3xLIT:KYANN COLET SUSHI LFK SKKIP LIT
+SID:KIAH:33R:LOA4xADM:WLLIS LOA DOLEY ADM
+SID:KIAH:33R:LOA4xBYP:WLLIS LOA CQY BYP
+SID:KIAH:33R:LOA4xFUZ:WLLIS LOA DOLEY FUZ
+SID:KIAH:33R:PSX2xFST:SKUBA PSX THX COT RSG FST
+SID:KIAH:33R:PSX2xSAT:SKUBA PSX THX SAT
+SID:KIAH:33R:BLTWY7xCRIED:DREMR LITLD BLTWY CRIED
 SID:KIAH:33R:BNDTO5xCRGER:SHAAK BNDTO CUZZZ ZUUUU PUFER PSTUR CRGER
 SID:KIAH:33R:BNDTO5xMNURE:SHAAK BNDTO FFOAM BOCCK MNURE
 SID:KIAH:33R:BNDTO5xSAT:SHAAK BNDTO FFOAM BOCCK MNURE MARCS SAT
@@ -7875,14 +7974,14 @@ SID:KIAH:33R:FLYZA5xMUSYL:BOTLL FLYZA PPALE VUH MUSYL
 SID:KIAH:33R:GUMBY3xGUSTI:DWSUN GUMBY JAAYE SPINY GUSTI
 SID:KIAH:33R:GUMBY3xLCH:DWSUN GUMBY HOURN BLING LCH
 SID:KIAH:33R:GUMBY3xLLA:DWSUN GUMBY YOKEM SBI LLA
-SID:KIAH:33R:HOODO6xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
-SID:KIAH:33R:HOODO6xCFOOD:VUH HOODO SBIRD CFOOD
-SID:KIAH:33R:HOODO6xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
-SID:KIAH:33R:HOODO6xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
-SID:KIAH:33R:HOODO6xSBIRD:VUH HOODO SBIRD
-SID:KIAH:33R:INDIE7xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
-SID:KIAH:33R:LURIC7xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
-SID:KIAH:33R:LURIC7xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
+SID:KIAH:33R:HOODO7xBOWFN:VUH HOODO SBIRD CFOOD BOWFN
+SID:KIAH:33R:HOODO7xCFOOD:VUH HOODO SBIRD CFOOD
+SID:KIAH:33R:HOODO7xHRV:VUH HOODO SBIRD CFOOD BOWFN HRV
+SID:KIAH:33R:HOODO7xLEV:VUH HOODO SBIRD CFOOD BOWFN LEV
+SID:KIAH:33R:HOODO7xSBIRD:VUH HOODO SBIRD
+SID:KIAH:33R:INDIE8xTPAKK:RENNK COLET SUSHI WWELL INDIE TPAKK
+SID:KIAH:33R:LURIC8xHAWES:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC HAWES
+SID:KIAH:33R:LURIC8xORRTH:KNTKY PEETY DARTR MUSIQ CLAVN VELCO ENJOY LURIC ORRTH
 SID:KIAH:33R:MMUGS4xGUSTI:BOTLL MMUGS HHOPS JAAYE SPINY GUSTI
 SID:KIAH:33R:MMUGS4xLCH:BOTLL MMUGS MMALT HOURN BLING LCH
 SID:KIAH:33R:MMUGS4xLLA:BOTLL MMUGS GRAYN YOKEM SBI LLA
@@ -7895,12 +7994,12 @@ SID:KIAH:33R:RITAA6xNGP:BOTLL FLYZA WINEO RITAA RIIGG NGP
 SID:KIAH:33R:RITAA6xPSX:BOTLL FLYZA WINEO RITAA SKUBA PSX
 SID:KIAH:33R:RITAA6xWWREN:BOTLL FLYZA WINEO RITAA RIIGG WWREN
 SID:KIAH:33R:RITAA6xYOMOM:BOTLL FLYZA WINEO RITAA SKUBA PSX YOMOM
-SID:KIAH:33R:STRYA7xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
-SID:KIAH:33R:STRYA7xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
-SID:KIAH:33R:STYCK7xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
-SID:KIAH:33R:STYCK7xWTSON:BBYSE SPICR WLLIS STYCK WTSON
-SID:KIAH:33R:WYLSN7xGIFFA:WYLSN MONNT BUMCO GIFFA
-SID:KIAH:33R:WYLSN7xMAJKK:WYLSN MONNT KLJOY MAJKK
+SID:KIAH:33R:STRYA8xDPATY:KNTKY PEETY DARTR MUSIQ CLAVN STRYA DPATY
+SID:KIAH:33R:STRYA8xJBULL:KNTKY PEETY DARTR MUSIQ CLAVN STRYA JBULL
+SID:KIAH:33R:STYCK8xDOLEY:BBYSE SPICR WLLIS STYCK DOLEY
+SID:KIAH:33R:STYCK8xWTSON:BBYSE SPICR WLLIS STYCK WTSON
+SID:KIAH:33R:WYLSN8xGIFFA:WYLSN MONNT BUMCO GIFFA
+SID:KIAH:33R:WYLSN8xMAJKK:WYLSN MONNT KLJOY MAJKK
 SID:KIWS:15:AEX2xCEW:RAECN DARTR MUSIQ VELCO COSGO AEX MCB CEW
 SID:KIWS:15:AEX2xMCB:RAECN DARTR MUSIQ VELCO COSGO AEX MCB
 SID:KIWS:15:IDU9xCRP:SHYNR BOCCK IDU MARCS SAT CRP
@@ -15032,9 +15131,9 @@ N029.59.00.999:W095.21.09.999:Group:WE
 N029.58.58.800:W095.21.08.400:Group:WF
 N029.58.56.599:W095.21.06.800:Group:WG
 N029.58.47.399:W095.21.06.999:Group:WG
-N029.58.38.000:W095.21.02.000:Group:WH
+N029.58.38.000:W095.21.02.000:Group:X
 N029.58.35.860:W095.20.54.579:Group:WH
-N029.58.28.800:W095.20.56.400:Group:WJ
+N029.58.28.800:W095.20.56.400:Group:X
 N029.58.19.600:W095.20.56.999:Group:WJ
 N029.58.21.000:W095.20.52.000:Group:WK
 N029.58.02.199:W095.20.40.300:Group:WL
@@ -15059,3 +15158,170 @@ N029.59.09.200:W095.21.42.200:Group:WW
 N029.59.12.300:W095.21.35.500:Group:WW
 N029.57.35.399:W095.20.24.400:Group:WZ
 
+[GROUND]
+;
+;13RKR
+;
+EXIT:13R:K:RIGHT:20
+COORD:N029.38.39.634:W095.16.39.714
+COORD:N029.38.39.399:W095.16.39.469
+COORD:N029.38.39.134:W095.16.39.192
+COORD:N029.38.38.951:W095.16.39.077
+COORD:N029.38.38.773:W095.16.39.051
+COORD:N029.38.38.514:W095.16.39.065
+COORD:N029.38.38.256:W095.16.39.198
+COORD:N029.38.38.066:W095.16.39.350
+COORD:N029.38.37.386:W095.16.39.899
+COORD:N029.38.36.213:W095.16.40.889
+COORD:N029.38.35.637:W095.16.41.349
+;
+;13RKL
+;
+EXIT:13R:K:LEFT:20
+COORD:N029.38.39.781:W095.16.39.797
+COORD:N029.38.39.567:W095.16.39.507
+COORD:N029.38.39.390:W095.16.39.297
+COORD:N029.38.39.268:W095.16.39.088
+COORD:N029.38.39.185:W095.16.38.829
+COORD:N029.38.39.189:W095.16.38.616
+COORD:N029.38.39.256:W095.16.38.377
+COORD:N029.38.39.373:W095.16.38.147
+COORD:N029.38.39.774:W095.16.37.695
+COORD:N029.38.40.412:W095.16.36.978
+COORD:N029.38.41.469:W095.16.35.827
+;
+;13RLR
+;
+EXIT:13R:L:RIGHT:20
+COORD:N029.38.31.970:W095.16.30.561
+COORD:N029.38.31.489:W095.16.29.995
+COORD:N029.38.31.084:W095.16.29.576
+COORD:N029.38.30.820:W095.16.29.387
+COORD:N029.38.30.635:W095.16.29.319
+COORD:N029.38.30.417:W095.16.29.318
+COORD:N029.38.30.230:W095.16.29.370
+COORD:N029.38.30.028:W095.16.29.503
+COORD:N029.38.29.710:W095.16.29.831
+COORD:N029.38.29.269:W095.16.30.335
+COORD:N029.38.28.841:W095.16.30.815
+COORD:N029.38.28.290:W095.16.31.397
+;
+;13RLL
+;
+EXIT:13R:L:LEFT:20
+COORD:N029.38.31.863:W095.16.30.394
+COORD:N029.38.31.301:W095.16.29.738
+COORD:N029.38.30.960:W095.16.29.182
+COORD:N029.38.30.935:W095.16.28.709
+COORD:N029.38.31.093:W095.16.28.292
+COORD:N029.38.31.437:W095.16.27.939
+COORD:N029.38.31.922:W095.16.27.412
+COORD:N029.38.33.358:W095.16.25.798
+;
+;13RQ
+;
+EXIT:13R:Q:RIGHT:30
+COORD:N029.38.23.287:W095.16.20.246
+COORD:N029.38.21.882:W095.16.18.633
+COORD:N029.38.21.038:W095.16.17.880
+COORD:N029.38.20.411:W095.16.17.698
+COORD:N029.38.19.635:W095.16.17.662
+COORD:N029.38.18.562:W095.16.17.658
+COORD:N029.38.17.280:W095.16.17.875
+COORD:N029.38.16.826:W095.16.17.923
+;
+;13RM3
+;
+EXIT:13R:M3:LEFT:30
+COORD:N029.38.23.904:W095.16.20.973
+COORD:N029.38.23.081:W095.16.19.858
+COORD:N029.38.22.489:W095.16.18.791
+COORD:N029.38.21.841:W095.16.17.427
+COORD:N029.38.21.324:W095.16.15.631
+COORD:N029.38.21.143:W095.16.14.330
+COORD:N029.38.21.182:W095.16.12.973
+COORD:N029.38.21.218:W095.16.11.478
+COORD:N029.38.21.178:W095.16.10.890
+;
+;13RN
+;
+EXIT:13R:N:RIGHT:20
+COORD:N029.38.12.600:W095.16.07.682
+COORD:N029.38.11.874:W095.16.07.115
+COORD:N029.38.11.343:W095.16.07.032
+COORD:N029.38.10.926:W095.16.07.109
+COORD:N029.38.10.603:W095.16.07.191
+COORD:N029.38.10.297:W095.16.07.382
+COORD:N029.38.09.929:W095.16.07.766
+COORD:N029.38.09.274:W095.16.08.543
+COORD:N029.38.09.090:W095.16.08.864
+COORD:N029.38.08.966:W095.16.09.421
+;
+;13RM
+;
+EXIT:13R:M:RIGHT:20
+COORD:N029.38.13.150:W095.16.08.241
+COORD:N029.38.12.508:W095.16.07.408
+COORD:N029.38.12.329:W095.16.06.800
+COORD:N029.38.12.182:W095.16.06.045
+COORD:N029.38.12.301:W095.16.05.355
+COORD:N029.38.12.579:W095.16.04.898
+COORD:N029.38.13.031:W095.16.04.361
+COORD:N029.38.13.660:W095.16.03.733
+COORD:N029.38.14.312:W095.16.03.387
+;
+;22J
+;
+EXIT:22:J:LEFT:20
+COORD:N029.38.39.072:W095.16.47.005
+COORD:N029.38.38.378:W095.16.47.817
+COORD:N029.38.37.764:W095.16.48.397
+COORD:N029.38.37.262:W095.16.48.580
+COORD:N029.38.36.806:W095.16.48.480
+COORD:N029.38.36.328:W095.16.47.981
+COORD:N029.38.35.677:W095.16.47.227
+COORD:N029.38.34.007:W095.16.45.243
+;
+;22H2
+;
+EXIT:22:H2:RIGHT:30
+COORD:N029.38.39.511:W095.16.46.643
+COORD:N029.38.39.014:W095.16.47.270
+COORD:N029.38.38.486:W095.16.47.947
+COORD:N029.38.37.596:W095.16.49.283
+COORD:N029.38.37.051:W095.16.50.252
+COORD:N029.38.36.441:W095.16.51.739
+COORD:N029.38.36.006:W095.16.53.161
+COORD:N029.38.35.766:W095.16.54.569
+COORD:N029.38.35.756:W095.16.55.692
+COORD:N029.38.35.923:W095.16.57.078
+COORD:N029.38.36.120:W095.16.57.680
+COORD:N029.38.36.483:W095.16.58.274
+;
+;22GR
+;
+EXIT:22:G:RIGHT:20
+COORD:N029.38.24.903:W095.17.02.763
+COORD:N029.38.24.101:W095.17.03.637
+COORD:N029.38.23.580:W095.17.04.340
+COORD:N029.38.23.511:W095.17.05.193
+COORD:N029.38.23.682:W095.17.05.975
+COORD:N029.38.23.953:W095.17.06.608
+COORD:N029.38.24.249:W095.17.06.942
+COORD:N029.38.24.765:W095.17.07.309
+COORD:N029.38.25.436:W095.17.07.497
+COORD:N029.38.26.128:W095.17.07.496
+;
+;22K1
+;
+EXIT:22:K1:LEFT:20
+COORD:N029.38.25.323:W095.17.02.254
+COORD:N029.38.24.623:W095.17.02.981
+COORD:N029.38.24.243:W095.17.03.248
+COORD:N029.38.23.837:W095.17.03.504
+COORD:N029.38.23.311:W095.17.03.609
+COORD:N029.38.22.796:W095.17.03.561
+COORD:N029.38.21.938:W095.17.03.123
+COORD:N029.38.21.486:W095.17.02.584
+COORD:N029.38.20.923:W095.17.01.911
+COORD:N029.38.19.308:W095.16.59.976
