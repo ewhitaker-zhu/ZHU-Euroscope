@@ -1,5 +1,5 @@
 # ZHU-Euroscope
-Hi! This is the ZHU (Houston ARTCC) Euroscope File. Update numbers should be marked as 1.X.XX With the X's marking date (The current version is 1.5.28a).
+Hi! This is the ZHU (Houston ARTCC) Euroscope File. Update numbers should be marked as 1.X.XX With the X's marking date (The current version is 1.11.19).
 
 # Important Notes:
   This file is still in Alpha (Represented by the 1 in the Version Number) and should be treated as such. Additionally, known issues should either be sent to (ewhitaker@zhuartcc.org) and may be CC'd to (afe@zhuartcc.org) or a pull request can be submitted here to the main branch to send a fix.
