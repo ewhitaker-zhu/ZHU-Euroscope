@@ -4,8 +4,7 @@ Hi! This is the ZHU (Houston ARTCC) Euroscope File. Update numbers should be mar
 # Important Notes:
   This file is still in Alpha (Represented by the 1 in the Version Number) and should be treated as such. Additionally, known issues should either be sent to (ewhitaker@zhuartcc.org) and may be CC'd to (afe@zhuartcc.org) or a pull request can be submitted here to the main branch to send a fix.
 
-  Sector File updates may be published outside of the ES file. If this occurs, a Sector File Test should be done by the user and if an issue is found, let someone know so that it  can be priortised. Otherwise, the Euroscope files may not include the newest .sct2 file.
-This also applies to the alias file. This can be updated manually under zhu/Alias/ZHU.txt Upload the new alias and rename it to ZHU.txt .
+Alias files may be updated on the ZHU Website. This can be updated manually under zhu/Alias/ZHU.txt Upload the new alias and rename it to ZHU.txt .
 
 
 # Plugins Used:
